@@ -38,12 +38,12 @@ Update this table only after implementation and testing.
 ## Architecture (proposed)
 
 ```text
-Frontend — Elena
+Frontend — Developer 1 (proposed workstream)
   Medication entry → Review → Results / references
                     ↕
            REST / OpenAPI contract
                     ↕
-Backend — Kunal (Python/FastAPI proposed)
+Backend — Developer 2 (proposed workstream; Python/FastAPI)
   Validation → Drug-name normalization
   Evidence retrieval → RAG → Structured explanations
                     ↕
@@ -54,23 +54,23 @@ Backend — Kunal (Python/FastAPI proposed)
 
 The exact models, embedding strategy, vector store, data sources, and Nebius configuration are still being evaluated. See [Technical plan](docs/TECHNICAL_PLAN.md).
 
-## Team responsibilities
+## Proposed development workstreams
 
-| Area | Owner | Deliverable |
+The roles below organize **planned work**, not team membership, authorship, contributions, or commitments by any individual. Both workstreams may be completed by a single developer. No contributor is assigned by this document.
+
+| Workstream | Planned scope | Deliverable |
 | --- | --- | --- |
-| Product vision, MVP priorities, UX flows | **Elena Dalboni da Rocha** | Defined user journey and acceptance criteria |
-| Figma, interface, frontend | **Elena** | Frontend supporting mock API and real API |
-| Model selection and Nebius/NVIDIA integration | **Kunal Verma** | Tested inference and model comparison |
-| Medical normalization, RAG, retrieval | **Kunal** | Evidence pipeline |
-| Interaction analysis, backend API, deployment | **Kunal** | Documented and tested API |
-| Integration, QA, demo | **Both** | Working end-to-end flow |
-| Storytelling, submission/video | **Elena**, with Kunal | Hackathon presentation |
+| **Developer 1 — Product & Frontend** | Product priorities, user journeys, UX/UI design, Figma, frontend implementation | Usable medication entry, review and results interface |
+| **Developer 2 — AI & Backend** | Model evaluation, Nebius/NVIDIA integration, drug-name normalization, retrieval/RAG, analysis API and backend deployment | Tested evidence pipeline and documented API |
+| **Integration & QA** | Connect frontend and backend, evaluate safety and edge cases, prepare demo | End-to-end MVP and submission materials |
+
+Workstream labels describe technical responsibilities only. Actual contributions should be established by code, design files, commits, pull requests, and other records of completed work.
 
 ## Development schedule
 
 **Planning targets, as of October 18, 2026.** Dates are not completion claims.
 
-| Date | Elena — frontend/product | Kunal — AI/backend | Joint milestone |
+| Date | Developer 1 — product/frontend | Developer 2 — AI/backend | Integration milestone |
 | --- | --- | --- | --- |
 | **Oct 18–20** | Finalize screens and MVP workflow | Propose NVIDIA model, data sources, Nebius architecture, API | Agree on response contract |
 | **Oct 21–23** | Build entry/results UI using mock JSON | Implement normalization, retrieval and `/api/analyze` | Representative analysis response |
@@ -82,15 +82,15 @@ The exact models, embedding strategy, vector store, data sources, and Nebius con
 ## Collaboration and Git workflow
 
 - `main` — stable, reviewed integration.
-- `feature/frontend` — Elena's branch (primarily `frontend/`).
-- `feature/ai-backend` — Kunal's branch (primarily `backend/`).
-- `docs/` — shared API and technical specifications; coordinate changes.
-- Agree on the response schema before implementing integration. Elena uses mock responses while Kunal implements backend.
+- `feature/frontend` — proposed frontend workstream (primarily `frontend/`).
+- `feature/ai-backend` — proposed AI/backend workstream (primarily `backend/`).
+- `docs/` — API and technical specifications; coordinate changes as needed.
+- Define the response schema before integration. Frontend development may use mock responses until the backend is ready.
 - Use pull requests to merge into `main`. Never commit secrets, tokens, or patient data.
 
 ## Design, demo and submission links
 
-- **Figma:** _Link will be added by Elena_
+- **Figma:** _Link pending_
 - **Live demo:** _Pending deployment_
 - **YouTube demo:** _Pending_
 - **Devpost submission:** _Pending_
@@ -99,8 +99,8 @@ The exact models, embedding strategy, vector store, data sources, and Nebius con
 
 ```text
 medguide/
-├── frontend/                 # Elena's UI
-├── backend/                  # Kunal's API, retrieval and AI
+├── frontend/                 # UI workstream
+├── backend/                  # API, retrieval and AI workstream
 ├── docs/
 │   ├── API_CONTRACT.md
 │   ├── TECHNICAL_PLAN.md
