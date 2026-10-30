@@ -56,9 +56,14 @@ metadata was selected from official source interfaces on 2026-10-26. Tests never
 The competition profile uses `nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B` through Nebius Token Factory.
 Authenticated local and production calls have completed. `NEBIUS_API_KEY`, `NEBIUS_BASE_URL`, and
 `NEBIUS_MODEL_ID` remain server-side; the adapter fails explicitly and never relabels a fallback as
-Nebius. No CUDA benchmark, public repository, video, or Devpost submission is claimed.
+Nebius. No CUDA benchmark is claimed.
 
-Public demo: https://medguide-orcin.vercel.app/evidence-lens
+## Public project links
+
+- Live demo: https://medguide-orcin.vercel.app/evidence-lens
+- Devpost: https://devpost.com/software/medguide-ai-medication-supplement-intelligence
+- Demo video: https://youtu.be/zyctKYUrL9U?si=583ddMtDRrbLeXQB
+- Source code: https://github.com/enterlina/medguide
 
 The design reimplements small patterns identified by the supplied static FilmScope audit. The
 notebooks, datasets, checkpoints, and lockfiles were not present and were not copied or executed.
