@@ -40,6 +40,16 @@ const publicationPath = path.join(process.cwd(), "medguide-evidence-engine/data/
 const entityCatalogPath = path.join(process.cwd(), "medguide-evidence-engine/data/catalog/entities.json");
 const catalogPublicationPath = path.join(process.cwd(), "medguide-evidence-engine/data/catalog/discovery/pubmed_recent.json");
 const catalogLinkPath = path.join(process.cwd(), "medguide-evidence-engine/data/catalog/discovery/entity_publication_links.json");
+const additionalCatalogLayers = [
+  {
+    publications: path.join(process.cwd(), "medguide-evidence-engine/data/catalog/meps_500/pubmed/pubmed_recent.json"),
+    links: path.join(process.cwd(), "medguide-evidence-engine/data/catalog/meps_500/pubmed/entity_publication_links.json"),
+  },
+  {
+    publications: path.join(process.cwd(), "medguide-evidence-engine/data/products/us_pharmacy_500/pubmed_discovery/pubmed_recent.json"),
+    links: path.join(process.cwd(), "medguide-evidence-engine/data/products/us_pharmacy_500/pubmed_discovery/entity_publication_links.json"),
+  },
+];
 const aiScreeningPath = path.join(process.cwd(), "medguide-evidence-engine/artifacts/evidence-review/openai_screening_v2.jsonl");
 const stopWords = new Set(["a", "an", "and", "are", "can", "does", "for", "help", "how", "is", "it", "me", "of", "or", "the", "to", "what", "with"]);
 const outcomePatterns: Array<[RegExp, string]> = [
@@ -51,6 +61,7 @@ const outcomePatterns: Array<[RegExp, string]> = [
 
 function normalize(value: string) { return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim(); }
 function tokens(value: string) { return normalize(value).split(/\s+/).filter((token) => token.length > 1 && !stopWords.has(token)); }
+function isPublicSuggestion(value: string) { return /[a-z]{3}/i.test(value); }
 function outcomeTags(value: string) { return outcomePatterns.filter(([pattern]) => pattern.test(value)).map(([, label]) => label); }
 function outcomeTerms(value: string) {
   const terms: string[] = [];
@@ -116,6 +127,28 @@ async function readJsonLines<T>(filePath: string): Promise<T[]> {
   return value.split(/\r?\n/).filter(Boolean).map((line) => JSON.parse(line) as T);
 }
 
+async function readJsonOrEmpty<T>(filePath: string): Promise<T[]> {
+  try {
+    return JSON.parse(await readFile(filePath, "utf8")) as T[];
+  } catch {
+    return [];
+  }
+}
+
+function uniquePublications(layers: CatalogPublication[][]) {
+  const publications = new Map<string, CatalogPublication>();
+  for (const publication of layers.flat()) {
+    const key = String(publication.pmid);
+    const current = publications.get(key);
+    if (!current || (publication.abstract?.length ?? 0) > (current.abstract?.length ?? 0)) publications.set(key, publication);
+  }
+  return [...publications.values()];
+}
+
+function uniqueLinks(layers: CatalogLink[][]) {
+  return [...new Map(layers.flat().map((link) => [`${link.entity_id}:${link.pmid}`, link])).values()];
+}
+
 async function fetchJson<T>(url: string): Promise<T | null> {
   try {
     const response = await fetch(url, { signal: AbortSignal.timeout(2500), next: { revalidate: 86_400 } });
@@ -136,18 +169,33 @@ async function openAlexMetrics(pmids: string[]) {
 export async function GET(request: NextRequest) {
   const query = request.nextUrl.searchParams.get("q")?.trim() ?? "";
   if (query.length < 1) return NextResponse.json({ groups: [], suggestions: [], documentCount: 0 });
-  const [documents, publications, catalog, catalogPublications, catalogLinks, screenings] = await Promise.all([
+  const [documents, publications, catalog, primaryCatalogPublications, primaryCatalogLinks, screenings, ...additionalLayers] = await Promise.all([
     readFile(corpusPath, "utf8").then((value) => JSON.parse(value) as CorpusDocument[]),
     readFile(publicationPath, "utf8").then((value) => JSON.parse(value) as Array<{ pmid: string; journal?: string }>),
     readFile(entityCatalogPath, "utf8").then((value) => JSON.parse(value) as CatalogEntity[]),
     readFile(catalogPublicationPath, "utf8").then((value) => JSON.parse(value) as CatalogPublication[]),
     readFile(catalogLinkPath, "utf8").then((value) => JSON.parse(value) as CatalogLink[]),
     readJsonLines<AiScreening>(aiScreeningPath),
+    ...additionalCatalogLayers.flatMap((layer) => [
+      readJsonOrEmpty<CatalogPublication>(layer.publications),
+      readJsonOrEmpty<CatalogLink>(layer.links),
+    ]),
   ]);
+  const additionalPublicationLayers = additionalLayers.filter((_, index) => index % 2 === 0) as CatalogPublication[][];
+  const additionalLinkLayers = additionalLayers.filter((_, index) => index % 2 === 1) as CatalogLink[][];
+  const catalogPublications = uniquePublications([primaryCatalogPublications, ...additionalPublicationLayers]);
+  const catalogLinks = uniqueLinks([primaryCatalogLinks, ...additionalLinkLayers]);
   const journals = new Map(publications.map((publication) => [publication.pmid, publication.journal ?? null]));
   const supplementNames = [...new Set(documents.flatMap((document) => document.metadata.supplements ?? []))].sort();
   const normalizedQuery = normalize(query);
+  const linkedEntityIds = new Set(catalogLinks.map((link) => link.entity_id));
+  const hasEvidence = (entity: CatalogEntity) => {
+    if (linkedEntityIds.has(entity.entity_id)) return true;
+    const entityNames = [entity.display_name, entity.canonical_name, ...(entity.aliases ?? []), ...(entity.components ?? [])].map(normalize);
+    return supplementNames.some((supplement) => entityNames.some((name) => normalize(supplement) === name));
+  };
   const suggestions = catalog
+    .filter((entity) => isPublicSuggestion(entity.display_name) && hasEvidence(entity))
     .filter((entity) => [entity.display_name, entity.canonical_name, ...(entity.aliases ?? []), ...(entity.components ?? [])].some((name) => normalize(name).includes(normalizedQuery) || tokens(query).some((token) => normalize(name).includes(token))))
     .sort((a, b) => Number(normalize(a.display_name).startsWith(normalizedQuery)) * -1 - Number(normalize(b.display_name).startsWith(normalizedQuery)) * -1 || a.display_name.localeCompare(b.display_name))
     .map((entity) => entity.display_name)

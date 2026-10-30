@@ -54,6 +54,21 @@ def main() -> None:
     parser.add_argument("--email", default=configured_ncbi_email())
     parser.add_argument("--years", type=int, default=5, choices=range(1, 11))
     parser.add_argument("--per-year", type=int, default=2, choices=range(1, 6))
+    parser.add_argument(
+        "--single-range",
+        action="store_true",
+        help=(
+            "Search the complete year window once per entity instead of running one "
+            "request per calendar year. This is faster for broad catalog expansion."
+        ),
+    )
+    parser.add_argument(
+        "--per-entity",
+        type=int,
+        default=5,
+        choices=range(1, 21),
+        help="Maximum PubMed matches per entity when --single-range is used.",
+    )
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument(
         "--limit-entities",
@@ -65,7 +80,13 @@ def main() -> None:
 
     entities = json.loads(args.catalog.read_text(encoding="utf-8"))
     existing = json.loads(args.existing_links.read_text(encoding="utf-8"))
-    selected = select_new_entities(entities, existing)
+    existing_output_links = []
+    existing_links_path = args.output / "entity_publication_links.json"
+    if existing_links_path.exists():
+        existing_output_links = json.loads(existing_links_path.read_text(encoding="utf-8"))
+    # A resumed discovery run must not spend network calls on entities already
+    # persisted by an earlier batch.
+    selected = select_new_entities(entities, [*existing, *existing_output_links])
     if args.offset_entities < 0:
         raise ValueError("--offset-entities must be non-negative")
     selected = selected[args.offset_entities :]
@@ -75,6 +96,8 @@ def main() -> None:
         selected = selected[: args.limit_entities]
     current_year = datetime.now(UTC).year
     year_ranges = [
+        (f"{current_year - args.years + 1}/01/01", f"{current_year}/12/31")
+    ] if args.single_range else [
         (f"{year}/01/01", f"{year}/12/31")
         for year in range(current_year - args.years + 1, current_year + 1)
     ]
@@ -96,7 +119,9 @@ def main() -> None:
                     "entities": len(selected),
                     "years": [since[:4] for since, _ in year_ranges],
                     "searches": len(queries),
-                    "maximum_new_links": len(queries) * args.per_year,
+                    "maximum_new_links": len(queries) * (
+                        args.per_entity if args.single_range else args.per_year
+                    ),
                 },
                 indent=2,
             )
@@ -105,10 +130,6 @@ def main() -> None:
     if not args.email or "@" not in args.email:
         raise SystemExit("Set MEDGUIDE_NCBI_EMAIL or pass --email before online discovery.")
 
-    existing_output_links = []
-    existing_links_path = args.output / "entity_publication_links.json"
-    if existing_links_path.exists():
-        existing_output_links = json.loads(existing_links_path.read_text(encoding="utf-8"))
     links = list(existing_output_links)
     gaps = []
     search_errors = []
@@ -118,7 +139,11 @@ def main() -> None:
         pmids: list[str] = []
         for attempt in range(3):
             try:
-                pmids = discover_pmids(entity["query"], args.per_year, args.email)
+                pmids = discover_pmids(
+                    entity["query"],
+                    args.per_entity if args.single_range else args.per_year,
+                    args.email,
+                )
                 error = None
                 break
             except RuntimeError as exc:
@@ -203,8 +228,14 @@ def main() -> None:
         "unique_publications": len(corpus),
         "entities_without_results": len(gaps),
         "search_errors": len(search_errors),
-        "years": [since[:4] for since, _ in year_ranges],
+        "years": (
+            list(range(current_year - args.years + 1, current_year + 1))
+            if args.single_range
+            else [int(since[:4]) for since, _ in year_ranges]
+        ),
         "per_year": args.per_year,
+        "single_range": args.single_range,
+        "per_entity": args.per_entity if args.single_range else None,
         "existing_links_preserved": len(existing_output_links),
     }
     (args.output / "manifest.json").write_text(

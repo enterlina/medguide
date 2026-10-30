@@ -1,19 +1,271 @@
 [
   {
+    "entity_id": "ingredient:amebicides",
+    "name": "Amebicides"
+  },
+  {
+    "entity_id": "ingredient:amphetamine-aspartate",
+    "name": "Amphetamine Aspartate"
+  },
+  {
+    "entity_id": "ingredient:anticholinergic-antiemetics",
+    "name": "Anticholinergic Antiemetics"
+  },
+  {
+    "entity_id": "ingredient:anticholinergic-bronchodilators",
+    "name": "Anticholinergic Bronchodilators"
+  },
+  {
+    "entity_id": "ingredient:antineoplastic-hormones",
+    "name": "Antineoplastic Hormones"
+  },
+  {
+    "entity_id": "ingredient:atomxetine-hyrochloride",
+    "name": "Atomxetine Hyrochloride"
+  },
+  {
     "entity_id": "ingredient:bacitracin-zinc",
     "name": "Bacitracin Zinc"
+  },
+  {
+    "entity_id": "ingredient:brompheniramine",
+    "name": "Brompheniramine"
+  },
+  {
+    "entity_id": "ingredient:butenafine",
+    "name": "Butenafine"
+  },
+  {
+    "entity_id": "ingredient:carvedilol-phosphate",
+    "name": "Carvedilol Phosphate"
+  },
+  {
+    "entity_id": "ingredient:clopidogrel-bisulfate",
+    "name": "Clopidogrel Bisulfate"
+  },
+  {
+    "entity_id": "ingredient:coagulation-modifiers",
+    "name": "Coagulation Modifiers"
+  },
+  {
+    "entity_id": "ingredient:dabigatran-etexilate-mesylate",
+    "name": "Dabigatran Etexilate Mesylate"
+  },
+  {
+    "entity_id": "ingredient:dextroamphetamine-saccharate",
+    "name": "Dextroamphetamine Saccharate"
+  },
+  {
+    "entity_id": "ingredient:dextromethophan-hbr",
+    "name": "Dextromethophan Hbr"
   },
   {
     "entity_id": "ingredient:dextromethorphan-hbr",
     "name": "Dextromethorphan Hbr"
   },
   {
+    "entity_id": "ingredient:dextromethorphan-hydrobromide-tablet",
+    "name": "Dextromethorphan Hydrobromide Tablet"
+  },
+  {
+    "entity_id": "ingredient:dicyclomine",
+    "name": "Dicyclomine"
+  },
+  {
+    "entity_id": "ingredient:diphenoxylate",
+    "name": "Diphenoxylate"
+  },
+  {
+    "entity_id": "ingredient:docusate-sodium-sennosides",
+    "name": "Docusate Sodium Sennosides"
+  },
+  {
+    "entity_id": "ingredient:edoxaban-tosylate",
+    "name": "Edoxaban Tosylate"
+  },
+  {
+    "entity_id": "ingredient:electrolyte-replacement-solutions",
+    "name": "Electrolyte Replacement Solutions,"
+  },
+  {
+    "entity_id": "ingredient:estradiol-norethindrone-acetate-transdermal-system",
+    "name": "Estradiol Norethindrone Acetate Transdermal System"
+  },
+  {
+    "entity_id": "ingredient:ethynodiol",
+    "name": "Ethynodiol"
+  },
+  {
+    "entity_id": "ingredient:extended-phenytoin",
+    "name": "Extended Phenytoin"
+  },
+  {
+    "entity_id": "ingredient:famotitine",
+    "name": "Famotitine"
+  },
+  {
+    "entity_id": "ingredient:fibric-acid-derivatives",
+    "name": "Fibric Acid Derivatives"
+  },
+  {
+    "entity_id": "ingredient:fremanezumab-vfrm",
+    "name": "Fremanezumab Vfrm"
+  },
+  {
+    "entity_id": "ingredient:galcanezumab-gnlm",
+    "name": "Galcanezumab Gnlm"
+  },
+  {
+    "entity_id": "ingredient:group-i-antiarrhythmics",
+    "name": "Group I Antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:group-ii-antiarrhythmics",
+    "name": "Group Ii Antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:group-iii-antiarrhythmics",
+    "name": "Group Iii Antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:group-v-antiarrhythmics",
+    "name": "Group V Antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:insulin-glargin",
+    "name": "Insulin Glargin"
+  },
+  {
+    "entity_id": "ingredient:insulin-human",
+    "name": "Insulin Human"
+  },
+  {
+    "entity_id": "ingredient:insulin-isophane",
+    "name": "Insulin Isophane"
+  },
+  {
+    "entity_id": "ingredient:insulin-isophane-nph",
+    "name": "Insulin Isophane (Nph)"
+  },
+  {
+    "entity_id": "ingredient:insulin-lispro-aabc",
+    "name": "Insulin Lispro Aabc"
+  },
+  {
+    "entity_id": "ingredient:insulin-regular",
+    "name": "Insulin Regular"
+  },
+  {
+    "entity_id": "ingredient:levalbuterol",
+    "name": "Levalbuterol"
+  },
+  {
     "entity_id": "ingredient:levocetirizine-dihydrochloride",
     "name": "Levocetirizine Dihydrochloride"
   },
   {
+    "entity_id": "ingredient:loratadine-tablet",
+    "name": "Loratadine Tablet"
+  },
+  {
+    "entity_id": "ingredient:magnesium-amino-acids-chelate",
+    "name": "Magnesium Amino Acids Chelate"
+  },
+  {
+    "entity_id": "ingredient:magnesium-hydroxide-chewable-tablet",
+    "name": "Magnesium Hydroxide Chewable Tablet"
+  },
+  {
+    "entity_id": "ingredient:miscellaneous-antihypertensive-combinations",
+    "name": "Miscellaneous Antihypertensive Combinations"
+  },
+  {
+    "entity_id": "ingredient:miscellaneous-anxiolytics-sedatives-and-hypnot",
+    "name": "Miscellaneous Anxiolytics, Sedatives And Hypnot"
+  },
+  {
+    "entity_id": "ingredient:mouth-and-throat-products",
+    "name": "Mouth And Throat Products"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-with-fluoride",
+    "name": "Multivitamin With Fluoride"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-with-iron",
+    "name": "Multivitamin With Iron"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-with-minerals",
+    "name": "Multivitamin With Minerals"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-prenatal",
+    "name": "Multivitamin, Prenatal"
+  },
+  {
+    "entity_id": "ingredient:nabumetone",
+    "name": "Nabumetone"
+  },
+  {
+    "entity_id": "ingredient:naproxen-sodium-tablet",
+    "name": "Naproxen Sodium Tablet"
+  },
+  {
+    "entity_id": "ingredient:narcotic-analgesic-combinations",
+    "name": "Narcotic Analgesic Combinations"
+  },
+  {
+    "entity_id": "ingredient:nicotine-polacrilex",
+    "name": "Nicotine Polacrilex"
+  },
+  {
+    "entity_id": "ingredient:nitroglycerin-tablet",
+    "name": "Nitroglycerin Tablet"
+  },
+  {
+    "entity_id": "ingredient:olmesartan-medoxomil-hydrochlorothiazide",
+    "name": "Olmesartan Medoxomil Hydrochlorothiazide"
+  },
+  {
+    "entity_id": "ingredient:pancrelipase-amylase",
+    "name": "Pancrelipase Amylase"
+  },
+  {
+    "entity_id": "ingredient:pancrelipase-lipase",
+    "name": "Pancrelipase Lipase"
+  },
+  {
+    "entity_id": "ingredient:pancrelipase-protease",
+    "name": "Pancrelipase Protease"
+  },
+  {
+    "entity_id": "ingredient:pantoprazoel",
+    "name": "Pantoprazoel"
+  },
+  {
+    "entity_id": "ingredient:pe-free",
+    "name": "Pe Free"
+  },
+  {
+    "entity_id": "ingredient:penicillin-v-potassium",
+    "name": "Penicillin V Potassium"
+  },
+  {
+    "entity_id": "ingredient:phenothiazine-antiemetics",
+    "name": "Phenothiazine Antiemetics"
+  },
+  {
     "entity_id": "ingredient:phosphorated-carbohydrate",
     "name": "Phosphorated Carbohydrate"
+  },
+  {
+    "entity_id": "ingredient:polyethylene-glycol-3350-with-electrolytes",
+    "name": "Polyethylene Glycol 3350 With Electrolytes"
+  },
+  {
+    "entity_id": "ingredient:potassium-gluconate",
+    "name": "Potassium Gluconate"
   },
   {
     "entity_id": "ingredient:pramoxine",
@@ -24,7 +276,103 @@
     "name": "Pyrithione Zinc"
   },
   {
+    "entity_id": "ingredient:rizatriptan-benzoate",
+    "name": "Rizatriptan Benzoate"
+  },
+  {
+    "entity_id": "ingredient:saccharomyces-boulardii-lyo",
+    "name": "Saccharomyces Boulardii Lyo"
+  },
+  {
+    "entity_id": "ingredient:selective-immunosuppressants",
+    "name": "Selective Immunosuppressants"
+  },
+  {
+    "entity_id": "ingredient:senna-concentrate",
+    "name": "Senna Concentrate"
+  },
+  {
+    "entity_id": "ingredient:ssnri-antidepressants",
+    "name": "Ssnri Antidepressants"
+  },
+  {
+    "entity_id": "ingredient:tetrahydrozoline",
+    "name": "Tetrahydrozoline"
+  },
+  {
+    "entity_id": "ingredient:thiazide-and-thiazide",
+    "name": "Thiazide And Thiazide"
+  },
+  {
+    "entity_id": "ingredient:thyroid-desiccated",
+    "name": "Thyroid Desiccated"
+  },
+  {
     "entity_id": "ingredient:tolnaftate",
     "name": "Tolnaftate"
+  },
+  {
+    "entity_id": "supplement:apigenin",
+    "name": "Apigenin"
+  },
+  {
+    "entity_id": "supplement:glycine",
+    "name": "Glycine"
+  },
+  {
+    "entity_id": "supplement:apple-cider-vinegar-gummies",
+    "name": "Apple Cider Vinegar Gummies"
+  },
+  {
+    "entity_id": "supplement:creatine-gummies",
+    "name": "Creatine Gummies"
+  },
+  {
+    "entity_id": "supplement:clear-whey-protein",
+    "name": "Clear Whey Protein"
+  },
+  {
+    "entity_id": "supplement:beetroot-nitrates",
+    "name": "Beetroot Nitrates"
+  },
+  {
+    "entity_id": "supplement:electrolyte-powders",
+    "name": "Electrolyte Powders"
+  },
+  {
+    "entity_id": "supplement:marine-collagen",
+    "name": "Marine Collagen"
+  },
+  {
+    "entity_id": "supplement:ceramide-supplements",
+    "name": "Ceramide Supplements"
+  },
+  {
+    "entity_id": "supplement:biotin-gummies",
+    "name": "Biotin Gummies"
+  },
+  {
+    "entity_id": "supplement:silica-supplements",
+    "name": "Silica Supplements"
+  },
+  {
+    "entity_id": "supplement:menopause-probiotic-blends",
+    "name": "Menopause Probiotic Blends"
+  },
+  {
+    "entity_id": "supplement:vitamin-d3-k2",
+    "name": "Vitamin D3 + K2"
+  },
+  {
+    "entity_id": "supplement:quercetin-bromelain",
+    "name": "Quercetin + Bromelain"
+  },
+  {
+    "entity_id": "supplement:ergothioneine",
+    "name": "Ergothioneine"
+  },
+  {
+    "entity_id": "supplement:fadogia-agrestis",
+    "name": "Fadogia Agrestis"
   }
 ]
