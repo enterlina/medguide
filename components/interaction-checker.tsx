@@ -5,6 +5,7 @@ import {
   Clock3, ExternalLink, Link2, Loader2, Pin, PinOff, Search, ShieldAlert, Utensils, Wine, X,
 } from "lucide-react";
 import { FormEvent, useEffect, useMemo, useState } from "react";
+import { ProjectLinks } from "@/components/project-links";
 
 const PINNED_ITEMS_KEY = "medguide.interactions.pinned-items";
 
@@ -569,7 +570,7 @@ export function InteractionChecker() {
   }
 
   return <main className="mx-auto w-full max-w-[1440px] flex-1 px-5 py-5 sm:px-8 lg:px-10">
-    {medications.length === 0 ? <section className="grid min-h-[calc(100vh-170px)] place-items-center px-4 py-10 text-center"><div className="w-full max-w-[900px]"><ShieldAlert size={36} className="mx-auto text-slate-300" /><h1 className="mt-3 text-[24px] font-extrabold text-brand-navy">What would you like to check?</h1><div className="mx-auto mt-5 flex max-w-[760px] flex-wrap justify-center gap-2">{[{ icon: Link2, title: "Take together?", tone: "text-brand-coral" }, { icon: Clock3, title: "Separate by time?", tone: "text-violet-600" }, { icon: Utensils, title: "With food?", tone: "text-emerald-600" }, { icon: Wine, title: "With drinks?", tone: "text-sky-600" }].map(({ icon: Icon, title, tone }) => <span key={title} className="inline-flex items-center gap-2 rounded-pill bg-white px-4 py-2.5 text-[12px] font-bold text-brand-navy shadow-sm"><Icon size={16} className={tone} />{title}</span>)}</div><div className="mx-auto mt-7">{renderMedicationSearch()}</div></div></section> : <>
+    {medications.length === 0 ? <section className="grid min-h-[calc(100vh-170px)] place-items-center px-4 py-10 text-center"><div className="w-full max-w-[900px]"><ShieldAlert size={36} className="mx-auto text-slate-300" /><h1 className="mt-3 text-[24px] font-extrabold text-brand-navy">What would you like to check?</h1><div className="mx-auto mt-5 flex max-w-[760px] flex-wrap justify-center gap-2">{[{ icon: Link2, title: "Take together?", tone: "text-brand-coral" }, { icon: Clock3, title: "Separate by time?", tone: "text-violet-600" }, { icon: Utensils, title: "With food?", tone: "text-emerald-600" }, { icon: Wine, title: "With drinks?", tone: "text-sky-600" }].map(({ icon: Icon, title, tone }) => <span key={title} className="inline-flex items-center gap-2 rounded-pill bg-white px-4 py-2.5 text-[12px] font-bold text-brand-navy shadow-sm"><Icon size={16} className={tone} />{title}</span>)}</div><div className="mx-auto mt-7">{renderMedicationSearch()}</div><ProjectLinks className="mt-6" /></div></section> : <>
     <section className="rounded-[28px] bg-white p-3 shadow-card sm:p-4">
       {renderMedicationSearch()}
       <div className="mt-4 flex min-h-9 flex-wrap gap-2">{medications.map((medication) => {
