@@ -4,7 +4,12 @@ MedGuide is an evidence-grounded AI engineering project for exploring medication
 food, and drink interactions and for inspecting scientific studies about a selected ingredient.
 It is a research prototype, not a prescribing tool or a substitute for a clinician.
 
-**Live demo:** [medguide-orcin.vercel.app/evidence-lens](https://medguide-orcin.vercel.app/evidence-lens)
+## Project links
+
+- **Live demo:** https://medguide-orcin.vercel.app/evidence-lens
+- **Devpost hackathon project:** https://devpost.com/software/medguide-ai-medication-supplement-intelligence
+- **Demo video:** https://youtu.be/zyctKYUrL9U?si=583ddMtDRrbLeXQB
+- **GitHub repository:** https://github.com/enterlina/medguide
 
 ## Nebius x NVIDIA Global AI Hackathon
 
