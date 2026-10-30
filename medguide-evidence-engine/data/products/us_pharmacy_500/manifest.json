@@ -1,0 +1,9 @@
+{
+  "products": 500,
+  "otc": 200,
+  "prescription": 300,
+  "mapped_products": 497,
+  "needs_manual_mapping": 3,
+  "new_ingredient_candidates": 176,
+  "active_ingredients_after_merge": 601
+}

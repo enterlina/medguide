@@ -1,0 +1,44 @@
+{
+  "batch_id": "interaction-review-batch-001",
+  "database": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/data/interactions/interactions.sqlite3",
+  "read_only": true,
+  "review_status_changed": false,
+  "rule_count": 41,
+  "source_match_pass": 41,
+  "source_match_fail": 0,
+  "reviewer_group_distribution": {
+    "Beverages": 1,
+    "Drug\u2013Drug": 39,
+    "Food": 1
+  },
+  "raw_interaction_type_distribution": {
+    "drug_beverage": 1,
+    "drug_drug": 38,
+    "drug_food": 1,
+    "drug_supplement": 1
+  },
+  "interaction_status_distribution": {
+    "CAUTION": 30,
+    "MONITORING_REQUIRED": 7,
+    "CONTRAINDICATED": 3,
+    "AVOID_COMBINATION": 1
+  },
+  "potentially_serious_count": 4,
+  "duplicate_group_count": 5,
+  "duplicate_rule_count": 10,
+  "problem_counts": {
+    "Severity not extracted": 41,
+    "Clinical effect and recommended action are identical": 41
+  },
+  "outputs": {
+    "csv": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/artifacts/interactions/review_batch_001/interaction_review_batch_001.csv",
+    "groups": {
+      "Drug\u2013Drug": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/artifacts/interactions/review_batch_001/drug_drug.csv",
+      "Timing": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/artifacts/interactions/review_batch_001/timing.csv",
+      "Food": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/artifacts/interactions/review_batch_001/food.csv",
+      "Beverages": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/artifacts/interactions/review_batch_001/beverages.csv"
+    },
+    "potentially_serious": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/artifacts/interactions/review_batch_001/potentially_serious.csv",
+    "markdown_report": "/Users/elenadalbonidarocha/Documents/medguide/medguide_web/medguide-evidence-engine/artifacts/interactions/review_batch_001/machine_validation_report.md"
+  }
+}

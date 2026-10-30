@@ -1,0 +1,32 @@
+{
+  "run_status": "completed_requires_review",
+  "provider": "Nebius Token Factory",
+  "model_id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B",
+  "stage_role": "cited_research_synthesis",
+  "request_id": "7bd43bdd505176284c88de6bc1d8a332",
+  "reasoning_effort": "none",
+  "response_field": "reasoning",
+  "latency_seconds": 1.475361,
+  "usage": {
+    "prompt_tokens": 408,
+    "completion_tokens": 210,
+    "total_tokens": 618
+  },
+  "verification": {
+    "schema_valid": true,
+    "source_span_verified": true,
+    "human_reviewed": false,
+    "citation_ids_exist": true,
+    "semantic_review_note": "Core claims are source-linked; one cautious efficacy/safety conclusion is interpretive rather than explicitly stated in its cited passages. Qualified review remains required."
+  },
+  "answer": "The frozen corpus indicates that oral magnesium supplementation was tested in older adults, with one double-blind randomized trial showing no statistically significant difference in total sleep time between magnesium and placebo groups (P = 0.37) [2][1]. A systematic review of oral magnesium for insomnia in older adults identified three randomized trials involving 151 participants but concluded the evidence quality was low to very low [3]. The corpus also documents a separate study of magnesium L-threonate in adults with self-reported sleep problems, explicitly noting this form cannot be generalized to other magnesium salts [4]. Additionally, a clinical trial of magnesium gluconate in adults with diabetes and insomnia is registered but results are not publicly available in the frozen registry snapshot [5]. Limitations include the absence of reported elemental magnesium dosing details in the primary trial, preventing precise dose comparison, and the low-to-very-low evidence quality across studies, which precludes definitive conclusions about efficacy or safety [1][3]. No other limitations are explicitly stated in the supplied passages.",
+  "transmitted_contexts": [
+    {"index": 1, "characters": 235, "source": "PMID 23853635 participant/intervention passage"},
+    {"index": 2, "characters": 180, "source": "PMID 23853635 result passage"},
+    {"index": 3, "characters": 206, "source": "PMID 33865376 systematic-review passage"},
+    {"index": 4, "characters": 148, "source": "PMID 39252819 formulation passage"},
+    {"index": 5, "characters": 200, "source": "NCT04642313 registry-status passage"}
+  ],
+  "secrets_retained": false
+}
+

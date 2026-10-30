@@ -1,0 +1,126 @@
+entity_id,display_name,entity_type,category,official_rank,official_source,estimated_users,sample_count,match_status,match_method
+ingredient:acetaminophen,Acetaminophen,medication,Medication,8,MEPS HC-254A 2024,13742463,909,matched,normalized_generic_or_alias_phrase
+ingredient:amlodipine,Amlodipine,medication,Medication,4,MEPS HC-254A 2024,19058016,1402,matched,normalized_generic_or_alias_phrase
+ingredient:amoxicillin,Amoxicillin,medication,Medication,2,MEPS HC-254A 2024,25867481,1423,matched,normalized_generic_or_alias_phrase
+ingredient:apixaban,Apixaban,medication,Medication,17,MEPS HC-254A 2024,5352350,405,matched,normalized_generic_or_alias_phrase
+ingredient:aspirin,Aspirin,medication,Medication,18,MEPS HC-254A 2024,4836660,366,matched,normalized_generic_or_alias_phrase
+ingredient:atorvastatin,Atorvastatin,medication,Medication,1,MEPS HC-254A 2024,29693563,2163,matched,normalized_generic_or_alias_phrase
+ingredient:azithromycin,Azithromycin,medication,Medication,13,MEPS HC-254A 2024,9544944,533,matched,normalized_generic_or_alias_phrase
+ingredient:ciprofloxacin,Ciprofloxacin,medication,Medication,20,MEPS HC-254A 2024,3034725,183,matched,normalized_generic_or_alias_phrase
+ingredient:doxycycline,Doxycycline,medication,Medication,14,MEPS HC-254A 2024,6668932,422,matched,normalized_generic_or_alias_phrase
+ingredient:fluoxetine,Fluoxetine,medication,Medication,15,MEPS HC-254A 2024,6177252,351,matched,normalized_generic_or_alias_phrase
+ingredient:gabapentin,Gabapentin,medication,Medication,10,MEPS HC-254A 2024,11481839,842,matched,normalized_generic_or_alias_phrase
+ingredient:ibuprofen,Ibuprofen,medication,Medication,12,MEPS HC-254A 2024,10154860,581,matched,normalized_generic_or_alias_phrase
+ingredient:levothyroxine,Levothyroxine,medication,Medication,5,MEPS HC-254A 2024,18951597,1289,matched,normalized_generic_or_alias_phrase
+ingredient:lisinopril,Lisinopril,medication,Medication,6,MEPS HC-254A 2024,18884866,1369,matched,normalized_generic_or_alias_phrase
+ingredient:losartan,Losartan,medication,Medication,7,MEPS HC-254A 2024,17250382,1202,matched,normalized_generic_or_alias_phrase
+ingredient:metformin,Metformin,medication,Medication,3,MEPS HC-254A 2024,19618344,1332,matched,normalized_generic_or_alias_phrase
+ingredient:naproxen,Naproxen,medication,Medication,19,MEPS HC-254A 2024,3081577,189,matched,normalized_generic_or_alias_phrase
+ingredient:omeprazole,Omeprazole,medication,Medication,9,MEPS HC-254A 2024,13105287,915,matched,normalized_generic_or_alias_phrase
+ingredient:sertraline,Sertraline,medication,Medication,11,MEPS HC-254A 2024,10233569,595,matched,normalized_generic_or_alias_phrase
+ingredient:simvastatin,Simvastatin,medication,Medication,16,MEPS HC-254A 2024,5708410,423,matched,normalized_generic_or_alias_phrase
+ingredient:warfarin,Warfarin,medication,Medication,21,MEPS HC-254A 2024,1402463,107,matched,normalized_generic_or_alias_phrase
+supplement:nmn-nicotinamide-mononucleotide,NMN (Nicotinamide Mononucleotide),supplement,Longevity & Anti-Aging,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:nr-nicotinamide-riboside,NR (Nicotinamide Riboside),supplement,Longevity & Anti-Aging,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:nad,NAD+,supplement,Longevity & Anti-Aging,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:spermidine,Spermidine,supplement,Longevity & Anti-Aging,68,NHANES August 2021-August 2023 DSQIDS_L,24252,1,matched,normalized_product_name_phrase
+supplement:urolithin-a,Urolithin A,supplement,Longevity & Anti-Aging,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:ca-akg-calcium-alpha-ketoglutarate,Ca-AKG (Calcium Alpha-Ketoglutarate),supplement,Longevity & Anti-Aging,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:fisetin,Fisetin,supplement,Longevity & Anti-Aging,40,NHANES August 2021-August 2023 DSQIDS_L,135410,3,matched,normalized_product_name_phrase
+supplement:quercetin,Quercetin,supplement,Longevity & Anti-Aging,21,NHANES August 2021-August 2023 DSQIDS_L,1069326,25,matched,normalized_product_name_phrase
+supplement:resveratrol,Resveratrol,supplement,Longevity & Anti-Aging,24,NHANES August 2021-August 2023 DSQIDS_L,895870,22,matched,normalized_product_name_phrase
+supplement:taurine,Taurine,supplement,Longevity & Anti-Aging,45,NHANES August 2021-August 2023 DSQIDS_L,109733,2,matched,normalized_product_name_phrase
+supplement:lion-s-mane-mushroom,Lion's Mane Mushroom,supplement,Brain Health & Nootropics,34,NHANES August 2021-August 2023 DSQIDS_L,166380,5,matched,normalized_product_name_phrase
+supplement:l-theanine,L-Theanine,supplement,Brain Health & Nootropics,17,NHANES August 2021-August 2023 DSQIDS_L,1211748,21,matched,normalized_product_name_phrase
+supplement:citicoline-cdp-choline,Citicoline (CDP-Choline),supplement,Brain Health & Nootropics,36,NHANES August 2021-August 2023 DSQIDS_L,153218,3,matched,normalized_product_name_phrase
+supplement:alpha-gpc,Alpha-GPC,supplement,Brain Health & Nootropics,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:bacopa-monnieri,Bacopa Monnieri,supplement,Brain Health & Nootropics,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:rhodiola-rosea,Rhodiola Rosea,supplement,Brain Health & Nootropics,64,NHANES August 2021-August 2023 DSQIDS_L,30274,1,matched,normalized_product_name_phrase
+supplement:phosphatidylserine,Phosphatidylserine,supplement,Brain Health & Nootropics,44,NHANES August 2021-August 2023 DSQIDS_L,115845,3,matched,normalized_product_name_phrase
+supplement:acetyl-l-carnitine-alcar,Acetyl-L-Carnitine (ALCAR),supplement,Brain Health & Nootropics,50,NHANES August 2021-August 2023 DSQIDS_L,97859,4,matched,normalized_product_name_phrase
+supplement:l-tyrosine,L-Tyrosine,supplement,Brain Health & Nootropics,49,NHANES August 2021-August 2023 DSQIDS_L,99042,2,matched,normalized_product_name_phrase
+supplement:saffron-extract,Saffron Extract,supplement,Brain Health & Nootropics,65,NHANES August 2021-August 2023 DSQIDS_L,29023,1,matched,normalized_product_name_phrase
+supplement:magnesium-glycinate,Magnesium Glycinate,supplement,"Sleep, Stress & Mood",30,NHANES August 2021-August 2023 DSQIDS_L,298463,7,matched,normalized_product_name_phrase
+supplement:magnesium-l-threonate,Magnesium L-Threonate,supplement,"Sleep, Stress & Mood",38,NHANES August 2021-August 2023 DSQIDS_L,142441,3,matched,normalized_product_name_phrase
+supplement:ashwagandha-ksm-66,Ashwagandha (KSM-66),supplement,"Sleep, Stress & Mood",10,NHANES August 2021-August 2023 DSQIDS_L,3122159,44,matched,normalized_product_name_phrase
+supplement:apigenin,Apigenin,supplement,"Sleep, Stress & Mood",47,NHANES August 2021-August 2023 DSQIDS_L,105263,2,matched,normalized_product_name_phrase
+supplement:glycine,Glycine,supplement,"Sleep, Stress & Mood",63,NHANES August 2021-August 2023 DSQIDS_L,34304,1,matched,normalized_product_name_phrase
+supplement:gaba,GABA,supplement,"Sleep, Stress & Mood",,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:lemon-balm-extract,Lemon Balm Extract,supplement,"Sleep, Stress & Mood",27,NHANES August 2021-August 2023 DSQIDS_L,561487,10,matched,normalized_product_name_phrase
+supplement:tart-cherry-extract,Tart Cherry Extract,supplement,"Sleep, Stress & Mood",29,NHANES August 2021-August 2023 DSQIDS_L,346460,9,matched,normalized_product_name_phrase
+supplement:inositol,Inositol,supplement,"Sleep, Stress & Mood",25,NHANES August 2021-August 2023 DSQIDS_L,834102,16,matched,normalized_product_name_phrase
+supplement:melatonin,Melatonin,supplement,"Sleep, Stress & Mood",9,NHANES August 2021-August 2023 DSQIDS_L,6823185,144,matched,normalized_product_name_phrase
+supplement:akkermansia-muciniphila,Akkermansia muciniphila,supplement,Gut Health & Microbiome,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:clostridium-butyricum,Clostridium butyricum,supplement,Gut Health & Microbiome,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:lactobacillus-reuteri,Lactobacillus reuteri,supplement,Gut Health & Microbiome,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:bifidobacterium-longum,Bifidobacterium longum,supplement,Gut Health & Microbiome,66,NHANES August 2021-August 2023 DSQIDS_L,28362,1,matched,normalized_product_name_phrase
+supplement:saccharomyces-boulardii,Saccharomyces boulardii,supplement,Gut Health & Microbiome,61,NHANES August 2021-August 2023 DSQIDS_L,37467,2,matched,normalized_product_name_phrase
+supplement:bovine-colostrum,Bovine Colostrum,supplement,Gut Health & Microbiome,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:postbiotics,Postbiotics,supplement,Gut Health & Microbiome,70,NHANES August 2021-August 2023 DSQIDS_L,14760,1,matched,normalized_product_name_phrase
+supplement:butyrate-tributyrin,Butyrate / Tributyrin,supplement,Gut Health & Microbiome,55,NHANES August 2021-August 2023 DSQIDS_L,79541,1,matched,normalized_product_name_phrase
+supplement:phgg-partially-hydrolyzed-guar-gum,PHGG (Partially Hydrolyzed Guar Gum),supplement,Gut Health & Microbiome,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:psyllium-husk,Psyllium Husk,supplement,Gut Health & Microbiome,18,NHANES August 2021-August 2023 DSQIDS_L,1147054,19,matched,normalized_product_name_phrase
+supplement:berberine,Berberine,supplement,Metabolism & GLP-1,43,NHANES August 2021-August 2023 DSQIDS_L,125667,5,matched,normalized_product_name_phrase
+supplement:dihydroberberine,Dihydroberberine,supplement,Metabolism & GLP-1,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:chromium-picolinate,Chromium Picolinate,supplement,Metabolism & GLP-1,33,NHANES August 2021-August 2023 DSQIDS_L,208524,5,matched,normalized_product_name_phrase
+supplement:alpha-lipoic-acid,Alpha-Lipoic Acid,supplement,Metabolism & GLP-1,23,NHANES August 2021-August 2023 DSQIDS_L,940222,23,matched,normalized_product_name_phrase
+supplement:myo-inositol,Myo-Inositol,supplement,Metabolism & GLP-1,58,NHANES August 2021-August 2023 DSQIDS_L,62567,2,matched,normalized_product_name_phrase
+supplement:d-chiro-inositol,D-Chiro-Inositol,supplement,Metabolism & GLP-1,60,NHANES August 2021-August 2023 DSQIDS_L,38776,1,matched,normalized_product_name_phrase
+supplement:white-mulberry-leaf-extract,White Mulberry Leaf Extract,supplement,Metabolism & GLP-1,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:apple-cider-vinegar-gummies,Apple Cider Vinegar Gummies,supplement,Metabolism & GLP-1,14,NHANES August 2021-August 2023 DSQIDS_L,2008478,49,matched,normalized_product_name_phrase
+supplement:green-tea-egcg-extract,Green Tea EGCG Extract,supplement,Metabolism & GLP-1,26,NHANES August 2021-August 2023 DSQIDS_L,765707,17,matched,normalized_product_name_phrase
+supplement:glucomannan,Glucomannan,supplement,Metabolism & GLP-1,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:creatine-monohydrate,Creatine Monohydrate,supplement,"Fitness, Muscle & Recovery",16,NHANES August 2021-August 2023 DSQIDS_L,1551594,20,matched,normalized_product_name_phrase
+supplement:creatine-gummies,Creatine Gummies,supplement,"Fitness, Muscle & Recovery",15,NHANES August 2021-August 2023 DSQIDS_L,1773312,24,matched,normalized_product_name_phrase
+supplement:whey-protein-isolate,Whey Protein Isolate,supplement,"Fitness, Muscle & Recovery",,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:clear-whey-protein,Clear Whey Protein,supplement,"Fitness, Muscle & Recovery",35,NHANES August 2021-August 2023 DSQIDS_L,162654,2,matched,normalized_product_name_phrase
+supplement:essential-amino-acids-eaa,Essential Amino Acids (EAA),supplement,"Fitness, Muscle & Recovery",48,NHANES August 2021-August 2023 DSQIDS_L,103561,2,matched,normalized_product_name_phrase
+supplement:hmb,HMB,supplement,"Fitness, Muscle & Recovery",,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:beta-alanine,Beta-Alanine,supplement,"Fitness, Muscle & Recovery",37,NHANES August 2021-August 2023 DSQIDS_L,148527,3,matched,normalized_product_name_phrase
+supplement:l-citrulline,L-Citrulline,supplement,"Fitness, Muscle & Recovery",62,NHANES August 2021-August 2023 DSQIDS_L,35866,2,matched,normalized_product_name_phrase
+supplement:beetroot-nitrates,Beetroot Nitrates,supplement,"Fitness, Muscle & Recovery",46,NHANES August 2021-August 2023 DSQIDS_L,106022,1,matched,normalized_product_name_phrase
+supplement:electrolyte-powders,Electrolyte Powders,supplement,"Fitness, Muscle & Recovery",11,NHANES August 2021-August 2023 DSQIDS_L,2922375,60,matched,normalized_product_name_phrase
+supplement:collagen-peptides,Collagen Peptides,supplement,Beauty From Within,13,NHANES August 2021-August 2023 DSQIDS_L,2171053,47,matched,normalized_product_name_phrase
+supplement:marine-collagen,Marine Collagen,supplement,Beauty From Within,56,NHANES August 2021-August 2023 DSQIDS_L,66003,2,matched,normalized_product_name_phrase
+supplement:hyaluronic-acid-oral,Hyaluronic Acid (oral),supplement,Beauty From Within,20,NHANES August 2021-August 2023 DSQIDS_L,1092506,32,matched,normalized_product_name_phrase
+supplement:ceramide-supplements,Ceramide Supplements,supplement,Beauty From Within,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:astaxanthin,Astaxanthin,supplement,Beauty From Within,28,NHANES August 2021-August 2023 DSQIDS_L,409707,12,matched,normalized_product_name_phrase
+supplement:glutathione-oral,Glutathione (oral),supplement,Beauty From Within,52,NHANES August 2021-August 2023 DSQIDS_L,82237,2,matched,normalized_product_name_phrase
+supplement:liposomal-glutathione,Liposomal Glutathione,supplement,Beauty From Within,53,NHANES August 2021-August 2023 DSQIDS_L,82237,2,matched,normalized_product_name_phrase
+supplement:msm,MSM,supplement,Beauty From Within,54,NHANES August 2021-August 2023 DSQIDS_L,80695,2,matched,normalized_product_name_phrase
+supplement:biotin-gummies,Biotin Gummies,supplement,Beauty From Within,8,NHANES August 2021-August 2023 DSQIDS_L,10898868,256,matched,normalized_product_name_phrase
+supplement:silica-supplements,Silica Supplements,supplement,Beauty From Within,41,NHANES August 2021-August 2023 DSQIDS_L,129108,4,matched,normalized_product_name_phrase
+supplement:dim-diindolylmethane,DIM (Diindolylmethane),supplement,Women's Health & Hormones,69,NHANES August 2021-August 2023 DSQIDS_L,21955,1,matched,normalized_product_name_phrase
+supplement:vitex-agnus-castus,Vitex Agnus-Castus,supplement,Women's Health & Hormones,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:maca-root,Maca Root,supplement,Women's Health & Hormones,71,NHANES August 2021-August 2023 DSQIDS_L,14457,1,matched,normalized_product_name_phrase
+supplement:shatavari,Shatavari,supplement,Women's Health & Hormones,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:d-mannose,D-Mannose,supplement,Women's Health & Hormones,42,NHANES August 2021-August 2023 DSQIDS_L,127099,3,matched,normalized_product_name_phrase
+supplement:cranberry-pacs,Cranberry PACs,supplement,Women's Health & Hormones,12,NHANES August 2021-August 2023 DSQIDS_L,2607386,57,matched,normalized_product_name_phrase
+supplement:lactoferrin,Lactoferrin,supplement,Women's Health & Hormones,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:methylfolate-5-mthf,Methylfolate (5-MTHF),supplement,Women's Health & Hormones,32,NHANES August 2021-August 2023 DSQIDS_L,209067,4,matched,normalized_product_name_phrase
+supplement:choline,Choline,supplement,Women's Health & Hormones,7,NHANES August 2021-August 2023 DSQIDS_L,14158569,290,matched,product_name_or_positive_DSQICHL
+supplement:menopause-probiotic-blends,Menopause Probiotic Blends,supplement,Women's Health & Hormones,6,NHANES August 2021-August 2023 DSQIDS_L,15023605,319,matched,normalized_product_name_phrase
+supplement:nac-n-acetylcysteine,NAC (N-Acetylcysteine),supplement,"Immunity, Liver & Cellular Health",59,NHANES August 2021-August 2023 DSQIDS_L,43219,1,matched,normalized_product_name_phrase
+supplement:milk-thistle-silymarin,Milk Thistle (Silymarin),supplement,"Immunity, Liver & Cellular Health",22,NHANES August 2021-August 2023 DSQIDS_L,992511,22,matched,normalized_product_name_phrase
+supplement:tudca,TUDCA,supplement,"Immunity, Liver & Cellular Health",,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:black-seed-oil,Black Seed Oil,supplement,"Immunity, Liver & Cellular Health",72,NHANES August 2021-August 2023 DSQIDS_L,11717,1,matched,normalized_product_name_phrase
+supplement:curcumin-phytosome,Curcumin Phytosome,supplement,"Immunity, Liver & Cellular Health",67,NHANES August 2021-August 2023 DSQIDS_L,24564,1,matched,normalized_product_name_phrase
+supplement:boswellia-serrata,Boswellia Serrata,supplement,"Immunity, Liver & Cellular Health",,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:vitamin-d3-k2,Vitamin D3 + K2,supplement,"Immunity, Liver & Cellular Health",5,NHANES August 2021-August 2023 DSQIDS_L,19905848,464,matched,normalized_product_name_phrase
+supplement:zinc-carnosine,Zinc Carnosine,supplement,"Immunity, Liver & Cellular Health",,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:elderberry-extract,Elderberry Extract,supplement,"Immunity, Liver & Cellular Health",31,NHANES August 2021-August 2023 DSQIDS_L,215154,3,matched,normalized_product_name_phrase
+supplement:quercetin-bromelain,Quercetin + Bromelain,supplement,"Immunity, Liver & Cellular Health",19,NHANES August 2021-August 2023 DSQIDS_L,1129512,26,matched,normalized_product_name_phrase
+supplement:c15-0-pentadecanoic-acid,C15:0 (Pentadecanoic Acid),supplement,Emerging & Biohacking,57,NHANES August 2021-August 2023 DSQIDS_L,63792,1,matched,normalized_product_name_phrase
+supplement:pqq-pyrroloquinoline-quinone,PQQ (Pyrroloquinoline Quinone),supplement,Emerging & Biohacking,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:ergothioneine,Ergothioneine,supplement,Emerging & Biohacking,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:methylene-blue,Methylene Blue,supplement,Emerging & Biohacking,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:shilajit,Shilajit,supplement,Emerging & Biohacking,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:tongkat-ali,Tongkat Ali,supplement,Emerging & Biohacking,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:fadogia-agrestis,Fadogia Agrestis,supplement,Emerging & Biohacking,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+supplement:turkey-tail-mushroom,Turkey Tail Mushroom,supplement,Emerging & Biohacking,39,NHANES August 2021-August 2023 DSQIDS_L,141283,2,matched,normalized_product_name_phrase
+supplement:reishi-mushroom,Reishi Mushroom,supplement,Emerging & Biohacking,51,NHANES August 2021-August 2023 DSQIDS_L,90201,2,matched,normalized_product_name_phrase
+supplement:cordyceps-mushroom,Cordyceps Mushroom,supplement,Emerging & Biohacking,,NHANES August 2021-August 2023 DSQIDS_L,0,0,not_matched,normalized_product_name_phrase
+ingredient:calcium,Calcium,supplement,Vitamin or mineral,2,NHANES August 2021-August 2023 DSQIDS_L,113355299,2428,matched,product_name_or_positive_DSQICALC
+ingredient:iron,Iron,supplement,Vitamin or mineral,4,NHANES August 2021-August 2023 DSQIDS_L,48370359,1052,matched,product_name_or_positive_DSQIIRON
+ingredient:magnesium,Magnesium,supplement,Vitamin or mineral,3,NHANES August 2021-August 2023 DSQIDS_L,72862019,1618,matched,product_name_or_positive_DSQIMAGN
+ingredient:vitamin-d,Vitamin D,supplement,Vitamin or mineral,1,NHANES August 2021-August 2023 DSQIDS_L,136980307,3017,matched,product_name_or_positive_DSQIVD

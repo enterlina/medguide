@@ -1,0 +1,606 @@
+[
+  {
+    "position": 226,
+    "product_id": "RX-026",
+    "product_title": "TENORMIN (ATENOLOL) TABLET",
+    "set_id": "6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a",
+    "ingredient_ids": [
+      "ingredient:atenolol"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a:May 01, 2026"
+  },
+  {
+    "position": 227,
+    "product_id": "RX-027",
+    "product_title": "CARDIZEM (DILTIAZEM HYDROCHLORIDE) TABLET, COATED",
+    "set_id": "f3e7ecef-f360-4987-a4f5-933214130ab2",
+    "ingredient_ids": [
+      "ingredient:diltiazem"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:f3e7ecef-f360-4987-a4f5-933214130ab2:May 02, 2025"
+  },
+  {
+    "position": 228,
+    "product_id": "RX-028",
+    "product_title": "CARTIA XT (DILTIAZEM HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE",
+    "set_id": "2dc2b889-8443-4f7f-83be-86c68e179804",
+    "ingredient_ids": [
+      "ingredient:diltiazem"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:2dc2b889-8443-4f7f-83be-86c68e179804:Oct 12, 2026"
+  },
+  {
+    "position": 229,
+    "product_id": "RX-029",
+    "product_title": "LASIX (FUROSEMIDE) TABLET",
+    "set_id": "2c9b4d8f-0770-482d-a9e6-9c616a440b1a",
+    "ingredient_ids": [
+      "ingredient:furosemide"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:2c9b4d8f-0770-482d-a9e6-9c616a440b1a:Oct 02, 2025"
+  },
+  {
+    "position": 230,
+    "product_id": "RX-030",
+    "product_title": "DEMADEX (TORSEMIDE) TABLET",
+    "set_id": "aff713e8-2cb6-4e49-94a2-c55c5491c822",
+    "ingredient_ids": [
+      "ingredient:torsemide"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:aff713e8-2cb6-4e49-94a2-c55c5491c822:Dec 18, 2009"
+  },
+  {
+    "position": 231,
+    "product_id": "RX-031",
+    "product_title": "ALDACTONE (SPIRONOLACTONE) TABLET, FILM COATED",
+    "set_id": "0fed2822-3a03-4b64-9857-c682fcd462bc",
+    "ingredient_ids": [
+      "ingredient:spironolactone"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:0fed2822-3a03-4b64-9857-c682fcd462bc:Dec 01, 2025"
+  },
+  {
+    "position": 232,
+    "product_id": "RX-032",
+    "product_title": "HYZAAR (LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED",
+    "set_id": "4116ccde-2e23-45f4-b12f-6337df877744",
+    "ingredient_ids": [
+      "ingredient:losartan",
+      "ingredient:hydrochlorothiazide"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:4116ccde-2e23-45f4-b12f-6337df877744:Nov 28, 2025"
+  },
+  {
+    "position": 233,
+    "product_id": "RX-033",
+    "product_title": "EXFORGE (AMLODIPINE BESYLATE AND VALSARTAN) TABLET, FILM COATED",
+    "set_id": "d0caec89-96ec-411d-a933-63eda74a6da7",
+    "ingredient_ids": [
+      "ingredient:amlodipine",
+      "ingredient:valsartan"
+    ],
+    "status": "ingested",
+    "rules": 18,
+    "label_id": "dailymed:d0caec89-96ec-411d-a933-63eda74a6da7:Feb 18, 2026"
+  },
+  {
+    "position": 234,
+    "product_id": "RX-034",
+    "product_title": "LOTREL (AMLODIPINE BESYLATE AND BENAZEPRIL HYDROCHLORIDE) CAPSULE",
+    "set_id": "4653cabc-f249-4b4e-95b6-5fb4ddc0ad5d",
+    "ingredient_ids": [
+      "ingredient:amlodipine",
+      "ingredient:benazepril"
+    ],
+    "status": "ingested",
+    "rules": 10,
+    "label_id": "dailymed:4653cabc-f249-4b4e-95b6-5fb4ddc0ad5d:Mar 06, 2012"
+  },
+  {
+    "position": 235,
+    "product_id": "RX-035",
+    "product_title": "ELIQUIS (APIXABAN) TABLET, FILM COATED",
+    "set_id": "41a133ef-e461-48ad-8221-b735bdd0ec25",
+    "ingredient_ids": [
+      "ingredient:apixaban"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:41a133ef-e461-48ad-8221-b735bdd0ec25:Sep 25, 2026"
+  },
+  {
+    "position": 236,
+    "product_id": "RX-036",
+    "product_title": "XARELTO (RIVAROXABAN) TABLET, FILM COATED",
+    "set_id": "d0e105f6-28f3-45ee-83bd-7d458835242b",
+    "ingredient_ids": [
+      "ingredient:rivaroxaban"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:d0e105f6-28f3-45ee-83bd-7d458835242b:Aug 25, 2026"
+  },
+  {
+    "position": 237,
+    "product_id": "RX-037",
+    "product_title": "PRADAXA (DABIGATRAN ETEXILATE) PELLET",
+    "set_id": "9ac0a64a-8666-45f7-9d4f-40fd894f7e6d",
+    "ingredient_ids": [
+      "ingredient:dabigatran-etexilate"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:9ac0a64a-8666-45f7-9d4f-40fd894f7e6d:Jul 02, 2025"
+  },
+  {
+    "position": 238,
+    "product_id": "RX-038",
+    "product_title": "SAVAYSA (EDOXABAN TOSYLATE) TABLET, FILM COATED",
+    "set_id": "e77d3400-56ad-11e3-949a-0800200c9a66",
+    "ingredient_ids": [
+      "ingredient:edoxaban-tosylate"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:e77d3400-56ad-11e3-949a-0800200c9a66:Jul 14, 2025"
+  },
+  {
+    "position": 239,
+    "product_id": "RX-039",
+    "product_title": "PLAVIX (CLOPIDOGREL) TABLET, FILM COATED",
+    "set_id": "de8b0b67-eb25-4684-83b5-7ad785314227",
+    "ingredient_ids": [
+      "ingredient:clopidogrel"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:de8b0b67-eb25-4684-83b5-7ad785314227:Jun 11, 2025"
+  },
+  {
+    "position": 240,
+    "product_id": "RX-040",
+    "product_title": "BRILINTA (TICAGRELOR) TABLET",
+    "set_id": "f7b3f443-e83d-4bf2-0e96-023448fed9a8",
+    "ingredient_ids": [
+      "ingredient:ticagrelor"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:f7b3f443-e83d-4bf2-0e96-023448fed9a8:Aug 07, 2026"
+  },
+  {
+    "position": 241,
+    "product_id": "RX-041",
+    "product_title": "EFFIENT (PRASUGREL HYDROCHLORIDE) TABLET, COATED",
+    "set_id": "69ea2d58-5353-4222-b61f-cab976fa7e5e",
+    "ingredient_ids": [
+      "ingredient:prasugrel"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:69ea2d58-5353-4222-b61f-cab976fa7e5e:Sep 09, 2022"
+  },
+  {
+    "position": 242,
+    "product_id": "RX-042",
+    "product_title": "JANTOVEN (WARFARIN SODIUM) TABLET",
+    "set_id": "19a69a72-ac5d-45d5-a94d-a5aaecbe4730",
+    "ingredient_ids": [
+      "ingredient:warfarin"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:19a69a72-ac5d-45d5-a94d-a5aaecbe4730:Jul 10, 2025"
+  },
+  {
+    "position": 243,
+    "product_id": "RX-043",
+    "product_title": "MULTAQ (DRONEDARONE) TABLET, FILM COATED",
+    "set_id": "3bd4006a-8bad-4909-ac6d-b6d84390155c",
+    "ingredient_ids": [
+      "ingredient:dronedarone"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:3bd4006a-8bad-4909-ac6d-b6d84390155c:Feb 02, 2026"
+  },
+  {
+    "position": 244,
+    "product_id": "RX-044",
+    "product_title": "LANOXIN (DIGOXIN) TABLET",
+    "set_id": "d91e3646-4c63-4512-ab22-db39c085c4dc",
+    "ingredient_ids": [
+      "ingredient:digoxin"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:d91e3646-4c63-4512-ab22-db39c085c4dc:Jan 09, 2025"
+  },
+  {
+    "position": 245,
+    "product_id": "RX-045",
+    "product_title": "NITROSTAT (NITROGLYCERIN) TABLET",
+    "set_id": "f7059ff7-bf74-48b4-811d-6eb1c26bfd8b",
+    "ingredient_ids": [
+      "ingredient:nitroglycerin"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:f7059ff7-bf74-48b4-811d-6eb1c26bfd8b:Aug 06, 2024"
+  },
+  {
+    "position": 246,
+    "product_id": "RX-046",
+    "product_title": "RANEXA (RANOLAZINE) TABLET, FILM COATED, EXTENDED RELEASE",
+    "set_id": "e038f963-d78f-460e-a11f-46f224061505",
+    "ingredient_ids": [
+      "ingredient:ranolazine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:e038f963-d78f-460e-a11f-46f224061505:Aug 08, 2016"
+  },
+  {
+    "position": 247,
+    "product_id": "RX-047",
+    "product_title": "JARDIANCE (EMPAGLIFLOZIN) TABLET, FILM COATED",
+    "set_id": "59ed43d9-b4e0-72a2-e063-6394a90a327d",
+    "ingredient_ids": [
+      "ingredient:empagliflozin"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:59ed43d9-b4e0-72a2-e063-6394a90a327d:Aug 27, 2026"
+  },
+  {
+    "position": 248,
+    "product_id": "RX-048",
+    "product_title": "FARXIGA (DAPAGLIFLOZIN) TABLET, FILM COATED",
+    "set_id": "ef9e9c8c-5460-4193-952a-0c249dd071bd",
+    "ingredient_ids": [
+      "ingredient:dapagliflozin"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:ef9e9c8c-5460-4193-952a-0c249dd071bd:Sep 21, 2026"
+  },
+  {
+    "position": 249,
+    "product_id": "RX-049",
+    "product_title": "INVOKANA (CANAGLIFLOZIN) TABLET, FILM COATED",
+    "set_id": "4e946ba3-02c4-4a10-9d5e-f2d87b534dc3",
+    "ingredient_ids": [
+      "ingredient:canagliflozin"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:4e946ba3-02c4-4a10-9d5e-f2d87b534dc3:Sep 23, 2026"
+  },
+  {
+    "position": 250,
+    "product_id": "RX-050",
+    "product_title": "JANUVIA (SITAGLIPTIN) TABLET, FILM COATED",
+    "set_id": "1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40",
+    "ingredient_ids": [
+      "ingredient:sitagliptin"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40:Jul 10, 2026"
+  },
+  {
+    "position": 251,
+    "product_id": "RX-051",
+    "product_title": "JANUMET (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED",
+    "set_id": "d19c7ed0-ad5c-426e-b2df-722508f97d67",
+    "ingredient_ids": [
+      "ingredient:sitagliptin",
+      "ingredient:metformin"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:d19c7ed0-ad5c-426e-b2df-722508f97d67:Aug 27, 2026"
+  },
+  {
+    "position": 252,
+    "product_id": "RX-052",
+    "product_title": "TRADJENTA (LINAGLIPTIN) TABLET, FILM COATED",
+    "set_id": "dfe327e8-f6ab-41e5-bdef-d520118cd83a",
+    "ingredient_ids": [
+      "ingredient:linagliptin"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:dfe327e8-f6ab-41e5-bdef-d520118cd83a:Sep 08, 2025"
+  },
+  {
+    "position": 253,
+    "product_id": "RX-053",
+    "product_title": "JENTADUETO (LINAGLIPTIN) TABLET, FILM COATED",
+    "set_id": "9822b5fa-6024-445a-a36d-a26106c69845",
+    "ingredient_ids": [
+      "ingredient:linagliptin"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:9822b5fa-6024-445a-a36d-a26106c69845:May 07, 2015"
+  },
+  {
+    "position": 254,
+    "product_id": "RX-054",
+    "product_title": "GLUMETZA (METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE",
+    "set_id": "fb832474-88d9-4e29-95cd-fbc446944cc4",
+    "ingredient_ids": [
+      "ingredient:metformin"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:fb832474-88d9-4e29-95cd-fbc446944cc4:Sep 21, 2026"
+  },
+  {
+    "position": 255,
+    "product_id": "RX-055",
+    "product_title": "FORTAMET (METFORMIN HYDROCHLORIDE) TABLET, EXTENDED RELEASE",
+    "set_id": "8cbcee12-3eb1-4726-9212-5dddc39a3b0f",
+    "ingredient_ids": [
+      "ingredient:metformin"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:8cbcee12-3eb1-4726-9212-5dddc39a3b0f:Jul 29, 2010"
+  },
+  {
+    "position": 256,
+    "product_id": "RX-056",
+    "product_title": "ACTOS (PIOGLITAZONE) TABLET",
+    "set_id": "d2ddc491-88a9-4063-9150-443b4fa4330c",
+    "ingredient_ids": [
+      "ingredient:pioglitazone"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:d2ddc491-88a9-4063-9150-443b4fa4330c:Apr 09, 2025"
+  },
+  {
+    "position": 257,
+    "product_id": "RX-057",
+    "product_title": "GLUCOTROL XL (GLIPIZIDE) TABLET, EXTENDED RELEASE",
+    "set_id": "eed99b60-d043-4249-9b2a-f05e46fb588d",
+    "ingredient_ids": [
+      "ingredient:glipizide"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:eed99b60-d043-4249-9b2a-f05e46fb588d:Jul 23, 2026"
+  },
+  {
+    "position": 258,
+    "product_id": "RX-058",
+    "product_title": "OZEMPIC (SEMAGLUTIDE) INJECTION, SOLUTION",
+    "set_id": "42bdd912-2393-44c4-b7e0-47672ca28991",
+    "ingredient_ids": [
+      "ingredient:semaglutide"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:42bdd912-2393-44c4-b7e0-47672ca28991:Jul 31, 2026"
+  },
+  {
+    "position": 259,
+    "product_id": "RX-059",
+    "product_title": "WEGOVY (SEMAGLUTIDE) INJECTION, SOLUTION",
+    "set_id": "f5e548d0-cc79-4c34-a3f5-e20a5b8b6564",
+    "ingredient_ids": [
+      "ingredient:semaglutide"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:f5e548d0-cc79-4c34-a3f5-e20a5b8b6564:Apr 25, 2024"
+  },
+  {
+    "position": 260,
+    "product_id": "RX-060",
+    "product_title": "MOUNJARO (TIRZEPATIDE) INJECTION, SOLUTION",
+    "set_id": "0818426a-53eb-4db7-9609-bbae1e7a3964",
+    "ingredient_ids": [
+      "ingredient:tirzepatide"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:0818426a-53eb-4db7-9609-bbae1e7a3964:Jul 30, 2026"
+  },
+  {
+    "position": 261,
+    "product_id": "RX-061",
+    "product_title": "ZEPBOUND (TIRZEPATIDE) INJECTION, SOLUTION ZEPBOUND (TIRZEPATIDE) INJECTION, SOLUTION ZEPBOUND KWIKPEN (TIRZEPATIDE) INJECTION, SOLUTION",
+    "set_id": "487cd7e7-434c-4925-99fa-aa80b1cc776b",
+    "ingredient_ids": [
+      "ingredient:tirzepatide"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:487cd7e7-434c-4925-99fa-aa80b1cc776b:Sep 02, 2026"
+  },
+  {
+    "position": 262,
+    "product_id": "RX-062",
+    "product_title": "TRULICITY (DULAGLUTIDE) INJECTION, SOLUTION",
+    "set_id": "463050bd-2b1c-40f5-b3c3-0a04bb433309",
+    "ingredient_ids": [
+      "ingredient:dulaglutide"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:463050bd-2b1c-40f5-b3c3-0a04bb433309:Aug 10, 2026"
+  },
+  {
+    "position": 263,
+    "product_id": "RX-063",
+    "product_title": "VICTOZA (LIRAGLUTIDE) INJECTION",
+    "set_id": "5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+    "ingredient_ids": [
+      "ingredient:liraglutide"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:5a9ef4ea-c76a-4d34-a604-27c5b505f5a4:Nov 17, 2025"
+  },
+  {
+    "position": 264,
+    "product_id": "RX-064",
+    "product_title": "SAXENDA (LIRAGLUTIDE) INJECTION, SOLUTION",
+    "set_id": "3946d389-0926-4f77-a708-0acb8153b143",
+    "ingredient_ids": [
+      "ingredient:liraglutide"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:3946d389-0926-4f77-a708-0acb8153b143:Jun 15, 2026"
+  },
+  {
+    "position": 265,
+    "product_id": "RX-065",
+    "product_title": "LANTUS (INSULIN GLARGINE) INJECTION, SOLUTION",
+    "set_id": "ae27bb66-5dbe-4f01-a89e-f4fa7cb09c99",
+    "ingredient_ids": [
+      "ingredient:insulin-glargine"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:ae27bb66-5dbe-4f01-a89e-f4fa7cb09c99:Feb 08, 2023"
+  },
+  {
+    "position": 266,
+    "product_id": "RX-066",
+    "product_title": "BASAGLAR KWIKPEN (INSULIN GLARGINE) INJECTION, SOLUTION BASAGLAR TEMPO PEN (INSULIN GLARGINE) INJECTION, SOLUTION",
+    "set_id": "0ad21db3-2b1c-4ed9-a687-bdd6a74d0aae",
+    "ingredient_ids": [
+      "ingredient:insulin-glargine"
+    ],
+    "status": "ingested",
+    "rules": 18,
+    "label_id": "dailymed:0ad21db3-2b1c-4ed9-a687-bdd6a74d0aae:Aug 10, 2026"
+  },
+  {
+    "position": 267,
+    "product_id": "RX-067",
+    "product_title": "TOUJEO (INSULIN GLARGINE) INJECTION, SOLUTION",
+    "set_id": "257ca17b-6ff7-4f2e-9037-4c185bac5768",
+    "ingredient_ids": [
+      "ingredient:insulin-glargine"
+    ],
+    "status": "ingested",
+    "rules": 19,
+    "label_id": "dailymed:257ca17b-6ff7-4f2e-9037-4c185bac5768:May 01, 2023"
+  },
+  {
+    "position": 268,
+    "product_id": "RX-068",
+    "product_title": "TRESIBA (INSULIN DEGLUDEC) INJECTION, SOLUTION",
+    "set_id": "e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17",
+    "ingredient_ids": [
+      "ingredient:insulin-degludec"
+    ],
+    "status": "ingested",
+    "rules": 22,
+    "label_id": "dailymed:e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17:Feb 27, 2024"
+  },
+  {
+    "position": 269,
+    "product_id": "RX-069",
+    "product_title": "LEVEMIR (INSULIN DETEMIR) IMPLANT",
+    "set_id": "2b8d9730-686b-444b-9941-7b5877255924",
+    "ingredient_ids": [
+      "ingredient:insulin-detemir"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:2b8d9730-686b-444b-9941-7b5877255924:Sep 30, 2011"
+  },
+  {
+    "position": 270,
+    "product_id": "RX-070",
+    "product_title": "HUMALOG (INSULIN LISPRO) INJECTION, SOLUTION",
+    "set_id": "6ee01d2e-3525-4aa9-8ec1-5fb0f63dd47c",
+    "ingredient_ids": [
+      "ingredient:insulin-lispro"
+    ],
+    "status": "ingested",
+    "rules": 17,
+    "label_id": "dailymed:6ee01d2e-3525-4aa9-8ec1-5fb0f63dd47c:Feb 19, 2024"
+  },
+  {
+    "position": 271,
+    "product_id": "RX-071",
+    "product_title": "NOVOLOG (INSULIN ASPART) INJECTION, SOLUTION",
+    "set_id": "13891e5a-e57a-46e8-911c-2f680352b52b",
+    "ingredient_ids": [
+      "ingredient:insulin-aspart"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:13891e5a-e57a-46e8-911c-2f680352b52b:Dec 18, 2023"
+  },
+  {
+    "position": 272,
+    "product_id": "RX-072",
+    "product_title": "FIASP (INSULIN ASPART INJECTION) INJECTION, SOLUTION FIASP (INSULIN ASPART) INJECTION, SOLUTION",
+    "set_id": "834e7efc-393f-4c55-9125-628562a8a5cf",
+    "ingredient_ids": [
+      "ingredient:insulin-aspart-injection"
+    ],
+    "status": "ingested",
+    "rules": 19,
+    "label_id": "dailymed:834e7efc-393f-4c55-9125-628562a8a5cf:Jul 25, 2023"
+  },
+  {
+    "position": 273,
+    "product_id": "RX-073",
+    "product_title": "LYUMJEV (INSULIN LISPRO-AABC) INJECTION, SOLUTION",
+    "set_id": "616daea1-0b79-4970-a141-6f99f2072f02",
+    "ingredient_ids": [
+      "ingredient:insulin-lispro-aabc"
+    ],
+    "status": "ingested",
+    "rules": 14,
+    "label_id": "dailymed:616daea1-0b79-4970-a141-6f99f2072f02:Apr 14, 2026"
+  },
+  {
+    "position": 274,
+    "product_id": "RX-074",
+    "product_title": "HUMULIN R U-500 (INSULIN HUMAN) INJECTION, SOLUTION HUMULIN R U-500 KWIKPEN (INSULIN HUMAN) INJECTION, SOLUTION",
+    "set_id": "b60e8dd0-1d48-4dc9-87fd-e14675255e8c",
+    "ingredient_ids": [
+      "ingredient:insulin-human"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:b60e8dd0-1d48-4dc9-87fd-e14675255e8c:Sep 02, 2026"
+  },
+  {
+    "position": 275,
+    "product_id": "RX-075",
+    "product_title": "BAQSIMI (GLUCAGON) POWDER",
+    "set_id": "32ba41fa-4158-40af-8cb2-03693c248994",
+    "ingredient_ids": [
+      "ingredient:glucagon"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:32ba41fa-4158-40af-8cb2-03693c248994:Jun 24, 2026"
+  }
+]

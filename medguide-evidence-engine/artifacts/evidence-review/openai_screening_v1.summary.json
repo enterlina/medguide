@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-29T20:14:19.899884+00:00",
+  "model": "gpt-6.1-sol",
+  "total_matches": 75,
+  "screened_matches": 5,
+  "decisions": {
+    "include": 2,
+    "exclude": 2,
+    "include_as_indirect": 1
+  },
+  "confidence": {
+    "high": 5
+  },
+  "human_reviewed": 0,
+  "policy": "AI screening only; no automatic promotion to human-reviewed evidence."
+}

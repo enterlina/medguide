@@ -1,0 +1,8 @@
+{
+  "source_rows": 500,
+  "ingestible_groups": 438,
+  "excluded_class_groups": 62,
+  "normalized_ingredient_candidates": 422,
+  "already_in_medguide_catalog": 29,
+  "new_candidates": 393
+}

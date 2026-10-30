@@ -1,0 +1,852 @@
+[
+  {
+    "ingredient_id": "ingredient:cyclobenzaprine",
+    "name": "cyclobenzaprine",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:52465554-8bbf-6ffa-e063-6394a90a87cf",
+        "rules": 9
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:3baeda95-d098-437a-b360-87a9c3f3fd9b:10",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:spironolactone",
+    "name": "spironolactone",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:d37da837-e7ff-475b-b7fc-ae8d8ef5f020",
+        "rules": 21
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:768563dc-a619-44dc-b97f-1a7e71fd56a0:10",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:oxycodone",
+    "name": "oxycodone",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:a506a2bf-6041-4ed7-bf7c-ffe50b1b3c2e",
+        "rules": 45
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:cc966d57-7cdc-4de3-bbcf-718e2fce9cb7:19",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:glipizide",
+    "name": "glipizide",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:b56e8971-79df-4b04-ac58-dd399d61a62f",
+        "rules": 2
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:a38cfe61-4aa5-498c-bca5-03a8213303bb:17",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:aspirin",
+    "name": "aspirin",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:008ee85b-5cac-45a6-a857-a828f8125175",
+        "rules": 0
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:c994d693-a505-4794-8803-4b91098b6517:1",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:zolpidem",
+    "name": "zolpidem",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:69a3d187-578f-4e49-b8b3-109219a7bdf6",
+        "rules": 44
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:83510333-f07d-4b81-a3ae-2801d114bd31:10",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:lamotrigine",
+    "name": "lamotrigine",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:983458ba-0e97-42af-952c-3662407dde00",
+        "rules": 62
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:a4d89cd9-c5d8-490f-996d-fc15b47c7b21:17",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:alprazolam",
+    "name": "alprazolam",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:2ad46bf8-1d4d-2bc8-e063-6294a90a9ef0",
+        "rules": 57
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:bb5cf72e-3a41-41a8-9a38-80f974eca33f:5",
+        "rules": 4
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:citalopram",
+    "name": "citalopram",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:5aacc6ac-f606-7dbf-e063-6394a90ad7ce",
+        "rules": 59
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:a7ef6ad2-5f22-4ac7-b57a-f498bcb53be1:7",
+        "rules": 10
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:pregabalin",
+    "name": "pregabalin",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:4ac3a79c-4251-45e4-91c4-29396d131e78",
+        "rules": 20
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:59da1a16-d409-49eb-9b44-397c77006043:5",
+        "rules": 4
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:cholecalciferol",
+    "name": "cholecalciferol",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:57496cd3-7dc0-9f97-e063-6294a90ae2ef",
+        "rules": 1
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:1f2821c4-5c12-402b-a5f4-8d308f2c9332:2",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:clonazepam",
+    "name": "clonazepam",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:4d2345d3-593a-fb2f-e063-6394a90a713f",
+        "rules": 11
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:385c046c-d156-4ca0-a3c3-47538783dd2f:1",
+        "rules": 4
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:azithromycin",
+    "name": "azithromycin",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:6efa1622-de6a-4eee-b5bb-6a8149bbe1c1",
+        "rules": 10
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:f6a52c0b-45db-422e-8c22-e867a11b4439:23",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:pravastatin",
+    "name": "pravastatin",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:89f10602-4be6-4d81-94bd-268f5f5467b8",
+        "rules": 28
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:42ccbca7-fa52-4df9-8f1a-ea7da7312883:1",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:valsartan",
+    "name": "valsartan",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:27616611-6b9c-4e50-b93b-ed29c24f9857",
+        "rules": 41
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:7de9b8e0-195a-b59e-7bbf-3e95c4096af9:6",
+        "rules": 2
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:ezetimibe",
+    "name": "ezetimibe",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:697ae8a7-2359-455f-9c21-e266f1c31288",
+        "rules": 134
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:c37c695b-fb40-423c-9b73-d1aa58a34db9:1",
+        "rules": 6
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:insulin-lispro",
+    "name": "insulin lispro",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:9631cc90-ea8d-42bb-ba01-ed8f09b8a6c5",
+        "rules": 67
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:2be14cbb-197a-4da8-82c8-2443594e7f6f:10",
+        "rules": 21
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:ethinyl-estradiol",
+    "name": "ethinyl estradiol",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:e44389c6-fdd2-408e-8bfe-324842c36d76",
+        "rules": 61
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:1f8b9aad-f31f-4cda-861d-c08a977fc923:9",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:norethindrone",
+    "name": "norethindrone",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:299fb286-ee60-4950-8315-d310c6ce29cd",
+        "rules": 12
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:e8f91d0c-014f-4c1c-a472-1b1947ab96a6:1",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:propranolol",
+    "name": "propranolol",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:0e14f176-3801-4c34-8bbf-b321c95c3d1d",
+        "rules": 4
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:e289160e-0f3a-4667-b8ba-9c93fbf21a30:2",
+        "rules": 4
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:latanoprost",
+    "name": "latanoprost",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:c63757a2-c757-4098-a29d-7a94104d050f",
+        "rules": 7
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:2c87e99e-33d4-4060-8876-ff05557c05eb:4",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:lisdexamfetamine",
+    "name": "lisdexamfetamine",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:2d33f701-8067-4a48-98cc-4e7dacaf3cc4",
+        "rules": 32
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:3a79b2ab-4131-4978-99a0-0119df57d5fe:6",
+        "rules": 2
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:atenolol",
+    "name": "atenolol",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:e2d819f9-b7db-4c40-9ce9-953d58aa371c",
+        "rules": 5
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:bdbf6779-8e9b-4ce1-a361-ede4914dd2f3:21",
+        "rules": 2
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:doxycycline",
+    "name": "doxycycline",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:50c3fdb2-97a0-1143-e063-6294a90a90df",
+        "rules": 1
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:3e7cf78f-3b48-4614-9fa4-c6d1e0c05a35:18",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:clavulanate",
+    "name": "clavulanate",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:57477f96-ff03-67dc-e063-6294a90ad89d",
+        "rules": 27
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:1e91c5ce-3482-47ca-92e7-e492196992d9:4",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:estradiol",
+    "name": "estradiol",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:e44389c6-fdd2-408e-8bfe-324842c36d76",
+        "rules": 61
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:477cb52e-8ce2-491f-94a0-869ff60bf7ab:6",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:dulaglutide",
+    "name": "dulaglutide",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:acaa63ae-a7bc-4997-9bfb-6292ff7bed52",
+        "rules": 26
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:463050bd-2b1c-40f5-b3c3-0a04bb433309:62",
+        "rules": 3
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:salmeterol",
+    "name": "salmeterol",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:b6d73632-205b-4d93-bc38-f520fd6c189b",
+        "rules": 76
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:ccf98c0a-fc40-4e08-bdf2-145fe4537db5:11",
+        "rules": 8
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:lorazepam",
+    "name": "lorazepam",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:22212bf6-1414-4b32-bc67-25d614c357ee",
+        "rules": 7
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:0681c8db-ff09-4258-a5e0-76a26b0ea0af:15",
+        "rules": 4
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:insulin-aspart",
+    "name": "insulin aspart",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:5907ee0c-c7d5-4e1c-9c12-8390ccb34c42",
+        "rules": 62
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:1861fcee-7673-4afe-a206-08fa05c0add2:25",
+        "rules": 13
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:celecoxib",
+    "name": "celecoxib",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:2bbd635f-76fa-4feb-9d3d-f84505d0e381",
+        "rules": 76
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:d0ca85fa-8b80-4a48-a1a4-a1c181821c39:8",
+        "rules": 26
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:finasteride",
+    "name": "finasteride",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:2afe9ff4-1cd2-4392-8e11-8e6ea24a68af",
+        "rules": 11
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:e482a50d-db15-4407-85c9-160c88e8a657:14",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:quetiapine",
+    "name": "quetiapine",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:01261008-5f42-4844-8a65-d4545a67a309",
+        "rules": 28
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:6953175c-78ec-442c-b91d-97dfb57db933:2",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:clonidine",
+    "name": "clonidine",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:5af86781-9ae4-f05c-e063-6294a90a28b0",
+        "rules": 5
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:5366a055-47fd-41eb-81d8-ffb3be1dc38c:15",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:aripiprazole",
+    "name": "aripiprazole",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:b3046f28-ea00-4035-9a18-02f3d37e43b5",
+        "rules": 17
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:573c6bb6-941f-4413-8c23-826025385864:6",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:cephalexin",
+    "name": "cephalexin",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:fc0f8e56-f656-4ae6-9c83-c7bc4046b42f",
+        "rules": 9
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:36882c6d-7b6f-41e3-8c54-e3b0073b8c07:4",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:alendronate",
+    "name": "alendronate",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:1ff6288a-ab6b-4443-81bd-fd1a37a2bd16",
+        "rules": 16
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:c7e470d6-508e-466e-a78d-060bbbc9745c:8",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:topiramate",
+    "name": "topiramate",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:53c563b5-922c-c7c4-e063-6294a90a0a91",
+        "rules": 63
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:a01b2631-263f-4b28-9820-9a5bed2f8d5c:7",
+        "rules": 3
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:tizanidine",
+    "name": "tizanidine",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:f623a735-841a-4e73-ae38-e4d5d27a055f",
+        "rules": 42
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:17ca23af-c88f-4235-930a-d7568051696f:16",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:dapagliflozin",
+    "name": "dapagliflozin",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:03e8f7a3-552c-4b8e-94df-8668108baeea",
+        "rules": 20
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:eaf135b6-e378-4f62-a1e7-db45e23668c7:8",
+        "rules": 15
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:testosterone",
+    "name": "testosterone",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:0a13cf12-e51e-4d3d-a7c4-ea74712e6db2",
+        "rules": 1
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:ed7b5d41-7475-4c10-99b9-b62b3434ae60:16",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:olmesartan",
+    "name": "olmesartan",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:48bfa982-5678-139d-e063-6294a90adbfa",
+        "rules": 35
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:576b315a-4830-42b5-bf5f-76fe4bbc0f8c:1",
+        "rules": 2
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:amitriptyline",
+    "name": "amitriptyline",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:d8bc1bbb-9f8c-439b-b3b8-000fa58fdcf3",
+        "rules": 10
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:130d2f0a-b6d5-4f5b-9f97-63a3a470a658:1",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:folic-acid",
+    "name": "folic acid",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:7aa8c3c6-7a91-4217-9e48-e1dfcf938060",
+        "rules": 0
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:368b69a8-a021-47e3-a6d7-e3497d7363b1:4",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:rivaroxaban",
+    "name": "rivaroxaban",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:5294926b-7812-41da-a0e8-56f492198450",
+        "rules": 41
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:d6de1719-6fbd-4386-9f81-d65980dc4bd8:4",
+        "rules": 1
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:fenofibrate",
+    "name": "fenofibrate",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:9708cc84-b0b3-4c2d-a255-4c38fb6f5bb2",
+        "rules": 11
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:8ffcb173-095a-4550-84f2-18959ad2aab8:13",
+        "rules": 6
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:triamcinolone",
+    "name": "triamcinolone",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:48d19fea-bb4f-bf56-e063-6394a90a0d96",
+        "rules": 0
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:5701a07f-bd22-4bc7-95ff-0c5444ea5971:4",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:paroxetine",
+    "name": "paroxetine",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:561ac0f9-c093-2477-e063-6294a90abf9a",
+        "rules": 42
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:483bd97f-c4d0-4e23-aaa8-6334f4471e0c:34",
+        "rules": 2
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:ferrous-sulfate",
+    "name": "ferrous sulfate",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:3a749d62-0e21-0c15-e063-6394a90ac1a8",
+        "rules": 0
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:0f126ed6-ca0a-429b-b898-189534ceb175:8",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  },
+  {
+    "ingredient_id": "ingredient:budesonide",
+    "name": "budesonide",
+    "sources": [
+      {
+        "source": "openfda",
+        "label_id": "openfda:ce26c1bb-c50d-7731-6877-0b8a5fda98df",
+        "rules": 0
+      },
+      {
+        "source": "dailymed",
+        "label_id": "dailymed:41d4fd39-81ee-41be-b34d-efb12b3a359d:22",
+        "rules": 0
+      }
+    ],
+    "errors": []
+  }
+]

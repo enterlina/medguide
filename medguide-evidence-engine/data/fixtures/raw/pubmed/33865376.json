@@ -1,0 +1,18 @@
+{
+  "_snapshot": {
+    "retrieved_at": "2026-10-26T17:30:00+00:00",
+    "source_updated_at": "2021-12-15T06:00:00+00:00",
+    "license": null,
+    "fetch_status": "abstract_only",
+    "source_uri": "https://pubmed.ncbi.nlm.nih.gov/33865376/"
+  },
+  "pmid": "33865376",
+  "pmcid": "PMC8053283",
+  "doi": "10.1186/s12906-021-03297-z",
+  "title": "Oral magnesium supplementation for insomnia in older adults: a Systematic Review & Meta-Analysis.",
+  "journal": "BMC complementary medicine and therapies",
+  "publication_year": 2021,
+  "publication_types": ["Journal Article", "Meta-Analysis", "Systematic Review"],
+  "registry_ids": []
+}
+

@@ -1,134 +1,141 @@
-# MedGuide — AI-Powered Medication Intelligence
+# MedGuide
 
-**Nebius × NVIDIA Global AI Hackathon 2026** · Proposed track: **Best Apps and Agents**
+MedGuide is an evidence-grounded AI engineering project for exploring medication, supplement,
+food, and drink interactions and for inspecting scientific studies about a selected ingredient.
+It is a research prototype, not a prescribing tool or a substitute for a clinician.
 
-> **Status: In development (hackathon MVP).** This is a research/demo prototype, not a medical device or a substitute for clinician or pharmacist advice. Features described below are planned unless explicitly marked implemented.
+**Live demo:** [medguide-orcin.vercel.app/evidence-lens](https://medguide-orcin.vercel.app/evidence-lens)
 
-## Overview
+## Nebius x NVIDIA Global AI Hackathon
 
-MedGuide helps people understand their **complete medication regimen** instead of reviewing medications one by one. The MVP demonstrates an end-to-end workflow: enter several medications, normalize their names, retrieve documented potential interactions from reliable medical sources, and present understandable explanations with traceable references and uncertainty.
+MedGuide is submitted to the **Best Apps and Agents** track. Its evidence-synthesis path makes a
+runtime inference request to **NVIDIA Nemotron 3 Nano (`nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B`)**
+through the **Nebius Token Factory API**. The provider adapter fails closed when Nebius credentials
+are absent and never labels another provider as Nebius. A sanitized runtime trace and provider
+documentation are included in
+[`artifacts/nebius-hackathon`](medguide-evidence-engine/artifacts/nebius-hackathon) and
+[`docs/model_card.md`](medguide-evidence-engine/docs/model_card.md).
 
-**Core differentiator:** Contextual regimen analysis + evidence-backed retrieval + explainable AI in one connected experience. The LLM must never invent drug interactions or independently recommend changing treatment.
+The project existed as an early medication-management prototype before the submission period. It
+was substantially expanded during the hackathon with source adapters, interaction extraction,
+hybrid retrieval, citation and source-span validation, human-review states, the Taking & Combining
+experience, the What Studies Say evidence catalog, a Nebius/Nemotron synthesis adapter, safety
+evaluation, and a deployed public demo. See the
+[`hackathon change log`](medguide-evidence-engine/docs/hackathon_changes.md) for the dated scope.
 
-## Existing work versus hackathon implementation
+The product has two focused journeys:
 
-MedGuide began as a product concept with prior UX/design work and an earlier prototype. This repository tracks the **hackathon-specific implementation**. Previous work and new development will be identified separately.
+- **Taking & Combining** presents practical guidance derived from FDA, DailyMed, and NIH sources.
+- **What Studies Say** presents structured PubMed evidence with study design, participants,
+  results, relevance, and source links.
 
-| Component | Current status |
-| --- | --- |
-| Product vision and initial UX workflows | Existing prior work; documentation pending |
-| Figma designs | Existing prior work; link to be added |
-| Frontend for this hackathon | Planned |
-| Medication normalization | Planned |
-| Medical sources and RAG | Planned |
-| AI model and Nebius integration | Planned |
-| API and deployed end-to-end demo | Planned |
+## Why this project is different
 
-Update this table only after implementation and testing.
+MedGuide treats provenance and clinical interpretation as different checks. A rule can have an
+exact source passage without being clinically approved. Missing evidence is kept unknown, trial
+registrations are not treated as positive results, and AI-screened studies remain separate from
+human-reviewed evidence.
 
-## MVP scope
-
-1. **Add medications:** Enter multiple medication names and optional details.
-2. **Confirm matches:** Review normalized names; resolve ambiguous medications.
-3. **Analyze regimen:** Search licensed/accessible reliable references for documented interactions.
-4. **View results:** Present source-backed findings, uncertainty, limitations, and questions to discuss with a professional.
-
-**Out of scope:** medication reminders, longitudinal symptom tracking, autonomous dose optimization, diagnosis, and treatment decisions.
-
-## Architecture (proposed)
-
-```text
-Frontend — Developer 1 (proposed workstream)
-  Medication entry → Review → Results / references
-                    ↕
-           REST / OpenAPI contract
-                    ↕
-Backend — Developer 2 (proposed workstream; Python/FastAPI)
-  Validation → Drug-name normalization
-  Evidence retrieval → RAG → Structured explanations
-                    ↕
-       Medical reference data + vector index
-                    ↕
-     NVIDIA open-source model on Nebius
+```mermaid
+flowchart LR
+    A[DailyMed / openFDA / NIH / PubMed] --> B[Source adapters]
+    B --> C[Product and ingredient normalization]
+    C --> D[Typed extraction and traceable chunks]
+    D --> E[BM25 + Dense E5]
+    E --> F[Reciprocal Rank Fusion]
+    F --> G[Constrained evidence view]
+    D --> H[Source-span audit]
+    H --> I[Human review workflow]
 ```
 
-The exact models, embedding strategy, vector store, data sources, and Nebius configuration are still being evaluated. See [Technical plan](docs/TECHNICAL_PLAN.md).
+## Measured status — 2026-10-30
 
-## Proposed development workstreams
+### Safety and provenance
 
-The roles below organize **planned work**, not team membership, authorship, contributions, or commitments by any individual. Both workstreams may be completed by a single developer. No contributor is assigned by this document.
+| Measure | Current result | Interpretation |
+| --- | ---: | --- |
+| Stored interaction rules | 7,865 | Extracted candidates, not clinical approvals |
+| Exact passages found in stored source sections | 7,864 / 7,865 (99.99%) | Automated provenance check only |
+| Deduplicated rule signatures | 6,912 | 813 duplicate groups remain in stored history |
+| Human-reviewed rules | 0 | Clinical validation is still pending |
+| Curated safety cases resolved by the current resolver | 31 / 56 (55.4%) | Coverage measure |
+| Findings returned for resolved must-detect cases | 8 / 30 (26.7%) | Current safety-recall proxy |
+| False-reassurance proxy | 22 / 30 (73.3%) | Release blocker, not a population estimate |
+| Returned findings with a source URL | 24 / 24 | URL coverage, not citation precision |
 
-| Workstream | Planned scope | Deliverable |
-| --- | --- | --- |
-| **Developer 1 — Product & Frontend** | Product priorities, user journeys, UX/UI design, Figma, frontend implementation | Usable medication entry, review and results interface |
-| **Developer 2 — AI & Backend** | Model evaluation, Nebius/NVIDIA integration, drug-name normalization, retrieval/RAG, analysis API and backend deployment | Tested evidence pipeline and documented API |
-| **Integration & QA** | Connect frontend and backend, evaluate safety and edge cases, prepare demo | End-to-end MVP and submission materials |
+These numbers are intentionally reported even when they are unfavorable. The current engineering
+priority is safety coverage and citation validation, not another UI feature or model swap.
 
-Workstream labels describe technical responsibilities only. Actual contributions should be established by code, design files, commits, pull requests, and other records of completed work.
+### Retrieval
 
-## Development schedule
+On the 323-query NFCorpus test set, RRF reached nDCG@10 **0.3461** (95% bootstrap CI
+**0.3113–0.3813**). RRF outperformed BM25 by **+0.0373**, while its **+0.0106** difference over
+Dense E5 was not statistically distinguishable from zero (`p ≈ 0.13`).
 
-**Planning targets, as of October 18, 2026.** Dates are not completion claims.
+The BioASQ experiment is a **200-question restricted-corpus pilot**, not the official full-PubMed
+leaderboard benchmark. RRF reached nDCG@10 **0.7797** and Recall@20 **0.8280** in that setup.
 
-| Date | Developer 1 — product/frontend | Developer 2 — AI/backend | Integration milestone |
-| --- | --- | --- | --- |
-| **Oct 18–20** | Finalize screens and MVP workflow | Propose NVIDIA model, data sources, Nebius architecture, API | Agree on response contract |
-| **Oct 21–23** | Build entry/results UI using mock JSON | Implement normalization, retrieval and `/api/analyze` | Representative analysis response |
-| **Oct 24–26** | Connect live API, polish error/uncertainty states | Integrate Nebius inference, citations, safety tests | End-to-end demo |
-| **Oct 27–28** | Polish UX, demo and screenshots | Deployment, reproducibility, evaluation | External smoke test |
-| **Oct 29** | Record video and finalize submission | Verify setup and code | Submission package ready |
-| **Oct 30** | Submit before official deadline (verify timezone in rules) | Final technical check | Submission confirmed |
+The MedGuide-specific retrieval set currently has no fully reviewed pools, so no internal ranking
+metric is claimed yet. Unreviewed results are never counted as irrelevant.
 
-## Collaboration and Git workflow
+## Technology
 
-- `main` — stable, reviewed integration.
-- `feature/frontend` — proposed frontend workstream (primarily `frontend/`).
-- `feature/ai-backend` — proposed AI/backend workstream (primarily `backend/`).
-- `docs/` — API and technical specifications; coordinate changes as needed.
-- Define the response schema before integration. Frontend development may use mock responses until the backend is ready.
-- Use pull requests to merge into `main`. Never commit secrets, tokens, or patient data.
+- Next.js 16, React 19, TypeScript, Tailwind CSS
+- FastAPI, Pydantic, SQLite repository layer
+- BM25, `intfloat/multilingual-e5-base`, Reciprocal Rank Fusion
+- DailyMed SPL, openFDA labels, NIH ODS, RxNorm, PubMed/PMC, ClinicalTrials.gov
+- Deterministic audit artifacts and a role-aware human-review workflow
 
-## Design, demo and submission links
+## Local development
 
-- **Figma:** _Link pending_
-- **Live demo:** _Pending deployment_
-- **YouTube demo:** _Pending_
-- **Devpost submission:** _Pending_
+Frontend:
 
-## Project structure
-
-```text
-medguide/
-├── frontend/                 # UI workstream
-├── backend/                  # API, retrieval and AI workstream
-├── docs/
-│   ├── API_CONTRACT.md
-│   ├── TECHNICAL_PLAN.md
-│   └── HACKATHON_CHECKLIST.md
-├── assets/
-├── .gitignore
-├── LICENSE
-└── README.md
+```bash
+npm install
+npm run dev
 ```
 
-## Local setup
+Backend:
 
-**Not yet runnable.** Backend/frontend dependencies, environment variables, installation steps and real execution commands will be documented and verified after the first working implementation. No API credentials will be stored in this repository.
+```bash
+cd medguide-evidence-engine
+python -m pip install -e '.[dev,data,ai]'
+uvicorn app.main:app --reload
+```
 
-## Medical safety principles
+Run all local checks:
 
-- Use synthetic demo scenarios; do not publish real patient information.
-- Check source licenses and usage terms.
-- Keep retrieved evidence separate from generated explanations.
-- Surface unknown/ambiguous matches and missing or conflicting evidence.
-- Never present “no interaction found” as proof of safety.
-- Do not output autonomous dosage changes or definitive medical advice.
-- Maintain representative evaluation cases and known limitations.
+```bash
+make check
+```
 
-## Hackathon submission
+Environment variables belong in local `.env` files. Use `.env.example` as the template and never
+commit provider keys.
 
-Track requirements in [Hackathon checklist](docs/HACKATHON_CHECKLIST.md) and verify all details against [official hackathon rules](https://nebiusglobalaihackathon.devpost.com/rules). Planned demonstration: a functioning app using eligible Nebius infrastructure and an NVIDIA open-source model, documented source code, and a short walkthrough.
+## Documentation
+
+- [AI engineering portfolio case](medguide-evidence-engine/docs/portfolio_ai_engineering_case.md)
+- [Evaluation improvement report](medguide-evidence-engine/docs/evaluation_improvement_report.md)
+- [Retrieval evaluation policy](medguide-evidence-engine/docs/retrieval_evaluation_policy.md)
+- [Hackathon MVP plan](medguide-evidence-engine/docs/hackathon_mvp_plan.md)
+
+## Known limitations
+
+- The interaction corpus is not clinically validated and currently has zero human-reviewed rules.
+- Exact source matching proves provenance, not correct medical interpretation.
+- The current curated safety benchmark reveals substantial missed-interaction risk.
+- Automated product-to-ingredient mappings and AI study screening still need sampled human audits.
+- PubMed candidates may be indirect evidence and are not automatically conclusions about a product.
+
+## AI assistance disclosure
+
+AI coding tools assisted with implementation, refactoring, test generation, and documentation.
+Design decisions, source selection, evaluation boundaries, and acceptance of changes remain part of
+the project author's engineering work. Machine-generated medical interpretations are not labeled
+as human-reviewed.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Third-party datasets, libraries and model weights retain their separate licenses.
+Code is provided under the repository [LICENSE](LICENSE). External datasets and source documents
+retain their original terms; public releases should use download scripts and small evaluation
+fixtures rather than redistributing bulk source corpora.

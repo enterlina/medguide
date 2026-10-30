@@ -1,0 +1,23 @@
+{
+  "failures": [
+    {
+      "classification": "output_truncated",
+      "request_id": "2579b2e9570c803ce0e9ef5b4ef739f1",
+      "completion_tokens": 700,
+      "observed": "Visible answer ended mid-sentence before complete citations."
+    },
+    {
+      "classification": "citation_semantic_validation_failed",
+      "request_id": "e9bd7a0f4b9dbb1eb56836189ea76c9a",
+      "completion_tokens": 732,
+      "observed": "Citation IDs existed, but the answer introduced a benefit claim not explicitly supported by passage [4]."
+    },
+    {
+      "classification": "wrong_response_field_and_budget_exhaustion",
+      "request_id": "ea2352e9997cc78bacbdd43e46c93e97",
+      "completion_tokens": 1600,
+      "observed": "Adapter read content only; model emitted through reasoning and exhausted the configured budget."
+    }
+  ]
+}
+

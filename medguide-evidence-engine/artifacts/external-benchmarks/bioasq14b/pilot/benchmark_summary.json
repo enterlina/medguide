@@ -1,0 +1,44 @@
+{
+  "benchmark_label": "BioASQ 14b pooled-gold benchmark on a restricted PubMed corpus \u2014 not the official full-PubMed leaderboard benchmark.",
+  "pilot_question_count": 200,
+  "complete_gold_coverage_question_count": 195,
+  "cache_hit": false,
+  "summary": {
+    "bm25": {
+      "ndcg_at_10": 0.7491908034577216,
+      "mrr_at_10": 0.8448730158730159,
+      "recall_at_5": 0.5263942394246595,
+      "recall_at_10": 0.653662840101017,
+      "recall_at_20": 0.7931178342531294,
+      "recall_at_50": 0.8996728808950557,
+      "recall_at_100": 0.9439709953421687,
+      "hit_at_5": 0.935,
+      "hit_at_10": 0.97,
+      "hit_at_20": 0.99
+    },
+    "dense": {
+      "ndcg_at_10": 0.7403630884276459,
+      "mrr_at_10": 0.8441904761904762,
+      "recall_at_5": 0.5014644886942602,
+      "recall_at_10": 0.6322411200092353,
+      "recall_at_20": 0.756706082555733,
+      "recall_at_50": 0.8675455761913635,
+      "recall_at_100": 0.9082442929966197,
+      "hit_at_5": 0.92,
+      "hit_at_10": 0.95,
+      "hit_at_20": 0.965
+    },
+    "rrf": {
+      "ndcg_at_10": 0.7797417165336075,
+      "mrr_at_10": 0.8518888888888889,
+      "recall_at_5": 0.5375183641514376,
+      "recall_at_10": 0.6851912365073971,
+      "recall_at_20": 0.8279710339123747,
+      "recall_at_50": 0.9416430569359051,
+      "recall_at_100": 0.9726977136049655,
+      "hit_at_5": 0.96,
+      "hit_at_10": 0.97,
+      "hit_at_20": 0.995
+    }
+  }
+}

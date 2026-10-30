@@ -1,0 +1,44 @@
+id,category,reference_status,status,reasons
+MG001,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG002,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG003,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG004,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG006,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG007,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG008,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG009,drug_drug,verified_anchor,UNSUPPORTED,Unresolved inputs: clarithromycin
+MG010,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG011,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG012,drug_drug,review_required,UNSUPPORTED,Unresolved inputs: nitrate
+MG013,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG014,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG015,drug_drug,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG017,drug_food,verified_anchor,UNSUPPORTED,Unresolved inputs: spinach/kale
+MG018,drug_supplement,verified_anchor,UNSUPPORTED,Unresolved inputs: St. John's wort
+MG019,drug_supplement,verified_anchor,UNSUPPORTED,Unresolved inputs: CoQ10
+MG020,drug_supplement,verified_anchor,UNSUPPORTED,Unresolved inputs: St. John's wort
+MG021,drug_supplement,verified_anchor,UNSUPPORTED,"Unresolved inputs: oral contraceptive, St. John's wort"
+MG022,drug_supplement,review_required,UNSUPPORTED,Unresolved inputs: red yeast rice
+MG023,drug_supplement,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG024,drug_supplement,review_required,UNSUPPORTED,Unresolved inputs: ginkgo
+MG025,drug_supplement,review_required,UNSUPPORTED,Unresolved inputs: fish oil
+MG026,drug_supplement,review_required,UNSUPPORTED,Unresolved inputs: berberine
+MG030,drug_supplement,verified_anchor,FAIL,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG031,drug_supplement,verified_anchor,UNSUPPORTED,Unresolved inputs: zinc supplement
+MG032,drug_supplement,verified_anchor,FAIL,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG033,drug_supplement,verified_anchor,FAIL,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG034,drug_supplement,verified_anchor,FAIL,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG037,drug_food,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG038,drug_food,verified_anchor,UNSUPPORTED,Unresolved inputs: milk alone
+MG039,drug_food,verified_anchor,UNSUPPORTED,Unresolved inputs: mixed meal containing dairy
+MG040,drug_food,verified_anchor,UNSUPPORTED,Unresolved inputs: coffee/orange juice
+MG041,drug_timing,verified_anchor,UNSUPPORTED,Unresolved inputs: breakfast
+MG042,drug_timing,verified_anchor,UNSUPPORTED,Unresolved inputs: lying down
+MG043,drug_timing,verified_anchor,UNSUPPORTED,Unresolved inputs: breakfast
+MG045,drug_timing,verified_anchor,UNSUPPORTED,Unresolved inputs: zinc
+MG046,drug_timing,verified_anchor,UNSUPPORTED,Unresolved inputs: zinc
+MG047,drug_timing,verified_anchor,UNSUPPORTED,Unresolved inputs: other pills
+MG051,negative_control,review_required,NEEDS_HUMAN_REVIEW,"Relationship detected, but deterministic text checks could not confirm the expected effect."
+MG052,negative_control,review_required,NEEDS_HUMAN_REVIEW,"Expected relationship was not returned by any reviewed, preliminary, or label-mention bucket."
+MG053,negative_control,review_required,NEEDS_HUMAN_REVIEW,"Relationship detected, but deterministic text checks could not confirm the expected effect."
+MG056,negative_control,review_required,NEEDS_HUMAN_REVIEW,"Relationship detected, but deterministic text checks could not confirm the expected effect."

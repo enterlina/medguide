@@ -1,0 +1,88 @@
+[
+  {
+    "source_document_id": "pubmed:23853635",
+    "source_snapshot": "pubmed:23853635:2026-10-26",
+    "title": "The effect of magnesium supplementation on primary insomnia in elderly",
+    "source": "pubmed",
+    "source_uri": "https://pubmed.ncbi.nlm.nih.gov/23853635/",
+    "identifiers": {"pmid": "23853635", "pmcid": "PMC3703169"},
+    "metadata": {"compound": "magnesium", "form": "unspecified", "outcome": "sleep", "population": "older adults", "species": "human", "study_design": "randomized trial", "document_type": "abstract", "trial_status": "published", "result_interpretation": "no_statistically_significant_effect_detected"},
+    "sections": [
+      {"section": "participants", "text": "The PubMed abstract reports a double-blind randomized clinical trial in 46 elderly participants with primary insomnia."},
+      {"section": "intervention", "text": "Participants were allocated to 500 mg magnesium or placebo daily for eight weeks. The abstract does not identify the magnesium salt or state whether the dose is elemental magnesium."},
+      {"section": "results", "text": "The abstract reports between-group changes in insomnia severity, sleep efficiency and sleep onset latency. It also states that total sleep time did not show a significant between-group difference (P = 0.37)."},
+      {"section": "limitations", "text": "This record is an abstract-level source. Fields not reported in the abstract must remain unknown rather than inferred."}
+    ]
+  },
+  {
+    "source_document_id": "pmc:PMC3703169",
+    "source_snapshot": "pmc:PMC3703169:2026-10-26",
+    "title": "The effect of magnesium supplementation on primary insomnia in elderly — full text record",
+    "source": "pmc",
+    "source_uri": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3703169/",
+    "identifiers": {"pmid": "23853635", "pmcid": "PMC3703169"},
+    "metadata": {"compound": "magnesium", "form": "unspecified", "outcome": "sleep", "population": "older adults", "species": "human", "study_design": "randomized trial", "document_type": "full_text", "trial_status": "published"},
+    "sections": [
+      {"section": "methods", "text": "The article describes an eight-week double-blind placebo-controlled study and sleep-log and Insomnia Severity Index measurements."},
+      {"section": "results", "text": "The article reports multiple subjective and biochemical outcomes. Outcome-specific results must be kept separate; a null total-sleep-time comparison must not be collapsed into a single positive study label."},
+      {"section": "access", "text": "PMCID PMC3703169 is the accessible full-text record linked to PMID 23853635. Reuse remains subject to the article-specific terms shown by PMC."}
+    ]
+  },
+  {
+    "source_document_id": "pubmed:33865376",
+    "source_snapshot": "pubmed:33865376:2026-10-26",
+    "title": "Oral magnesium supplementation for insomnia in older adults: a Systematic Review & Meta-Analysis",
+    "source": "pubmed",
+    "source_uri": "https://pubmed.ncbi.nlm.nih.gov/33865376/",
+    "identifiers": {"pmid": "33865376", "pmcid": "PMC8053283", "doi": "10.1186/s12906-021-03297-z"},
+    "metadata": {"compound": "magnesium", "form": "mixed", "outcome": "sleep", "population": "older adults", "species": "human", "study_design": "systematic review", "document_type": "abstract", "trial_status": "published"},
+    "sections": [
+      {"section": "scope", "text": "This systematic review evaluated oral magnesium supplementation for insomnia in older adults."},
+      {"section": "results", "text": "The abstract reports that three randomized controlled trials enrolled 151 older adults. Evidence quality was described as low to very low, and the authors stated that higher-quality trials were needed."},
+      {"section": "limitations", "text": "A review and its included trials must not be counted as independent efficacy evidence. Different magnesium preparations and sleep outcomes may not be directly compatible."}
+    ]
+  },
+  {
+    "source_document_id": "pubmed:39252819",
+    "source_snapshot": "pubmed:39252819:2026-10-26",
+    "title": "Magnesium-L-threonate improves sleep quality and daytime functioning in adults with self-reported sleep problems",
+    "source": "pubmed",
+    "source_uri": "https://pubmed.ncbi.nlm.nih.gov/39252819/",
+    "identifiers": {"pmid": "39252819", "pmcid": "PMC11381753", "doi": "10.1016/j.sleepx.2024.100121"},
+    "metadata": {"compound": "magnesium", "form": "magnesium L-threonate", "outcome": "sleep", "population": "adults with self-reported sleep problems", "species": "human", "study_design": "randomized trial", "document_type": "abstract", "trial_status": "published"},
+    "sections": [
+      {"section": "intervention", "text": "This randomized controlled trial studied magnesium L-threonate in adults who reported sleep problems. This chemical form must not be silently generalized to magnesium oxide, citrate, gluconate, or an unspecified magnesium product."},
+      {"section": "outcomes", "text": "The publication reports sleep-quality and daytime-functioning outcomes. The title's positive wording is a source claim, not an automatic MedGuide effectiveness verdict."},
+      {"section": "transparency", "text": "Funding and investigator relationships require factual display separate from evidence certainty and applicability."}
+    ]
+  },
+  {
+    "source_document_id": "trial:NCT04642313",
+    "source_snapshot": "clinicaltrials.gov:NCT04642313:2026-10-26",
+    "title": "Comparison of Mg Vs. K Supplementation on Insomnia in Diabetics",
+    "source": "clinicaltrials.gov",
+    "source_uri": "https://clinicaltrials.gov/study/NCT04642313",
+    "identifiers": {"nct_id": "NCT04642313"},
+    "metadata": {"compound": "magnesium", "form": "magnesium gluconate", "outcome": "sleep", "population": "adults with diabetes and insomnia", "species": "human", "study_design": "registered randomized trial", "document_type": "registry", "trial_status": "unknown", "result_interpretation": "results_not_posted_in_registry", "linked_publication_check": "none_in_frozen_corpus"},
+    "sections": [
+      {"section": "registration", "text": "ClinicalTrials.gov record NCT04642313 planned comparison of magnesium gluconate, potassium chloride, their combination, and placebo in adults with diabetes and insomnia."},
+      {"section": "intervention", "text": "The registry lists a magnesium gluconate arm with a reported 250 mg dose and a 60-day time frame. Elemental magnesium equivalence is not reported in this fixture."},
+      {"section": "results", "text": "Results are not posted in the registry snapshot. No linked publication was identified in the frozen corpus; this must be rechecked separately before synthesis."}
+    ]
+  },
+  {
+    "source_document_id": "trial:NCT05236504",
+    "source_snapshot": "clinicaltrials.gov:NCT05236504:2026-10-26",
+    "title": "Effects of a Novel Supplement on Sleep, Metabolism, Body Composition and Performance",
+    "source": "clinicaltrials.gov",
+    "source_uri": "https://clinicaltrials.gov/study/NCT05236504",
+    "identifiers": {"nct_id": "NCT05236504"},
+    "metadata": {"compound": "magnesium plus melatonin", "form": "combination pod", "outcome": "sleep", "population": "adults with sleep disturbance", "species": "human", "study_design": "registered crossover trial", "document_type": "registry", "trial_status": "unknown", "result_interpretation": "results_not_posted_in_registry", "linked_publication_check": "none_in_frozen_corpus"},
+    "sections": [
+      {"section": "registration", "text": "ClinicalTrials.gov record NCT05236504 planned a randomized double-blind crossover study of a combined melatonin and magnesium supplement in 35 adults with sleep disturbance."},
+      {"section": "applicability", "text": "Because the intervention combines melatonin and magnesium, this registration cannot isolate the effect of magnesium alone."},
+      {"section": "results", "text": "The frozen registration has no posted results. Estimated enrollment and planned outcomes are not observed efficacy findings."}
+    ]
+  }
+]
+

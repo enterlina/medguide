@@ -1,0 +1,618 @@
+[
+  {
+    "position": 151,
+    "product_id": "OTC-151",
+    "product_title": "BONINE MAX (MECLIZINE HYDROCHLORIDE) TABLET, CHEWABLE",
+    "set_id": "7326a47e-284e-4b6f-8eb0-7933dc1e3f0d",
+    "ingredient_ids": [
+      "ingredient:meclizine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:7326a47e-284e-4b6f-8eb0-7933dc1e3f0d:Apr 14, 2025"
+  },
+  {
+    "position": 152,
+    "product_id": "OTC-152",
+    "product_title": "NAUZENE (SODIUM CITRATE) TABLET, CHEWABLE",
+    "set_id": "a60660b2-c5db-45a0-885f-de93e655380d",
+    "ingredient_ids": [
+      "ingredient:sodium-citrate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:a60660b2-c5db-45a0-885f-de93e655380d:Apr 30, 2025"
+  },
+  {
+    "position": 153,
+    "product_id": "OTC-153",
+    "product_title": "EMETROL CHEWABLES (SODIUM CITRATE DIHYDRATE) TABLET, CHEWABLE",
+    "set_id": "9880a18a-cf84-47cd-99b5-d692065a25bf",
+    "ingredient_ids": [
+      "ingredient:sodium-citrate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:9880a18a-cf84-47cd-99b5-d692065a25bf:Sep 25, 2026"
+  },
+  {
+    "position": 154,
+    "product_id": "OTC-154",
+    "product_title": "SALONPAS (CAMPHOR, MENTHOL, METHYL SALICYLATE) PATCH",
+    "set_id": "5bb6c6a3-7dc0-463d-ab2c-9f3bd3f3eff5",
+    "ingredient_ids": [
+      "ingredient:camphor",
+      "ingredient:menthol",
+      "ingredient:methyl-salicylate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:5bb6c6a3-7dc0-463d-ab2c-9f3bd3f3eff5:Dec 06, 2024"
+  },
+  {
+    "position": 155,
+    "product_id": "OTC-155",
+    "product_title": "ICY HOT DRY (MENTHOL) SPRAY",
+    "set_id": "720a85cc-8e98-43f2-9cc8-5636ae09624f",
+    "ingredient_ids": [
+      "ingredient:menthol"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:720a85cc-8e98-43f2-9cc8-5636ae09624f:Jan 14, 2026"
+  },
+  {
+    "position": 156,
+    "product_id": "OTC-156",
+    "product_title": "BIOFREEZE (MENTHOL) SPRAY",
+    "set_id": "00bb462a-27d0-6f74-e063-6394a90a90ec",
+    "ingredient_ids": [
+      "ingredient:menthol"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:00bb462a-27d0-6f74-e063-6394a90a90ec:May 20, 2026"
+  },
+  {
+    "position": 157,
+    "product_id": "OTC-157",
+    "product_title": "ASPERCREME ARTHRITIS (DICLOFENAC SODIUM) GEL",
+    "set_id": "81f78685-c416-48b5-8840-eef03a66bc28",
+    "ingredient_ids": [
+      "ingredient:diclofenac"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:81f78685-c416-48b5-8840-eef03a66bc28:Jan 12, 2026"
+  },
+  {
+    "position": 158,
+    "product_id": "OTC-158",
+    "product_title": "ORAJEL SUPERMARIO (ANTICAVITY TOOTHPASTE) PASTE, DENTIFRICE",
+    "set_id": "27d2f6cb-8661-da9c-e063-6394a90a5bde",
+    "ingredient_ids": [],
+    "status": "needs_manual_mapping",
+    "rules": 0
+  },
+  {
+    "position": 159,
+    "product_id": "OTC-159",
+    "product_title": "ANBESOL MAXIMUM STRENGTH (BENZOCAINE) GEL",
+    "set_id": "dcc37403-0192-4658-bb7a-059273ce0047",
+    "ingredient_ids": [
+      "ingredient:benzocaine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:dcc37403-0192-4658-bb7a-059273ce0047:Jun 23, 2026"
+  },
+  {
+    "position": 160,
+    "product_id": "OTC-160",
+    "product_title": "CEPACOL EXTRA STRENGTH SORE THROAT CHERRY (BENZOCAINE AND MENTHOL) LOZENGE",
+    "set_id": "941e36dd-d8d0-4e5c-8585-10e8f06bf8f0",
+    "ingredient_ids": [
+      "ingredient:benzocaine",
+      "ingredient:menthol"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:941e36dd-d8d0-4e5c-8585-10e8f06bf8f0:May 13, 2026"
+  },
+  {
+    "position": 161,
+    "product_id": "OTC-161",
+    "product_title": "CHLORASEPTIC MAX (MENTHOL AND BENZOCAINE) LOZENGE",
+    "set_id": "edd12a2d-aa27-4f15-9ce6-862e4b6144c4",
+    "ingredient_ids": [
+      "ingredient:menthol",
+      "ingredient:benzocaine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:edd12a2d-aa27-4f15-9ce6-862e4b6144c4:Jan 22, 2025"
+  },
+  {
+    "position": 162,
+    "product_id": "OTC-162",
+    "product_title": "NICORETTE PEPPERMINT (NICOTINE POLACRILEX) LOZENGE",
+    "set_id": "990a4a65-d573-46a9-889d-60afb0018944",
+    "ingredient_ids": [
+      "ingredient:nicotine-polacrilex"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:990a4a65-d573-46a9-889d-60afb0018944:Sep 01, 2025"
+  },
+  {
+    "position": 163,
+    "product_id": "OTC-163",
+    "product_title": "WOMENS ROGAINE UNSCENTED (MINOXIDIL) AEROSOL, FOAM",
+    "set_id": "4d328537-b7f5-43cc-9837-c5a0c6c390f8",
+    "ingredient_ids": [
+      "ingredient:minoxidil"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:4d328537-b7f5-43cc-9837-c5a0c6c390f8:Nov 15, 2024"
+  },
+  {
+    "position": 164,
+    "product_id": "OTC-164",
+    "product_title": "TYLENOL EXTRA STRENGTH (ACETAMINOPHEN) POWDER",
+    "set_id": "ab02080a-c903-4e4a-a9f3-2b8197ed2f2b",
+    "ingredient_ids": [
+      "ingredient:acetaminophen"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:ab02080a-c903-4e4a-a9f3-2b8197ed2f2b:Sep 22, 2025"
+  },
+  {
+    "position": 165,
+    "product_id": "OTC-165",
+    "product_title": "ADVIL (IBUPROFEN) CAPSULE, LIQUID FILLED",
+    "set_id": "1f01c10a-9434-91a4-2ee4-352315a6b610",
+    "ingredient_ids": [
+      "ingredient:ibuprofen"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:1f01c10a-9434-91a4-2ee4-352315a6b610:Jul 31, 2026"
+  },
+  {
+    "position": 166,
+    "product_id": "OTC-166",
+    "product_title": "MOTRIN IB (IBUPROFEN) TABLET, FILM COATED MOTRIN IB, CVP HEALTH (IBUPROFEN) TABLET, FILM COATED MOTRIN IB, TRAVEL BASIX (IBUPROFEN) TABLET, FILM COATED",
+    "set_id": "c2b99756-3e03-4d9f-9ce6-7db879afe3a1",
+    "ingredient_ids": [
+      "ingredient:ibuprofen"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:c2b99756-3e03-4d9f-9ce6-7db879afe3a1:Dec 11, 2025"
+  },
+  {
+    "position": 167,
+    "product_id": "OTC-167",
+    "product_title": "ALEVE (NAPROXEN SODIUM) CAPSULE, LIQUID FILLED",
+    "set_id": "1266393e-b55e-4e34-9710-0b87209f4158",
+    "ingredient_ids": [
+      "ingredient:naproxen"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:1266393e-b55e-4e34-9710-0b87209f4158:Dec 05, 2025"
+  },
+  {
+    "position": 168,
+    "product_id": "OTC-168",
+    "product_title": "BAYER ASPIRIN (ASPIRIN) TABLET",
+    "set_id": "8d59713e-78ea-1d00-e053-2995a90a4d67",
+    "ingredient_ids": [
+      "ingredient:aspirin"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:8d59713e-78ea-1d00-e053-2995a90a4d67:Jul 11, 2019"
+  },
+  {
+    "position": 169,
+    "product_id": "OTC-169",
+    "product_title": "EXCEDRIN RAPID RELIEF (ACETAMINOPHEN) TABLET",
+    "set_id": "3a36b7ca-396e-cfd8-e063-6294a90a76ab",
+    "ingredient_ids": [
+      "ingredient:acetaminophen"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:3a36b7ca-396e-cfd8-e063-6294a90a76ab:Mar 31, 2026"
+  },
+  {
+    "position": 170,
+    "product_id": "OTC-170",
+    "product_title": "ZYRTEC HIVES (CETIRIZINE HYDROCHLORIDE) SOLUTION",
+    "set_id": "31400cb2-fe85-ef74-e063-6294a90a11fb",
+    "ingredient_ids": [
+      "ingredient:cetirizine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:31400cb2-fe85-ef74-e063-6294a90a11fb:Jun 18, 2025"
+  },
+  {
+    "position": 171,
+    "product_id": "OTC-171",
+    "product_title": "CLARITIN (LORATADINE) TABLET, CHEWABLE",
+    "set_id": "20938e05-bc3e-51aa-e054-00144ff88e88",
+    "ingredient_ids": [
+      "ingredient:loratadine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:20938e05-bc3e-51aa-e054-00144ff88e88:Dec 08, 2025"
+  },
+  {
+    "position": 172,
+    "product_id": "OTC-172",
+    "product_title": "ALLEGRA ALLERGY (FEXOFENADINE HYDROCHLORIDE) TABLET, FILM COATED",
+    "set_id": "e8a00fa1-79af-4ce6-885f-0ce12c5da836",
+    "ingredient_ids": [
+      "ingredient:fexofenadine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:e8a00fa1-79af-4ce6-885f-0ce12c5da836:Apr 24, 2026"
+  },
+  {
+    "position": 173,
+    "product_id": "OTC-173",
+    "product_title": "BENADRYL ALLERGY (DIPHENHYDRAMINE HYDROCHLORIDE) SOLUTION",
+    "set_id": "224ba2a3-1a93-29c8-e063-6394a90a9bef",
+    "ingredient_ids": [
+      "ingredient:diphenhydramine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:224ba2a3-1a93-29c8-e063-6394a90a9bef:Jan 31, 2025"
+  },
+  {
+    "position": 174,
+    "product_id": "OTC-174",
+    "product_title": "FLONASE HEADACHE AND ALLERGY RELIEF (ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE HCL) TABLET",
+    "set_id": "282c103c-3888-4a35-a5b1-d492ed6892c1",
+    "ingredient_ids": [
+      "ingredient:acetaminophen",
+      "ingredient:chlorpheniramine",
+      "ingredient:phenylephrine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:282c103c-3888-4a35-a5b1-d492ed6892c1:Apr 10, 2024"
+  },
+  {
+    "position": 175,
+    "product_id": "OTC-175",
+    "product_title": "AFRIN ORIGINAL NASAL (OXYMETAZOLINE HYDROCHLORIDE) SPRAY",
+    "set_id": "ecfa14b8-a3f3-4569-b489-c9e1a51cf09e",
+    "ingredient_ids": [
+      "ingredient:oxymetazoline"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:ecfa14b8-a3f3-4569-b489-c9e1a51cf09e:Sep 02, 2026"
+  },
+  {
+    "position": 176,
+    "product_id": "OTC-176",
+    "product_title": "SUDAFED PE HEAD CONGESTION PLUS PAIN (IBUPROFEN AND PHENYLEPHRINE HYDROCHLORIDE) TABLET, FILM COATED",
+    "set_id": "76513fb2-7323-4f1f-8a10-92f8f603cf97",
+    "ingredient_ids": [
+      "ingredient:ibuprofen",
+      "ingredient:phenylephrine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:76513fb2-7323-4f1f-8a10-92f8f603cf97:Mar 13, 2025"
+  },
+  {
+    "position": 177,
+    "product_id": "OTC-177",
+    "product_title": "MUCINEX DM (GUAIFENESIN AND DEXTROMETHORPHAN HYDROBROMIDE) TABLET, EXTENDED RELEASE",
+    "set_id": "3c9c8fb0-8a00-4b0f-e063-6394a90af632",
+    "ingredient_ids": [
+      "ingredient:guaifenesin",
+      "ingredient:dextromethorphan"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:3c9c8fb0-8a00-4b0f-e063-6394a90af632:Sep 01, 2026"
+  },
+  {
+    "position": 178,
+    "product_id": "OTC-178",
+    "product_title": "ROBITUSSIN DIRECT COUGH (DEXTROMETHORPHAN HYDROBROMIDE) CAPSULE, LIQUID FILLED",
+    "set_id": "70c9556b-063a-4fb3-96f6-1d4ffa495ed4",
+    "ingredient_ids": [
+      "ingredient:dextromethorphan"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:70c9556b-063a-4fb3-96f6-1d4ffa495ed4:Aug 03, 2026"
+  },
+  {
+    "position": 179,
+    "product_id": "OTC-179",
+    "product_title": "DELSYM (DEXTROMETHORPHAN) (DEXTROMETHORPHAN) SUSPENSION, EXTENDED RELEASE",
+    "set_id": "bb0116d0-93e4-44e2-b0e4-c0b773eced6f",
+    "ingredient_ids": [
+      "ingredient:dextromethorphan"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:bb0116d0-93e4-44e2-b0e4-c0b773eced6f:May 22, 2026"
+  },
+  {
+    "position": 180,
+    "product_id": "OTC-180",
+    "product_title": "VICKS VAPOCOOL (MENTHOL) LOZENGE",
+    "set_id": "3de4268b-61a0-b92f-e063-6394a90a40b9",
+    "ingredient_ids": [
+      "ingredient:menthol"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:3de4268b-61a0-b92f-e063-6394a90a40b9:Oct 06, 2026"
+  },
+  {
+    "position": 181,
+    "product_id": "OTC-181",
+    "product_title": "DAYQUIL COLD AND FLU W/VAPOCOOL, 4CT (PE-FREE) (ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE TABLET, COATED) TABLET, COATED",
+    "set_id": "5e160f9f-d113-8656-e063-6394a90ae57a",
+    "ingredient_ids": [
+      "ingredient:pe-free"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:5e160f9f-d113-8656-e063-6394a90ae57a:Oct 19, 2026"
+  },
+  {
+    "position": 182,
+    "product_id": "OTC-182",
+    "product_title": "VICKS NYQUIL HOT REMEDY COLD AND FLU (ACETAMINOPHEN, DIPHENHYDRAMINE HCL) POWDER, FOR SOLUTION",
+    "set_id": "4535d4fe-9de7-f2c6-e063-6394a90a944a",
+    "ingredient_ids": [
+      "ingredient:acetaminophen",
+      "ingredient:diphenhydramine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:4535d4fe-9de7-f2c6-e063-6394a90a944a:Oct 05, 2026"
+  },
+  {
+    "position": 183,
+    "product_id": "OTC-183",
+    "product_title": "THERAFLU COLD AND FLU (ACETAMINOPHEN, PHENIRAMINE MALEATE, PHENYLEPHRINE HYDROCHLORIDE) POWDER",
+    "set_id": "7fd78fc6-1f80-4866-bb8b-6dbf8af80482",
+    "ingredient_ids": [
+      "ingredient:acetaminophen",
+      "ingredient:pheniramine",
+      "ingredient:phenylephrine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:7fd78fc6-1f80-4866-bb8b-6dbf8af80482:May 03, 2024"
+  },
+  {
+    "position": 184,
+    "product_id": "OTC-184",
+    "product_title": "CORICIDIN HBP COUGH AND COLD (CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROCHLORIDE) TABLET",
+    "set_id": "b1cd7d9f-0ab4-21ce-e053-2a95a90a8c3d",
+    "ingredient_ids": [
+      "ingredient:chlorpheniramine",
+      "ingredient:dextromethorphan"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:b1cd7d9f-0ab4-21ce-e053-2a95a90a8c3d:Dec 05, 2025"
+  },
+  {
+    "position": 185,
+    "product_id": "OTC-185",
+    "product_title": "ALKA-SELTZER ORIGINAL (ASPIRIN, CITRIC ACID, SODIUM BICARBONATE) TABLET",
+    "set_id": "5aa8704d-ab95-62f0-e053-2991aa0a5ed2",
+    "ingredient_ids": [
+      "ingredient:aspirin",
+      "ingredient:citric-acid",
+      "ingredient:sodium-bicarbonate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:5aa8704d-ab95-62f0-e053-2991aa0a5ed2:Jul 29, 2021"
+  },
+  {
+    "position": 186,
+    "product_id": "OTC-186",
+    "product_title": "PEPCID COMPLETE (FAMOTIDINE, CALCIUM CARBONATE, MAGNESIUM HYDROXIDE CHEWABLE TABLET) TABLET, CHEWABLE PEPCID COMPLETE, TRAVEL BASIX (FAMOTIDINE, CALCIUM CARBONATE, MAGNESIUM HYDROXIDE CHEWABLE TABLET) TABLET, CHEWABLE",
+    "set_id": "d08984b8-ce03-9e95-e053-2995a90ae6f0",
+    "ingredient_ids": [
+      "ingredient:famotidine",
+      "ingredient:calcium-carbonate",
+      "ingredient:magnesium-hydroxide-chewable-tablet"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:d08984b8-ce03-9e95-e053-2995a90ae6f0:Jan 26, 2024"
+  },
+  {
+    "position": 187,
+    "product_id": "OTC-187",
+    "product_title": "NEXIUM 24HR (ESOMEPRAZOLE MAGNESIUM) CAPSULE, DELAYED RELEASE NEXIUM 24HR CLEARMINIS (ESOMEPRAZOLE MAGNESIUM) CAPSULE, DELAYED RELEASE",
+    "set_id": "4513934d-0cf0-40fc-a348-b4e75a33b094",
+    "ingredient_ids": [
+      "ingredient:esomeprazole-magnesium"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:4513934d-0cf0-40fc-a348-b4e75a33b094:Mar 21, 2024"
+  },
+  {
+    "position": 188,
+    "product_id": "OTC-188",
+    "product_title": "TUMS ULTRA (CALCIUM CARBONATE) TABLET, CHEWABLE",
+    "set_id": "f4786707-a0f7-4ba8-9656-06278d1b4b6c",
+    "ingredient_ids": [
+      "ingredient:calcium-carbonate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:f4786707-a0f7-4ba8-9656-06278d1b4b6c:Sep 30, 2026"
+  },
+  {
+    "position": 189,
+    "product_id": "OTC-189",
+    "product_title": "ROLAIDS POWER CHEWS 1000 (CALCIUM CARBONATE) TABLET, CHEWABLE",
+    "set_id": "2f9ea017-a48d-a225-e063-6294a90a9ec3",
+    "ingredient_ids": [
+      "ingredient:calcium-carbonate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:2f9ea017-a48d-a225-e063-6294a90a9ec3:Oct 05, 2026"
+  },
+  {
+    "position": 190,
+    "product_id": "OTC-190",
+    "product_title": "MYLANTA COAT AND COOL (CALCIUM CARBONATE, MAGNESIUM HYDROXIDE, SIMETHICONE) LIQUID",
+    "set_id": "b6571f7f-e1ea-4034-a46c-4de1d01beec3",
+    "ingredient_ids": [
+      "ingredient:calcium-carbonate",
+      "ingredient:magnesium-hydroxide",
+      "ingredient:simethicone"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:b6571f7f-e1ea-4034-a46c-4de1d01beec3:Jan 11, 2024"
+  },
+  {
+    "position": 191,
+    "product_id": "OTC-191",
+    "product_title": "PEPTO-BISMOL (BISMUTH SUBSALICYLATE) TABLET, CHEWABLE PEPTO-BISMOL CHEWABLE, CVP HEALTH (BISMUTH SUBSALICYLATE) TABLET, CHEWABLE PEPTO-BISMOL CHEWABLE, TRAVEL BASIX (BISMUTH SUBSALICYLATE) TABLET, CHEWABLE",
+    "set_id": "dd2f2205-34d1-4960-bf37-bb8d534cd0e1",
+    "ingredient_ids": [
+      "ingredient:bismuth-subsalicylate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:dd2f2205-34d1-4960-bf37-bb8d534cd0e1:Oct 05, 2023"
+  },
+  {
+    "position": 192,
+    "product_id": "OTC-192",
+    "product_title": "IMODIUM A-D (LOPERAMIDE HYDROCHLORIDE) CAPSULE, LIQUID FILLED",
+    "set_id": "31bfcbb4-c58c-4edc-ac68-356a448b7507",
+    "ingredient_ids": [
+      "ingredient:loperamide"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:31bfcbb4-c58c-4edc-ac68-356a448b7507:Dec 24, 2025"
+  },
+  {
+    "position": 193,
+    "product_id": "OTC-193",
+    "product_title": "GAS-X MAXIMUM STRENGTH SOFTGELS (SIMETHICONE) CAPSULE, LIQUID FILLED",
+    "set_id": "45d1e373-0717-47df-9160-619c451666f4",
+    "ingredient_ids": [
+      "ingredient:simethicone"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:45d1e373-0717-47df-9160-619c451666f4:Apr 08, 2024"
+  },
+  {
+    "position": 194,
+    "product_id": "OTC-194",
+    "product_title": "DULCOLAX (POLYETHYLENE GLYCOL 3350) POWDER",
+    "set_id": "ed16d0f4-74e7-4fa3-989d-c6840a5d3e71",
+    "ingredient_ids": [
+      "ingredient:polyethylene-glycol-3350"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:ed16d0f4-74e7-4fa3-989d-c6840a5d3e71:Oct 01, 2025"
+  },
+  {
+    "position": 195,
+    "product_id": "OTC-195",
+    "product_title": "COLACE (DOCUSATE SODIUM - SENNOSIDES) TABLET, FILM COATED",
+    "set_id": "9fce5c4b-1e2e-47ef-13e5-c3bd5320d41b",
+    "ingredient_ids": [
+      "ingredient:docusate-sodium-sennosides"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:9fce5c4b-1e2e-47ef-13e5-c3bd5320d41b:Sep 14, 2026"
+  },
+  {
+    "position": 196,
+    "product_id": "OTC-196",
+    "product_title": "SENOKOT (STANDARDIZED SENNA CONCENTRATE) TABLET, FILM COATED",
+    "set_id": "d5bf67e5-82c6-edbf-e9ec-e027fdd47c84",
+    "ingredient_ids": [
+      "ingredient:senna-concentrate"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:d5bf67e5-82c6-edbf-e9ec-e027fdd47c84:Aug 25, 2025"
+  },
+  {
+    "position": 197,
+    "product_id": "OTC-197",
+    "product_title": "PREPARATION H (COCOA BUTTER, PHENYLEPHRINE HYDROCHLORIDE) SUPPOSITORY",
+    "set_id": "a23ded81-78ba-c199-a8f0-aaf360b216ff",
+    "ingredient_ids": [
+      "ingredient:cocoa-butter",
+      "ingredient:phenylephrine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:a23ded81-78ba-c199-a8f0-aaf360b216ff:Mar 04, 2024"
+  },
+  {
+    "position": 198,
+    "product_id": "OTC-198",
+    "product_title": "MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT",
+    "set_id": "587e42b4-cbdc-4a03-afae-f9e5e6605937",
+    "ingredient_ids": [
+      "ingredient:tioconazole"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:587e42b4-cbdc-4a03-afae-f9e5e6605937:Sep 07, 2026"
+  },
+  {
+    "position": 199,
+    "product_id": "OTC-199",
+    "product_title": "LOTRIMIN ULTRA (BUTENAFINE HYDROCHLORIDE) CREAM",
+    "set_id": "d11dfdf6-9b36-03bc-e053-2995a90a0bc3",
+    "ingredient_ids": [
+      "ingredient:butenafine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:d11dfdf6-9b36-03bc-e053-2995a90a0bc3:Dec 05, 2025"
+  },
+  {
+    "position": 200,
+    "product_id": "OTC-200",
+    "product_title": "LAMISIL AT CREAM (TERBINAFINE HYDROCHLORIDE) CREAM",
+    "set_id": "9dea4789-bf1c-1577-e053-2a95a90a5381",
+    "ingredient_ids": [
+      "ingredient:terbinafine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:9dea4789-bf1c-1577-e053-2a95a90a5381:Nov 19, 2025"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "ingredient_id": "ingredient:calcium",
+    "slug": "Calcium",
+    "status": "ingested",
+    "sections": [
+      "interactions_with_medications",
+      "recommended_intakes"
+    ],
+    "rules": 4,
+    "source_url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+  },
+  {
+    "ingredient_id": "ingredient:iron",
+    "slug": "Iron",
+    "status": "ingested",
+    "sections": [
+      "interactions_with_medications",
+      "recommended_intakes"
+    ],
+    "rules": 6,
+    "source_url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+  },
+  {
+    "ingredient_id": "ingredient:magnesium",
+    "slug": "Magnesium",
+    "status": "ingested",
+    "sections": [
+      "interactions_with_medications",
+      "recommended_intakes"
+    ],
+    "rules": 2,
+    "source_url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+  },
+  {
+    "ingredient_id": "ingredient:vitamin-d",
+    "slug": "VitaminD",
+    "status": "ingested",
+    "sections": [
+      "health_risks_from_excessive_vitamin_d",
+      "interactions_with_medications",
+      "recommended_intakes"
+    ],
+    "rules": 4,
+    "source_url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+  },
+  {
+    "ingredient_id": "ingredient:vitamin-k",
+    "slug": "VitaminK",
+    "status": "ingested",
+    "sections": [
+      "interactions_with_medications",
+      "recommended_intakes"
+    ],
+    "rules": 2,
+    "source_url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+  },
+  {
+    "ingredient_id": "ingredient:vitamin-e",
+    "slug": "VitaminE",
+    "status": "ingested",
+    "sections": [
+      "interactions_with_medications",
+      "recommended_intakes"
+    ],
+    "rules": 2,
+    "source_url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+  },
+  {
+    "ingredient_id": "ingredient:multivitamin",
+    "slug": "MVMS",
+    "status": "ingested",
+    "sections": [
+      "interactions_with_medications"
+    ],
+    "rules": 0,
+    "source_url": "https://ods.od.nih.gov/factsheets/MVMS-HealthProfessional/"
+  },
+  {
+    "ingredient_id": "ingredient:riboflavin",
+    "slug": "Riboflavin",
+    "status": "ingested",
+    "sections": [
+      "interactions_with_medications",
+      "recommended_intakes"
+    ],
+    "rules": 0,
+    "source_url": "https://ods.od.nih.gov/factsheets/Riboflavin-HealthProfessional/"
+  }
+]

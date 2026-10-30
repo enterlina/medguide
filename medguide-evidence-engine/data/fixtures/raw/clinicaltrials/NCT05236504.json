@@ -1,0 +1,24 @@
+{
+  "_snapshot": {
+    "retrieved_at": "2026-10-26T17:30:00+00:00",
+    "source_updated_at": "2022-04-01T00:00:00+00:00",
+    "license": "ClinicalTrials.gov public data",
+    "fetch_status": "fetched",
+    "source_uri": "https://clinicaltrials.gov/study/NCT05236504"
+  },
+  "nct_id": "NCT05236504",
+  "title": "Effects of a Novel Supplement on Sleep, Metabolism, Body Composition and Performance",
+  "overall_status": "UNKNOWN",
+  "enrollment": 35,
+  "enrollment_type": "ESTIMATED",
+  "interventions": [
+    {"name": "Melatonin and magnesium-containing supplement", "form": "pod"}
+  ],
+  "outcomes": [
+    {"measure": "Sleep quality", "results": "not_reported"}
+  ],
+  "has_results": false,
+  "peer_reviewed_publication": false,
+  "source_updated_at": "2022-04-01T00:00:00+00:00"
+}
+

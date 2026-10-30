@@ -1,0 +1,30 @@
+{
+  "database": "data/interactions/interactions.sqlite3",
+  "read_only": true,
+  "review_status_changed": false,
+  "important_semantics": "source_span_exact_match verifies provenance only. It does not verify clinical interpretation and does not promote source_span_verified or human_reviewed status.",
+  "rules_total": 7865,
+  "source_span_exact_match": 7864,
+  "source_span_exact_match_rate": 0.999872854418309,
+  "source_span_mismatch": 1,
+  "unique_rule_signatures": 6912,
+  "duplicate_groups": 813,
+  "rules_in_duplicate_groups": 1766,
+  "review_status_distribution": {
+    "extracted": 7824,
+    "source_span_verified": 40,
+    "rejected": 1
+  },
+  "interaction_type_distribution": {
+    "drug_drug": 7183,
+    "drug_beverage": 194,
+    "timing_separation": 242,
+    "drug_food": 146,
+    "drug_supplement": 100
+  },
+  "source_distribution": {
+    "dailymed": 4778,
+    "openfda": 3067,
+    "nih_ods": 20
+  }
+}

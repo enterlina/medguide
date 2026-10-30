@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "created_at": "2026-10-27T18:02:19.783592+00:00",
+  "source": "PubMed E-utilities",
+  "source_policy": "Recent discovery only; no efficacy conclusion and no automatic admission.",
+  "since": "2021/01/01",
+  "until": "2026/10/27",
+  "per_supplement_cap": 3,
+  "supplement_count": 100,
+  "association_count": 240,
+  "unique_publication_count": 220,
+  "evidence_gap_count": 16,
+  "corpus_record_cap": 500,
+  "truncated": false,
+  "files": {
+    "catalog": "data/supplements/supplements_2025_2026.tsv",
+    "records": "pubmed_recent.json",
+    "associations": "supplement_publication_links.json",
+    "gaps": "evidence_gaps.json"
+  }
+}

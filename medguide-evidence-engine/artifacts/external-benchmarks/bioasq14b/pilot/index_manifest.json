@@ -1,0 +1,10 @@
+{
+  "processing_fingerprint": "a9f8c009e9985cc711234fd21d11da630f5b678271a59790cbe8e0bb9b23c987",
+  "model_id": "intfloat/multilingual-e5-base",
+  "model_revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+  "dimension": 768,
+  "normalized": true,
+  "max_input_tokens": 512,
+  "document_count": 57940,
+  "chunk_count": 67571
+}

@@ -1,0 +1,101 @@
+rank,category,supplement_name,status,best_group_id,best_group_name,normalized_components,source_class,has_ods_fact_sheet,product_label_count,fact_sheet_count
+1,Longevity & Anti-Aging,NMN (Nicotinamide Mononucleotide),matched,7691,Nicotinamide Mononucleotide,nicotinamide mononucleotide,dsld_product_label_only,False,13,0
+2,Longevity & Anti-Aging,NR (Nicotinamide Riboside),matched,3687,Vitamin B3 (Nicotinamide riboside),nicotinamide riboside,dsld_product_label_only,False,10,0
+3,Longevity & Anti-Aging,NAD+,matched,1789,Nicotinamide Adenine Dinucleotide,NAD+,dsld_product_label_only,False,59,0
+4,Longevity & Anti-Aging,Spermidine,matched,7793,Polyamine (unspecified),Spermidine,dsld_product_label_only,False,10,0
+5,Longevity & Anti-Aging,Urolithin A,not_found,,,urolithin A,dsld_product_label_only,False,1,0
+6,Longevity & Anti-Aging,Ca-AKG (Calcium Alpha-Ketoglutarate),matched,3085,Calcium alpha-ketoglutarate,calcium alpha-ketoglutarate,nih_ods,True,0,0
+7,Longevity & Anti-Aging,Fisetin,matched,2651,Fisetin,Fisetin,dsld_product_label_only,False,23,0
+8,Longevity & Anti-Aging,Quercetin,matched,1099,Quercetin,Quercetin,dsld_product_label_only,False,528,7
+9,Longevity & Anti-Aging,Resveratrol,matched,438,Resveratrol,Resveratrol,dsld_product_label_only,False,790,6
+10,Longevity & Anti-Aging,Taurine,matched,7960,Taurine,Taurine,dsld_product_label_only,False,291,0
+11,Brain Health & Nootropics,Lion's Mane Mushroom,matched,2453,Hericium mushroom,Lion's Mane Mushroom,dsld_product_label_only,False,53,0
+12,Brain Health & Nootropics,L-Theanine,matched,7985,Theanine,L-Theanine,dsld_product_label_only,False,359,0
+13,Brain Health & Nootropics,Citicoline (CDP-Choline),matched,3806,Citicholine,citicoline,dsld_product_label_only,False,51,0
+14,Brain Health & Nootropics,Alpha-GPC,matched,315,Alpha-GPC,Alpha-GPC,dsld_product_label_only,False,75,0
+15,Brain Health & Nootropics,Bacopa Monnieri,matched,2275,Bacopa monnieri,Bacopa Monnieri,dsld_product_label_only,False,26,0
+16,Brain Health & Nootropics,Rhodiola Rosea,matched,115,Rhodiola,Rhodiola Rosea,dsld_product_label_only,False,113,5
+17,Brain Health & Nootropics,Phosphatidylserine,matched,91,Phosphatidylserine,Phosphatidylserine,dsld_product_label_only,False,142,0
+18,Brain Health & Nootropics,Acetyl-L-Carnitine (ALCAR),matched,3,Acetyl L-Carnitine,acetyl-L-carnitine,nih_ods,True,471,2
+19,Brain Health & Nootropics,L-Tyrosine,matched,1540,Tyrosine,L-Tyrosine,dsld_product_label_only,False,244,9
+20,Brain Health & Nootropics,Saffron Extract,matched,460,Saffron,Saffron Extract,dsld_product_label_only,False,36,5
+21,"Sleep, Stress & Mood",Magnesium Glycinate,matched,82,Magnesium,Magnesium Glycinate,nih_ods,True,226,11
+22,"Sleep, Stress & Mood",Magnesium L-Threonate,matched,82,Magnesium,Magnesium L-Threonate,nih_ods,True,54,11
+23,"Sleep, Stress & Mood",Ashwagandha (KSM-66),matched,11,Ashwagandha,ashwagandha,dsld_product_label_only,False,665,7
+24,"Sleep, Stress & Mood",Apigenin,matched,6916,Apigenin,Apigenin,dsld_product_label_only,False,20,0
+25,"Sleep, Stress & Mood",Glycine,matched,8895,Glycerol,Glycine,dsld_product_label_only,False,129,0
+26,"Sleep, Stress & Mood",GABA,matched,443,GABA,GABA,dsld_product_label_only,False,290,8
+27,"Sleep, Stress & Mood",Lemon Balm Extract,matched,1091,lemon balm,Lemon Balm Extract,dsld_product_label_only,False,26,5
+28,"Sleep, Stress & Mood",Tart Cherry Extract,matched,2619,cherry (unspecified),Tart Cherry Extract,dsld_product_label_only,False,36,0
+29,"Sleep, Stress & Mood",Inositol,matched,7462,Inositol,Inositol,dsld_product_label_only,False,435,0
+30,"Sleep, Stress & Mood",Melatonin,matched,7601,Melatonin,Melatonin,dsld_product_label_only,False,1724,0
+31,Gut Health & Microbiome,Akkermansia muciniphila,not_found,,,Akkermansia muciniphila,dsld_product_label_only,False,1,0
+32,Gut Health & Microbiome,Clostridium butyricum,matched,4127,Clostridium butyricum,Clostridium butyricum,no_official_interaction_source_found,False,0,0
+33,Gut Health & Microbiome,Lactobacillus reuteri,matched,2746,Lactobacillus reuteri,Lactobacillus reuteri,dsld_product_label_only,False,10,0
+34,Gut Health & Microbiome,Bifidobacterium longum,matched,2570,Bifidobacterium longum,Bifidobacterium longum,dsld_product_label_only,False,3,0
+35,Gut Health & Microbiome,Saccharomyces boulardii,matched,9346,Saccharomyces boulardii,Saccharomyces boulardii,dsld_product_label_only,False,125,0
+36,Gut Health & Microbiome,Bovine Colostrum,matched,393,Colostrum,Bovine Colostrum,dsld_product_label_only,False,3,0
+37,Gut Health & Microbiome,Postbiotics,not_found,,,postbiotic,dsld_product_label_only,False,4,0
+38,Gut Health & Microbiome,Butyrate / Tributyrin,matched,3675,Triglyceride (unspecified),butyrate | tributyrin,dsld_product_label_only,False,6,0
+39,Gut Health & Microbiome,PHGG (Partially Hydrolyzed Guar Gum),matched,2868,Guar,partially hydrolyzed guar gum,no_official_interaction_source_found,False,0,0
+40,Gut Health & Microbiome,Psyllium Husk,matched,3045,Psyllium fiber,Psyllium Husk,dsld_product_label_only,False,162,0
+41,Metabolism & GLP-1,Berberine,matched,6975,Berberine,Berberine,dsld_product_label_only,False,348,0
+42,Metabolism & GLP-1,Dihydroberberine,matched,6975,Berberine,Dihydroberberine,dsld_product_label_only,False,2,0
+43,Metabolism & GLP-1,Chromium Picolinate,matched,2491,Chromium Picolinate,Chromium Picolinate,dsld_product_label_only,False,293,0
+44,Metabolism & GLP-1,Alpha-Lipoic Acid,matched,6878,Alpha-Lipoic Acid,Alpha-Lipoic Acid,dsld_product_label_only,False,711,0
+45,Metabolism & GLP-1,Myo-Inositol,matched,7462,Inositol,Myo-Inositol,dsld_product_label_only,False,18,0
+46,Metabolism & GLP-1,D-Chiro-Inositol,matched,7462,Inositol,D-Chiro-Inositol,dsld_product_label_only,False,28,0
+47,Metabolism & GLP-1,White Mulberry Leaf Extract,matched,2583,Mulberry (unspecified),White Mulberry Leaf Extract,dsld_product_label_only,False,9,0
+48,Metabolism & GLP-1,Apple Cider Vinegar Gummies,matched,328,Apple Cider Vinegar,apple cider vinegar,dsld_product_label_only,False,448,1
+49,Metabolism & GLP-1,Green Tea EGCG Extract,matched,1173,Green Tea,green tea | EGCG,nccih,False,860,12
+50,Metabolism & GLP-1,Glucomannan,matched,8364,Glucomannan,Glucomannan,dsld_product_label_only,False,88,0
+51,"Fitness, Muscle & Recovery",Creatine Monohydrate,matched,397,Creatine,Creatine Monohydrate,dsld_product_label_only,False,260,10
+52,"Fitness, Muscle & Recovery",Creatine Gummies,matched,397,Creatine,creatine,dsld_product_label_only,False,860,10
+53,"Fitness, Muscle & Recovery",Whey Protein Isolate,matched,1690,Whey Protein,Whey Protein Isolate,dsld_product_label_only,False,434,8
+54,"Fitness, Muscle & Recovery",Clear Whey Protein,matched,1690,Whey Protein,whey protein,dsld_product_label_only,False,1159,8
+55,"Fitness, Muscle & Recovery",Essential Amino Acids (EAA),not_found,,,essential amino acids,dsld_product_label_only,False,15,0
+56,"Fitness, Muscle & Recovery",HMB,matched,1620,Hydroxymethylbutyrate,HMB,dsld_product_label_only,False,103,1
+57,"Fitness, Muscle & Recovery",Beta-Alanine,matched,1061,Beta-Alanine,Beta-Alanine,dsld_product_label_only,False,129,9
+58,"Fitness, Muscle & Recovery",L-Citrulline,matched,2792,Citrulline,L-Citrulline,dsld_product_label_only,False,191,0
+59,"Fitness, Muscle & Recovery",Beetroot Nitrates,matched,1035,Beet,beetroot | nitrate,dsld_product_label_only,False,19,5
+60,"Fitness, Muscle & Recovery",Electrolyte Powders,not_found,,,electrolytes,dsld_product_label_only,False,103,0
+61,Beauty From Within,Collagen Peptides,matched,4268,Collagen Peptides,Collagen Peptides,dsld_product_label_only,False,351,0
+62,Beauty From Within,Marine Collagen,matched,3167,Collagen,Marine Collagen,dsld_product_label_only,False,97,0
+63,Beauty From Within,Hyaluronic Acid (oral),matched,7440,Hyaluronic acid,hyaluronic acid,dsld_product_label_only,False,356,0
+64,Beauty From Within,Ceramide Supplements,matched,2795,Ceramide,ceramide,dsld_product_label_only,False,5,0
+65,Beauty From Within,Astaxanthin,matched,12,Astaxanthin,Astaxanthin,dsld_product_label_only,False,378,7
+66,Beauty From Within,Glutathione (oral),matched,1621,Glutathione,glutathione,dsld_product_label_only,False,460,7
+67,Beauty From Within,Liposomal Glutathione,matched,1621,Glutathione,glutathione,dsld_product_label_only,False,460,7
+68,Beauty From Within,MSM,matched,2126,MSM (Methylsulfonylmethane),MSM,dsld_product_label_only,False,1183,0
+69,Beauty From Within,Biotin Gummies,matched,22,Biotin,biotin,dsld_product_label_only,False,1087,9
+70,Beauty From Within,Silica Supplements,matched,146,Silicon,silica,dsld_product_label_only,False,98,8
+71,Women's Health & Hormones,DIM (Diindolylmethane),matched,7215,Diindolylymethane,diindolylmethane,dsld_product_label_only,False,30,0
+72,Women's Health & Hormones,Vitex Agnus-Castus,matched,636,Vitex Agnus-Castus,Vitex Agnus-Castus,nccih,False,4,1
+73,Women's Health & Hormones,Maca Root,matched,163,Maca,Maca Root,dsld_product_label_only,False,118,6
+74,Women's Health & Hormones,Shatavari,matched,2083,Asparagus racemosus,Shatavari,dsld_product_label_only,False,89,0
+75,Women's Health & Hormones,D-Mannose,matched,1365,D-Mannose,D-Mannose,dsld_product_label_only,False,180,7
+76,Women's Health & Hormones,Cranberry PACs,matched,47,cranberry,cranberry,nccih,False,826,9
+77,Women's Health & Hormones,Lactoferrin,matched,492,Lactoferrin,Lactoferrin,dsld_product_label_only,False,37,7
+78,Women's Health & Hormones,Methylfolate (5-MTHF),matched,2510,Vitamin B9 (5-Methyltetrahydrofolate),methylfolate,dsld_product_label_only,False,78,0
+79,Women's Health & Hormones,Choline,matched,39,Choline,Choline,dsld_product_label_only,False,322,9
+80,Women's Health & Hormones,Menopause Probiotic Blends,matched,5104,Probiotic (unspecified),probiotic,dsld_product_label_only,False,2503,0
+81,"Immunity, Liver & Cellular Health",NAC (N-Acetylcysteine),matched,7672,N-acetylcysteine,N-acetylcysteine,dsld_product_label_only,False,9,0
+82,"Immunity, Liver & Cellular Health",Milk Thistle (Silymarin),matched,652,Milk Thistle,milk thistle | silymarin,nccih,False,980,12
+83,"Immunity, Liver & Cellular Health",TUDCA,matched,3564,Tauroursodeoxycholic Acid,TUDCA,dsld_product_label_only,False,34,0
+84,"Immunity, Liver & Cellular Health",Black Seed Oil,matched,4116,Black Seed Oil,Black Seed Oil,dsld_product_label_only,False,87,0
+85,"Immunity, Liver & Cellular Health",Curcumin Phytosome,matched,48,Turmeric,Curcumin Phytosome,nccih,False,49,10
+86,"Immunity, Liver & Cellular Health",Boswellia Serrata,matched,1759,Boswellia serrata,Boswellia Serrata,dsld_product_label_only,False,30,0
+87,"Immunity, Liver & Cellular Health",Vitamin D3 + K2,matched,3566,Vitamin D (mixed),vitamin D3 | vitamin K2,nih_ods,True,2950,0
+88,"Immunity, Liver & Cellular Health",Zinc Carnosine,matched,8071,Zinc carnosine,Zinc Carnosine,nih_ods,True,12,0
+89,"Immunity, Liver & Cellular Health",Elderberry Extract,matched,2567,European Elder,Elderberry Extract,nccih,False,43,0
+90,"Immunity, Liver & Cellular Health",Quercetin + Bromelain,matched,1099,Quercetin,quercetin | bromelain,dsld_product_label_only,False,975,7
+91,Emerging & Biohacking,C15:0 (Pentadecanoic Acid),not_found,,,pentadecanoic acid,no_official_interaction_source_found,False,0,0
+92,Emerging & Biohacking,PQQ (Pyrroloquinoline Quinone),matched,1750,Pyrroloquinoline Quinone,pyrroloquinoline quinone,dsld_product_label_only,False,10,0
+93,Emerging & Biohacking,Ergothioneine,matched,4762,Ergothioneine,Ergothioneine,dsld_product_label_only,False,4,0
+94,Emerging & Biohacking,Methylene Blue,not_found,,,methylene blue,dsld_product_label_only,False,1,0
+95,Emerging & Biohacking,Shilajit,matched,2397,Shilajit,Shilajit,dsld_product_label_only,False,108,0
+96,Emerging & Biohacking,Tongkat Ali,matched,1150,Eurycoma Longifolia,Tongkat Ali,dsld_product_label_only,False,82,6
+97,Emerging & Biohacking,Fadogia Agrestis,matched,5733,Fadogia agrestis,Fadogia Agrestis,dsld_product_label_only,False,14,0
+98,Emerging & Biohacking,Turkey Tail Mushroom,matched,8738,Coriolus mushroom,Turkey Tail Mushroom,dsld_product_label_only,False,56,0
+99,Emerging & Biohacking,Reishi Mushroom,matched,327,Reishi mushroom,Reishi Mushroom,dsld_product_label_only,False,114,7
+100,Emerging & Biohacking,Cordyceps Mushroom,matched,8737,Cordyceps,Cordyceps Mushroom,dsld_product_label_only,False,33,0

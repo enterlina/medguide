@@ -1,0 +1,731 @@
+{
+  "run_id": "1ca01cbd85edbb91",
+  "created_at": "2026-10-27T19:47:52.341886+00:00",
+  "question_count": 140,
+  "evaluable_question_count": 0,
+  "eligibility_rule": "all pooled top-10 documents reviewed and at least one positive judgment",
+  "unreviewed_is_not_irrelevant": true,
+  "summary": {
+    "bm25": {
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "ndcg_at_10": null,
+      "mrr": null
+    },
+    "dense": {
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "ndcg_at_10": null,
+      "mrr": null
+    },
+    "hybrid": {
+      "recall_at_5": null,
+      "recall_at_10": null,
+      "ndcg_at_10": null,
+      "mrr": null
+    }
+  },
+  "evaluated_questions": [],
+  "excluded_questions": [
+    {
+      "query_id": "GQ-SUP-061-01",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-062-02",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-063-03",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-064-04",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-065-05",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-066-06",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-067-07",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-068-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-069-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 18
+    },
+    {
+      "query_id": "GQ-SUP-070-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 18
+    },
+    {
+      "query_id": "GQ-SUP-061-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-061-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-062-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-062-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-011-02",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-012-03",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 19
+    },
+    {
+      "query_id": "GQ-SUP-013-04",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-014-05",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-015-06",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-016-07",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-017-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-018-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-019-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-020-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-011-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-011-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-012-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 18
+    },
+    {
+      "query_id": "GQ-SUP-012-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-091-03",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-092-04",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-093-05",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-094-06",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-095-07",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-096-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-097-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-098-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-099-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-100-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-091-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-091-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-092-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-092-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-051-04",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 10
+    },
+    {
+      "query_id": "GQ-SUP-052-05",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-053-06",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-054-07",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-055-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-056-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 12
+    },
+    {
+      "query_id": "GQ-SUP-057-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-058-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-059-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-060-13",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-051-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-051-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 10
+    },
+    {
+      "query_id": "GQ-SUP-052-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-052-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 12
+    },
+    {
+      "query_id": "GQ-SUP-031-05",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-032-06",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-033-07",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 10
+    },
+    {
+      "query_id": "GQ-SUP-034-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-035-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-036-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-037-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 18
+    },
+    {
+      "query_id": "GQ-SUP-038-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-039-13",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-040-14",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-031-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-031-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-032-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 19
+    },
+    {
+      "query_id": "GQ-SUP-032-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-081-06",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-082-07",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-083-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-084-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-085-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-086-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-087-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-088-13",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-089-14",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-090-15",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-081-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-081-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-082-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 19
+    },
+    {
+      "query_id": "GQ-SUP-082-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 19
+    },
+    {
+      "query_id": "GQ-SUP-001-07",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-002-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-003-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 12
+    },
+    {
+      "query_id": "GQ-SUP-004-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-005-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-006-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-007-13",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-008-14",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 18
+    },
+    {
+      "query_id": "GQ-SUP-009-15",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 19
+    },
+    {
+      "query_id": "GQ-SUP-010-01",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 11
+    },
+    {
+      "query_id": "GQ-SUP-001-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-001-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-002-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-002-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-041-08",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-042-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-043-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-044-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-045-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-046-13",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-047-14",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-048-15",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 18
+    },
+    {
+      "query_id": "GQ-SUP-049-01",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-050-02",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-041-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-041-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 11
+    },
+    {
+      "query_id": "GQ-SUP-042-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-042-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-021-09",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-022-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-023-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-024-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-025-13",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-026-14",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-027-15",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-028-01",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-029-02",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-030-03",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-021-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-021-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 12
+    },
+    {
+      "query_id": "GQ-SUP-022-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 14
+    },
+    {
+      "query_id": "GQ-SUP-022-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 12
+    },
+    {
+      "query_id": "GQ-SUP-071-10",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-072-11",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 20
+    },
+    {
+      "query_id": "GQ-SUP-073-12",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-074-13",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-075-14",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-076-15",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 12
+    },
+    {
+      "query_id": "GQ-SUP-077-01",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-078-02",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-079-03",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 13
+    },
+    {
+      "query_id": "GQ-SUP-080-04",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    },
+    {
+      "query_id": "GQ-SUP-071-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 15
+    },
+    {
+      "query_id": "GQ-SUP-071-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 16
+    },
+    {
+      "query_id": "GQ-SUP-072-16",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 19
+    },
+    {
+      "query_id": "GQ-SUP-072-19",
+      "reason": "incomplete_pool",
+      "unreviewed_document_count": 17
+    }
+  ]
+}

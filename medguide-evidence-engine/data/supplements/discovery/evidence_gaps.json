@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 24,
+    "name": "Apigenin",
+    "query": "(\"apigenin supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 25,
+    "name": "Glycine",
+    "query": "(\"glycine supplementation sleep\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 48,
+    "name": "Apple Cider Vinegar Gummies",
+    "query": "(\"apple cider vinegar gummies\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 52,
+    "name": "Creatine Gummies",
+    "query": "(\"creatine gummies\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 54,
+    "name": "Clear Whey Protein",
+    "query": "(\"clear whey protein\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 59,
+    "name": "Beetroot Nitrates",
+    "query": "(\"beetroot nitrate supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 60,
+    "name": "Electrolyte Powders",
+    "query": "(\"electrolyte supplementation hydration\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 62,
+    "name": "Marine Collagen",
+    "query": "(\"marine collagen supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 64,
+    "name": "Ceramide Supplements",
+    "query": "(\"oral ceramide supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 69,
+    "name": "Biotin Gummies",
+    "query": "(\"biotin gummies\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 70,
+    "name": "Silica Supplements",
+    "query": "(\"silica supplementation hair nails\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 80,
+    "name": "Menopause Probiotic Blends",
+    "query": "(\"probiotic menopause\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 87,
+    "name": "Vitamin D3 + K2",
+    "query": "(\"vitamin D3 vitamin K2 supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 90,
+    "name": "Quercetin + Bromelain",
+    "query": "(\"quercetin bromelain\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 93,
+    "name": "Ergothioneine",
+    "query": "(\"ergothioneine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "rank": 97,
+    "name": "Fadogia Agrestis",
+    "query": "(\"Fadogia agrestis\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  }
+]

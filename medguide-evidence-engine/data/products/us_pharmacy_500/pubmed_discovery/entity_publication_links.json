@@ -1,0 +1,590 @@
+[
+  {
+    "pmid": "41470854",
+    "entity_id": "ingredient:0-02-0-005",
+    "name": "0 02 0 005",
+    "entity_type": "ingredient",
+    "query": "(\"0 02 0 005\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42350212",
+    "entity_id": "ingredient:0-02-0-005",
+    "name": "0 02 0 005",
+    "entity_type": "ingredient",
+    "query": "(\"0 02 0 005\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36527476",
+    "entity_id": "ingredient:abaloparatide",
+    "name": "abaloparatide",
+    "entity_type": "ingredient",
+    "query": "(\"abaloparatide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37976923",
+    "entity_id": "ingredient:abaloparatide",
+    "name": "abaloparatide",
+    "entity_type": "ingredient",
+    "query": "(\"abaloparatide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38691582",
+    "entity_id": "ingredient:abaloparatide",
+    "name": "abaloparatide",
+    "entity_type": "ingredient",
+    "query": "(\"abaloparatide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41125862",
+    "entity_id": "ingredient:abaloparatide",
+    "name": "abaloparatide",
+    "entity_type": "ingredient",
+    "query": "(\"abaloparatide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42825520",
+    "entity_id": "ingredient:abaloparatide",
+    "name": "abaloparatide",
+    "entity_type": "ingredient",
+    "query": "(\"abaloparatide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "35213904",
+    "entity_id": "ingredient:acetaminophen",
+    "name": "acetaminophen",
+    "entity_type": "ingredient",
+    "query": "(\"acetaminophen\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37625518",
+    "entity_id": "ingredient:acetaminophen",
+    "name": "acetaminophen",
+    "entity_type": "ingredient",
+    "query": "(\"acetaminophen\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39382046",
+    "entity_id": "ingredient:acetaminophen",
+    "name": "acetaminophen",
+    "entity_type": "ingredient",
+    "query": "(\"acetaminophen\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41134317",
+    "entity_id": "ingredient:acetaminophen",
+    "name": "acetaminophen",
+    "entity_type": "ingredient",
+    "query": "(\"acetaminophen\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42877988",
+    "entity_id": "ingredient:acetaminophen",
+    "name": "acetaminophen",
+    "entity_type": "ingredient",
+    "query": "(\"acetaminophen\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36566399",
+    "entity_id": "ingredient:adapalene",
+    "name": "adapalene",
+    "entity_type": "ingredient",
+    "query": "(\"adapalene\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38102855",
+    "entity_id": "ingredient:adapalene",
+    "name": "adapalene",
+    "entity_type": "ingredient",
+    "query": "(\"adapalene\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38943431",
+    "entity_id": "ingredient:adapalene",
+    "name": "adapalene",
+    "entity_type": "ingredient",
+    "query": "(\"adapalene\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41235624",
+    "entity_id": "ingredient:adapalene",
+    "name": "adapalene",
+    "entity_type": "ingredient",
+    "query": "(\"adapalene\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42555077",
+    "entity_id": "ingredient:adapalene",
+    "name": "adapalene",
+    "entity_type": "ingredient",
+    "query": "(\"adapalene\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "35640058",
+    "entity_id": "ingredient:alcohol",
+    "name": "alcohol",
+    "entity_type": "ingredient",
+    "query": "(\"alcohol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37787162",
+    "entity_id": "ingredient:alcohol",
+    "name": "alcohol",
+    "entity_type": "ingredient",
+    "query": "(\"alcohol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39528345",
+    "entity_id": "ingredient:alcohol",
+    "name": "alcohol",
+    "entity_type": "ingredient",
+    "query": "(\"alcohol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41414920",
+    "entity_id": "ingredient:alcohol",
+    "name": "alcohol",
+    "entity_type": "ingredient",
+    "query": "(\"alcohol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42767091",
+    "entity_id": "ingredient:alcohol",
+    "name": "alcohol",
+    "entity_type": "ingredient",
+    "query": "(\"alcohol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36731043",
+    "entity_id": "ingredient:alendronate",
+    "name": "alendronate",
+    "entity_type": "ingredient",
+    "query": "(\"alendronate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38112890",
+    "entity_id": "ingredient:alendronate",
+    "name": "alendronate",
+    "entity_type": "ingredient",
+    "query": "(\"alendronate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39227560",
+    "entity_id": "ingredient:alendronate",
+    "name": "alendronate",
+    "entity_type": "ingredient",
+    "query": "(\"alendronate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42051047",
+    "entity_id": "ingredient:alendronate",
+    "name": "alendronate",
+    "entity_type": "ingredient",
+    "query": "(\"alendronate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42138626",
+    "entity_id": "ingredient:alendronate",
+    "name": "alendronate",
+    "entity_type": "ingredient",
+    "query": "(\"alendronate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36535853",
+    "entity_id": "ingredient:alirocumab",
+    "name": "alirocumab",
+    "entity_type": "ingredient",
+    "query": "(\"alirocumab\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37595625",
+    "entity_id": "ingredient:alirocumab",
+    "name": "alirocumab",
+    "entity_type": "ingredient",
+    "query": "(\"alirocumab\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39587366",
+    "entity_id": "ingredient:alirocumab",
+    "name": "alirocumab",
+    "entity_type": "ingredient",
+    "query": "(\"alirocumab\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41420785",
+    "entity_id": "ingredient:alirocumab",
+    "name": "alirocumab",
+    "entity_type": "ingredient",
+    "query": "(\"alirocumab\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42185072",
+    "entity_id": "ingredient:alirocumab",
+    "name": "alirocumab",
+    "entity_type": "ingredient",
+    "query": "(\"alirocumab\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36268811",
+    "entity_id": "ingredient:alprazolam",
+    "name": "alprazolam",
+    "entity_type": "ingredient",
+    "query": "(\"alprazolam\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38154094",
+    "entity_id": "ingredient:alprazolam",
+    "name": "alprazolam",
+    "entity_type": "ingredient",
+    "query": "(\"alprazolam\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39541522",
+    "entity_id": "ingredient:alprazolam",
+    "name": "alprazolam",
+    "entity_type": "ingredient",
+    "query": "(\"alprazolam\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41422687",
+    "entity_id": "ingredient:alprazolam",
+    "name": "alprazolam",
+    "entity_type": "ingredient",
+    "query": "(\"alprazolam\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42586497",
+    "entity_id": "ingredient:alprazolam",
+    "name": "alprazolam",
+    "entity_type": "ingredient",
+    "query": "(\"alprazolam\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36404171",
+    "entity_id": "ingredient:aluminum-hydroxide",
+    "name": "aluminum hydroxide",
+    "entity_type": "ingredient",
+    "query": "(\"aluminum hydroxide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37679276",
+    "entity_id": "ingredient:aluminum-hydroxide",
+    "name": "aluminum hydroxide",
+    "entity_type": "ingredient",
+    "query": "(\"aluminum hydroxide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38606958",
+    "entity_id": "ingredient:aluminum-hydroxide",
+    "name": "aluminum hydroxide",
+    "entity_type": "ingredient",
+    "query": "(\"aluminum hydroxide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41022754",
+    "entity_id": "ingredient:aluminum-hydroxide",
+    "name": "aluminum hydroxide",
+    "entity_type": "ingredient",
+    "query": "(\"aluminum hydroxide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41776715",
+    "entity_id": "ingredient:aluminum-hydroxide",
+    "name": "aluminum hydroxide",
+    "entity_type": "ingredient",
+    "query": "(\"aluminum hydroxide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36331821",
+    "entity_id": "ingredient:amlodipine",
+    "name": "amlodipine",
+    "entity_type": "ingredient",
+    "query": "(\"amlodipine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37997527",
+    "entity_id": "ingredient:amlodipine",
+    "name": "amlodipine",
+    "entity_type": "ingredient",
+    "query": "(\"amlodipine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39377925",
+    "entity_id": "ingredient:amlodipine",
+    "name": "amlodipine",
+    "entity_type": "ingredient",
+    "query": "(\"amlodipine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41421750",
+    "entity_id": "ingredient:amlodipine",
+    "name": "amlodipine",
+    "entity_type": "ingredient",
+    "query": "(\"amlodipine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42474349",
+    "entity_id": "ingredient:amlodipine",
+    "name": "amlodipine",
+    "entity_type": "ingredient",
+    "query": "(\"amlodipine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37432701",
+    "entity_id": "ingredient:amlodipine-valsartan",
+    "name": "amlodipine valsartan",
+    "entity_type": "ingredient",
+    "query": "(\"amlodipine valsartan\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38418298",
+    "entity_id": "ingredient:amlodipine-valsartan",
+    "name": "amlodipine valsartan",
+    "entity_type": "ingredient",
+    "query": "(\"amlodipine valsartan\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36581170",
+    "entity_id": "ingredient:amphetamine",
+    "name": "amphetamine",
+    "entity_type": "ingredient",
+    "query": "(\"amphetamine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37532129",
+    "entity_id": "ingredient:amphetamine",
+    "name": "amphetamine",
+    "entity_type": "ingredient",
+    "query": "(\"amphetamine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39614597",
+    "entity_id": "ingredient:amphetamine",
+    "name": "amphetamine",
+    "entity_type": "ingredient",
+    "query": "(\"amphetamine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "40122116",
+    "entity_id": "ingredient:amphetamine",
+    "name": "amphetamine",
+    "entity_type": "ingredient",
+    "query": "(\"amphetamine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42800227",
+    "entity_id": "ingredient:amphetamine",
+    "name": "amphetamine",
+    "entity_type": "ingredient",
+    "query": "(\"amphetamine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36730651",
+    "entity_id": "ingredient:apixaban",
+    "name": "apixaban",
+    "entity_type": "ingredient",
+    "query": "(\"apixaban\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36870039",
+    "entity_id": "ingredient:apixaban",
+    "name": "apixaban",
+    "entity_type": "ingredient",
+    "query": "(\"apixaban\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39672198",
+    "entity_id": "ingredient:apixaban",
+    "name": "apixaban",
+    "entity_type": "ingredient",
+    "query": "(\"apixaban\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41224211",
+    "entity_id": "ingredient:apixaban",
+    "name": "apixaban",
+    "entity_type": "ingredient",
+    "query": "(\"apixaban\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42128628",
+    "entity_id": "ingredient:apixaban",
+    "name": "apixaban",
+    "entity_type": "ingredient",
+    "query": "(\"apixaban\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "35510505",
+    "entity_id": "ingredient:aripiprazole",
+    "name": "aripiprazole",
+    "entity_type": "ingredient",
+    "query": "(\"aripiprazole\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37859623",
+    "entity_id": "ingredient:aripiprazole",
+    "name": "aripiprazole",
+    "entity_type": "ingredient",
+    "query": "(\"aripiprazole\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39411853",
+    "entity_id": "ingredient:aripiprazole",
+    "name": "aripiprazole",
+    "entity_type": "ingredient",
+    "query": "(\"aripiprazole\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "40698574",
+    "entity_id": "ingredient:aripiprazole",
+    "name": "aripiprazole",
+    "entity_type": "ingredient",
+    "query": "(\"aripiprazole\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42526603",
+    "entity_id": "ingredient:aripiprazole",
+    "name": "aripiprazole",
+    "entity_type": "ingredient",
+    "query": "(\"aripiprazole\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "35292944",
+    "entity_id": "ingredient:aspirin",
+    "name": "aspirin",
+    "entity_type": "ingredient",
+    "query": "(\"aspirin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37221854",
+    "entity_id": "ingredient:aspirin",
+    "name": "aspirin",
+    "entity_type": "ingredient",
+    "query": "(\"aspirin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38439698",
+    "entity_id": "ingredient:aspirin",
+    "name": "aspirin",
+    "entity_type": "ingredient",
+    "query": "(\"aspirin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41072483",
+    "entity_id": "ingredient:aspirin",
+    "name": "aspirin",
+    "entity_type": "ingredient",
+    "query": "(\"aspirin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42830132",
+    "entity_id": "ingredient:aspirin",
+    "name": "aspirin",
+    "entity_type": "ingredient",
+    "query": "(\"aspirin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "35902413",
+    "entity_id": "ingredient:atenolol",
+    "name": "atenolol",
+    "entity_type": "ingredient",
+    "query": "(\"atenolol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "38061014",
+    "entity_id": "ingredient:atenolol",
+    "name": "atenolol",
+    "entity_type": "ingredient",
+    "query": "(\"atenolol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39831760",
+    "entity_id": "ingredient:atenolol",
+    "name": "atenolol",
+    "entity_type": "ingredient",
+    "query": "(\"atenolol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41430024",
+    "entity_id": "ingredient:atenolol",
+    "name": "atenolol",
+    "entity_type": "ingredient",
+    "query": "(\"atenolol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42567080",
+    "entity_id": "ingredient:atenolol",
+    "name": "atenolol",
+    "entity_type": "ingredient",
+    "query": "(\"atenolol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "36396451",
+    "entity_id": "ingredient:atogepant",
+    "name": "atogepant",
+    "entity_type": "ingredient",
+    "query": "(\"atogepant\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37278480",
+    "entity_id": "ingredient:atogepant",
+    "name": "atogepant",
+    "entity_type": "ingredient",
+    "query": "(\"atogepant\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39569702",
+    "entity_id": "ingredient:atogepant",
+    "name": "atogepant",
+    "entity_type": "ingredient",
+    "query": "(\"atogepant\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41222899",
+    "entity_id": "ingredient:atogepant",
+    "name": "atogepant",
+    "entity_type": "ingredient",
+    "query": "(\"atogepant\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42673559",
+    "entity_id": "ingredient:atogepant",
+    "name": "atogepant",
+    "entity_type": "ingredient",
+    "query": "(\"atogepant\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "35551600",
+    "entity_id": "ingredient:atomoxetine",
+    "name": "atomoxetine",
+    "entity_type": "ingredient",
+    "query": "(\"atomoxetine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2022/01/01\"[Date - Publication] : \"2022/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "37619670",
+    "entity_id": "ingredient:atomoxetine",
+    "name": "atomoxetine",
+    "entity_type": "ingredient",
+    "query": "(\"atomoxetine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2023/01/01\"[Date - Publication] : \"2023/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "39481776",
+    "entity_id": "ingredient:atomoxetine",
+    "name": "atomoxetine",
+    "entity_type": "ingredient",
+    "query": "(\"atomoxetine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2024/01/01\"[Date - Publication] : \"2024/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "41015199",
+    "entity_id": "ingredient:atomoxetine",
+    "name": "atomoxetine",
+    "entity_type": "ingredient",
+    "query": "(\"atomoxetine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2025/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication])"
+  },
+  {
+    "pmid": "42269187",
+    "entity_id": "ingredient:atomoxetine",
+    "name": "atomoxetine",
+    "entity_type": "ingredient",
+    "query": "(\"atomoxetine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2026/01/01\"[Date - Publication] : \"2026/12/31\"[Date - Publication])"
+  }
+]

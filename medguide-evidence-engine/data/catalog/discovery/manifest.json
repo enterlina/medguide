@@ -1,0 +1,19 @@
+{
+  "retrieved_at": "2026-10-30T01:04:10.617703+00:00",
+  "catalog_entities": 72,
+  "existing_entities": 1,
+  "new_entities_searched": 71,
+  "publication_links": 535,
+  "unique_publications": 504,
+  "entities_without_results": 7,
+  "search_errors": 0,
+  "years": [
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+  ],
+  "per_year": 1,
+  "existing_links_preserved": 276
+}

@@ -1,0 +1,15 @@
+profile: offline-ci
+embedding:
+  model_id: fixed-hash-token-v1
+  dimension: 256
+  normalized: true
+retrieval:
+  dense_k: 20
+  bm25_k: 20
+  rrf_k: 60
+  rerank_k: 20
+  top_k: 5
+generation:
+  adapter: deterministic_fixture
+network_allowed: false
+

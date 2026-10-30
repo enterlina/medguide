@@ -1,0 +1,25 @@
+{
+  "_snapshot": {
+    "retrieved_at": "2026-10-26T17:30:00+00:00",
+    "source_updated_at": "2020-11-24T00:00:00+00:00",
+    "license": "ClinicalTrials.gov public data",
+    "fetch_status": "fetched",
+    "source_uri": "https://clinicaltrials.gov/study/NCT04642313"
+  },
+  "nct_id": "NCT04642313",
+  "title": "Comparison of Mg Vs. K Supplementation on Insomnia in Diabetics",
+  "overall_status": "UNKNOWN",
+  "enrollment": 320,
+  "enrollment_type": "ESTIMATED",
+  "interventions": [
+    {"name": "Magnesium gluconate", "dose_reported": "250 mg", "arm": "Magnesium group"},
+    {"name": "Potassium chloride", "dose_reported": "250 mg", "arm": "Potassium group"}
+  ],
+  "outcomes": [
+    {"measure": "Insomnia Severity Index", "time_frame": "60 days", "results": "not_reported"}
+  ],
+  "has_results": false,
+  "peer_reviewed_publication": false,
+  "source_updated_at": "2020-11-24T00:00:00+00:00"
+}
+

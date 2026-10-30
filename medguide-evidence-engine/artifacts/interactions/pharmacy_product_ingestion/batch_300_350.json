@@ -1,0 +1,603 @@
+[
+  {
+    "position": 301,
+    "product_id": "RX-101",
+    "product_title": "CONCERTA (METHYLPHENIDATE HYDROCHLORIDE) TABLET, EXTENDED RELEASE",
+    "set_id": "1a88218c-5b18-4220-8f56-526de1a276cd",
+    "ingredient_ids": [
+      "ingredient:methylphenidate"
+    ],
+    "status": "ingested",
+    "rules": 17,
+    "label_id": "dailymed:1a88218c-5b18-4220-8f56-526de1a276cd:Apr 22, 2026"
+  },
+  {
+    "position": 302,
+    "product_id": "RX-102",
+    "product_title": "RITALIN (METHYLPHENIDATE HYDROCHLORIDE) TABLET",
+    "set_id": "d6fb2750-cdab-4749-ba0d-7534840a5892",
+    "ingredient_ids": [
+      "ingredient:methylphenidate"
+    ],
+    "status": "ingested",
+    "rules": 15,
+    "label_id": "dailymed:d6fb2750-cdab-4749-ba0d-7534840a5892:Feb 21, 2025"
+  },
+  {
+    "position": 303,
+    "product_id": "RX-103",
+    "product_title": "FOCALIN (DEXMETHYLPHENIDATE HYDROCHLORIDE) TABLET",
+    "set_id": "2016f5c2-95d2-4655-af65-c588c2bf5e6d",
+    "ingredient_ids": [
+      "ingredient:dexmethylphenidate"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:2016f5c2-95d2-4655-af65-c588c2bf5e6d:Dec 12, 2025"
+  },
+  {
+    "position": 304,
+    "product_id": "RX-104",
+    "product_title": "JORNAY PM EXTENDED-RELEASE (METHYLPHENIDATE HYDROCHLORIDE) CAPSULE",
+    "set_id": "d95dede0-b1ff-4489-8f91-3bbe122852bf",
+    "ingredient_ids": [
+      "ingredient:methylphenidate"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:d95dede0-b1ff-4489-8f91-3bbe122852bf:Nov 17, 2025"
+  },
+  {
+    "position": 305,
+    "product_id": "RX-105",
+    "product_title": "AZSTARYS (SERDEXMETHYLPHENIDATE AND DEXMETHYLPHENIDATE) CAPSULE",
+    "set_id": "00b5e716-5564-4bbd-acaf-df2bc45a5663",
+    "ingredient_ids": [
+      "ingredient:serdexmethylphenidate",
+      "ingredient:dexmethylphenidate"
+    ],
+    "status": "ingested",
+    "rules": 19,
+    "label_id": "dailymed:00b5e716-5564-4bbd-acaf-df2bc45a5663:May 13, 2026"
+  },
+  {
+    "position": 306,
+    "product_id": "RX-106",
+    "product_title": "QELBREE (VILOXAZINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE",
+    "set_id": "aedf408d-0f84-418d-9416-7c39ddb0d29a",
+    "ingredient_ids": [
+      "ingredient:viloxazine"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:aedf408d-0f84-418d-9416-7c39ddb0d29a:Oct 08, 2026"
+  },
+  {
+    "position": 307,
+    "product_id": "RX-107",
+    "product_title": "STRATTERA (ATOMXETINE HYROCHLORIDE ) CAPSULE",
+    "set_id": "f8f80fca-32b7-4fba-b0ab-e87530bc36b6",
+    "ingredient_ids": [
+      "ingredient:atomxetine-hyrochloride"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:f8f80fca-32b7-4fba-b0ab-e87530bc36b6:Jun 14, 2010"
+  },
+  {
+    "position": 308,
+    "product_id": "RX-108",
+    "product_title": "INTUNIV (GUANFACINE) TABLET, EXTENDED RELEASE",
+    "set_id": "1bb3fac5-11e8-4d1c-a5e4-2520abcdeb47",
+    "ingredient_ids": [
+      "ingredient:guanfacine"
+    ],
+    "status": "ingested",
+    "rules": 7,
+    "label_id": "dailymed:1bb3fac5-11e8-4d1c-a5e4-2520abcdeb47:Oct 20, 2014"
+  },
+  {
+    "position": 309,
+    "product_id": "RX-109",
+    "product_title": "XANAX (ALPRAZOLAM) TABLET",
+    "set_id": "bb5cf72e-3a41-41a8-9a38-80f974eca33f",
+    "ingredient_ids": [
+      "ingredient:alprazolam"
+    ],
+    "status": "ingested",
+    "rules": 33,
+    "label_id": "dailymed:bb5cf72e-3a41-41a8-9a38-80f974eca33f:Oct 12, 2026"
+  },
+  {
+    "position": 310,
+    "product_id": "RX-110",
+    "product_title": "ATIVAN (LORAZEPAM) TABLET",
+    "set_id": "89057c93-8155-4040-acec-64e877bd2b4c",
+    "ingredient_ids": [
+      "ingredient:lorazepam"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:89057c93-8155-4040-acec-64e877bd2b4c:Nov 26, 2025"
+  },
+  {
+    "position": 311,
+    "product_id": "RX-111",
+    "product_title": "KLONOPIN (CLONAZEPAM) TABLET",
+    "set_id": "cfa0d79a-843c-4b88-95a1-e9511d649ca1",
+    "ingredient_ids": [
+      "ingredient:clonazepam"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:cfa0d79a-843c-4b88-95a1-e9511d649ca1:Dec 02, 2025"
+  },
+  {
+    "position": 312,
+    "product_id": "RX-112",
+    "product_title": "VALIUM (DIAZEPAM) TABLET",
+    "set_id": "260e2041-2bb3-482f-850e-b5d47a7bdbe6",
+    "ingredient_ids": [
+      "ingredient:diazepam"
+    ],
+    "status": "ingested",
+    "rules": 37,
+    "label_id": "dailymed:260e2041-2bb3-482f-850e-b5d47a7bdbe6:Oct 09, 2026"
+  },
+  {
+    "position": 313,
+    "product_id": "RX-113",
+    "product_title": "AMBIEN (ZOLPIDEM TARTRATE) TABLET, FILM COATED",
+    "set_id": "c36cadf4-65a4-4466-b409-c82020b42452",
+    "ingredient_ids": [
+      "ingredient:zolpidem"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:c36cadf4-65a4-4466-b409-c82020b42452:Apr 18, 2025"
+  },
+  {
+    "position": 314,
+    "product_id": "RX-114",
+    "product_title": "LUNESTA (ESZOPICLONE) TABLET, COATED",
+    "set_id": "3821f4b7-a3c8-4920-ba80-18aa96532c09",
+    "ingredient_ids": [
+      "ingredient:eszopiclone"
+    ],
+    "status": "ingested",
+    "rules": 10,
+    "label_id": "dailymed:3821f4b7-a3c8-4920-ba80-18aa96532c09:Jan 10, 2025"
+  },
+  {
+    "position": 315,
+    "product_id": "RX-115",
+    "product_title": "BELSOMRA (SUVOREXANT) TABLET, FILM COATED",
+    "set_id": "e5b72731-1acb-45b7-9c13-290ad12d3951",
+    "ingredient_ids": [
+      "ingredient:suvorexant"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:e5b72731-1acb-45b7-9c13-290ad12d3951:Mar 24, 2025"
+  },
+  {
+    "position": 316,
+    "product_id": "RX-116",
+    "product_title": "DAYVIGO (LEMBOREXANT) TABLET, FILM COATED",
+    "set_id": "7074cb65-77b3-45d2-8e8d-da8dc0f70bfd",
+    "ingredient_ids": [
+      "ingredient:lemborexant"
+    ],
+    "status": "ingested",
+    "rules": 18,
+    "label_id": "dailymed:7074cb65-77b3-45d2-8e8d-da8dc0f70bfd:Mar 03, 2025"
+  },
+  {
+    "position": 317,
+    "product_id": "RX-117",
+    "product_title": "QUVIVIQ (DARIDOREXANT) TABLET, FILM COATED",
+    "set_id": "3a2d1503-b816-40c9-9fac-7e03c5a3bcef",
+    "ingredient_ids": [
+      "ingredient:daridorexant"
+    ],
+    "status": "ingested",
+    "rules": 10,
+    "label_id": "dailymed:3a2d1503-b816-40c9-9fac-7e03c5a3bcef:Mar 02, 2026"
+  },
+  {
+    "position": 318,
+    "product_id": "RX-118",
+    "product_title": "NEURONTIN (GABAPENTIN) CAPSULE",
+    "set_id": "d9a88774-1fb2-4a5d-8753-686af1f0e174",
+    "ingredient_ids": [
+      "ingredient:gabapentin"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:d9a88774-1fb2-4a5d-8753-686af1f0e174:Nov 08, 2010"
+  },
+  {
+    "position": 319,
+    "product_id": "RX-119",
+    "product_title": "LYRICA (PREGABALIN) CAPSULE",
+    "set_id": "ed2a7ed8-25e0-48cc-af01-9ad0956023da",
+    "ingredient_ids": [
+      "ingredient:pregabalin"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:ed2a7ed8-25e0-48cc-af01-9ad0956023da:Jan 30, 2020"
+  },
+  {
+    "position": 320,
+    "product_id": "RX-120",
+    "product_title": "KEPPRA (LEVETIRACETAM) TABLET",
+    "set_id": "d1329893-a8bc-4f31-a31b-76690d111035",
+    "ingredient_ids": [
+      "ingredient:levetiracetam"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:d1329893-a8bc-4f31-a31b-76690d111035:Jan 04, 2011"
+  },
+  {
+    "position": 321,
+    "product_id": "RX-121",
+    "product_title": "TOPAMAX (TOPIRAMATE) TABLET",
+    "set_id": "33c0fc7a-aa48-34ae-e054-00144ff8d46c",
+    "ingredient_ids": [
+      "ingredient:topiramate"
+    ],
+    "status": "ingested",
+    "rules": 23,
+    "label_id": "dailymed:33c0fc7a-aa48-34ae-e054-00144ff8d46c:May 26, 2016"
+  },
+  {
+    "position": 322,
+    "product_id": "RX-122",
+    "product_title": "VIMPAT (LACOSAMIDE) SOLUTION",
+    "set_id": "42b3cf1d-7898-46d3-90d0-7705cc4d5f83",
+    "ingredient_ids": [
+      "ingredient:lacosamide"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:42b3cf1d-7898-46d3-90d0-7705cc4d5f83:Jul 24, 2019"
+  },
+  {
+    "position": 323,
+    "product_id": "RX-123",
+    "product_title": "TRILEPTAL (OXCARBAZEPINE) TABLET",
+    "set_id": "33af9350-95f3-384e-e054-00144ff88e88",
+    "ingredient_ids": [
+      "ingredient:oxcarbazepine"
+    ],
+    "status": "ingested",
+    "rules": 12,
+    "label_id": "dailymed:33af9350-95f3-384e-e054-00144ff88e88:May 26, 2016"
+  },
+  {
+    "position": 324,
+    "product_id": "RX-124",
+    "product_title": "TEGRETOL (CARBAMAZEPINE) SUSPENSION TEGRETOL (CARBAMAZEPINE) TABLET TEGRETOL XR (CARBAMAZEPINE) TABLET, EXTENDED RELEASE",
+    "set_id": "8d409411-aa9f-4f3a-a52c-fbcb0c3ec053",
+    "ingredient_ids": [
+      "ingredient:carbamazepine"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:8d409411-aa9f-4f3a-a52c-fbcb0c3ec053:Aug 21, 2026"
+  },
+  {
+    "position": 325,
+    "product_id": "RX-125",
+    "product_title": "DILANTIN (PHENYTOIN SODIUM) CAPSULE, EXTENDED RELEASE",
+    "set_id": "f5b7e576-49b1-4633-ab0a-6ab94922e970",
+    "ingredient_ids": [
+      "ingredient:phenytoin"
+    ],
+    "status": "ingested",
+    "rules": 54,
+    "label_id": "dailymed:f5b7e576-49b1-4633-ab0a-6ab94922e970:Apr 02, 2019"
+  },
+  {
+    "position": 326,
+    "product_id": "RX-126",
+    "product_title": "IMITREX (SUMATRIPTAN) TABLET",
+    "set_id": "34b663e0-e40c-366f-e054-00144ff8d46c",
+    "ingredient_ids": [
+      "ingredient:sumatriptan"
+    ],
+    "status": "ingested",
+    "rules": 7,
+    "label_id": "dailymed:34b663e0-e40c-366f-e054-00144ff8d46c:Jun 13, 2016"
+  },
+  {
+    "position": 327,
+    "product_id": "RX-127",
+    "product_title": "MAXALT (RIZATRIPTAN BENZOATE) TABLET",
+    "set_id": "3f30e6a5-f3c0-4c20-b1a2-142575eb0e24",
+    "ingredient_ids": [
+      "ingredient:rizatriptan-benzoate"
+    ],
+    "status": "ingested",
+    "rules": 21,
+    "label_id": "dailymed:3f30e6a5-f3c0-4c20-b1a2-142575eb0e24:Sep 14, 2011"
+  },
+  {
+    "position": 328,
+    "product_id": "RX-128",
+    "product_title": "RELPAX (ELETRIPTAN HYDROBROMIDE) TABLET",
+    "set_id": "2a501dbd-3ea8-47e4-9fcb-07035b8c8c9e",
+    "ingredient_ids": [
+      "ingredient:eletriptan"
+    ],
+    "status": "ingested",
+    "rules": 18,
+    "label_id": "dailymed:2a501dbd-3ea8-47e4-9fcb-07035b8c8c9e:May 12, 2025"
+  },
+  {
+    "position": 329,
+    "product_id": "RX-129",
+    "product_title": "ZOMIG (ZOLMITRIPTAN) TABLET",
+    "set_id": "56b3e77b-4e5f-4a3d-bad0-9e83033a5544",
+    "ingredient_ids": [
+      "ingredient:zolmitriptan"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:56b3e77b-4e5f-4a3d-bad0-9e83033a5544:Oct 13, 2011"
+  },
+  {
+    "position": 330,
+    "product_id": "RX-130",
+    "product_title": "NURTEC ODT (RIMEGEPANT SULFATE) TABLET, ORALLY DISINTEGRATING",
+    "set_id": "9ef08e09-1098-35cc-e053-2a95a90a3e1d",
+    "ingredient_ids": [
+      "ingredient:rimegepant"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:9ef08e09-1098-35cc-e053-2a95a90a3e1d:Jun 08, 2026"
+  },
+  {
+    "position": 331,
+    "product_id": "RX-131",
+    "product_title": "UBRELVY (UBROGEPANT) TABLET",
+    "set_id": "36106b14-d410-4faf-a361-2871de8198c3",
+    "ingredient_ids": [
+      "ingredient:ubrogepant"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:36106b14-d410-4faf-a361-2871de8198c3:Oct 01, 2026"
+  },
+  {
+    "position": 332,
+    "product_id": "RX-132",
+    "product_title": "QULIPTA (ATOGEPANT) TABLET",
+    "set_id": "8c8ab8f4-32bd-497a-befa-70c8a51d8d52",
+    "ingredient_ids": [
+      "ingredient:atogepant"
+    ],
+    "status": "ingested",
+    "rules": 9,
+    "label_id": "dailymed:8c8ab8f4-32bd-497a-befa-70c8a51d8d52:Feb 10, 2026"
+  },
+  {
+    "position": 333,
+    "product_id": "RX-133",
+    "product_title": "AIMOVIG (ERENUMAB-AOOE) INJECTION AIMOVIG (ERENUMAB-AOOE) INJECTION, SOLUTION",
+    "set_id": "b998ed05-94b0-47fd-b28f-cddd1e128fd8",
+    "ingredient_ids": [
+      "ingredient:erenumab-aooe"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:b998ed05-94b0-47fd-b28f-cddd1e128fd8:Jul 17, 2026"
+  },
+  {
+    "position": 334,
+    "product_id": "RX-134",
+    "product_title": "AJOVY (FREMANEZUMAB-VFRM) INJECTION",
+    "set_id": "98e344ea-5916-4947-b6f2-4a76ccc04b6b",
+    "ingredient_ids": [
+      "ingredient:fremanezumab-vfrm"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:98e344ea-5916-4947-b6f2-4a76ccc04b6b:Jun 11, 2026"
+  },
+  {
+    "position": 335,
+    "product_id": "RX-135",
+    "product_title": "EMGALITY (GALCANEZUMAB-GNLM) INJECTION, SOLUTION",
+    "set_id": "33a147be-233a-40e8-a55e-e40936e28db0",
+    "ingredient_ids": [
+      "ingredient:galcanezumab-gnlm"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:33a147be-233a-40e8-a55e-e40936e28db0:Jun 18, 2026"
+  },
+  {
+    "position": 336,
+    "product_id": "RX-136",
+    "product_title": "PROTONIX (PANTOPRAZOEL SODIUM) TABLET, DELAYED RELEASE",
+    "set_id": "cfeacb5c-8b1b-48f6-9acf-00044a8179b4",
+    "ingredient_ids": [
+      "ingredient:pantoprazoel"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:cfeacb5c-8b1b-48f6-9acf-00044a8179b4:Jun 22, 2011"
+  },
+  {
+    "position": 337,
+    "product_id": "RX-137",
+    "product_title": "DEXILANT (DEXLANSOPRAZOLE) CAPSULE, DELAYED RELEASE",
+    "set_id": "9819f033-3bbe-442e-8e92-45fec77b237d",
+    "ingredient_ids": [
+      "ingredient:dexlansoprazole"
+    ],
+    "status": "ingested",
+    "rules": 21,
+    "label_id": "dailymed:9819f033-3bbe-442e-8e92-45fec77b237d:Feb 24, 2025"
+  },
+  {
+    "position": 338,
+    "product_id": "RX-138",
+    "product_title": "ACIPHEX (RABEPRAZOLE SODIUM) TABLET, DELAYED RELEASE",
+    "set_id": "1eb38279-0237-4967-be7a-c53a826c1138",
+    "ingredient_ids": [
+      "ingredient:rabeprazole"
+    ],
+    "status": "ingested",
+    "rules": 38,
+    "label_id": "dailymed:1eb38279-0237-4967-be7a-c53a826c1138:Jan 30, 2026"
+  },
+  {
+    "position": 339,
+    "product_id": "RX-139",
+    "product_title": "LINZESS (LINACLOTIDE) CAPSULE, GELATIN COATED",
+    "set_id": "09beda19-56d6-4a56-afdc-9a77b70b2ef3",
+    "ingredient_ids": [
+      "ingredient:linaclotide"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:09beda19-56d6-4a56-afdc-9a77b70b2ef3:Oct 19, 2026"
+  },
+  {
+    "position": 340,
+    "product_id": "RX-140",
+    "product_title": "TRULANCE IMMEDIATE RELEASE (PLECANATIDE) TABLET",
+    "set_id": "fe2895bf-71a6-493a-b0ca-e06b2dfefc82",
+    "ingredient_ids": [
+      "ingredient:plecanatide"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:fe2895bf-71a6-493a-b0ca-e06b2dfefc82:Apr 05, 2024"
+  },
+  {
+    "position": 341,
+    "product_id": "RX-141",
+    "product_title": "AMITIZA (LUBIPROSTONE) CAPSULE, GELATIN COATED",
+    "set_id": "164a2b47-0a52-4bb4-9e71-5342c2e951f4",
+    "ingredient_ids": [
+      "ingredient:lubiprostone"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:164a2b47-0a52-4bb4-9e71-5342c2e951f4:Jul 24, 2026"
+  },
+  {
+    "position": 342,
+    "product_id": "RX-142",
+    "product_title": "MOTEGRITY (PRUCALOPRIDE) TABLET, FILM COATED",
+    "set_id": "bca1e4c6-4b2b-4876-8ab3-654629c4ff1b",
+    "ingredient_ids": [
+      "ingredient:prucalopride"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:bca1e4c6-4b2b-4876-8ab3-654629c4ff1b:Jul 21, 2025"
+  },
+  {
+    "position": 343,
+    "product_id": "RX-143",
+    "product_title": "LEVSIN (HYOSCYAMINE SULFATE) TABLET",
+    "set_id": "32388e18-08de-455c-aad4-9c2264435f0f",
+    "ingredient_ids": [
+      "ingredient:hyoscyamine"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:32388e18-08de-455c-aad4-9c2264435f0f:Feb 05, 2026"
+  },
+  {
+    "position": 344,
+    "product_id": "RX-144",
+    "product_title": "CARAFATE (SUCRALFATE) TABLET",
+    "set_id": "c87c6b50-6977-4fa7-ae98-40c0753f7aee",
+    "ingredient_ids": [
+      "ingredient:sucralfate"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:c87c6b50-6977-4fa7-ae98-40c0753f7aee:Oct 14, 2026"
+  },
+  {
+    "position": 345,
+    "product_id": "RX-145",
+    "product_title": "XIFAXAN (RIFAXIMIN) TABLET",
+    "set_id": "c5e8e2fd-7087-4b78-9181-cc259c0be2f1",
+    "ingredient_ids": [
+      "ingredient:rifaximin"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:c5e8e2fd-7087-4b78-9181-cc259c0be2f1:Jan 07, 2026"
+  },
+  {
+    "position": 346,
+    "product_id": "RX-146",
+    "product_title": "CREON (PANCRELIPASE) CAPSULE, DELAYED RELEASE PELLETS",
+    "set_id": "0fad8184-e086-4ca2-99f2-2b9c4b0840ab",
+    "ingredient_ids": [
+      "ingredient:pancrelipase"
+    ],
+    "status": "ingested",
+    "rules": 7,
+    "label_id": "dailymed:0fad8184-e086-4ca2-99f2-2b9c4b0840ab:May 31, 2012"
+  },
+  {
+    "position": 347,
+    "product_id": "RX-147",
+    "product_title": "ZENPEP (PANCRELIPASE) CAPSULE, DELAYED RELEASE",
+    "set_id": "c6c845b3-8f22-454e-b0f8-ed2cdd59e8dd",
+    "ingredient_ids": [
+      "ingredient:pancrelipase"
+    ],
+    "status": "ingested",
+    "rules": 10,
+    "label_id": "dailymed:c6c845b3-8f22-454e-b0f8-ed2cdd59e8dd:Dec 24, 2014"
+  },
+  {
+    "position": 348,
+    "product_id": "RX-148",
+    "product_title": "PHENERGAN (PROMETHAZINE HCL) TABLET",
+    "set_id": "eec705f7-123a-7926-e053-2a95a90af46d",
+    "ingredient_ids": [
+      "ingredient:promethazine"
+    ],
+    "status": "ingested",
+    "rules": 12,
+    "label_id": "dailymed:eec705f7-123a-7926-e053-2a95a90af46d:Mar 09, 2026"
+  },
+  {
+    "position": 349,
+    "product_id": "RX-149",
+    "product_title": "REGLAN (METOCLOPRAMIDE HYDROCHLORIDE) TABLET",
+    "set_id": "de55c133-eb08-4a35-91a2-5dc093027397",
+    "ingredient_ids": [
+      "ingredient:metoclopramide"
+    ],
+    "status": "ingested",
+    "rules": 36,
+    "label_id": "dailymed:de55c133-eb08-4a35-91a2-5dc093027397:Feb 16, 2026"
+  },
+  {
+    "position": 350,
+    "product_id": "RX-150",
+    "product_title": "LIALDA (MESALAMINE) TABLET, DELAYED RELEASE",
+    "set_id": "3098a080-be86-4265-9818-7fc4beab77b7",
+    "ingredient_ids": [
+      "ingredient:mesalamine"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:3098a080-be86-4265-9818-7fc4beab77b7:Oct 28, 2026"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "position": 388,
+    "product_id": "RX-188",
+    "product_title": "BIMZELX (BIMEKIZUMAB) INJECTION, SOLUTION",
+    "set_id": "26b88358-871f-4c80-9d80-b2fb16477f81",
+    "ingredient_ids": [
+      "ingredient:bimekizumab"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:26b88358-871f-4c80-9d80-b2fb16477f81:Jun 18, 2025"
+  }
+]

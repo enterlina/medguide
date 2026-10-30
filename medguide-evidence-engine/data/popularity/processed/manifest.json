@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-10-29T19:38:37.204526+00:00",
+  "entity_count": 125,
+  "meps_matched": 21,
+  "nhanes_matched": 72,
+  "methodology": {
+    "meps": "sum PERWT24F once per unique person and matched catalog medication",
+    "nhanes": "sum WTDRD1 once per unique participant and matched catalog supplement; nutrient proxies are explicitly flagged",
+    "ranking_scope": "rank within matched MedGuide entities, never a combined drug-plus-supplement rank"
+  },
+  "sources": {
+    "meps": {
+      "sha256": "a38e4342305c52a41db0fbcfcf7dd6739ac5ed616ca77bb808fc2fe8dce8dc43",
+      "path": "data/popularity/raw/meps_2024/h254axlsx.zip"
+    },
+    "nhanes": {
+      "sha256": "807aedb121f96c5326dffd64d7930a7fce370b4c0545160fe70d08257e4a196d",
+      "path": "data/popularity/raw/nhanes_2021_2023/DSQIDS_L.xpt"
+    }
+  }
+}

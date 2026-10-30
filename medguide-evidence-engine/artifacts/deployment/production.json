@@ -1,0 +1,21 @@
+{
+  "deployed_at": "2026-10-26",
+  "platform": "Vercel",
+  "team_scope": "medguide1",
+  "project": "medguide",
+  "deployment_id": "dpl_HEhrwn8A6vzmbPmVH5XSnHfarurP",
+  "production_url": "https://medguide-orcin.vercel.app",
+  "evidence_lens_url": "https://medguide-orcin.vercel.app/evidence-lens",
+  "public_smoke_test": {
+    "root_http_status": 200,
+    "evidence_lens_http_status": 200,
+    "source_update_check": "passed",
+    "source_update_status": "completed",
+    "production_nebius_call": "passed",
+    "citation_ids_exist": true,
+    "unsupported_claim_guard": "citation_review_required",
+    "human_reviewed": false
+  },
+  "secrets_retained": false
+}
+

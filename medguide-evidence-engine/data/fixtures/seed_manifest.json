@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "immutable": true,
+  "selected_at": "2026-10-26T17:30:00+00:00",
+  "query": "(magnesium[Title/Abstract]) AND (sleep[Title/Abstract] OR insomnia[Title/Abstract]) AND humans[MeSH Terms]",
+  "selection_note": "Small demonstration corpus; inclusion is not an endorsement or evidence conclusion.",
+  "sources": [
+    {
+      "source": "pubmed",
+      "cap": 20,
+      "external_ids": ["23853635", "33865376", "39252819"]
+    },
+    {
+      "source": "pmc",
+      "cap": 10,
+      "external_ids": ["PMC3703169"]
+    },
+    {
+      "source": "clinicaltrials.gov",
+      "cap": 10,
+      "external_ids": ["NCT04642313", "NCT05236504"]
+    }
+  ]
+}
+

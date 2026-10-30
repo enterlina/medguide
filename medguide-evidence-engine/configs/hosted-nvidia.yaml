@@ -1,0 +1,7 @@
+profile: hosted-nvidia
+status: not_run
+note: Comparison profile only; not the hackathon default.
+endpoint_env: NVIDIA_BASE_URL
+api_key_env: NVIDIA_API_KEY
+model_id_env: NVIDIA_MODEL_ID
+

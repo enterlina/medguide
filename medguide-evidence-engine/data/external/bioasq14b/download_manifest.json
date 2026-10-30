@@ -1,0 +1,10 @@
+{
+  "created_at": "2026-10-28T00:50:49.087857+00:00",
+  "started_at": "2026-10-28T00:50:46.403730+00:00",
+  "benchmark_scope": "BioASQ 14b pooled gold PMID corpus; not official full-PubMed leaderboard corpus",
+  "bioasq_sha256": "5669afbc0bbc8f50d54850edb4aa592ecff3e38b29b09ac6684bb52990b651b7",
+  "requested_pmid_count": 58048,
+  "downloaded_record_count": 57984,
+  "missing_record_count": 64,
+  "records_with_abstract_count": 57940
+}

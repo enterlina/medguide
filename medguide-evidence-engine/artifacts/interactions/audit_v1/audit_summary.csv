@@ -1,0 +1,6 @@
+category,total,PASS,PARTIAL,FAIL,UNSUPPORTED,ERROR,NEEDS_HUMAN_REVIEW
+drug_drug,15,0,0,0,2,0,13
+drug_food,7,1,0,0,4,0,2
+drug_supplement,18,1,3,4,9,0,1
+drug_timing,7,0,1,0,6,0,0
+negative_control,9,0,0,0,4,0,5

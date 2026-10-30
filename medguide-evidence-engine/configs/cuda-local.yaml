@@ -1,0 +1,7 @@
+profile: cuda-local
+status: not_run_no_hardware_measurement
+embedding_model: intfloat/multilingual-e5-base
+reranker_model: BAAI/bge-reranker-v2-m3
+vector_search_device: cpu
+generator: configurable_openai_compatible_local_server
+

@@ -1,0 +1,26 @@
+{
+  "run_id": "1ca01cbd85edbb91",
+  "created_at": "2026-10-27T19:46:03.620317+00:00",
+  "embedding": {
+    "model_id": "intfloat/multilingual-e5-base",
+    "revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+    "dimension": 768,
+    "normalized": true,
+    "document_prefix": "passage:",
+    "query_prefix": "query:",
+    "max_input_tokens": 512
+  },
+  "reranker": {
+    "model_id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+    "score_type": "cosine_similarity_second_stage_bi_encoder",
+    "max_input_tokens": 512,
+    "max_observed_input_tokens": 507
+  },
+  "artifacts": {
+    "embeddings": "passage_embeddings.npy",
+    "chunks": "chunks.json",
+    "bm25_index": "bm25_index.pkl",
+    "reranker_embeddings": "reranker_passage_embeddings.npy"
+  }
+}

@@ -1,0 +1,4644 @@
+[
+  {
+    "entity_id": "ingredient:atorvastatin",
+    "canonical_name": "atorvastatin",
+    "display_name": "Atorvastatin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "atorvastatin"
+    ],
+    "evidence_query": "atorvastatin"
+  },
+  {
+    "entity_id": "ingredient:metformin",
+    "canonical_name": "metformin",
+    "display_name": "Metformin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "metformin"
+    ],
+    "evidence_query": "metformin"
+  },
+  {
+    "entity_id": "ingredient:levothyroxine",
+    "canonical_name": "levothyroxine",
+    "display_name": "Levothyroxine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "levothyroxine"
+    ],
+    "evidence_query": "levothyroxine"
+  },
+  {
+    "entity_id": "ingredient:amlodipine",
+    "canonical_name": "amlodipine",
+    "display_name": "Amlodipine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "amlodipine"
+    ],
+    "evidence_query": "amlodipine"
+  },
+  {
+    "entity_id": "ingredient:lisinopril",
+    "canonical_name": "lisinopril",
+    "display_name": "Lisinopril",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lisinopril"
+    ],
+    "evidence_query": "lisinopril"
+  },
+  {
+    "entity_id": "ingredient:albuterol",
+    "canonical_name": "albuterol",
+    "display_name": "Albuterol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "albuterol"
+    ],
+    "evidence_query": "albuterol"
+  },
+  {
+    "entity_id": "ingredient:losartan",
+    "canonical_name": "losartan",
+    "display_name": "Losartan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "losartan"
+    ],
+    "evidence_query": "losartan"
+  },
+  {
+    "entity_id": "ingredient:metoprolol",
+    "canonical_name": "metoprolol",
+    "display_name": "Metoprolol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "metoprolol"
+    ],
+    "evidence_query": "metoprolol"
+  },
+  {
+    "entity_id": "ingredient:rosuvastatin",
+    "canonical_name": "rosuvastatin",
+    "display_name": "Rosuvastatin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "rosuvastatin"
+    ],
+    "evidence_query": "rosuvastatin"
+  },
+  {
+    "entity_id": "ingredient:omeprazole",
+    "canonical_name": "omeprazole",
+    "display_name": "Omeprazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "omeprazole"
+    ],
+    "evidence_query": "omeprazole"
+  },
+  {
+    "entity_id": "ingredient:gabapentin",
+    "canonical_name": "gabapentin",
+    "display_name": "Gabapentin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "gabapentin"
+    ],
+    "evidence_query": "gabapentin"
+  },
+  {
+    "entity_id": "ingredient:sertraline",
+    "canonical_name": "sertraline",
+    "display_name": "Sertraline",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sertraline"
+    ],
+    "evidence_query": "sertraline"
+  },
+  {
+    "entity_id": "ingredient:escitalopram",
+    "canonical_name": "escitalopram",
+    "display_name": "Escitalopram",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "escitalopram"
+    ],
+    "evidence_query": "escitalopram"
+  },
+  {
+    "entity_id": "ingredient:semaglutide",
+    "canonical_name": "semaglutide",
+    "display_name": "Semaglutide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "semaglutide"
+    ],
+    "evidence_query": "semaglutide"
+  },
+  {
+    "entity_id": "ingredient:amphetamine",
+    "canonical_name": "amphetamine",
+    "display_name": "Amphetamine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "amphetamine"
+    ],
+    "evidence_query": "amphetamine"
+  },
+  {
+    "entity_id": "ingredient:dextroamphetamine",
+    "canonical_name": "dextroamphetamine",
+    "display_name": "Dextroamphetamine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dextroamphetamine"
+    ],
+    "evidence_query": "dextroamphetamine"
+  },
+  {
+    "entity_id": "ingredient:pantoprazole",
+    "canonical_name": "pantoprazole",
+    "display_name": "Pantoprazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pantoprazole"
+    ],
+    "evidence_query": "pantoprazole"
+  },
+  {
+    "entity_id": "ingredient:bupropion",
+    "canonical_name": "bupropion",
+    "display_name": "Bupropion",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "bupropion"
+    ],
+    "evidence_query": "bupropion"
+  },
+  {
+    "entity_id": "ingredient:hydrochlorothiazide",
+    "canonical_name": "hydrochlorothiazide",
+    "display_name": "Hydrochlorothiazide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "hydrochlorothiazide"
+    ],
+    "evidence_query": "hydrochlorothiazide"
+  },
+  {
+    "entity_id": "ingredient:fluoxetine",
+    "canonical_name": "fluoxetine",
+    "display_name": "Fluoxetine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fluoxetine"
+    ],
+    "evidence_query": "fluoxetine"
+  },
+  {
+    "entity_id": "ingredient:trazodone",
+    "canonical_name": "trazodone",
+    "display_name": "Trazodone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "trazodone"
+    ],
+    "evidence_query": "trazodone"
+  },
+  {
+    "entity_id": "ingredient:montelukast",
+    "canonical_name": "montelukast",
+    "display_name": "Montelukast",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "montelukast"
+    ],
+    "evidence_query": "montelukast"
+  },
+  {
+    "entity_id": "ingredient:amoxicillin",
+    "canonical_name": "amoxicillin",
+    "display_name": "Amoxicillin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "amoxicillin"
+    ],
+    "evidence_query": "amoxicillin"
+  },
+  {
+    "entity_id": "ingredient:tamsulosin",
+    "canonical_name": "tamsulosin",
+    "display_name": "Tamsulosin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tamsulosin"
+    ],
+    "evidence_query": "tamsulosin"
+  },
+  {
+    "entity_id": "ingredient:apixaban",
+    "canonical_name": "apixaban",
+    "display_name": "Apixaban",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "apixaban"
+    ],
+    "evidence_query": "apixaban"
+  },
+  {
+    "entity_id": "ingredient:insulin-glargine",
+    "canonical_name": "insulin glargine",
+    "display_name": "Insulin Glargine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin glargine"
+    ],
+    "evidence_query": "insulin glargine"
+  },
+  {
+    "entity_id": "ingredient:simvastatin",
+    "canonical_name": "simvastatin",
+    "display_name": "Simvastatin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "simvastatin"
+    ],
+    "evidence_query": "simvastatin"
+  },
+  {
+    "entity_id": "ingredient:empagliflozin",
+    "canonical_name": "empagliflozin",
+    "display_name": "Empagliflozin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "empagliflozin"
+    ],
+    "evidence_query": "empagliflozin"
+  },
+  {
+    "entity_id": "ingredient:furosemide",
+    "canonical_name": "furosemide",
+    "display_name": "Furosemide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "furosemide"
+    ],
+    "evidence_query": "furosemide"
+  },
+  {
+    "entity_id": "ingredient:meloxicam",
+    "canonical_name": "meloxicam",
+    "display_name": "Meloxicam",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "meloxicam"
+    ],
+    "evidence_query": "meloxicam"
+  },
+  {
+    "entity_id": "ingredient:acetaminophen",
+    "canonical_name": "acetaminophen",
+    "display_name": "Acetaminophen",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "acetaminophen"
+    ],
+    "evidence_query": "acetaminophen"
+  },
+  {
+    "entity_id": "ingredient:hydrocodone",
+    "canonical_name": "hydrocodone",
+    "display_name": "Hydrocodone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "hydrocodone"
+    ],
+    "evidence_query": "hydrocodone"
+  },
+  {
+    "entity_id": "ingredient:tirzepatide",
+    "canonical_name": "tirzepatide",
+    "display_name": "Tirzepatide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tirzepatide"
+    ],
+    "evidence_query": "tirzepatide"
+  },
+  {
+    "entity_id": "ingredient:fluticasone",
+    "canonical_name": "fluticasone",
+    "display_name": "Fluticasone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fluticasone"
+    ],
+    "evidence_query": "fluticasone"
+  },
+  {
+    "entity_id": "ingredient:methylphenidate",
+    "canonical_name": "methylphenidate",
+    "display_name": "Methylphenidate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "methylphenidate"
+    ],
+    "evidence_query": "methylphenidate"
+  },
+  {
+    "entity_id": "ingredient:duloxetine",
+    "canonical_name": "duloxetine",
+    "display_name": "Duloxetine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "duloxetine"
+    ],
+    "evidence_query": "duloxetine"
+  },
+  {
+    "entity_id": "ingredient:prednisone",
+    "canonical_name": "prednisone",
+    "display_name": "Prednisone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "prednisone"
+    ],
+    "evidence_query": "prednisone"
+  },
+  {
+    "entity_id": "ingredient:carvedilol",
+    "canonical_name": "carvedilol",
+    "display_name": "Carvedilol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "carvedilol"
+    ],
+    "evidence_query": "carvedilol"
+  },
+  {
+    "entity_id": "ingredient:famotidine",
+    "canonical_name": "famotidine",
+    "display_name": "Famotidine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "famotidine"
+    ],
+    "evidence_query": "famotidine"
+  },
+  {
+    "entity_id": "ingredient:ibuprofen",
+    "canonical_name": "ibuprofen",
+    "display_name": "Ibuprofen",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ibuprofen"
+    ],
+    "evidence_query": "ibuprofen"
+  },
+  {
+    "entity_id": "ingredient:buspirone",
+    "canonical_name": "buspirone",
+    "display_name": "Buspirone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "buspirone"
+    ],
+    "evidence_query": "buspirone"
+  },
+  {
+    "entity_id": "ingredient:venlafaxine",
+    "canonical_name": "venlafaxine",
+    "display_name": "Venlafaxine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "venlafaxine"
+    ],
+    "evidence_query": "venlafaxine"
+  },
+  {
+    "entity_id": "ingredient:tramadol",
+    "canonical_name": "tramadol",
+    "display_name": "Tramadol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tramadol"
+    ],
+    "evidence_query": "tramadol"
+  },
+  {
+    "entity_id": "ingredient:potassium-chloride",
+    "canonical_name": "potassium chloride",
+    "display_name": "Potassium Chloride",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "potassium chloride"
+    ],
+    "evidence_query": "potassium chloride"
+  },
+  {
+    "entity_id": "ingredient:allopurinol",
+    "canonical_name": "allopurinol",
+    "display_name": "Allopurinol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "allopurinol"
+    ],
+    "evidence_query": "allopurinol"
+  },
+  {
+    "entity_id": "ingredient:hydroxyzine",
+    "canonical_name": "hydroxyzine",
+    "display_name": "Hydroxyzine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "hydroxyzine"
+    ],
+    "evidence_query": "hydroxyzine"
+  },
+  {
+    "entity_id": "ingredient:clopidogrel",
+    "canonical_name": "clopidogrel",
+    "display_name": "Clopidogrel",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "clopidogrel"
+    ],
+    "evidence_query": "clopidogrel"
+  },
+  {
+    "entity_id": "ingredient:ergocalciferol",
+    "canonical_name": "ergocalciferol",
+    "display_name": "Ergocalciferol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ergocalciferol"
+    ],
+    "evidence_query": "ergocalciferol"
+  },
+  {
+    "entity_id": "ingredient:cetirizine",
+    "canonical_name": "cetirizine",
+    "display_name": "Cetirizine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cetirizine"
+    ],
+    "evidence_query": "cetirizine"
+  },
+  {
+    "entity_id": "ingredient:ondansetron",
+    "canonical_name": "ondansetron",
+    "display_name": "Ondansetron",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ondansetron"
+    ],
+    "evidence_query": "ondansetron"
+  },
+  {
+    "entity_id": "ingredient:cyclobenzaprine",
+    "canonical_name": "cyclobenzaprine",
+    "display_name": "Cyclobenzaprine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cyclobenzaprine"
+    ],
+    "evidence_query": "cyclobenzaprine"
+  },
+  {
+    "entity_id": "ingredient:spironolactone",
+    "canonical_name": "spironolactone",
+    "display_name": "Spironolactone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "spironolactone"
+    ],
+    "evidence_query": "spironolactone"
+  },
+  {
+    "entity_id": "ingredient:oxycodone",
+    "canonical_name": "oxycodone",
+    "display_name": "Oxycodone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "oxycodone"
+    ],
+    "evidence_query": "oxycodone"
+  },
+  {
+    "entity_id": "ingredient:glipizide",
+    "canonical_name": "glipizide",
+    "display_name": "Glipizide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "glipizide"
+    ],
+    "evidence_query": "glipizide"
+  },
+  {
+    "entity_id": "ingredient:aspirin",
+    "canonical_name": "aspirin",
+    "display_name": "Aspirin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "aspirin"
+    ],
+    "evidence_query": "aspirin"
+  },
+  {
+    "entity_id": "ingredient:zolpidem",
+    "canonical_name": "zolpidem",
+    "display_name": "Zolpidem",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "zolpidem"
+    ],
+    "evidence_query": "zolpidem"
+  },
+  {
+    "entity_id": "ingredient:lamotrigine",
+    "canonical_name": "lamotrigine",
+    "display_name": "Lamotrigine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lamotrigine"
+    ],
+    "evidence_query": "lamotrigine"
+  },
+  {
+    "entity_id": "ingredient:alprazolam",
+    "canonical_name": "alprazolam",
+    "display_name": "Alprazolam",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "alprazolam"
+    ],
+    "evidence_query": "alprazolam"
+  },
+  {
+    "entity_id": "ingredient:citalopram",
+    "canonical_name": "citalopram",
+    "display_name": "Citalopram",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "citalopram"
+    ],
+    "evidence_query": "citalopram"
+  },
+  {
+    "entity_id": "ingredient:pregabalin",
+    "canonical_name": "pregabalin",
+    "display_name": "Pregabalin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pregabalin"
+    ],
+    "evidence_query": "pregabalin"
+  },
+  {
+    "entity_id": "ingredient:cholecalciferol",
+    "canonical_name": "cholecalciferol",
+    "display_name": "Cholecalciferol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cholecalciferol"
+    ],
+    "evidence_query": "cholecalciferol"
+  },
+  {
+    "entity_id": "ingredient:clonazepam",
+    "canonical_name": "clonazepam",
+    "display_name": "Clonazepam",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "clonazepam"
+    ],
+    "evidence_query": "clonazepam"
+  },
+  {
+    "entity_id": "ingredient:azithromycin",
+    "canonical_name": "azithromycin",
+    "display_name": "Azithromycin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "azithromycin"
+    ],
+    "evidence_query": "azithromycin"
+  },
+  {
+    "entity_id": "ingredient:pravastatin",
+    "canonical_name": "pravastatin",
+    "display_name": "Pravastatin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pravastatin"
+    ],
+    "evidence_query": "pravastatin"
+  },
+  {
+    "entity_id": "ingredient:valsartan",
+    "canonical_name": "valsartan",
+    "display_name": "Valsartan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "valsartan"
+    ],
+    "evidence_query": "valsartan"
+  },
+  {
+    "entity_id": "ingredient:ezetimibe",
+    "canonical_name": "ezetimibe",
+    "display_name": "Ezetimibe",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ezetimibe"
+    ],
+    "evidence_query": "ezetimibe"
+  },
+  {
+    "entity_id": "ingredient:insulin-lispro",
+    "canonical_name": "insulin lispro",
+    "display_name": "Insulin Lispro",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin lispro"
+    ],
+    "evidence_query": "insulin lispro"
+  },
+  {
+    "entity_id": "ingredient:ethinyl-estradiol",
+    "canonical_name": "ethinyl estradiol",
+    "display_name": "Ethinyl Estradiol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ethinyl estradiol"
+    ],
+    "evidence_query": "ethinyl estradiol"
+  },
+  {
+    "entity_id": "ingredient:norethindrone",
+    "canonical_name": "norethindrone",
+    "display_name": "Norethindrone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "norethindrone"
+    ],
+    "evidence_query": "norethindrone"
+  },
+  {
+    "entity_id": "ingredient:propranolol",
+    "canonical_name": "propranolol",
+    "display_name": "Propranolol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "propranolol"
+    ],
+    "evidence_query": "propranolol"
+  },
+  {
+    "entity_id": "ingredient:latanoprost",
+    "canonical_name": "latanoprost",
+    "display_name": "Latanoprost",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "latanoprost"
+    ],
+    "evidence_query": "latanoprost"
+  },
+  {
+    "entity_id": "ingredient:lisdexamfetamine",
+    "canonical_name": "lisdexamfetamine",
+    "display_name": "Lisdexamfetamine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lisdexamfetamine"
+    ],
+    "evidence_query": "lisdexamfetamine"
+  },
+  {
+    "entity_id": "ingredient:atenolol",
+    "canonical_name": "atenolol",
+    "display_name": "Atenolol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "atenolol"
+    ],
+    "evidence_query": "atenolol"
+  },
+  {
+    "entity_id": "ingredient:doxycycline",
+    "canonical_name": "doxycycline",
+    "display_name": "Doxycycline",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "doxycycline"
+    ],
+    "evidence_query": "doxycycline"
+  },
+  {
+    "entity_id": "ingredient:clavulanate",
+    "canonical_name": "clavulanate",
+    "display_name": "Clavulanate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "clavulanate"
+    ],
+    "evidence_query": "clavulanate"
+  },
+  {
+    "entity_id": "ingredient:estradiol",
+    "canonical_name": "estradiol",
+    "display_name": "Estradiol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "estradiol"
+    ],
+    "evidence_query": "estradiol"
+  },
+  {
+    "entity_id": "ingredient:dulaglutide",
+    "canonical_name": "dulaglutide",
+    "display_name": "Dulaglutide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dulaglutide"
+    ],
+    "evidence_query": "dulaglutide"
+  },
+  {
+    "entity_id": "ingredient:salmeterol",
+    "canonical_name": "salmeterol",
+    "display_name": "Salmeterol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "salmeterol"
+    ],
+    "evidence_query": "salmeterol"
+  },
+  {
+    "entity_id": "ingredient:lorazepam",
+    "canonical_name": "lorazepam",
+    "display_name": "Lorazepam",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lorazepam"
+    ],
+    "evidence_query": "lorazepam"
+  },
+  {
+    "entity_id": "ingredient:insulin-aspart",
+    "canonical_name": "insulin aspart",
+    "display_name": "Insulin Aspart",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin aspart"
+    ],
+    "evidence_query": "insulin aspart"
+  },
+  {
+    "entity_id": "ingredient:celecoxib",
+    "canonical_name": "celecoxib",
+    "display_name": "Celecoxib",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "celecoxib"
+    ],
+    "evidence_query": "celecoxib"
+  },
+  {
+    "entity_id": "ingredient:finasteride",
+    "canonical_name": "finasteride",
+    "display_name": "Finasteride",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "finasteride"
+    ],
+    "evidence_query": "finasteride"
+  },
+  {
+    "entity_id": "ingredient:quetiapine",
+    "canonical_name": "quetiapine",
+    "display_name": "Quetiapine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "quetiapine"
+    ],
+    "evidence_query": "quetiapine"
+  },
+  {
+    "entity_id": "ingredient:clonidine",
+    "canonical_name": "clonidine",
+    "display_name": "Clonidine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "clonidine"
+    ],
+    "evidence_query": "clonidine"
+  },
+  {
+    "entity_id": "ingredient:aripiprazole",
+    "canonical_name": "aripiprazole",
+    "display_name": "Aripiprazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "aripiprazole"
+    ],
+    "evidence_query": "aripiprazole"
+  },
+  {
+    "entity_id": "ingredient:cephalexin",
+    "canonical_name": "cephalexin",
+    "display_name": "Cephalexin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cephalexin"
+    ],
+    "evidence_query": "cephalexin"
+  },
+  {
+    "entity_id": "ingredient:alendronate",
+    "canonical_name": "alendronate",
+    "display_name": "Alendronate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "alendronate"
+    ],
+    "evidence_query": "alendronate"
+  },
+  {
+    "entity_id": "ingredient:topiramate",
+    "canonical_name": "topiramate",
+    "display_name": "Topiramate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "topiramate"
+    ],
+    "evidence_query": "topiramate"
+  },
+  {
+    "entity_id": "ingredient:tizanidine",
+    "canonical_name": "tizanidine",
+    "display_name": "Tizanidine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tizanidine"
+    ],
+    "evidence_query": "tizanidine"
+  },
+  {
+    "entity_id": "ingredient:dapagliflozin",
+    "canonical_name": "dapagliflozin",
+    "display_name": "Dapagliflozin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dapagliflozin"
+    ],
+    "evidence_query": "dapagliflozin"
+  },
+  {
+    "entity_id": "ingredient:testosterone",
+    "canonical_name": "testosterone",
+    "display_name": "Testosterone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "testosterone"
+    ],
+    "evidence_query": "testosterone"
+  },
+  {
+    "entity_id": "ingredient:olmesartan",
+    "canonical_name": "olmesartan",
+    "display_name": "Olmesartan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "olmesartan"
+    ],
+    "evidence_query": "olmesartan"
+  },
+  {
+    "entity_id": "ingredient:amitriptyline",
+    "canonical_name": "amitriptyline",
+    "display_name": "Amitriptyline",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "amitriptyline"
+    ],
+    "evidence_query": "amitriptyline"
+  },
+  {
+    "entity_id": "ingredient:folic-acid",
+    "canonical_name": "folic acid",
+    "display_name": "Folic Acid",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "folic acid"
+    ],
+    "evidence_query": "folic acid"
+  },
+  {
+    "entity_id": "ingredient:rivaroxaban",
+    "canonical_name": "rivaroxaban",
+    "display_name": "Rivaroxaban",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "rivaroxaban"
+    ],
+    "evidence_query": "rivaroxaban"
+  },
+  {
+    "entity_id": "ingredient:fenofibrate",
+    "canonical_name": "fenofibrate",
+    "display_name": "Fenofibrate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fenofibrate"
+    ],
+    "evidence_query": "fenofibrate"
+  },
+  {
+    "entity_id": "ingredient:triamcinolone",
+    "canonical_name": "triamcinolone",
+    "display_name": "Triamcinolone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "triamcinolone"
+    ],
+    "evidence_query": "triamcinolone"
+  },
+  {
+    "entity_id": "ingredient:paroxetine",
+    "canonical_name": "paroxetine",
+    "display_name": "Paroxetine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "paroxetine"
+    ],
+    "evidence_query": "paroxetine"
+  },
+  {
+    "entity_id": "ingredient:ferrous-sulfate",
+    "canonical_name": "ferrous sulfate",
+    "display_name": "Ferrous Sulfate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ferrous sulfate"
+    ],
+    "evidence_query": "ferrous sulfate"
+  },
+  {
+    "entity_id": "ingredient:budesonide",
+    "canonical_name": "budesonide",
+    "display_name": "Budesonide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "budesonide"
+    ],
+    "evidence_query": "budesonide"
+  },
+  {
+    "entity_id": "ingredient:formoterol",
+    "canonical_name": "formoterol",
+    "display_name": "Formoterol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "formoterol"
+    ],
+    "evidence_query": "formoterol"
+  },
+  {
+    "entity_id": "ingredient:loratadine",
+    "canonical_name": "loratadine",
+    "display_name": "Loratadine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "loratadine"
+    ],
+    "evidence_query": "loratadine"
+  },
+  {
+    "entity_id": "ingredient:valacyclovir",
+    "canonical_name": "valacyclovir",
+    "display_name": "Valacyclovir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "valacyclovir"
+    ],
+    "evidence_query": "valacyclovir"
+  },
+  {
+    "entity_id": "ingredient:warfarin",
+    "canonical_name": "warfarin",
+    "display_name": "Warfarin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "warfarin"
+    ],
+    "evidence_query": "warfarin"
+  },
+  {
+    "entity_id": "ingredient:norgestimate",
+    "canonical_name": "norgestimate",
+    "display_name": "Norgestimate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "norgestimate"
+    ],
+    "evidence_query": "norgestimate"
+  },
+  {
+    "entity_id": "ingredient:umeclidinium",
+    "canonical_name": "umeclidinium",
+    "display_name": "Umeclidinium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "umeclidinium"
+    ],
+    "evidence_query": "umeclidinium"
+  },
+  {
+    "entity_id": "ingredient:vilanterol",
+    "canonical_name": "vilanterol",
+    "display_name": "Vilanterol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "vilanterol"
+    ],
+    "evidence_query": "vilanterol"
+  },
+  {
+    "entity_id": "ingredient:miscellaneous-anxiolytics-sedatives-and-hypnot",
+    "canonical_name": "miscellaneous anxiolytics, sedatives and hypnot",
+    "display_name": "Miscellaneous Anxiolytics, Sedatives And Hypnot",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "miscellaneous anxiolytics, sedatives and hypnot"
+    ],
+    "evidence_query": "miscellaneous anxiolytics, sedatives and hypnot"
+  },
+  {
+    "entity_id": "ingredient:methocarbamol",
+    "canonical_name": "methocarbamol",
+    "display_name": "Methocarbamol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "methocarbamol"
+    ],
+    "evidence_query": "methocarbamol"
+  },
+  {
+    "entity_id": "ingredient:diltiazem",
+    "canonical_name": "diltiazem",
+    "display_name": "Diltiazem",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "diltiazem"
+    ],
+    "evidence_query": "diltiazem"
+  },
+  {
+    "entity_id": "ingredient:thyroid-desiccated",
+    "canonical_name": "thyroid desiccated",
+    "display_name": "Thyroid Desiccated",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "thyroid desiccated"
+    ],
+    "evidence_query": "thyroid desiccated"
+  },
+  {
+    "entity_id": "ingredient:baclofen",
+    "canonical_name": "baclofen",
+    "display_name": "Baclofen",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "baclofen"
+    ],
+    "evidence_query": "baclofen"
+  },
+  {
+    "entity_id": "ingredient:diclofenac",
+    "canonical_name": "diclofenac",
+    "display_name": "Diclofenac",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "diclofenac"
+    ],
+    "evidence_query": "diclofenac"
+  },
+  {
+    "entity_id": "ingredient:naproxen",
+    "canonical_name": "naproxen",
+    "display_name": "Naproxen",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "naproxen"
+    ],
+    "evidence_query": "naproxen"
+  },
+  {
+    "entity_id": "ingredient:sumatriptan",
+    "canonical_name": "sumatriptan",
+    "display_name": "Sumatriptan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sumatriptan"
+    ],
+    "evidence_query": "sumatriptan"
+  },
+  {
+    "entity_id": "ingredient:esomeprazole",
+    "canonical_name": "esomeprazole",
+    "display_name": "Esomeprazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "esomeprazole"
+    ],
+    "evidence_query": "esomeprazole"
+  },
+  {
+    "entity_id": "ingredient:mirtazapine",
+    "canonical_name": "mirtazapine",
+    "display_name": "Mirtazapine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "mirtazapine"
+    ],
+    "evidence_query": "mirtazapine"
+  },
+  {
+    "entity_id": "ingredient:levetiracetam",
+    "canonical_name": "levetiracetam",
+    "display_name": "Levetiracetam",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "levetiracetam"
+    ],
+    "evidence_query": "levetiracetam"
+  },
+  {
+    "entity_id": "ingredient:tadalafil",
+    "canonical_name": "tadalafil",
+    "display_name": "Tadalafil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tadalafil"
+    ],
+    "evidence_query": "tadalafil"
+  },
+  {
+    "entity_id": "ingredient:nifedipine",
+    "canonical_name": "nifedipine",
+    "display_name": "Nifedipine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nifedipine"
+    ],
+    "evidence_query": "nifedipine"
+  },
+  {
+    "entity_id": "ingredient:progesterone",
+    "canonical_name": "progesterone",
+    "display_name": "Progesterone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "progesterone"
+    ],
+    "evidence_query": "progesterone"
+  },
+  {
+    "entity_id": "ingredient:insulin-degludec",
+    "canonical_name": "insulin degludec",
+    "display_name": "Insulin Degludec",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin degludec"
+    ],
+    "evidence_query": "insulin degludec"
+  },
+  {
+    "entity_id": "ingredient:cyanocobalamin",
+    "canonical_name": "cyanocobalamin",
+    "display_name": "Cyanocobalamin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cyanocobalamin"
+    ],
+    "evidence_query": "cyanocobalamin"
+  },
+  {
+    "entity_id": "ingredient:hydralazine",
+    "canonical_name": "hydralazine",
+    "display_name": "Hydralazine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "hydralazine"
+    ],
+    "evidence_query": "hydralazine"
+  },
+  {
+    "entity_id": "ingredient:adalimumab",
+    "canonical_name": "adalimumab",
+    "display_name": "Adalimumab",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "adalimumab"
+    ],
+    "evidence_query": "adalimumab"
+  },
+  {
+    "entity_id": "ingredient:sitagliptin",
+    "canonical_name": "sitagliptin",
+    "display_name": "Sitagliptin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sitagliptin"
+    ],
+    "evidence_query": "sitagliptin"
+  },
+  {
+    "entity_id": "ingredient:glimepiride",
+    "canonical_name": "glimepiride",
+    "display_name": "Glimepiride",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "glimepiride"
+    ],
+    "evidence_query": "glimepiride"
+  },
+  {
+    "entity_id": "ingredient:chlorthalidone",
+    "canonical_name": "chlorthalidone",
+    "display_name": "Chlorthalidone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "chlorthalidone"
+    ],
+    "evidence_query": "chlorthalidone"
+  },
+  {
+    "entity_id": "ingredient:oxybutynin",
+    "canonical_name": "oxybutynin",
+    "display_name": "Oxybutynin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "oxybutynin"
+    ],
+    "evidence_query": "oxybutynin"
+  },
+  {
+    "entity_id": "ingredient:insulin",
+    "canonical_name": "insulin",
+    "display_name": "Insulin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin"
+    ],
+    "evidence_query": "insulin"
+  },
+  {
+    "entity_id": "ingredient:pioglitazone",
+    "canonical_name": "pioglitazone",
+    "display_name": "Pioglitazone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pioglitazone"
+    ],
+    "evidence_query": "pioglitazone"
+  },
+  {
+    "entity_id": "ingredient:ketoconazole",
+    "canonical_name": "ketoconazole",
+    "display_name": "Ketoconazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ketoconazole"
+    ],
+    "evidence_query": "ketoconazole"
+  },
+  {
+    "entity_id": "ingredient:irbesartan",
+    "canonical_name": "irbesartan",
+    "display_name": "Irbesartan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "irbesartan"
+    ],
+    "evidence_query": "irbesartan"
+  },
+  {
+    "entity_id": "ingredient:azelastine",
+    "canonical_name": "azelastine",
+    "display_name": "Azelastine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "azelastine"
+    ],
+    "evidence_query": "azelastine"
+  },
+  {
+    "entity_id": "ingredient:hydroxychloroquine",
+    "canonical_name": "hydroxychloroquine",
+    "display_name": "Hydroxychloroquine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "hydroxychloroquine"
+    ],
+    "evidence_query": "hydroxychloroquine"
+  },
+  {
+    "entity_id": "ingredient:nitrofurantoin",
+    "canonical_name": "nitrofurantoin",
+    "display_name": "Nitrofurantoin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nitrofurantoin"
+    ],
+    "evidence_query": "nitrofurantoin"
+  },
+  {
+    "entity_id": "ingredient:sulfamethoxazole",
+    "canonical_name": "sulfamethoxazole",
+    "display_name": "Sulfamethoxazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sulfamethoxazole"
+    ],
+    "evidence_query": "sulfamethoxazole"
+  },
+  {
+    "entity_id": "ingredient:trimethoprim",
+    "canonical_name": "trimethoprim",
+    "display_name": "Trimethoprim",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "trimethoprim"
+    ],
+    "evidence_query": "trimethoprim"
+  },
+  {
+    "entity_id": "ingredient:benzonatate",
+    "canonical_name": "benzonatate",
+    "display_name": "Benzonatate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "benzonatate"
+    ],
+    "evidence_query": "benzonatate"
+  },
+  {
+    "entity_id": "ingredient:isosorbide-mononitrate",
+    "canonical_name": "isosorbide mononitrate",
+    "display_name": "Isosorbide Mononitrate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "isosorbide mononitrate"
+    ],
+    "evidence_query": "isosorbide mononitrate"
+  },
+  {
+    "entity_id": "ingredient:prednisolone",
+    "canonical_name": "prednisolone",
+    "display_name": "Prednisolone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "prednisolone"
+    ],
+    "evidence_query": "prednisolone"
+  },
+  {
+    "entity_id": "ingredient:methylprednisolone",
+    "canonical_name": "methylprednisolone",
+    "display_name": "Methylprednisolone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "methylprednisolone"
+    ],
+    "evidence_query": "methylprednisolone"
+  },
+  {
+    "entity_id": "ingredient:sex-hormones",
+    "canonical_name": "sex hormones",
+    "display_name": "Sex Hormones",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sex hormones"
+    ],
+    "evidence_query": "sex hormones"
+  },
+  {
+    "entity_id": "ingredient:triamterene",
+    "canonical_name": "triamterene",
+    "display_name": "Triamterene",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "triamterene"
+    ],
+    "evidence_query": "triamterene"
+  },
+  {
+    "entity_id": "ingredient:levocetirizine",
+    "canonical_name": "levocetirizine",
+    "display_name": "Levocetirizine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "levocetirizine"
+    ],
+    "evidence_query": "levocetirizine"
+  },
+  {
+    "entity_id": "ingredient:atomoxetine",
+    "canonical_name": "atomoxetine",
+    "display_name": "Atomoxetine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "atomoxetine"
+    ],
+    "evidence_query": "atomoxetine"
+  },
+  {
+    "entity_id": "ingredient:dexmethylphenidate",
+    "canonical_name": "dexmethylphenidate",
+    "display_name": "Dexmethylphenidate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dexmethylphenidate"
+    ],
+    "evidence_query": "dexmethylphenidate"
+  },
+  {
+    "entity_id": "ingredient:methotrexate",
+    "canonical_name": "methotrexate",
+    "display_name": "Methotrexate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "methotrexate"
+    ],
+    "evidence_query": "methotrexate"
+  },
+  {
+    "entity_id": "ingredient:donepezil",
+    "canonical_name": "donepezil",
+    "display_name": "Donepezil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "donepezil"
+    ],
+    "evidence_query": "donepezil"
+  },
+  {
+    "entity_id": "ingredient:desvenlafaxine",
+    "canonical_name": "desvenlafaxine",
+    "display_name": "Desvenlafaxine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "desvenlafaxine"
+    ],
+    "evidence_query": "desvenlafaxine"
+  },
+  {
+    "entity_id": "ingredient:ropinirole",
+    "canonical_name": "ropinirole",
+    "display_name": "Ropinirole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ropinirole"
+    ],
+    "evidence_query": "ropinirole"
+  },
+  {
+    "entity_id": "ingredient:antineoplastic-hormones",
+    "canonical_name": "antineoplastic hormones",
+    "display_name": "Antineoplastic Hormones",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "antineoplastic hormones"
+    ],
+    "evidence_query": "antineoplastic hormones"
+  },
+  {
+    "entity_id": "ingredient:clobetasol",
+    "canonical_name": "clobetasol",
+    "display_name": "Clobetasol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "clobetasol"
+    ],
+    "evidence_query": "clobetasol"
+  },
+  {
+    "entity_id": "ingredient:ipratropium",
+    "canonical_name": "ipratropium",
+    "display_name": "Ipratropium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ipratropium"
+    ],
+    "evidence_query": "ipratropium"
+  },
+  {
+    "entity_id": "ingredient:phentermine",
+    "canonical_name": "phentermine",
+    "display_name": "Phentermine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "phentermine"
+    ],
+    "evidence_query": "phentermine"
+  },
+  {
+    "entity_id": "ingredient:mupirocin",
+    "canonical_name": "mupirocin",
+    "display_name": "Mupirocin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "mupirocin"
+    ],
+    "evidence_query": "mupirocin"
+  },
+  {
+    "entity_id": "ingredient:verapamil",
+    "canonical_name": "verapamil",
+    "display_name": "Verapamil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "verapamil"
+    ],
+    "evidence_query": "verapamil"
+  },
+  {
+    "entity_id": "ingredient:etonogestrel",
+    "canonical_name": "etonogestrel",
+    "display_name": "Etonogestrel",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "etonogestrel"
+    ],
+    "evidence_query": "etonogestrel"
+  },
+  {
+    "entity_id": "ingredient:olanzapine",
+    "canonical_name": "olanzapine",
+    "display_name": "Olanzapine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "olanzapine"
+    ],
+    "evidence_query": "olanzapine"
+  },
+  {
+    "entity_id": "ingredient:prazosin",
+    "canonical_name": "prazosin",
+    "display_name": "Prazosin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "prazosin"
+    ],
+    "evidence_query": "prazosin"
+  },
+  {
+    "entity_id": "ingredient:sildenafil",
+    "canonical_name": "sildenafil",
+    "display_name": "Sildenafil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sildenafil"
+    ],
+    "evidence_query": "sildenafil"
+  },
+  {
+    "entity_id": "ingredient:levonorgestrel",
+    "canonical_name": "levonorgestrel",
+    "display_name": "Levonorgestrel",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "levonorgestrel"
+    ],
+    "evidence_query": "levonorgestrel"
+  },
+  {
+    "entity_id": "ingredient:evolocumab",
+    "canonical_name": "evolocumab",
+    "display_name": "Evolocumab",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "evolocumab"
+    ],
+    "evidence_query": "evolocumab"
+  },
+  {
+    "entity_id": "ingredient:mesalamine",
+    "canonical_name": "mesalamine",
+    "display_name": "Mesalamine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "mesalamine"
+    ],
+    "evidence_query": "mesalamine"
+  },
+  {
+    "entity_id": "ingredient:memantine",
+    "canonical_name": "memantine",
+    "display_name": "Memantine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "memantine"
+    ],
+    "evidence_query": "memantine"
+  },
+  {
+    "entity_id": "ingredient:diazepam",
+    "canonical_name": "diazepam",
+    "display_name": "Diazepam",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "diazepam"
+    ],
+    "evidence_query": "diazepam"
+  },
+  {
+    "entity_id": "ingredient:lithium",
+    "canonical_name": "lithium",
+    "display_name": "Lithium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lithium"
+    ],
+    "evidence_query": "lithium"
+  },
+  {
+    "entity_id": "ingredient:nortriptyline",
+    "canonical_name": "nortriptyline",
+    "display_name": "Nortriptyline",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nortriptyline"
+    ],
+    "evidence_query": "nortriptyline"
+  },
+  {
+    "entity_id": "ingredient:timolol",
+    "canonical_name": "timolol",
+    "display_name": "Timolol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "timolol"
+    ],
+    "evidence_query": "timolol"
+  },
+  {
+    "entity_id": "ingredient:cefdinir",
+    "canonical_name": "cefdinir",
+    "display_name": "Cefdinir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cefdinir"
+    ],
+    "evidence_query": "cefdinir"
+  },
+  {
+    "entity_id": "ingredient:meclizine",
+    "canonical_name": "meclizine",
+    "display_name": "Meclizine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "meclizine"
+    ],
+    "evidence_query": "meclizine"
+  },
+  {
+    "entity_id": "ingredient:cyclosporine",
+    "canonical_name": "cyclosporine",
+    "display_name": "Cyclosporine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cyclosporine"
+    ],
+    "evidence_query": "cyclosporine"
+  },
+  {
+    "entity_id": "ingredient:tretinoin",
+    "canonical_name": "tretinoin",
+    "display_name": "Tretinoin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tretinoin"
+    ],
+    "evidence_query": "tretinoin"
+  },
+  {
+    "entity_id": "ingredient:magnesium-oxide",
+    "canonical_name": "magnesium oxide",
+    "display_name": "Magnesium Oxide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "magnesium oxide"
+    ],
+    "evidence_query": "magnesium oxide"
+  },
+  {
+    "entity_id": "ingredient:fluconazole",
+    "canonical_name": "fluconazole",
+    "display_name": "Fluconazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fluconazole"
+    ],
+    "evidence_query": "fluconazole"
+  },
+  {
+    "entity_id": "ingredient:rimegepant",
+    "canonical_name": "rimegepant",
+    "display_name": "Rimegepant",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "rimegepant"
+    ],
+    "evidence_query": "rimegepant"
+  },
+  {
+    "entity_id": "ingredient:lovastatin",
+    "canonical_name": "lovastatin",
+    "display_name": "Lovastatin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lovastatin"
+    ],
+    "evidence_query": "lovastatin"
+  },
+  {
+    "entity_id": "ingredient:drospirenone",
+    "canonical_name": "drospirenone",
+    "display_name": "Drospirenone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "drospirenone"
+    ],
+    "evidence_query": "drospirenone"
+  },
+  {
+    "entity_id": "ingredient:tiotropium",
+    "canonical_name": "tiotropium",
+    "display_name": "Tiotropium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tiotropium"
+    ],
+    "evidence_query": "tiotropium"
+  },
+  {
+    "entity_id": "ingredient:docusate",
+    "canonical_name": "docusate",
+    "display_name": "Docusate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "docusate"
+    ],
+    "evidence_query": "docusate"
+  },
+  {
+    "entity_id": "ingredient:temazepam",
+    "canonical_name": "temazepam",
+    "display_name": "Temazepam",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "temazepam"
+    ],
+    "evidence_query": "temazepam"
+  },
+  {
+    "entity_id": "ingredient:narcotic-analgesic-combinations",
+    "canonical_name": "narcotic analgesic combinations",
+    "display_name": "Narcotic Analgesic Combinations",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "narcotic analgesic combinations"
+    ],
+    "evidence_query": "narcotic analgesic combinations"
+  },
+  {
+    "entity_id": "ingredient:benazepril",
+    "canonical_name": "benazepril",
+    "display_name": "Benazepril",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "benazepril"
+    ],
+    "evidence_query": "benazepril"
+  },
+  {
+    "entity_id": "ingredient:brimonidine",
+    "canonical_name": "brimonidine",
+    "display_name": "Brimonidine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "brimonidine"
+    ],
+    "evidence_query": "brimonidine"
+  },
+  {
+    "entity_id": "ingredient:nirmatrelvir",
+    "canonical_name": "nirmatrelvir",
+    "display_name": "Nirmatrelvir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nirmatrelvir"
+    ],
+    "evidence_query": "nirmatrelvir"
+  },
+  {
+    "entity_id": "ingredient:ritonavir",
+    "canonical_name": "ritonavir",
+    "display_name": "Ritonavir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ritonavir"
+    ],
+    "evidence_query": "ritonavir"
+  },
+  {
+    "entity_id": "ingredient:ofloxacin",
+    "canonical_name": "ofloxacin",
+    "display_name": "Ofloxacin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ofloxacin"
+    ],
+    "evidence_query": "ofloxacin"
+  },
+  {
+    "entity_id": "ingredient:sacubitril",
+    "canonical_name": "sacubitril",
+    "display_name": "Sacubitril",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sacubitril"
+    ],
+    "evidence_query": "sacubitril"
+  },
+  {
+    "entity_id": "ingredient:divalproex-sodium",
+    "canonical_name": "divalproex sodium",
+    "display_name": "Divalproex Sodium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "divalproex sodium"
+    ],
+    "evidence_query": "divalproex sodium"
+  },
+  {
+    "entity_id": "ingredient:nebivolol",
+    "canonical_name": "nebivolol",
+    "display_name": "Nebivolol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nebivolol"
+    ],
+    "evidence_query": "nebivolol"
+  },
+  {
+    "entity_id": "ingredient:acyclovir",
+    "canonical_name": "acyclovir",
+    "display_name": "Acyclovir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "acyclovir"
+    ],
+    "evidence_query": "acyclovir"
+  },
+  {
+    "entity_id": "ingredient:morphine",
+    "canonical_name": "morphine",
+    "display_name": "Morphine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "morphine"
+    ],
+    "evidence_query": "morphine"
+  },
+  {
+    "entity_id": "ingredient:doxazosin",
+    "canonical_name": "doxazosin",
+    "display_name": "Doxazosin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "doxazosin"
+    ],
+    "evidence_query": "doxazosin"
+  },
+  {
+    "entity_id": "ingredient:ciprofloxacin",
+    "canonical_name": "ciprofloxacin",
+    "display_name": "Ciprofloxacin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ciprofloxacin"
+    ],
+    "evidence_query": "ciprofloxacin"
+  },
+  {
+    "entity_id": "ingredient:emtricitabine",
+    "canonical_name": "emtricitabine",
+    "display_name": "Emtricitabine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "emtricitabine"
+    ],
+    "evidence_query": "emtricitabine"
+  },
+  {
+    "entity_id": "ingredient:tenofovir",
+    "canonical_name": "tenofovir",
+    "display_name": "Tenofovir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tenofovir"
+    ],
+    "evidence_query": "tenofovir"
+  },
+  {
+    "entity_id": "ingredient:dupilumab",
+    "canonical_name": "dupilumab",
+    "display_name": "Dupilumab",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dupilumab"
+    ],
+    "evidence_query": "dupilumab"
+  },
+  {
+    "entity_id": "ingredient:enalapril",
+    "canonical_name": "enalapril",
+    "display_name": "Enalapril",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "enalapril"
+    ],
+    "evidence_query": "enalapril"
+  },
+  {
+    "entity_id": "ingredient:anastrozole",
+    "canonical_name": "anastrozole",
+    "display_name": "Anastrozole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "anastrozole"
+    ],
+    "evidence_query": "anastrozole"
+  },
+  {
+    "entity_id": "ingredient:cns-stimulants",
+    "canonical_name": "cns stimulants",
+    "display_name": "Cns Stimulants",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cns stimulants"
+    ],
+    "evidence_query": "cns stimulants"
+  },
+  {
+    "entity_id": "ingredient:antidepressants",
+    "canonical_name": "antidepressants",
+    "display_name": "Antidepressants",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "antidepressants"
+    ],
+    "evidence_query": "antidepressants"
+  },
+  {
+    "entity_id": "ingredient:melatonin",
+    "canonical_name": "melatonin",
+    "display_name": "Melatonin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "melatonin"
+    ],
+    "evidence_query": "melatonin"
+  },
+  {
+    "entity_id": "ingredient:torsemide",
+    "canonical_name": "torsemide",
+    "display_name": "Torsemide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "torsemide"
+    ],
+    "evidence_query": "torsemide"
+  },
+  {
+    "entity_id": "ingredient:polyethylene-glycol-3350",
+    "canonical_name": "polyethylene glycol 3350",
+    "display_name": "Polyethylene Glycol 3350",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "polyethylene glycol 3350"
+    ],
+    "evidence_query": "polyethylene glycol 3350"
+  },
+  {
+    "entity_id": "ingredient:ocular-lubricant",
+    "canonical_name": "ocular lubricant",
+    "display_name": "Ocular Lubricant",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ocular lubricant"
+    ],
+    "evidence_query": "ocular lubricant"
+  },
+  {
+    "entity_id": "ingredient:glucocorticoids",
+    "canonical_name": "glucocorticoids",
+    "display_name": "Glucocorticoids",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "glucocorticoids"
+    ],
+    "evidence_query": "glucocorticoids"
+  },
+  {
+    "entity_id": "ingredient:nitroglycerin",
+    "canonical_name": "nitroglycerin",
+    "display_name": "Nitroglycerin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nitroglycerin"
+    ],
+    "evidence_query": "nitroglycerin"
+  },
+  {
+    "entity_id": "ingredient:flecainide",
+    "canonical_name": "flecainide",
+    "display_name": "Flecainide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "flecainide"
+    ],
+    "evidence_query": "flecainide"
+  },
+  {
+    "entity_id": "ingredient:liothyronine",
+    "canonical_name": "liothyronine",
+    "display_name": "Liothyronine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "liothyronine"
+    ],
+    "evidence_query": "liothyronine"
+  },
+  {
+    "entity_id": "ingredient:clindamycin",
+    "canonical_name": "clindamycin",
+    "display_name": "Clindamycin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "clindamycin"
+    ],
+    "evidence_query": "clindamycin"
+  },
+  {
+    "entity_id": "ingredient:telmisartan",
+    "canonical_name": "telmisartan",
+    "display_name": "Telmisartan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "telmisartan"
+    ],
+    "evidence_query": "telmisartan"
+  },
+  {
+    "entity_id": "ingredient:coagulation-modifiers",
+    "canonical_name": "coagulation modifiers",
+    "display_name": "Coagulation Modifiers",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "coagulation modifiers"
+    ],
+    "evidence_query": "coagulation modifiers"
+  },
+  {
+    "entity_id": "ingredient:risperidone",
+    "canonical_name": "risperidone",
+    "display_name": "Risperidone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "risperidone"
+    ],
+    "evidence_query": "risperidone"
+  },
+  {
+    "entity_id": "ingredient:3-polyunsaturated-fatty-acids",
+    "canonical_name": "3 polyunsaturated fatty acids",
+    "display_name": "3 Polyunsaturated Fatty Acids",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "3 polyunsaturated fatty acids"
+    ],
+    "evidence_query": "3 polyunsaturated fatty acids"
+  },
+  {
+    "entity_id": "ingredient:omega",
+    "canonical_name": "omega",
+    "display_name": "Omega",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "omega"
+    ],
+    "evidence_query": "omega"
+  },
+  {
+    "entity_id": "ingredient:colchicine",
+    "canonical_name": "colchicine",
+    "display_name": "Colchicine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "colchicine"
+    ],
+    "evidence_query": "colchicine"
+  },
+  {
+    "entity_id": "ingredient:lansoprazole",
+    "canonical_name": "lansoprazole",
+    "display_name": "Lansoprazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lansoprazole"
+    ],
+    "evidence_query": "lansoprazole"
+  },
+  {
+    "entity_id": "ingredient:insulin-isophane",
+    "canonical_name": "insulin isophane",
+    "display_name": "Insulin Isophane",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin isophane"
+    ],
+    "evidence_query": "insulin isophane"
+  },
+  {
+    "entity_id": "ingredient:insulin-regular",
+    "canonical_name": "insulin regular",
+    "display_name": "Insulin Regular",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin regular"
+    ],
+    "evidence_query": "insulin regular"
+  },
+  {
+    "entity_id": "ingredient:oxcarbazepine",
+    "canonical_name": "oxcarbazepine",
+    "display_name": "Oxcarbazepine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "oxcarbazepine"
+    ],
+    "evidence_query": "oxcarbazepine"
+  },
+  {
+    "entity_id": "ingredient:promethazine",
+    "canonical_name": "promethazine",
+    "display_name": "Promethazine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "promethazine"
+    ],
+    "evidence_query": "promethazine"
+  },
+  {
+    "entity_id": "ingredient:dicyclomine",
+    "canonical_name": "dicyclomine",
+    "display_name": "Dicyclomine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dicyclomine"
+    ],
+    "evidence_query": "dicyclomine"
+  },
+  {
+    "entity_id": "ingredient:metronidazole",
+    "canonical_name": "metronidazole",
+    "display_name": "Metronidazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "metronidazole"
+    ],
+    "evidence_query": "metronidazole"
+  },
+  {
+    "entity_id": "ingredient:minoxidil",
+    "canonical_name": "minoxidil",
+    "display_name": "Minoxidil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "minoxidil"
+    ],
+    "evidence_query": "minoxidil"
+  },
+  {
+    "entity_id": "ingredient:linaclotide",
+    "canonical_name": "linaclotide",
+    "display_name": "Linaclotide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "linaclotide"
+    ],
+    "evidence_query": "linaclotide"
+  },
+  {
+    "entity_id": "ingredient:metoclopramide",
+    "canonical_name": "metoclopramide",
+    "display_name": "Metoclopramide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "metoclopramide"
+    ],
+    "evidence_query": "metoclopramide"
+  },
+  {
+    "entity_id": "ingredient:rizatriptan",
+    "canonical_name": "rizatriptan",
+    "display_name": "Rizatriptan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "rizatriptan"
+    ],
+    "evidence_query": "rizatriptan"
+  },
+  {
+    "entity_id": "ingredient:oseltamivir",
+    "canonical_name": "oseltamivir",
+    "display_name": "Oseltamivir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "oseltamivir"
+    ],
+    "evidence_query": "oseltamivir"
+  },
+  {
+    "entity_id": "ingredient:dorzolamide",
+    "canonical_name": "dorzolamide",
+    "display_name": "Dorzolamide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dorzolamide"
+    ],
+    "evidence_query": "dorzolamide"
+  },
+  {
+    "entity_id": "ingredient:glycopyrrolate",
+    "canonical_name": "glycopyrrolate",
+    "display_name": "Glycopyrrolate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "glycopyrrolate"
+    ],
+    "evidence_query": "glycopyrrolate"
+  },
+  {
+    "entity_id": "ingredient:terazosin",
+    "canonical_name": "terazosin",
+    "display_name": "Terazosin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "terazosin"
+    ],
+    "evidence_query": "terazosin"
+  },
+  {
+    "entity_id": "ingredient:dexlansoprazole",
+    "canonical_name": "dexlansoprazole",
+    "display_name": "Dexlansoprazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dexlansoprazole"
+    ],
+    "evidence_query": "dexlansoprazole"
+  },
+  {
+    "entity_id": "ingredient:multivitamin",
+    "canonical_name": "multivitamin",
+    "display_name": "Multivitamin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "multivitamin"
+    ],
+    "evidence_query": "multivitamin"
+  },
+  {
+    "entity_id": "ingredient:inhaled-corticosteroids",
+    "canonical_name": "inhaled corticosteroids",
+    "display_name": "Inhaled Corticosteroids",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "inhaled corticosteroids"
+    ],
+    "evidence_query": "inhaled corticosteroids"
+  },
+  {
+    "entity_id": "ingredient:codeine",
+    "canonical_name": "codeine",
+    "display_name": "Codeine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "codeine"
+    ],
+    "evidence_query": "codeine"
+  },
+  {
+    "entity_id": "ingredient:calcium-carbonate",
+    "canonical_name": "calcium carbonate",
+    "display_name": "Calcium Carbonate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "calcium carbonate"
+    ],
+    "evidence_query": "calcium carbonate"
+  },
+  {
+    "entity_id": "ingredient:hydrocortisone",
+    "canonical_name": "hydrocortisone",
+    "display_name": "Hydrocortisone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "hydrocortisone"
+    ],
+    "evidence_query": "hydrocortisone"
+  },
+  {
+    "entity_id": "ingredient:bisoprolol",
+    "canonical_name": "bisoprolol",
+    "display_name": "Bisoprolol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "bisoprolol"
+    ],
+    "evidence_query": "bisoprolol"
+  },
+  {
+    "entity_id": "ingredient:solifenacin",
+    "canonical_name": "solifenacin",
+    "display_name": "Solifenacin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "solifenacin"
+    ],
+    "evidence_query": "solifenacin"
+  },
+  {
+    "entity_id": "ingredient:carbamazepine",
+    "canonical_name": "carbamazepine",
+    "display_name": "Carbamazepine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "carbamazepine"
+    ],
+    "evidence_query": "carbamazepine"
+  },
+  {
+    "entity_id": "ingredient:erythromycin",
+    "canonical_name": "erythromycin",
+    "display_name": "Erythromycin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "erythromycin"
+    ],
+    "evidence_query": "erythromycin"
+  },
+  {
+    "entity_id": "ingredient:betamethasone",
+    "canonical_name": "betamethasone",
+    "display_name": "Betamethasone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "betamethasone"
+    ],
+    "evidence_query": "betamethasone"
+  },
+  {
+    "entity_id": "ingredient:clotrimazole",
+    "canonical_name": "clotrimazole",
+    "display_name": "Clotrimazole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "clotrimazole"
+    ],
+    "evidence_query": "clotrimazole"
+  },
+  {
+    "entity_id": "ingredient:epinephrine",
+    "canonical_name": "epinephrine",
+    "display_name": "Epinephrine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "epinephrine"
+    ],
+    "evidence_query": "epinephrine"
+  },
+  {
+    "entity_id": "ingredient:topical-steroids",
+    "canonical_name": "topical steroids",
+    "display_name": "Topical Steroids",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "topical steroids"
+    ],
+    "evidence_query": "topical steroids"
+  },
+  {
+    "entity_id": "ingredient:levofloxacin",
+    "canonical_name": "levofloxacin",
+    "display_name": "Levofloxacin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "levofloxacin"
+    ],
+    "evidence_query": "levofloxacin"
+  },
+  {
+    "entity_id": "ingredient:tacrolimus",
+    "canonical_name": "tacrolimus",
+    "display_name": "Tacrolimus",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tacrolimus"
+    ],
+    "evidence_query": "tacrolimus"
+  },
+  {
+    "entity_id": "ingredient:antihypertensive-combinations",
+    "canonical_name": "antihypertensive combinations",
+    "display_name": "Antihypertensive Combinations",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "antihypertensive combinations"
+    ],
+    "evidence_query": "antihypertensive combinations"
+  },
+  {
+    "entity_id": "ingredient:dextromethorphan",
+    "canonical_name": "dextromethorphan",
+    "display_name": "Dextromethorphan",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dextromethorphan"
+    ],
+    "evidence_query": "dextromethorphan"
+  },
+  {
+    "entity_id": "ingredient:ramipril",
+    "canonical_name": "ramipril",
+    "display_name": "Ramipril",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ramipril"
+    ],
+    "evidence_query": "ramipril"
+  },
+  {
+    "entity_id": "ingredient:loperamide",
+    "canonical_name": "loperamide",
+    "display_name": "Loperamide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "loperamide"
+    ],
+    "evidence_query": "loperamide"
+  },
+  {
+    "entity_id": "ingredient:mirabegron",
+    "canonical_name": "mirabegron",
+    "display_name": "Mirabegron",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "mirabegron"
+    ],
+    "evidence_query": "mirabegron"
+  },
+  {
+    "entity_id": "ingredient:medroxyprogesterone",
+    "canonical_name": "medroxyprogesterone",
+    "display_name": "Medroxyprogesterone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "medroxyprogesterone"
+    ],
+    "evidence_query": "medroxyprogesterone"
+  },
+  {
+    "entity_id": "ingredient:dexamethasone",
+    "canonical_name": "dexamethasone",
+    "display_name": "Dexamethasone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dexamethasone"
+    ],
+    "evidence_query": "dexamethasone"
+  },
+  {
+    "entity_id": "ingredient:group-iii-antiarrhythmics",
+    "canonical_name": "group iii antiarrhythmics",
+    "display_name": "Group Iii Antiarrhythmics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "group iii antiarrhythmics"
+    ],
+    "evidence_query": "group iii antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:sucralfate",
+    "canonical_name": "sucralfate",
+    "display_name": "Sucralfate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sucralfate"
+    ],
+    "evidence_query": "sucralfate"
+  },
+  {
+    "entity_id": "ingredient:ubrogepant",
+    "canonical_name": "ubrogepant",
+    "display_name": "Ubrogepant",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ubrogepant"
+    ],
+    "evidence_query": "ubrogepant"
+  },
+  {
+    "entity_id": "ingredient:pramipexole",
+    "canonical_name": "pramipexole",
+    "display_name": "Pramipexole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pramipexole"
+    ],
+    "evidence_query": "pramipexole"
+  },
+  {
+    "entity_id": "ingredient:nystatin",
+    "canonical_name": "nystatin",
+    "display_name": "Nystatin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nystatin"
+    ],
+    "evidence_query": "nystatin"
+  },
+  {
+    "entity_id": "ingredient:calcitriol",
+    "canonical_name": "calcitriol",
+    "display_name": "Calcitriol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "calcitriol"
+    ],
+    "evidence_query": "calcitriol"
+  },
+  {
+    "entity_id": "ingredient:ticagrelor",
+    "canonical_name": "ticagrelor",
+    "display_name": "Ticagrelor",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ticagrelor"
+    ],
+    "evidence_query": "ticagrelor"
+  },
+  {
+    "entity_id": "ingredient:fexofenadine",
+    "canonical_name": "fexofenadine",
+    "display_name": "Fexofenadine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fexofenadine"
+    ],
+    "evidence_query": "fexofenadine"
+  },
+  {
+    "entity_id": "ingredient:selective-immunosuppressants",
+    "canonical_name": "selective immunosuppressants",
+    "display_name": "Selective Immunosuppressants",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "selective immunosuppressants"
+    ],
+    "evidence_query": "selective immunosuppressants"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-prenatal",
+    "canonical_name": "multivitamin, prenatal",
+    "display_name": "Multivitamin, Prenatal",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "multivitamin, prenatal"
+    ],
+    "evidence_query": "multivitamin, prenatal"
+  },
+  {
+    "entity_id": "ingredient:pancrelipase",
+    "canonical_name": "pancrelipase",
+    "display_name": "Pancrelipase",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pancrelipase"
+    ],
+    "evidence_query": "pancrelipase"
+  },
+  {
+    "entity_id": "ingredient:polymyxin-b",
+    "canonical_name": "polymyxin b",
+    "display_name": "Polymyxin B",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "polymyxin b"
+    ],
+    "evidence_query": "polymyxin b"
+  },
+  {
+    "entity_id": "ingredient:cd20-monoclonal-antibodies",
+    "canonical_name": "cd20 monoclonal antibodies",
+    "display_name": "Cd20 Monoclonal Antibodies",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cd20 monoclonal antibodies"
+    ],
+    "evidence_query": "cd20 monoclonal antibodies"
+  },
+  {
+    "entity_id": "ingredient:bumetanide",
+    "canonical_name": "bumetanide",
+    "display_name": "Bumetanide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "bumetanide"
+    ],
+    "evidence_query": "bumetanide"
+  },
+  {
+    "entity_id": "ingredient:labetalol",
+    "canonical_name": "labetalol",
+    "display_name": "Labetalol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "labetalol"
+    ],
+    "evidence_query": "labetalol"
+  },
+  {
+    "entity_id": "ingredient:alfuzosin",
+    "canonical_name": "alfuzosin",
+    "display_name": "Alfuzosin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "alfuzosin"
+    ],
+    "evidence_query": "alfuzosin"
+  },
+  {
+    "entity_id": "ingredient:senna",
+    "canonical_name": "senna",
+    "display_name": "Senna",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "senna"
+    ],
+    "evidence_query": "senna"
+  },
+  {
+    "entity_id": "ingredient:moxifloxacin",
+    "canonical_name": "moxifloxacin",
+    "display_name": "Moxifloxacin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "moxifloxacin"
+    ],
+    "evidence_query": "moxifloxacin"
+  },
+  {
+    "entity_id": "ingredient:ketorolac",
+    "canonical_name": "ketorolac",
+    "display_name": "Ketorolac",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ketorolac"
+    ],
+    "evidence_query": "ketorolac"
+  },
+  {
+    "entity_id": "ingredient:terbinafine",
+    "canonical_name": "terbinafine",
+    "display_name": "Terbinafine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "terbinafine"
+    ],
+    "evidence_query": "terbinafine"
+  },
+  {
+    "entity_id": "ingredient:anticholinergic-bronchodilators",
+    "canonical_name": "anticholinergic bronchodilators",
+    "display_name": "Anticholinergic Bronchodilators",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "anticholinergic bronchodilators"
+    ],
+    "evidence_query": "anticholinergic bronchodilators"
+  },
+  {
+    "entity_id": "ingredient:isotretinoin",
+    "canonical_name": "isotretinoin",
+    "display_name": "Isotretinoin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "isotretinoin"
+    ],
+    "evidence_query": "isotretinoin"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-with-iron",
+    "canonical_name": "multivitamin with iron",
+    "display_name": "Multivitamin With Iron",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "multivitamin with iron"
+    ],
+    "evidence_query": "multivitamin with iron"
+  },
+  {
+    "entity_id": "ingredient:insulin-isophane-nph",
+    "canonical_name": "insulin isophane (nph)",
+    "display_name": "Insulin Isophane (Nph)",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin isophane (nph)"
+    ],
+    "evidence_query": "insulin isophane (nph)"
+  },
+  {
+    "entity_id": "ingredient:calcium",
+    "canonical_name": "calcium",
+    "display_name": "Calcium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "calcium"
+    ],
+    "evidence_query": "calcium"
+  },
+  {
+    "entity_id": "ingredient:vitamin-d",
+    "canonical_name": "vitamin d",
+    "display_name": "Vitamin D",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "vitamin d"
+    ],
+    "evidence_query": "vitamin d"
+  },
+  {
+    "entity_id": "ingredient:insulin-detemir",
+    "canonical_name": "insulin detemir",
+    "display_name": "Insulin Detemir",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "insulin detemir"
+    ],
+    "evidence_query": "insulin detemir"
+  },
+  {
+    "entity_id": "ingredient:letrozole",
+    "canonical_name": "letrozole",
+    "display_name": "Letrozole",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "letrozole"
+    ],
+    "evidence_query": "letrozole"
+  },
+  {
+    "entity_id": "ingredient:butalbital",
+    "canonical_name": "butalbital",
+    "display_name": "Butalbital",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "butalbital"
+    ],
+    "evidence_query": "butalbital"
+  },
+  {
+    "entity_id": "ingredient:caffeine",
+    "canonical_name": "caffeine",
+    "display_name": "Caffeine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "caffeine"
+    ],
+    "evidence_query": "caffeine"
+  },
+  {
+    "entity_id": "ingredient:ciclopirox",
+    "canonical_name": "ciclopirox",
+    "display_name": "Ciclopirox",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ciclopirox"
+    ],
+    "evidence_query": "ciclopirox"
+  },
+  {
+    "entity_id": "ingredient:cyproheptadine",
+    "canonical_name": "cyproheptadine",
+    "display_name": "Cyproheptadine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cyproheptadine"
+    ],
+    "evidence_query": "cyproheptadine"
+  },
+  {
+    "entity_id": "ingredient:amiodarone",
+    "canonical_name": "amiodarone",
+    "display_name": "Amiodarone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "amiodarone"
+    ],
+    "evidence_query": "amiodarone"
+  },
+  {
+    "entity_id": "ingredient:norelgestromin",
+    "canonical_name": "norelgestromin",
+    "display_name": "Norelgestromin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "norelgestromin"
+    ],
+    "evidence_query": "norelgestromin"
+  },
+  {
+    "entity_id": "ingredient:desogestrel",
+    "canonical_name": "desogestrel",
+    "display_name": "Desogestrel",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "desogestrel"
+    ],
+    "evidence_query": "desogestrel"
+  },
+  {
+    "entity_id": "ingredient:antiviral-combinations",
+    "canonical_name": "antiviral combinations",
+    "display_name": "Antiviral Combinations",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "antiviral combinations"
+    ],
+    "evidence_query": "antiviral combinations"
+  },
+  {
+    "entity_id": "ingredient:diuretics",
+    "canonical_name": "diuretics",
+    "display_name": "Diuretics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "diuretics"
+    ],
+    "evidence_query": "diuretics"
+  },
+  {
+    "entity_id": "ingredient:tricyclic-antidepressants",
+    "canonical_name": "tricyclic antidepressants",
+    "display_name": "Tricyclic Antidepressants",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tricyclic antidepressants"
+    ],
+    "evidence_query": "tricyclic antidepressants"
+  },
+  {
+    "entity_id": "ingredient:group-v-antiarrhythmics",
+    "canonical_name": "group v antiarrhythmics",
+    "display_name": "Group V Antiarrhythmics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "group v antiarrhythmics"
+    ],
+    "evidence_query": "group v antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-with-minerals",
+    "canonical_name": "multivitamin with minerals",
+    "display_name": "Multivitamin With Minerals",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "multivitamin with minerals"
+    ],
+    "evidence_query": "multivitamin with minerals"
+  },
+  {
+    "entity_id": "ingredient:bisphosphonates",
+    "canonical_name": "bisphosphonates",
+    "display_name": "Bisphosphonates",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "bisphosphonates"
+    ],
+    "evidence_query": "bisphosphonates"
+  },
+  {
+    "entity_id": "ingredient:5",
+    "canonical_name": "5",
+    "display_name": "5",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "5"
+    ],
+    "evidence_query": "5"
+  },
+  {
+    "entity_id": "ingredient:aminosalicylates",
+    "canonical_name": "aminosalicylates",
+    "display_name": "Aminosalicylates",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "aminosalicylates"
+    ],
+    "evidence_query": "aminosalicylates"
+  },
+  {
+    "entity_id": "ingredient:lidocaine",
+    "canonical_name": "lidocaine",
+    "display_name": "Lidocaine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lidocaine"
+    ],
+    "evidence_query": "lidocaine"
+  },
+  {
+    "entity_id": "ingredient:chlorhexidine",
+    "canonical_name": "chlorhexidine",
+    "display_name": "Chlorhexidine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "chlorhexidine"
+    ],
+    "evidence_query": "chlorhexidine"
+  },
+  {
+    "entity_id": "ingredient:nabumetone",
+    "canonical_name": "nabumetone",
+    "display_name": "Nabumetone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nabumetone"
+    ],
+    "evidence_query": "nabumetone"
+  },
+  {
+    "entity_id": "ingredient:hydroquinone",
+    "canonical_name": "hydroquinone",
+    "display_name": "Hydroquinone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "hydroquinone"
+    ],
+    "evidence_query": "hydroquinone"
+  },
+  {
+    "entity_id": "ingredient:guaifenesin",
+    "canonical_name": "guaifenesin",
+    "display_name": "Guaifenesin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "guaifenesin"
+    ],
+    "evidence_query": "guaifenesin"
+  },
+  {
+    "entity_id": "ingredient:neomycin",
+    "canonical_name": "neomycin",
+    "display_name": "Neomycin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "neomycin"
+    ],
+    "evidence_query": "neomycin"
+  },
+  {
+    "entity_id": "ingredient:ophthalmic-steroids",
+    "canonical_name": "ophthalmic steroids",
+    "display_name": "Ophthalmic Steroids",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ophthalmic steroids"
+    ],
+    "evidence_query": "ophthalmic steroids"
+  },
+  {
+    "entity_id": "ingredient:vasopressors",
+    "canonical_name": "vasopressors",
+    "display_name": "Vasopressors",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "vasopressors"
+    ],
+    "evidence_query": "vasopressors"
+  },
+  {
+    "entity_id": "ingredient:polyethylene-glycol-3350-with-electrolytes",
+    "canonical_name": "polyethylene glycol 3350 with electrolytes",
+    "display_name": "Polyethylene Glycol 3350 With Electrolytes",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "polyethylene glycol 3350 with electrolytes"
+    ],
+    "evidence_query": "polyethylene glycol 3350 with electrolytes"
+  },
+  {
+    "entity_id": "ingredient:penicillin-v-potassium",
+    "canonical_name": "penicillin v potassium",
+    "display_name": "Penicillin V Potassium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "penicillin v potassium"
+    ],
+    "evidence_query": "penicillin v potassium"
+  },
+  {
+    "entity_id": "ingredient:fibric-acid-derivatives",
+    "canonical_name": "fibric acid derivatives",
+    "display_name": "Fibric Acid Derivatives",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fibric acid derivatives"
+    ],
+    "evidence_query": "fibric acid derivatives"
+  },
+  {
+    "entity_id": "ingredient:fluoride",
+    "canonical_name": "fluoride",
+    "display_name": "Fluoride",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fluoride"
+    ],
+    "evidence_query": "fluoride"
+  },
+  {
+    "entity_id": "ingredient:third-generation-cephalosporins",
+    "canonical_name": "third generation cephalosporins",
+    "display_name": "Third Generation Cephalosporins",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "third generation cephalosporins"
+    ],
+    "evidence_query": "third generation cephalosporins"
+  },
+  {
+    "entity_id": "ingredient:diphenhydramine",
+    "canonical_name": "diphenhydramine",
+    "display_name": "Diphenhydramine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "diphenhydramine"
+    ],
+    "evidence_query": "diphenhydramine"
+  },
+  {
+    "entity_id": "ingredient:levalbuterol",
+    "canonical_name": "levalbuterol",
+    "display_name": "Levalbuterol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "levalbuterol"
+    ],
+    "evidence_query": "levalbuterol"
+  },
+  {
+    "entity_id": "ingredient:like-diuretics",
+    "canonical_name": "like diuretics",
+    "display_name": "Like Diuretics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "like diuretics"
+    ],
+    "evidence_query": "like diuretics"
+  },
+  {
+    "entity_id": "ingredient:thiazide-and-thiazide",
+    "canonical_name": "thiazide and thiazide",
+    "display_name": "Thiazide And Thiazide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "thiazide and thiazide"
+    ],
+    "evidence_query": "thiazide and thiazide"
+  },
+  {
+    "entity_id": "ingredient:ammonium-lactate",
+    "canonical_name": "ammonium lactate",
+    "display_name": "Ammonium Lactate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ammonium lactate"
+    ],
+    "evidence_query": "ammonium lactate"
+  },
+  {
+    "entity_id": "ingredient:liraglutide",
+    "canonical_name": "liraglutide",
+    "display_name": "Liraglutide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "liraglutide"
+    ],
+    "evidence_query": "liraglutide"
+  },
+  {
+    "entity_id": "ingredient:guanfacine",
+    "canonical_name": "guanfacine",
+    "display_name": "Guanfacine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "guanfacine"
+    ],
+    "evidence_query": "guanfacine"
+  },
+  {
+    "entity_id": "ingredient:fluorouracil",
+    "canonical_name": "fluorouracil",
+    "display_name": "Fluorouracil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "fluorouracil"
+    ],
+    "evidence_query": "fluorouracil"
+  },
+  {
+    "entity_id": "ingredient:pseudoephedrine",
+    "canonical_name": "pseudoephedrine",
+    "display_name": "Pseudoephedrine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pseudoephedrine"
+    ],
+    "evidence_query": "pseudoephedrine"
+  },
+  {
+    "entity_id": "ingredient:multivitamin-with-fluoride",
+    "canonical_name": "multivitamin with fluoride",
+    "display_name": "Multivitamin With Fluoride",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "multivitamin with fluoride"
+    ],
+    "evidence_query": "multivitamin with fluoride"
+  },
+  {
+    "entity_id": "ingredient:ascorbic-acid",
+    "canonical_name": "ascorbic acid",
+    "display_name": "Ascorbic Acid",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ascorbic acid"
+    ],
+    "evidence_query": "ascorbic acid"
+  },
+  {
+    "entity_id": "ingredient:beclomethasone",
+    "canonical_name": "beclomethasone",
+    "display_name": "Beclomethasone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "beclomethasone"
+    ],
+    "evidence_query": "beclomethasone"
+  },
+  {
+    "entity_id": "ingredient:mycophenolate-mofetil",
+    "canonical_name": "mycophenolate mofetil",
+    "display_name": "Mycophenolate Mofetil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "mycophenolate mofetil"
+    ],
+    "evidence_query": "mycophenolate mofetil"
+  },
+  {
+    "entity_id": "ingredient:indomethacin",
+    "canonical_name": "indomethacin",
+    "display_name": "Indomethacin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "indomethacin"
+    ],
+    "evidence_query": "indomethacin"
+  },
+  {
+    "entity_id": "ingredient:brompheniramine",
+    "canonical_name": "brompheniramine",
+    "display_name": "Brompheniramine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "brompheniramine"
+    ],
+    "evidence_query": "brompheniramine"
+  },
+  {
+    "entity_id": "ingredient:olopatadine",
+    "canonical_name": "olopatadine",
+    "display_name": "Olopatadine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "olopatadine"
+    ],
+    "evidence_query": "olopatadine"
+  },
+  {
+    "entity_id": "ingredient:antimetabolites",
+    "canonical_name": "antimetabolites",
+    "display_name": "Antimetabolites",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "antimetabolites"
+    ],
+    "evidence_query": "antimetabolites"
+  },
+  {
+    "entity_id": "ingredient:topical-antifungals",
+    "canonical_name": "topical antifungals",
+    "display_name": "Topical Antifungals",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "topical antifungals"
+    ],
+    "evidence_query": "topical antifungals"
+  },
+  {
+    "entity_id": "ingredient:group-i-antiarrhythmics",
+    "canonical_name": "group i antiarrhythmics",
+    "display_name": "Group I Antiarrhythmics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "group i antiarrhythmics"
+    ],
+    "evidence_query": "group i antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:cholinergic-agonists",
+    "canonical_name": "cholinergic agonists",
+    "display_name": "Cholinergic Agonists",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cholinergic agonists"
+    ],
+    "evidence_query": "cholinergic agonists"
+  },
+  {
+    "entity_id": "ingredient:benzoyl-peroxide",
+    "canonical_name": "benzoyl peroxide",
+    "display_name": "Benzoyl Peroxide",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "benzoyl peroxide"
+    ],
+    "evidence_query": "benzoyl peroxide"
+  },
+  {
+    "entity_id": "ingredient:phenothiazine-antiemetics",
+    "canonical_name": "phenothiazine antiemetics",
+    "display_name": "Phenothiazine Antiemetics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "phenothiazine antiemetics"
+    ],
+    "evidence_query": "phenothiazine antiemetics"
+  },
+  {
+    "entity_id": "ingredient:phenazopyridine",
+    "canonical_name": "phenazopyridine",
+    "display_name": "Phenazopyridine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "phenazopyridine"
+    ],
+    "evidence_query": "phenazopyridine"
+  },
+  {
+    "entity_id": "ingredient:antifungals",
+    "canonical_name": "antifungals",
+    "display_name": "Antifungals",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "antifungals"
+    ],
+    "evidence_query": "antifungals"
+  },
+  {
+    "entity_id": "ingredient:cefuroxime",
+    "canonical_name": "cefuroxime",
+    "display_name": "Cefuroxime",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cefuroxime"
+    ],
+    "evidence_query": "cefuroxime"
+  },
+  {
+    "entity_id": "ingredient:thiamine",
+    "canonical_name": "thiamine",
+    "display_name": "Thiamine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "thiamine"
+    ],
+    "evidence_query": "thiamine"
+  },
+  {
+    "entity_id": "ingredient:anticholinergic-antiemetics",
+    "canonical_name": "anticholinergic antiemetics",
+    "display_name": "Anticholinergic Antiemetics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "anticholinergic antiemetics"
+    ],
+    "evidence_query": "anticholinergic antiemetics"
+  },
+  {
+    "entity_id": "ingredient:sodium-bicarbonate",
+    "canonical_name": "sodium bicarbonate",
+    "display_name": "Sodium Bicarbonate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sodium bicarbonate"
+    ],
+    "evidence_query": "sodium bicarbonate"
+  },
+  {
+    "entity_id": "ingredient:norgestrel",
+    "canonical_name": "norgestrel",
+    "display_name": "Norgestrel",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "norgestrel"
+    ],
+    "evidence_query": "norgestrel"
+  },
+  {
+    "entity_id": "ingredient:sulfacetamide-sodium",
+    "canonical_name": "sulfacetamide sodium",
+    "display_name": "Sulfacetamide Sodium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sulfacetamide sodium"
+    ],
+    "evidence_query": "sulfacetamide sodium"
+  },
+  {
+    "entity_id": "ingredient:sulfur",
+    "canonical_name": "sulfur",
+    "display_name": "Sulfur",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sulfur"
+    ],
+    "evidence_query": "sulfur"
+  },
+  {
+    "entity_id": "ingredient:ssri-antidepressants",
+    "canonical_name": "ssri antidepressants",
+    "display_name": "Ssri Antidepressants",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ssri antidepressants"
+    ],
+    "evidence_query": "ssri antidepressants"
+  },
+  {
+    "entity_id": "ingredient:sodium-chloride",
+    "canonical_name": "sodium chloride",
+    "display_name": "Sodium Chloride",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sodium chloride"
+    ],
+    "evidence_query": "sodium chloride"
+  },
+  {
+    "entity_id": "ingredient:ssnri-antidepressants",
+    "canonical_name": "ssnri antidepressants",
+    "display_name": "Ssnri Antidepressants",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ssnri antidepressants"
+    ],
+    "evidence_query": "ssnri antidepressants"
+  },
+  {
+    "entity_id": "ingredient:1-receptor-agonists",
+    "canonical_name": "1 receptor agonists",
+    "display_name": "1 Receptor Agonists",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "1 receptor agonists"
+    ],
+    "evidence_query": "1 receptor agonists"
+  },
+  {
+    "entity_id": "ingredient:glp",
+    "canonical_name": "glp",
+    "display_name": "Glp",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "glp"
+    ],
+    "evidence_query": "glp"
+  },
+  {
+    "entity_id": "ingredient:carbidopa",
+    "canonical_name": "carbidopa",
+    "display_name": "Carbidopa",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "carbidopa"
+    ],
+    "evidence_query": "carbidopa"
+  },
+  {
+    "entity_id": "ingredient:levodopa",
+    "canonical_name": "levodopa",
+    "display_name": "Levodopa",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "levodopa"
+    ],
+    "evidence_query": "levodopa"
+  },
+  {
+    "entity_id": "ingredient:lactulose",
+    "canonical_name": "lactulose",
+    "display_name": "Lactulose",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lactulose"
+    ],
+    "evidence_query": "lactulose"
+  },
+  {
+    "entity_id": "ingredient:electrolyte-replacement-solutions",
+    "canonical_name": "electrolyte replacement solutions,",
+    "display_name": "Electrolyte Replacement Solutions,",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "electrolyte replacement solutions,"
+    ],
+    "evidence_query": "electrolyte replacement solutions,"
+  },
+  {
+    "entity_id": "ingredient:tobramycin",
+    "canonical_name": "tobramycin",
+    "display_name": "Tobramycin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tobramycin"
+    ],
+    "evidence_query": "tobramycin"
+  },
+  {
+    "entity_id": "ingredient:ketotifen",
+    "canonical_name": "ketotifen",
+    "display_name": "Ketotifen",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ketotifen"
+    ],
+    "evidence_query": "ketotifen"
+  },
+  {
+    "entity_id": "ingredient:macrolides",
+    "canonical_name": "macrolides",
+    "display_name": "Macrolides",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "macrolides"
+    ],
+    "evidence_query": "macrolides"
+  },
+  {
+    "entity_id": "ingredient:etodolac",
+    "canonical_name": "etodolac",
+    "display_name": "Etodolac",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "etodolac"
+    ],
+    "evidence_query": "etodolac"
+  },
+  {
+    "entity_id": "ingredient:bisacodyl",
+    "canonical_name": "bisacodyl",
+    "display_name": "Bisacodyl",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "bisacodyl"
+    ],
+    "evidence_query": "bisacodyl"
+  },
+  {
+    "entity_id": "ingredient:atropine",
+    "canonical_name": "atropine",
+    "display_name": "Atropine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "atropine"
+    ],
+    "evidence_query": "atropine"
+  },
+  {
+    "entity_id": "ingredient:diphenoxylate",
+    "canonical_name": "diphenoxylate",
+    "display_name": "Diphenoxylate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "diphenoxylate"
+    ],
+    "evidence_query": "diphenoxylate"
+  },
+  {
+    "entity_id": "ingredient:mometasone",
+    "canonical_name": "mometasone",
+    "display_name": "Mometasone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "mometasone"
+    ],
+    "evidence_query": "mometasone"
+  },
+  {
+    "entity_id": "ingredient:desloratadine",
+    "canonical_name": "desloratadine",
+    "display_name": "Desloratadine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "desloratadine"
+    ],
+    "evidence_query": "desloratadine"
+  },
+  {
+    "entity_id": "ingredient:iron-products",
+    "canonical_name": "iron products",
+    "display_name": "Iron Products",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "iron products"
+    ],
+    "evidence_query": "iron products"
+  },
+  {
+    "entity_id": "ingredient:magnesium-sulfate",
+    "canonical_name": "magnesium sulfate",
+    "display_name": "Magnesium Sulfate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "magnesium sulfate"
+    ],
+    "evidence_query": "magnesium sulfate"
+  },
+  {
+    "entity_id": "ingredient:sodium-sulfate",
+    "canonical_name": "sodium sulfate",
+    "display_name": "Sodium Sulfate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sodium sulfate"
+    ],
+    "evidence_query": "sodium sulfate"
+  },
+  {
+    "entity_id": "ingredient:ivermectin",
+    "canonical_name": "ivermectin",
+    "display_name": "Ivermectin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ivermectin"
+    ],
+    "evidence_query": "ivermectin"
+  },
+  {
+    "entity_id": "ingredient:niacin",
+    "canonical_name": "niacin",
+    "display_name": "Niacin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "niacin"
+    ],
+    "evidence_query": "niacin"
+  },
+  {
+    "entity_id": "ingredient:cephalosporins",
+    "canonical_name": "cephalosporins",
+    "display_name": "Cephalosporins",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cephalosporins"
+    ],
+    "evidence_query": "cephalosporins"
+  },
+  {
+    "entity_id": "ingredient:menthol",
+    "canonical_name": "menthol",
+    "display_name": "Menthol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "menthol"
+    ],
+    "evidence_query": "menthol"
+  },
+  {
+    "entity_id": "ingredient:chlorpheniramine",
+    "canonical_name": "chlorpheniramine",
+    "display_name": "Chlorpheniramine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "chlorpheniramine"
+    ],
+    "evidence_query": "chlorpheniramine"
+  },
+  {
+    "entity_id": "ingredient:tazarotene",
+    "canonical_name": "tazarotene",
+    "display_name": "Tazarotene",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "tazarotene"
+    ],
+    "evidence_query": "tazarotene"
+  },
+  {
+    "entity_id": "ingredient:ubiquinone",
+    "canonical_name": "ubiquinone",
+    "display_name": "Ubiquinone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ubiquinone"
+    ],
+    "evidence_query": "ubiquinone"
+  },
+  {
+    "entity_id": "ingredient:azole-antifungals",
+    "canonical_name": "azole antifungals",
+    "display_name": "Azole Antifungals",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "azole antifungals"
+    ],
+    "evidence_query": "azole antifungals"
+  },
+  {
+    "entity_id": "ingredient:adrenergic-bronchodilators",
+    "canonical_name": "adrenergic bronchodilators",
+    "display_name": "Adrenergic Bronchodilators",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "adrenergic bronchodilators"
+    ],
+    "evidence_query": "adrenergic bronchodilators"
+  },
+  {
+    "entity_id": "ingredient:psyllium",
+    "canonical_name": "psyllium",
+    "display_name": "Psyllium",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "psyllium"
+    ],
+    "evidence_query": "psyllium"
+  },
+  {
+    "entity_id": "ingredient:alpha",
+    "canonical_name": "alpha",
+    "display_name": "Alpha",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "alpha"
+    ],
+    "evidence_query": "alpha"
+  },
+  {
+    "entity_id": "ingredient:lipoic-acid",
+    "canonical_name": "lipoic acid",
+    "display_name": "Lipoic Acid",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lipoic acid"
+    ],
+    "evidence_query": "lipoic acid"
+  },
+  {
+    "entity_id": "ingredient:l",
+    "canonical_name": "l",
+    "display_name": "L",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "l"
+    ],
+    "evidence_query": "l"
+  },
+  {
+    "entity_id": "ingredient:methylfolate",
+    "canonical_name": "methylfolate",
+    "display_name": "Methylfolate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "methylfolate"
+    ],
+    "evidence_query": "methylfolate"
+  },
+  {
+    "entity_id": "ingredient:pyridoxine",
+    "canonical_name": "pyridoxine",
+    "display_name": "Pyridoxine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "pyridoxine"
+    ],
+    "evidence_query": "pyridoxine"
+  },
+  {
+    "entity_id": "ingredient:benzodiazepines",
+    "canonical_name": "benzodiazepines",
+    "display_name": "Benzodiazepines",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "benzodiazepines"
+    ],
+    "evidence_query": "benzodiazepines"
+  },
+  {
+    "entity_id": "ingredient:purine-nucleosides",
+    "canonical_name": "purine nucleosides",
+    "display_name": "Purine Nucleosides",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "purine nucleosides"
+    ],
+    "evidence_query": "purine nucleosides"
+  },
+  {
+    "entity_id": "ingredient:emollients",
+    "canonical_name": "emollients,",
+    "display_name": "Emollients,",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "emollients,"
+    ],
+    "evidence_query": "emollients,"
+  },
+  {
+    "entity_id": "ingredient:group-ii-antiarrhythmics",
+    "canonical_name": "group ii antiarrhythmics",
+    "display_name": "Group Ii Antiarrhythmics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "group ii antiarrhythmics"
+    ],
+    "evidence_query": "group ii antiarrhythmics"
+  },
+  {
+    "entity_id": "ingredient:sulindac",
+    "canonical_name": "sulindac",
+    "display_name": "Sulindac",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sulindac"
+    ],
+    "evidence_query": "sulindac"
+  },
+  {
+    "entity_id": "ingredient:chromium-picolinate",
+    "canonical_name": "chromium picolinate",
+    "display_name": "Chromium Picolinate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "chromium picolinate"
+    ],
+    "evidence_query": "chromium picolinate"
+  },
+  {
+    "entity_id": "ingredient:cinnamon",
+    "canonical_name": "cinnamon",
+    "display_name": "Cinnamon",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "cinnamon"
+    ],
+    "evidence_query": "cinnamon"
+  },
+  {
+    "entity_id": "ingredient:estrogens",
+    "canonical_name": "estrogens",
+    "display_name": "Estrogens",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "estrogens"
+    ],
+    "evidence_query": "estrogens"
+  },
+  {
+    "entity_id": "ingredient:vitamin-e",
+    "canonical_name": "vitamin e",
+    "display_name": "Vitamin E",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "vitamin e"
+    ],
+    "evidence_query": "vitamin e"
+  },
+  {
+    "entity_id": "ingredient:citric-acid",
+    "canonical_name": "citric acid",
+    "display_name": "Citric Acid",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "citric acid"
+    ],
+    "evidence_query": "citric acid"
+  },
+  {
+    "entity_id": "ingredient:sodium-picosulfate",
+    "canonical_name": "sodium picosulfate",
+    "display_name": "Sodium Picosulfate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sodium picosulfate"
+    ],
+    "evidence_query": "sodium picosulfate"
+  },
+  {
+    "entity_id": "ingredient:lactobacillus-acidophilus",
+    "canonical_name": "lactobacillus acidophilus",
+    "display_name": "Lactobacillus Acidophilus",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "lactobacillus acidophilus"
+    ],
+    "evidence_query": "lactobacillus acidophilus"
+  },
+  {
+    "entity_id": "ingredient:mouth-and-throat-products",
+    "canonical_name": "mouth and throat products",
+    "display_name": "Mouth And Throat Products",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "mouth and throat products"
+    ],
+    "evidence_query": "mouth and throat products"
+  },
+  {
+    "entity_id": "ingredient:azelaic-acid",
+    "canonical_name": "azelaic acid",
+    "display_name": "Azelaic Acid",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "azelaic acid"
+    ],
+    "evidence_query": "azelaic acid"
+  },
+  {
+    "entity_id": "ingredient:oxymetazoline",
+    "canonical_name": "oxymetazoline",
+    "display_name": "Oxymetazoline",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "oxymetazoline"
+    ],
+    "evidence_query": "oxymetazoline"
+  },
+  {
+    "entity_id": "ingredient:nutritional-products",
+    "canonical_name": "nutritional products",
+    "display_name": "Nutritional Products",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nutritional products"
+    ],
+    "evidence_query": "nutritional products"
+  },
+  {
+    "entity_id": "ingredient:potassium-gluconate",
+    "canonical_name": "potassium gluconate",
+    "display_name": "Potassium Gluconate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "potassium gluconate"
+    ],
+    "evidence_query": "potassium gluconate"
+  },
+  {
+    "entity_id": "ingredient:riboflavin",
+    "canonical_name": "riboflavin",
+    "display_name": "Riboflavin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "riboflavin"
+    ],
+    "evidence_query": "riboflavin"
+  },
+  {
+    "entity_id": "ingredient:triprolidine",
+    "canonical_name": "triprolidine",
+    "display_name": "Triprolidine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "triprolidine"
+    ],
+    "evidence_query": "triprolidine"
+  },
+  {
+    "entity_id": "ingredient:ethynodiol",
+    "canonical_name": "ethynodiol",
+    "display_name": "Ethynodiol",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "ethynodiol"
+    ],
+    "evidence_query": "ethynodiol"
+  },
+  {
+    "entity_id": "ingredient:urea",
+    "canonical_name": "urea",
+    "display_name": "Urea",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "urea"
+    ],
+    "evidence_query": "urea"
+  },
+  {
+    "entity_id": "ingredient:nutraceutical-products",
+    "canonical_name": "nutraceutical products",
+    "display_name": "Nutraceutical Products",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "nutraceutical products"
+    ],
+    "evidence_query": "nutraceutical products"
+  },
+  {
+    "entity_id": "ingredient:petrolatum",
+    "canonical_name": "petrolatum",
+    "display_name": "Petrolatum",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "petrolatum"
+    ],
+    "evidence_query": "petrolatum"
+  },
+  {
+    "entity_id": "ingredient:polycarbophil",
+    "canonical_name": "polycarbophil",
+    "display_name": "Polycarbophil",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "polycarbophil"
+    ],
+    "evidence_query": "polycarbophil"
+  },
+  {
+    "entity_id": "ingredient:dapsone",
+    "canonical_name": "dapsone",
+    "display_name": "Dapsone",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "dapsone"
+    ],
+    "evidence_query": "dapsone"
+  },
+  {
+    "entity_id": "ingredient:analgesic-combinations",
+    "canonical_name": "analgesic combinations",
+    "display_name": "Analgesic Combinations",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "analgesic combinations"
+    ],
+    "evidence_query": "analgesic combinations"
+  },
+  {
+    "entity_id": "ingredient:homatropine",
+    "canonical_name": "homatropine",
+    "display_name": "Homatropine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "homatropine"
+    ],
+    "evidence_query": "homatropine"
+  },
+  {
+    "entity_id": "ingredient:amebicides",
+    "canonical_name": "amebicides",
+    "display_name": "Amebicides",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "amebicides"
+    ],
+    "evidence_query": "amebicides"
+  },
+  {
+    "entity_id": "ingredient:topical-anesthetics",
+    "canonical_name": "topical anesthetics",
+    "display_name": "Topical Anesthetics",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "topical anesthetics"
+    ],
+    "evidence_query": "topical anesthetics"
+  },
+  {
+    "entity_id": "ingredient:salicylic-acid",
+    "canonical_name": "salicylic acid",
+    "display_name": "Salicylic Acid",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "salicylic acid"
+    ],
+    "evidence_query": "salicylic acid"
+  },
+  {
+    "entity_id": "ingredient:adapalene",
+    "canonical_name": "adapalene",
+    "display_name": "Adapalene",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "adapalene"
+    ],
+    "evidence_query": "adapalene"
+  },
+  {
+    "entity_id": "ingredient:salicylates",
+    "canonical_name": "salicylates",
+    "display_name": "Salicylates",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "salicylates"
+    ],
+    "evidence_query": "salicylates"
+  },
+  {
+    "entity_id": "ingredient:potassium-phosphate",
+    "canonical_name": "potassium phosphate",
+    "display_name": "Potassium Phosphate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "potassium phosphate"
+    ],
+    "evidence_query": "potassium phosphate"
+  },
+  {
+    "entity_id": "ingredient:sodium-phosphate",
+    "canonical_name": "sodium phosphate",
+    "display_name": "Sodium Phosphate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "sodium phosphate"
+    ],
+    "evidence_query": "sodium phosphate"
+  },
+  {
+    "entity_id": "ingredient:miscellaneous-antihypertensive-combinations",
+    "canonical_name": "miscellaneous antihypertensive combinations",
+    "display_name": "Miscellaneous Antihypertensive Combinations",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "miscellaneous antihypertensive combinations"
+    ],
+    "evidence_query": "miscellaneous antihypertensive combinations"
+  },
+  {
+    "entity_id": "ingredient:magnesium-amino-acids-chelate",
+    "canonical_name": "magnesium amino acids chelate",
+    "display_name": "Magnesium Amino Acids Chelate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "magnesium amino acids chelate"
+    ],
+    "evidence_query": "magnesium amino acids chelate"
+  },
+  {
+    "entity_id": "ingredient:potassium-bicarbonate",
+    "canonical_name": "potassium bicarbonate",
+    "display_name": "Potassium Bicarbonate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "potassium bicarbonate"
+    ],
+    "evidence_query": "potassium bicarbonate"
+  },
+  {
+    "entity_id": "ingredient:saccharomyces-boulardii-lyo",
+    "canonical_name": "saccharomyces boulardii lyo",
+    "display_name": "Saccharomyces Boulardii Lyo",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "saccharomyces boulardii lyo"
+    ],
+    "evidence_query": "saccharomyces boulardii lyo"
+  },
+  {
+    "entity_id": "ingredient:polyenes",
+    "canonical_name": "polyenes",
+    "display_name": "Polyenes",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "polyenes"
+    ],
+    "evidence_query": "polyenes"
+  },
+  {
+    "entity_id": "ingredient:calcium-citrate",
+    "canonical_name": "calcium citrate",
+    "display_name": "Calcium Citrate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "calcium citrate"
+    ],
+    "evidence_query": "calcium citrate"
+  },
+  {
+    "entity_id": "ingredient:phenylephrine",
+    "canonical_name": "phenylephrine",
+    "display_name": "Phenylephrine",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "phenylephrine"
+    ],
+    "evidence_query": "phenylephrine"
+  },
+  {
+    "entity_id": "ingredient:gentamicin",
+    "canonical_name": "gentamicin",
+    "display_name": "Gentamicin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "gentamicin"
+    ],
+    "evidence_query": "gentamicin"
+  },
+  {
+    "entity_id": "ingredient:garlic",
+    "canonical_name": "garlic",
+    "display_name": "Garlic",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "garlic"
+    ],
+    "evidence_query": "garlic"
+  },
+  {
+    "entity_id": "ingredient:zinc-sulfate",
+    "canonical_name": "zinc sulfate",
+    "display_name": "Zinc Sulfate",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "zinc sulfate"
+    ],
+    "evidence_query": "zinc sulfate"
+  },
+  {
+    "entity_id": "ingredient:permethrin",
+    "canonical_name": "permethrin",
+    "display_name": "Permethrin",
+    "entity_type": "medication",
+    "aliases": [],
+    "components": [
+      "permethrin"
+    ],
+    "evidence_query": "permethrin"
+  }
+]

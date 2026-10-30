@@ -1,0 +1,4221 @@
+[
+  {
+    "entity_id": "ingredient:acetaminophen",
+    "canonical_name": "acetaminophen",
+    "display_name": "Acetaminophen",
+    "entity_type": "medication",
+    "aliases": [
+      "paracetamol",
+      "tylenol"
+    ],
+    "components": [
+      "acetaminophen"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "acetaminophen OR paracetamol OR tylenol",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 8,
+      "estimated_users": 13742463,
+      "sample_people": 909,
+      "matched_source_names": [
+        "acetaminophen",
+        "acetaminophen butalbital caffeine",
+        "acetaminophen codeine",
+        "acetaminophen hydrocodone",
+        "acetaminophen oxycodone"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 8
+    }
+  },
+  {
+    "entity_id": "ingredient:amlodipine",
+    "canonical_name": "amlodipine",
+    "display_name": "Amlodipine",
+    "entity_type": "medication",
+    "aliases": [
+      "norvasc"
+    ],
+    "components": [
+      "amlodipine"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "amlodipine OR norvasc",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 4,
+      "estimated_users": 19058016,
+      "sample_people": 1402,
+      "matched_source_names": [
+        "amlodipine",
+        "amlodipine benazepril"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 4
+    }
+  },
+  {
+    "entity_id": "ingredient:amoxicillin",
+    "canonical_name": "amoxicillin",
+    "display_name": "Amoxicillin",
+    "entity_type": "medication",
+    "aliases": [
+      "amoxil"
+    ],
+    "components": [
+      "amoxicillin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "amoxicillin OR amoxil",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 2,
+      "estimated_users": 25867481,
+      "sample_people": 1423,
+      "matched_source_names": [
+        "amoxicillin",
+        "amoxicillin clavulanate"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 2
+    }
+  },
+  {
+    "entity_id": "ingredient:apixaban",
+    "canonical_name": "apixaban",
+    "display_name": "Apixaban",
+    "entity_type": "medication",
+    "aliases": [
+      "eliquis"
+    ],
+    "components": [
+      "apixaban"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "apixaban OR eliquis",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 17,
+      "estimated_users": 5352350,
+      "sample_people": 405,
+      "matched_source_names": [
+        "apixaban"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 17
+    }
+  },
+  {
+    "entity_id": "ingredient:aspirin",
+    "canonical_name": "aspirin",
+    "display_name": "Aspirin",
+    "entity_type": "medication",
+    "aliases": [
+      "acetylsalicylic acid"
+    ],
+    "components": [
+      "aspirin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "aspirin OR acetylsalicylic acid",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 18,
+      "estimated_users": 4836660,
+      "sample_people": 366,
+      "matched_source_names": [
+        "aspirin"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 18
+    }
+  },
+  {
+    "entity_id": "ingredient:atorvastatin",
+    "canonical_name": "atorvastatin",
+    "display_name": "Atorvastatin",
+    "entity_type": "medication",
+    "aliases": [
+      "lipitor"
+    ],
+    "components": [
+      "atorvastatin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "atorvastatin OR lipitor",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 1,
+      "estimated_users": 29693563,
+      "sample_people": 2163,
+      "matched_source_names": [
+        "atorvastatin"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 1
+    }
+  },
+  {
+    "entity_id": "ingredient:azithromycin",
+    "canonical_name": "azithromycin",
+    "display_name": "Azithromycin",
+    "entity_type": "medication",
+    "aliases": [
+      "zithromax",
+      "z-pak"
+    ],
+    "components": [
+      "azithromycin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "azithromycin OR zithromax OR z-pak",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 13,
+      "estimated_users": 9544944,
+      "sample_people": 533,
+      "matched_source_names": [
+        "azithromycin"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 13
+    }
+  },
+  {
+    "entity_id": "ingredient:ciprofloxacin",
+    "canonical_name": "ciprofloxacin",
+    "display_name": "Ciprofloxacin",
+    "entity_type": "medication",
+    "aliases": [
+      "cipro"
+    ],
+    "components": [
+      "ciprofloxacin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "ciprofloxacin OR cipro",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 20,
+      "estimated_users": 3034725,
+      "sample_people": 183,
+      "matched_source_names": [
+        "ciprofloxacin",
+        "ciprofloxacin dexamethasone otic",
+        "ciprofloxacin ophthalmic"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 20
+    }
+  },
+  {
+    "entity_id": "ingredient:doxycycline",
+    "canonical_name": "doxycycline",
+    "display_name": "Doxycycline",
+    "entity_type": "medication",
+    "aliases": [
+      "vibramycin"
+    ],
+    "components": [
+      "doxycycline"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "doxycycline OR vibramycin",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 14,
+      "estimated_users": 6668932,
+      "sample_people": 422,
+      "matched_source_names": [
+        "doxycycline"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 14
+    }
+  },
+  {
+    "entity_id": "ingredient:fluoxetine",
+    "canonical_name": "fluoxetine",
+    "display_name": "Fluoxetine",
+    "entity_type": "medication",
+    "aliases": [
+      "prozac"
+    ],
+    "components": [
+      "fluoxetine"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "fluoxetine OR prozac",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 15,
+      "estimated_users": 6177252,
+      "sample_people": 351,
+      "matched_source_names": [
+        "fluoxetine"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 15
+    }
+  },
+  {
+    "entity_id": "ingredient:gabapentin",
+    "canonical_name": "gabapentin",
+    "display_name": "Gabapentin",
+    "entity_type": "medication",
+    "aliases": [
+      "neurontin"
+    ],
+    "components": [
+      "gabapentin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "gabapentin OR neurontin",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 10,
+      "estimated_users": 11481839,
+      "sample_people": 842,
+      "matched_source_names": [
+        "gabapentin"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 10
+    }
+  },
+  {
+    "entity_id": "ingredient:ibuprofen",
+    "canonical_name": "ibuprofen",
+    "display_name": "Ibuprofen",
+    "entity_type": "medication",
+    "aliases": [
+      "advil",
+      "motrin"
+    ],
+    "components": [
+      "ibuprofen"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "ibuprofen OR advil OR motrin",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 12,
+      "estimated_users": 10154860,
+      "sample_people": 581,
+      "matched_source_names": [
+        "ibuprofen"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 12
+    }
+  },
+  {
+    "entity_id": "ingredient:levothyroxine",
+    "canonical_name": "levothyroxine",
+    "display_name": "Levothyroxine",
+    "entity_type": "medication",
+    "aliases": [
+      "synthroid",
+      "levoxyl"
+    ],
+    "components": [
+      "levothyroxine"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "levothyroxine OR synthroid OR levoxyl",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 5,
+      "estimated_users": 18951597,
+      "sample_people": 1289,
+      "matched_source_names": [
+        "levothyroxine"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 5
+    }
+  },
+  {
+    "entity_id": "ingredient:lisinopril",
+    "canonical_name": "lisinopril",
+    "display_name": "Lisinopril",
+    "entity_type": "medication",
+    "aliases": [
+      "zestril",
+      "prinivil"
+    ],
+    "components": [
+      "lisinopril"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "lisinopril OR zestril OR prinivil",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 6,
+      "estimated_users": 18884866,
+      "sample_people": 1369,
+      "matched_source_names": [
+        "hydrochlorothiazide lisinopril",
+        "lisinopril"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 6
+    }
+  },
+  {
+    "entity_id": "ingredient:losartan",
+    "canonical_name": "losartan",
+    "display_name": "Losartan",
+    "entity_type": "medication",
+    "aliases": [
+      "cozaar"
+    ],
+    "components": [
+      "losartan"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "losartan OR cozaar",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 7,
+      "estimated_users": 17250382,
+      "sample_people": 1202,
+      "matched_source_names": [
+        "hydrochlorothiazide losartan",
+        "losartan"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 7
+    }
+  },
+  {
+    "entity_id": "ingredient:metformin",
+    "canonical_name": "metformin",
+    "display_name": "Metformin",
+    "entity_type": "medication",
+    "aliases": [
+      "glucophage"
+    ],
+    "components": [
+      "metformin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "metformin OR glucophage",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 3,
+      "estimated_users": 19618344,
+      "sample_people": 1332,
+      "matched_source_names": [
+        "metformin"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 3
+    }
+  },
+  {
+    "entity_id": "ingredient:naproxen",
+    "canonical_name": "naproxen",
+    "display_name": "Naproxen",
+    "entity_type": "medication",
+    "aliases": [
+      "aleve"
+    ],
+    "components": [
+      "naproxen"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "naproxen OR aleve",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 19,
+      "estimated_users": 3081577,
+      "sample_people": 189,
+      "matched_source_names": [
+        "naproxen"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 19
+    }
+  },
+  {
+    "entity_id": "ingredient:omeprazole",
+    "canonical_name": "omeprazole",
+    "display_name": "Omeprazole",
+    "entity_type": "medication",
+    "aliases": [
+      "prilosec"
+    ],
+    "components": [
+      "omeprazole"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "omeprazole OR prilosec",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 9,
+      "estimated_users": 13105287,
+      "sample_people": 915,
+      "matched_source_names": [
+        "omeprazole"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 9
+    }
+  },
+  {
+    "entity_id": "ingredient:sertraline",
+    "canonical_name": "sertraline",
+    "display_name": "Sertraline",
+    "entity_type": "medication",
+    "aliases": [
+      "zoloft"
+    ],
+    "components": [
+      "sertraline"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "sertraline OR zoloft",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 11,
+      "estimated_users": 10233569,
+      "sample_people": 595,
+      "matched_source_names": [
+        "sertraline"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 11
+    }
+  },
+  {
+    "entity_id": "ingredient:simvastatin",
+    "canonical_name": "simvastatin",
+    "display_name": "Simvastatin",
+    "entity_type": "medication",
+    "aliases": [
+      "zocor"
+    ],
+    "components": [
+      "simvastatin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "simvastatin OR zocor",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 16,
+      "estimated_users": 5708410,
+      "sample_people": 423,
+      "matched_source_names": [
+        "simvastatin"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 16
+    }
+  },
+  {
+    "entity_id": "ingredient:warfarin",
+    "canonical_name": "warfarin",
+    "display_name": "Warfarin",
+    "entity_type": "medication",
+    "aliases": [
+      "coumadin",
+      "jantoven"
+    ],
+    "components": [
+      "warfarin"
+    ],
+    "category": "Medication",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "warfarin OR coumadin OR jantoven",
+    "official_popularity": {
+      "source": "MEPS HC-254A 2024",
+      "source_url": "https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-254A",
+      "rank": 21,
+      "estimated_users": 1402463,
+      "sample_people": 107,
+      "matched_source_names": [
+        "warfarin"
+      ],
+      "match_method": "normalized_generic_or_alias_phrase",
+      "match_status": "matched",
+      "rank_among_matched_medguide_medications": 21
+    }
+  },
+  {
+    "entity_id": "supplement:nmn-nicotinamide-mononucleotide",
+    "canonical_name": "NMN (Nicotinamide Mononucleotide)",
+    "display_name": "NMN (Nicotinamide Mononucleotide)",
+    "entity_type": "supplement",
+    "aliases": [
+      "NMN",
+      "nicotinamide mononucleotide"
+    ],
+    "components": [
+      "nicotinamide mononucleotide"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 1,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "nicotinamide mononucleotide",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:nr-nicotinamide-riboside",
+    "canonical_name": "NR (Nicotinamide Riboside)",
+    "display_name": "NR (Nicotinamide Riboside)",
+    "entity_type": "supplement",
+    "aliases": [
+      "NR",
+      "nicotinamide riboside"
+    ],
+    "components": [
+      "nicotinamide riboside"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 2,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "nicotinamide riboside",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:nad",
+    "canonical_name": "NAD+",
+    "display_name": "NAD+",
+    "entity_type": "supplement",
+    "aliases": [
+      "nicotinamide adenine dinucleotide"
+    ],
+    "components": [
+      "nicotinamide adenine dinucleotide"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 3,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "nicotinamide adenine dinucleotide",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:spermidine",
+    "canonical_name": "Spermidine",
+    "display_name": "Spermidine",
+    "entity_type": "supplement",
+    "aliases": [
+      "spermidine"
+    ],
+    "components": [
+      "spermidine"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 4,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "spermidine",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 68,
+      "estimated_30_day_users": 24252,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "gundry md bio sync advanced longevity formula with nobiletin and spermidine"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 68
+    }
+  },
+  {
+    "entity_id": "supplement:urolithin-a",
+    "canonical_name": "Urolithin A",
+    "display_name": "Urolithin A",
+    "entity_type": "supplement",
+    "aliases": [
+      "urolithin A"
+    ],
+    "components": [
+      "urolithin A"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 5,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "urolithin A",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:ca-akg-calcium-alpha-ketoglutarate",
+    "canonical_name": "Ca-AKG (Calcium Alpha-Ketoglutarate)",
+    "display_name": "Ca-AKG (Calcium Alpha-Ketoglutarate)",
+    "entity_type": "supplement",
+    "aliases": [
+      "Ca-AKG",
+      "calcium alpha-ketoglutarate"
+    ],
+    "components": [
+      "calcium alpha-ketoglutarate"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 6,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "calcium alpha-ketoglutarate",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:fisetin",
+    "canonical_name": "Fisetin",
+    "display_name": "Fisetin",
+    "entity_type": "supplement",
+    "aliases": [
+      "fisetin"
+    ],
+    "components": [
+      "fisetin"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 7,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "fisetin",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 40,
+      "estimated_30_day_users": 135410,
+      "sample_participants": 3,
+      "matched_product_names": [
+        "life extension bio fisetin",
+        "life extension senolytic activator advanced bio quercetin theaflavin apigenin bio fisetin formula"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 40
+    }
+  },
+  {
+    "entity_id": "supplement:quercetin",
+    "canonical_name": "Quercetin",
+    "display_name": "Quercetin",
+    "entity_type": "supplement",
+    "aliases": [
+      "quercetin"
+    ],
+    "components": [
+      "quercetin"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 8,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "quercetin",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 21,
+      "estimated_30_day_users": 1069326,
+      "sample_participants": 25,
+      "matched_product_names": [
+        "amazing nutrition amazing formulas quercetin 500 mg",
+        "don t worry z healthy z stack a dr zelenko vitamin zinc quercetin vitamin c vitamin d",
+        "forestleaf advanced allergy and immune complex quercetin bromelain stinging nettle",
+        "gflow vitamins quercetin with bromelain zinc vitamin c vitamin d3 stinging nettle",
+        "kal uric acid flush cleansing formula with tart cherry quercetin celery seed and more 2 daily",
+        "life extension senolytic activator advanced bio quercetin theaflavin apigenin bio fisetin formula",
+        "life extension vitamin c and bio quercetin phytosome",
+        "mrm nutrition quercetin",
+        "naturebell quercetin 1000 mg per serving",
+        "pure encapsulations quercetin",
+        "purity labs pure organic trans resveratrol enhanced with quercetin 1 500 mg per serving",
+        "quercetin 250 mg",
+        "quercetin 500 mg",
+        "solaray mega quercetin 600 mg",
+        "spartis zinc quercetin vitamin c d3 immune complex high potency",
+        "spring valley quercetin 500 mg per capsule with zinc 50 mg",
+        "swanson quercetin and bromelain advanced formula",
+        "the vitamin shoppe quercetin with bromelain",
+        "vitamin c complete with bioflavonoids and quercetin"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 21
+    }
+  },
+  {
+    "entity_id": "supplement:resveratrol",
+    "canonical_name": "Resveratrol",
+    "display_name": "Resveratrol",
+    "entity_type": "supplement",
+    "aliases": [
+      "resveratrol"
+    ],
+    "components": [
+      "resveratrol"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 9,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "resveratrol",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 24,
+      "estimated_30_day_users": 895870,
+      "sample_participants": 22,
+      "matched_product_names": [
+        "dr sinatra omega q plus ultra 100 mg of coq10 ashwagandha resveratrol turmeric",
+        "elixr nmn and resveratrol toniiq",
+        "life extension nad and resveratrol",
+        "life extension optimized resveratrol",
+        "multi resveratrol 13 vitamins 5 minerals 3 nutrients including chlorella full spectrum immunotec",
+        "nature s way premium blend resveratrol 4 part blend",
+        "purity labs pure organic trans resveratrol enhanced with quercetin 1 500 mg per serving",
+        "purity products coq10 daily melt with resveratrol 100 mg coenzyme q10 30 mg resveratrol",
+        "reserveage beauty collagen booster with hyaluronic acid and resveratrol",
+        "reserveage beauty resveratrol 4 hour sustained release trans resveratrol 500 mg",
+        "reserveage beauty resveratrol trans resveratrol 250 mg",
+        "resveratrol 100 mg",
+        "resveratrol 725 mg",
+        "shaklee heart coqheart with q trol natural blend of 100 mg coenzyme q10 and 2 mg resveratrol",
+        "swanson resveratrol complex 180 mg from nature s best sources",
+        "sylan resveratrol 1000 mg",
+        "trunature grape seed and resveratrol one per day timed release for sustained action plus benefits of whole grape with resveratrol 75 mg",
+        "trunature resveratrol plus 250 mg standardized trans resveratrol with red wine extract grape seed extract and green tea extract new improved formula"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 24
+    }
+  },
+  {
+    "entity_id": "supplement:taurine",
+    "canonical_name": "Taurine",
+    "display_name": "Taurine",
+    "entity_type": "supplement",
+    "aliases": [
+      "taurine supplementation"
+    ],
+    "components": [
+      "taurine supplementation"
+    ],
+    "category": "Longevity & Anti-Aging",
+    "popularity_rank": 10,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "taurine supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 45,
+      "estimated_30_day_users": 109733,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "cherifer drops with taurine and cgf chlorella growth factor with vitamins a b complex c and d",
+        "life extension taurine 1000 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 45
+    }
+  },
+  {
+    "entity_id": "supplement:lion-s-mane-mushroom",
+    "canonical_name": "Lion's Mane Mushroom",
+    "display_name": "Lion's Mane Mushroom",
+    "entity_type": "supplement",
+    "aliases": [
+      "Hericium erinaceus"
+    ],
+    "components": [
+      "Hericium erinaceus"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 11,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Hericium erinaceus",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 34,
+      "estimated_30_day_users": 166380,
+      "sample_participants": 5,
+      "matched_product_names": [
+        "default gummy adult lion s mane mushroom",
+        "default lion s mane mushroom",
+        "default lion s mane mushroom powder",
+        "lion s mane mushroom 500 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 34
+    }
+  },
+  {
+    "entity_id": "supplement:l-theanine",
+    "canonical_name": "L-Theanine",
+    "display_name": "L-Theanine",
+    "entity_type": "supplement",
+    "aliases": [
+      "L-theanine"
+    ],
+    "components": [
+      "L-theanine"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 12,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "L-theanine",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 17,
+      "estimated_30_day_users": 1211748,
+      "sample_participants": 21,
+      "matched_product_names": [
+        "bronson l theanine 200 mg fortified with passion flower",
+        "l theanine 100 mg",
+        "l theanine 200 mg",
+        "nature made wellblends fall asleep faster vitamin b6 3 in 1 blend melatonin 10 mg l theanine vitamin b6 per 2 gummy serving",
+        "nature s bounty sleep gummies 3 mg of melatonin 200 mg of l theanine per serving",
+        "nature s trove l theanine 200 mg",
+        "nature s truth vitamins stress support gaba l theanine gummies",
+        "olly goodbye stress gaba l theanine and lemon balm",
+        "olly kids chillax magnesium l theanine and lemon balm",
+        "olly sleep melatonin l theanine and botanicals",
+        "puritan s pride ashwagandha ksm 66 and l theanine",
+        "spring valley l theanine 100 mg per capsule",
+        "trader joe s calming sleep formula l theanine 5 htp and melatonin"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 17
+    }
+  },
+  {
+    "entity_id": "supplement:citicoline-cdp-choline",
+    "canonical_name": "Citicoline (CDP-Choline)",
+    "display_name": "Citicoline (CDP-Choline)",
+    "entity_type": "supplement",
+    "aliases": [
+      "CDP-choline",
+      "citicoline"
+    ],
+    "components": [
+      "citicoline"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 13,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "citicoline OR CDP-choline",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 36,
+      "estimated_30_day_users": 153218,
+      "sample_participants": 3,
+      "matched_product_names": [
+        "sane laboratories vitaae 100 mg citicoline cognizin and microactive coq10",
+        "spring valley adult gummy brain health support 300 mg cognizin citicoline per serving clinically studied cognizin citicoline",
+        "walgreens extra strength cognitive health with cognizin citicoline 500 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 36
+    }
+  },
+  {
+    "entity_id": "supplement:alpha-gpc",
+    "canonical_name": "Alpha-GPC",
+    "display_name": "Alpha-GPC",
+    "entity_type": "supplement",
+    "aliases": [
+      "alpha-glycerophosphocholine",
+      "alpha-GPC"
+    ],
+    "components": [
+      "alpha-glycerophosphocholine"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 14,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "alpha-glycerophosphocholine OR alpha-GPC",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:bacopa-monnieri",
+    "canonical_name": "Bacopa Monnieri",
+    "display_name": "Bacopa Monnieri",
+    "entity_type": "supplement",
+    "aliases": [
+      "Bacopa monnieri"
+    ],
+    "components": [
+      "Bacopa monnieri"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 15,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Bacopa monnieri",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:rhodiola-rosea",
+    "canonical_name": "Rhodiola Rosea",
+    "display_name": "Rhodiola Rosea",
+    "entity_type": "supplement",
+    "aliases": [
+      "Rhodiola rosea"
+    ],
+    "components": [
+      "Rhodiola rosea"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 16,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Rhodiola rosea",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 64,
+      "estimated_30_day_users": 30274,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "double wood supplements rhodiola rosea extract 500 mg per veggie capsule"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 64
+    }
+  },
+  {
+    "entity_id": "supplement:phosphatidylserine",
+    "canonical_name": "Phosphatidylserine",
+    "display_name": "Phosphatidylserine",
+    "entity_type": "supplement",
+    "aliases": [
+      "phosphatidylserine supplementation"
+    ],
+    "components": [
+      "phosphatidylserine supplementation"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 17,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "phosphatidylserine supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 44,
+      "estimated_30_day_users": 115845,
+      "sample_participants": 3,
+      "matched_product_names": [
+        "focus factor kids with phosphatidylcholine and phosphatidylserine",
+        "jarrow formulas phosphatidylserine ps100 100 mg",
+        "swanson phosphatidylserine 100 mg per softgel"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 44
+    }
+  },
+  {
+    "entity_id": "supplement:acetyl-l-carnitine-alcar",
+    "canonical_name": "Acetyl-L-Carnitine (ALCAR)",
+    "display_name": "Acetyl-L-Carnitine (ALCAR)",
+    "entity_type": "supplement",
+    "aliases": [
+      "ALCAR",
+      "acetyl-L-carnitine"
+    ],
+    "components": [
+      "acetyl-L-carnitine"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 18,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "acetyl-L-carnitine OR ALCAR",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 50,
+      "estimated_30_day_users": 97859,
+      "sample_participants": 4,
+      "matched_product_names": [
+        "default acetyl l carnitine",
+        "doctor s best acetyl l carnitine 500 mg",
+        "superior labs acetyl l carnitine 100 pure free form 1 000 mg",
+        "vitacost acetyl l carnitine hcl 500 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 50
+    }
+  },
+  {
+    "entity_id": "supplement:l-tyrosine",
+    "canonical_name": "L-Tyrosine",
+    "display_name": "L-Tyrosine",
+    "entity_type": "supplement",
+    "aliases": [
+      "L-tyrosine supplementation"
+    ],
+    "components": [
+      "L-tyrosine supplementation"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 19,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "L-tyrosine supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 49,
+      "estimated_30_day_users": 99042,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "dakota extra strength l tyrosine 1000mg",
+        "default l tyrosine"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 49
+    }
+  },
+  {
+    "entity_id": "supplement:saffron-extract",
+    "canonical_name": "Saffron Extract",
+    "display_name": "Saffron Extract",
+    "entity_type": "supplement",
+    "aliases": [
+      "saffron extract",
+      "Crocus sativus"
+    ],
+    "components": [
+      "saffron extract"
+    ],
+    "category": "Brain Health & Nootropics",
+    "popularity_rank": 20,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "saffron extract OR Crocus sativus",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 65,
+      "estimated_30_day_users": 29023,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "whitaker nutrition vision essentials ultra with bilberon bilberry 40 mg of lutemax 2020 lutein and safr inside saffron extract"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 65
+    }
+  },
+  {
+    "entity_id": "supplement:magnesium-glycinate",
+    "canonical_name": "Magnesium Glycinate",
+    "display_name": "Magnesium Glycinate",
+    "entity_type": "supplement",
+    "aliases": [
+      "magnesium glycinate",
+      "magnesium bisglycinate"
+    ],
+    "components": [
+      "magnesium glycinate"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 21,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "magnesium glycinate OR magnesium bisglycinate",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 30,
+      "estimated_30_day_users": 298463,
+      "sample_participants": 7,
+      "matched_product_names": [
+        "kal high absorption magnesium glycinate 350",
+        "now magnesium glycinate vegetarian vegan",
+        "nutridyn magnesium glycinate chelated magnesium",
+        "purely holistic magnesium glycinate 400 mg vegan non gmo",
+        "solaray magnesium glycinate 350 mg higher absorption"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 30
+    }
+  },
+  {
+    "entity_id": "supplement:magnesium-l-threonate",
+    "canonical_name": "Magnesium L-Threonate",
+    "display_name": "Magnesium L-Threonate",
+    "entity_type": "supplement",
+    "aliases": [
+      "magnesium L-threonate"
+    ],
+    "components": [
+      "magnesium L-threonate"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 22,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "magnesium L-threonate",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 38,
+      "estimated_30_day_users": 142441,
+      "sample_participants": 3,
+      "matched_product_names": [
+        "dr mercola magnesium l threonate",
+        "life extension neuro mag magnesium l threonate",
+        "swanson magnesium l threonate featuring magtein mineral"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 38
+    }
+  },
+  {
+    "entity_id": "supplement:ashwagandha-ksm-66",
+    "canonical_name": "Ashwagandha (KSM-66)",
+    "display_name": "Ashwagandha (KSM-66)",
+    "entity_type": "supplement",
+    "aliases": [
+      "ashwagandha",
+      "Withania somnifera",
+      "KSM-66"
+    ],
+    "components": [
+      "ashwagandha"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 23,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "ashwagandha OR Withania somnifera OR KSM-66",
+    "branded_form": "KSM-66",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 10,
+      "estimated_30_day_users": 3122159,
+      "sample_participants": 44,
+      "matched_product_names": [
+        "ashwagandha 25 withanolides toniiq",
+        "ashwagandha 400 mg",
+        "ashwagandha 500 mg",
+        "ashwagandha 750 mg",
+        "ashwagandha gummies 300 mg up and up",
+        "cvs health ashwagandha ksm 66 extract",
+        "default ashwagandha",
+        "detox gummy chlorophyll with ashwagandha equals 3 cups of spinach 125 mg no sugar common treat",
+        "doctor safe ashwagandha with ksm 66 ashwagandha 1300 mg made with elderberry",
+        "dr sinatra omega q plus ultra 100 mg of coq10 ashwagandha resveratrol turmeric",
+        "ee 1950 mg aw ashwagandha with black pepper extract",
+        "equate men s advanced vitality complex clinically validated ksm 66 ashwagandha",
+        "finest nutrition ashwagandha root 920 mg per serving",
+        "fling thyroid power made with kelp iodine ashwagandha bladderwrack b12 copper and more",
+        "gaia herbs ashwagandha root",
+        "garden of life mykind organics ashwagandha fermented ginger and probiotics",
+        "gnc herbal plus ashwagandha 600 mg clinical strength contains patented ksm 66 vegetarian herbal extract",
+        "gnc herbal plus ashwagandha extract 470 mg vegetarian standardized extract",
+        "goli nutrition ashwagandha gummies",
+        "himalaya stresscare includes ashwagandha and holy basil",
+        "inno supps night shred night time fat burner night time recovery complex pm fat burning complex melatonin magnesium 5 htp ashwagandha",
+        "medi herb ashwagandha complex sp standard process",
+        "nature made ashwagandha 1 per day",
+        "nature s lab ashwagandha root powder",
+        "nutricost ksm 66 ashwagandha root extract 600 mg per serving"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 10
+    }
+  },
+  {
+    "entity_id": "supplement:apigenin",
+    "canonical_name": "Apigenin",
+    "display_name": "Apigenin",
+    "entity_type": "supplement",
+    "aliases": [
+      "apigenin supplementation"
+    ],
+    "components": [
+      "apigenin supplementation"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 24,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "apigenin supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 47,
+      "estimated_30_day_users": 105263,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "life extension senolytic activator advanced bio quercetin theaflavin apigenin bio fisetin formula"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 47
+    }
+  },
+  {
+    "entity_id": "supplement:glycine",
+    "canonical_name": "Glycine",
+    "display_name": "Glycine",
+    "entity_type": "supplement",
+    "aliases": [
+      "glycine supplementation sleep"
+    ],
+    "components": [
+      "glycine supplementation sleep"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 25,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "glycine supplementation sleep",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 63,
+      "estimated_30_day_users": 34304,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "365 whole foods market chewable dgl plus 4 1 ultra concentrated 760 mg deglycyrrhizinated licorice root extract plus 100 mg l glycine per serving"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 63
+    }
+  },
+  {
+    "entity_id": "supplement:gaba",
+    "canonical_name": "GABA",
+    "display_name": "GABA",
+    "entity_type": "supplement",
+    "aliases": [
+      "gamma-aminobutyric acid supplementation"
+    ],
+    "components": [
+      "gamma-aminobutyric acid supplementation"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 26,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "gamma-aminobutyric acid supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:lemon-balm-extract",
+    "canonical_name": "Lemon Balm Extract",
+    "display_name": "Lemon Balm Extract",
+    "entity_type": "supplement",
+    "aliases": [
+      "lemon balm",
+      "Melissa officinalis"
+    ],
+    "components": [
+      "lemon balm"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 27,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "lemon balm OR Melissa officinalis",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 27,
+      "estimated_30_day_users": 561487,
+      "sample_participants": 10,
+      "matched_product_names": [
+        "flo pms gummy vitamins chasteberry vitamin b6 lemon balm",
+        "flo pms vitamin capsules chasteberry vitamin b6 lemon balm",
+        "olly goodbye stress gaba l theanine and lemon balm",
+        "olly kids chillax magnesium l theanine and lemon balm",
+        "spring valley extra strength melatonin 10 mg per tablet with 1 000 mcg lemon balm"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 27
+    }
+  },
+  {
+    "entity_id": "supplement:tart-cherry-extract",
+    "canonical_name": "Tart Cherry Extract",
+    "display_name": "Tart Cherry Extract",
+    "entity_type": "supplement",
+    "aliases": [
+      "tart cherry",
+      "Prunus cerasus"
+    ],
+    "components": [
+      "tart cherry"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 28,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "tart cherry OR Prunus cerasus",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 29,
+      "estimated_30_day_users": 346460,
+      "sample_participants": 9,
+      "matched_product_names": [
+        "default tart cherry extract",
+        "eu natural purge celery seed and tart cherry",
+        "kal uric acid flush cleansing formula with tart cherry quercetin celery seed and more 2 daily",
+        "nature s truth vitamins ultra tart cherry extract 1 200 mg",
+        "nutra champs tart cherry 2 000 mg equivalent with celery seed",
+        "purefinity tart cherry gummies 2 000 mg",
+        "tart cherry concentrate 800 mg",
+        "zazzee naturals tart cherry 10 1 extract 3000 mg strength"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 29
+    }
+  },
+  {
+    "entity_id": "supplement:inositol",
+    "canonical_name": "Inositol",
+    "display_name": "Inositol",
+    "entity_type": "supplement",
+    "aliases": [
+      "inositol supplementation"
+    ],
+    "components": [
+      "inositol supplementation"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 29,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "inositol supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 25,
+      "estimated_30_day_users": 834102,
+      "sample_participants": 16,
+      "matched_product_names": [
+        "default myo inositol and d chiro inositol powder",
+        "generic flush free niacin inositol hexanicotinate 500 mg",
+        "jarrow formulas inositol 600 mg",
+        "nature s bounty niacin inositol hexanicotinate 500 mg flush free vitamin",
+        "now inositol capsules 500 mg myo inositol form vegetarian vegan",
+        "spring valley flush free niacin inositol hexanicotinate 500 mg per capsule",
+        "swanson inositol 650 mg per capsule vitamin",
+        "theralogix ovasitol inositol powder 40 1 inositol blend",
+        "walgreens flush free niacin inositol nicotinate 500 mg per serving"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 25
+    }
+  },
+  {
+    "entity_id": "supplement:melatonin",
+    "canonical_name": "Melatonin",
+    "display_name": "Melatonin",
+    "entity_type": "supplement",
+    "aliases": [
+      "melatonin"
+    ],
+    "components": [
+      "melatonin"
+    ],
+    "category": "Sleep, Stress & Mood",
+    "popularity_rank": 30,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "melatonin",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 9,
+      "estimated_30_day_users": 6823185,
+      "sample_participants": 144,
+      "matched_product_names": [
+        "21st century melatonin 5 mg",
+        "21st century vitajoy gummies melatonin 5 mg per serving vegetarian",
+        "365 whole foods market melatonin 1 mg take 1 before bedtime",
+        "adult melatonin gummies up and up",
+        "amazon elements melatonin 3 mg per serving",
+        "cvs health melatonin 3 mg",
+        "cvs health melatonin 5 mg",
+        "default gummy adult melatonin",
+        "default gummy adult melatonin extra strength",
+        "default gummy adult melatonin max strength",
+        "default gummy bear melatonin",
+        "default melatonin",
+        "good day chocolate sleep for kids 1 mg melatonin per piece for children 3 years or older",
+        "inno supps night shred night time fat burner black edition zylaria melatonin paradoxine",
+        "inno supps night shred night time fat burner night time recovery complex pm fat burning complex melatonin magnesium 5 htp ashwagandha",
+        "life extension melatonin 6 hour timed release 3 mg",
+        "melatonin 10 mg",
+        "melatonin 1mg",
+        "melatonin 3 mg",
+        "melatonin 300 mcg",
+        "melatonin 5 mg",
+        "member s mark timed release melatonin 10 mg",
+        "micro ingredients melatonin tablet 15 mg",
+        "natrol kids melatonin fast dissolve for ages 4 and up",
+        "natrol kids melatonin gummies for ages 4"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 9
+    }
+  },
+  {
+    "entity_id": "supplement:akkermansia-muciniphila",
+    "canonical_name": "Akkermansia muciniphila",
+    "display_name": "Akkermansia muciniphila",
+    "entity_type": "supplement",
+    "aliases": [
+      "Akkermansia muciniphila"
+    ],
+    "components": [
+      "Akkermansia muciniphila"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 31,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Akkermansia muciniphila",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:clostridium-butyricum",
+    "canonical_name": "Clostridium butyricum",
+    "display_name": "Clostridium butyricum",
+    "entity_type": "supplement",
+    "aliases": [
+      "Clostridium butyricum"
+    ],
+    "components": [
+      "Clostridium butyricum"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 32,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Clostridium butyricum",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:lactobacillus-reuteri",
+    "canonical_name": "Lactobacillus reuteri",
+    "display_name": "Lactobacillus reuteri",
+    "entity_type": "supplement",
+    "aliases": [
+      "Lactobacillus reuteri"
+    ],
+    "components": [
+      "Lactobacillus reuteri"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 33,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Lactobacillus reuteri",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:bifidobacterium-longum",
+    "canonical_name": "Bifidobacterium longum",
+    "display_name": "Bifidobacterium longum",
+    "entity_type": "supplement",
+    "aliases": [
+      "Bifidobacterium longum"
+    ],
+    "components": [
+      "Bifidobacterium longum"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 34,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Bifidobacterium longum",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 66,
+      "estimated_30_day_users": 28362,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "signature care advanced probiotic 8 5 mg 3 billion active cultures per capsule formulated with 14 strains of bacteria including bifidobacterium longum"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 66
+    }
+  },
+  {
+    "entity_id": "supplement:saccharomyces-boulardii",
+    "canonical_name": "Saccharomyces boulardii",
+    "display_name": "Saccharomyces boulardii",
+    "entity_type": "supplement",
+    "aliases": [
+      "Saccharomyces boulardii"
+    ],
+    "components": [
+      "Saccharomyces boulardii"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 35,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Saccharomyces boulardii",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 61,
+      "estimated_30_day_users": 37467,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "florastor daily probiotic unique strain with larger stronger cells than other probiotics saccharomyces boulardii lyo cncm i 745"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 61
+    }
+  },
+  {
+    "entity_id": "supplement:bovine-colostrum",
+    "canonical_name": "Bovine Colostrum",
+    "display_name": "Bovine Colostrum",
+    "entity_type": "supplement",
+    "aliases": [
+      "bovine colostrum"
+    ],
+    "components": [
+      "bovine colostrum"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 36,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "bovine colostrum",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:postbiotics",
+    "canonical_name": "Postbiotics",
+    "display_name": "Postbiotics",
+    "entity_type": "supplement",
+    "aliases": [
+      "postbiotic",
+      "postbiotics"
+    ],
+    "components": [
+      "postbiotic"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 37,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "postbiotic OR postbiotics",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 70,
+      "estimated_30_day_users": 14760,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "ritual synbiotic prebiotic probiotic postbiotic"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 70
+    }
+  },
+  {
+    "entity_id": "supplement:butyrate-tributyrin",
+    "canonical_name": "Butyrate / Tributyrin",
+    "display_name": "Butyrate / Tributyrin",
+    "entity_type": "supplement",
+    "aliases": [
+      "butyrate supplementation",
+      "tributyrin"
+    ],
+    "components": [
+      "butyrate",
+      "tributyrin"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 38,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "butyrate supplementation OR tributyrin",
+    "relationship": "alternatives",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 55,
+      "estimated_30_day_users": 79541,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "bodybio calcium magnesium butyrate a short chain fatty acid"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 55
+    }
+  },
+  {
+    "entity_id": "supplement:phgg-partially-hydrolyzed-guar-gum",
+    "canonical_name": "PHGG (Partially Hydrolyzed Guar Gum)",
+    "display_name": "PHGG (Partially Hydrolyzed Guar Gum)",
+    "entity_type": "supplement",
+    "aliases": [
+      "PHGG",
+      "partially hydrolyzed guar gum"
+    ],
+    "components": [
+      "partially hydrolyzed guar gum"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 39,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "partially hydrolyzed guar gum OR PHGG",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:psyllium-husk",
+    "canonical_name": "Psyllium Husk",
+    "display_name": "Psyllium Husk",
+    "entity_type": "supplement",
+    "aliases": [
+      "psyllium husk"
+    ],
+    "components": [
+      "psyllium husk"
+    ],
+    "category": "Gut Health & Microbiome",
+    "popularity_rank": 40,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "psyllium husk",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 18,
+      "estimated_30_day_users": 1147054,
+      "sample_participants": 19,
+      "matched_product_names": [
+        "cvs health daily fiber psyllium husk",
+        "cvs health daily fiber psyllium husk daily fiber original coarse",
+        "equate daily fiber 100 psyllium husk",
+        "equate sugar free daily fiber 100 natural psyllium husk multi health daily fiber orange smooth",
+        "fiber therapy 100 natural psyllium husk multi benefit daily fiber smooth orange rite aid pharmacy",
+        "kirkland signature fiber capsules 100 natural psyllium husk fiber fiber",
+        "kirkland signature natural psyllium fiber 100 natural psyllium husk fiber smooth texture sugar free fiber",
+        "m member s mark 100 natural psyllium husk fiber capsules fiber",
+        "nutricost psyllium husk 1 500 mg per serving",
+        "spring valley 100 natural psyllium husk dietary fiber"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 18
+    }
+  },
+  {
+    "entity_id": "supplement:berberine",
+    "canonical_name": "Berberine",
+    "display_name": "Berberine",
+    "entity_type": "supplement",
+    "aliases": [
+      "berberine"
+    ],
+    "components": [
+      "berberine"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 41,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "berberine",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 43,
+      "estimated_30_day_users": 125667,
+      "sample_participants": 5,
+      "matched_product_names": [
+        "enzymedica berberine from barberry",
+        "wellbetx berberine 500 mg natural factors",
+        "whitaker nutrition berberine glucogold featuring berberpure cinnamon banaba leaf extract and crominex 3"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 43
+    }
+  },
+  {
+    "entity_id": "supplement:dihydroberberine",
+    "canonical_name": "Dihydroberberine",
+    "display_name": "Dihydroberberine",
+    "entity_type": "supplement",
+    "aliases": [
+      "dihydroberberine"
+    ],
+    "components": [
+      "dihydroberberine"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 42,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "dihydroberberine",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:chromium-picolinate",
+    "canonical_name": "Chromium Picolinate",
+    "display_name": "Chromium Picolinate",
+    "entity_type": "supplement",
+    "aliases": [
+      "chromium picolinate"
+    ],
+    "components": [
+      "chromium picolinate"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 43,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "chromium picolinate",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 33,
+      "estimated_30_day_users": 208524,
+      "sample_participants": 5,
+      "matched_product_names": [
+        "fiber advance gummies weight management with chromium picolinate 6g fiber per serving",
+        "nature s truth vitamins concentrated ceylon cinnamon 2 000 mg plus chromax chromium picolinate"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 33
+    }
+  },
+  {
+    "entity_id": "supplement:alpha-lipoic-acid",
+    "canonical_name": "Alpha-Lipoic Acid",
+    "display_name": "Alpha-Lipoic Acid",
+    "entity_type": "supplement",
+    "aliases": [
+      "alpha-lipoic acid supplementation"
+    ],
+    "components": [
+      "alpha-lipoic acid supplementation"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 44,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "alpha-lipoic acid supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 23,
+      "estimated_30_day_users": 940222,
+      "sample_participants": 23,
+      "matched_product_names": [
+        "alpha lipoic acid 300 mg",
+        "alpha lipoic acid 600 mg",
+        "bronson alpha lipoic acid 600 mg 600 mg per serving",
+        "default alpha lipoic acid",
+        "doctor s best benfotiamine 150 alpha lipoic acid 300 with benfopure",
+        "gnc alpha lipoic acid 600 mg",
+        "health valley vitamins alpha lipoic acid 600 mg",
+        "klaire labs alpha lipoic acid 500 mg",
+        "lifeseasons glucose stabili t chromium cinnamon gymnema alpha lipoic acid bilberry",
+        "natrol alpha lipoic acid 600 mg time release vegetarian",
+        "nature s truth vitamins biotin keratin with alpha lipoic acid 5 000 mcg biotin",
+        "now alpha lipoic acid 100 mg with vitamins c and e vegetarian vegan",
+        "now alpha lipoic acid 250 mg vegetarian vegan",
+        "nutricost alpha lipoic acid 600 mg per serving",
+        "puritan s pride alpha lipoic acid 300 mg",
+        "puritan s pride premium alpha lipoic acid 200 mg",
+        "spring valley alpha lipoic acid 200 mg per capsule",
+        "sundown alpha lipoic acid 600 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 23
+    }
+  },
+  {
+    "entity_id": "supplement:myo-inositol",
+    "canonical_name": "Myo-Inositol",
+    "display_name": "Myo-Inositol",
+    "entity_type": "supplement",
+    "aliases": [
+      "myo-inositol"
+    ],
+    "components": [
+      "myo-inositol"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 45,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "myo-inositol",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 58,
+      "estimated_30_day_users": 62567,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "default myo inositol and d chiro inositol powder",
+        "now inositol capsules 500 mg myo inositol form vegetarian vegan"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 58
+    }
+  },
+  {
+    "entity_id": "supplement:d-chiro-inositol",
+    "canonical_name": "D-Chiro-Inositol",
+    "display_name": "D-Chiro-Inositol",
+    "entity_type": "supplement",
+    "aliases": [
+      "D-chiro-inositol"
+    ],
+    "components": [
+      "D-chiro-inositol"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 46,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "D-chiro-inositol",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 60,
+      "estimated_30_day_users": 38776,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "default myo inositol and d chiro inositol powder"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 60
+    }
+  },
+  {
+    "entity_id": "supplement:white-mulberry-leaf-extract",
+    "canonical_name": "White Mulberry Leaf Extract",
+    "display_name": "White Mulberry Leaf Extract",
+    "entity_type": "supplement",
+    "aliases": [
+      "white mulberry leaf",
+      "Morus alba extract"
+    ],
+    "components": [
+      "white mulberry leaf"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 47,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "white mulberry leaf OR Morus alba extract",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:apple-cider-vinegar-gummies",
+    "canonical_name": "Apple Cider Vinegar Gummies",
+    "display_name": "Apple Cider Vinegar Gummies",
+    "entity_type": "supplement",
+    "aliases": [
+      "apple cider vinegar gummies"
+    ],
+    "components": [
+      "apple cider vinegar"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 48,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "apple cider vinegar gummies",
+    "delivery_form": "gummy",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 14,
+      "estimated_30_day_users": 2008478,
+      "sample_participants": 49,
+      "matched_product_names": [
+        "apple cider vinegar 300 mg",
+        "apple cider vinegar 60 mg",
+        "asquared nutrition apple cider vinegar gummies 1500 mg per serving with the mother",
+        "dakota apple cider vinegar gummies 500 mg",
+        "default apple cider vinegar tablets",
+        "default gummy adult apple cider vinegar",
+        "dietworks cider trim apple cider vinegar with green tea garcinia green coffee extract super slimming formula",
+        "force factor probioslim apple cider vinegar gummies",
+        "fresh healthcare raw premium apple cider vinegar with the mother ginger cinnamon and cayenne pepper 1740 mg per serving max strength",
+        "garden of life mykind organics organic apple cider vinegar 2 bil cfu probiotic gummies",
+        "goli nutrition world s first apple cider vinegar gummies",
+        "havasu nutrition apple cider vinegar organic gummies with the mother",
+        "herbtonics raw apple cider vinegar with the mother unfiltered 1500 mg",
+        "live better apple cider vinegar 450 mg by cvs health",
+        "nature s bounty apple cider vinegar 480 mg per serving vegetarian",
+        "nature s truth vitamins apple cider vinegar 600 mg per serving gummies",
+        "nature s truth vitamins extra strength apple cider vinegar 1 200 mg per serving made with organic apple cider vinegar",
+        "new nordic apple cider vegan gummies sugar free with apple cider vinegar with botanicals",
+        "nutriflair raw unfiltered apple cider vinegar with the mother 1600 mg per serving",
+        "pharmvista apple cider vinegar gummies with organic beet root cranberry vitamin b9 and b12",
+        "refluxreliever apple cider vinegar apple pectin licorice root and honey barton nutrition",
+        "rexall apple cider vinegar 480 mg per serving",
+        "slimfast apple cider vinegar gummies 500 mg organic apple cider vinegar per serving",
+        "spring valley adult gummy apple cider vinegar 500 mg powder per serving",
+        "spring valley apple cider vinegar 450 mg per capsule"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 14
+    }
+  },
+  {
+    "entity_id": "supplement:green-tea-egcg-extract",
+    "canonical_name": "Green Tea EGCG Extract",
+    "display_name": "Green Tea EGCG Extract",
+    "entity_type": "supplement",
+    "aliases": [
+      "green tea extract",
+      "EGCG"
+    ],
+    "components": [
+      "green tea",
+      "EGCG"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 49,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "green tea extract OR EGCG",
+    "delivery_form": "extract",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 26,
+      "estimated_30_day_users": 765707,
+      "sample_participants": 17,
+      "matched_product_names": [
+        "default green tea",
+        "dietworks cider trim apple cider vinegar with green tea garcinia green coffee extract super slimming formula",
+        "green tea 400 mg",
+        "horbaach egcg green tea extract 1800 mg per serving",
+        "irwin naturals green tea fat metabolizer",
+        "nature s bounty green tea 315 mg standardized extract",
+        "now eve softgels superior women s multi with evening primrose cranberry green tea horsetail silica and coq10",
+        "now green tea extract 400 mg vegetarian vegan",
+        "solaray true herbs green tea 450 mg",
+        "spring valley standardized extract green tea 500 mg per capsule",
+        "swanson green tea extract 500 mg per capsule",
+        "trunature resveratrol plus 250 mg standardized trans resveratrol with red wine extract grape seed extract and green tea extract new improved formula",
+        "vita plus green tea extract decaffeinated 500 mg high potency natural",
+        "yogi green tea blueberry slim life"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 26
+    }
+  },
+  {
+    "entity_id": "supplement:glucomannan",
+    "canonical_name": "Glucomannan",
+    "display_name": "Glucomannan",
+    "entity_type": "supplement",
+    "aliases": [
+      "glucomannan supplementation"
+    ],
+    "components": [
+      "glucomannan supplementation"
+    ],
+    "category": "Metabolism & GLP-1",
+    "popularity_rank": 50,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "glucomannan supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:creatine-monohydrate",
+    "canonical_name": "Creatine Monohydrate",
+    "display_name": "Creatine Monohydrate",
+    "entity_type": "supplement",
+    "aliases": [
+      "creatine monohydrate"
+    ],
+    "components": [
+      "creatine monohydrate"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 51,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "creatine monohydrate",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 16,
+      "estimated_30_day_users": 1551594,
+      "sample_participants": 20,
+      "matched_product_names": [
+        "bulksupplements com creatine monohydrate micronized powder 5g per serving",
+        "creatine monohydrate 5 g",
+        "creatine monohydrate 750 mg",
+        "default creatine monohydrate",
+        "essentials creatine monohydrate micronized creatine monohydrate 5000mg per serving bucked up",
+        "evl evlution nutrition creatine1000 1000 mg creatine monohydrate",
+        "gnc pro performance creatine monohydrate 5000mg creatine monohydrate",
+        "myprotein creatine monohydrate unflavored",
+        "nutricost performance creatine monohydrate micronized creatine monohydrate 3g per serving",
+        "nutricost performance creatine monohydrate micronized creatine monohydrate 5g creatine per serving",
+        "on optimum nutrition micronized creatine capsules 100 pure creatine monohydrate 2 5g per serving creatine",
+        "on optimum nutrition micronized creatine powder 100 pure creatine monohydrate 5g per serving creatine"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 16
+    }
+  },
+  {
+    "entity_id": "supplement:creatine-gummies",
+    "canonical_name": "Creatine Gummies",
+    "display_name": "Creatine Gummies",
+    "entity_type": "supplement",
+    "aliases": [
+      "creatine gummies"
+    ],
+    "components": [
+      "creatine"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 52,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "creatine gummies",
+    "delivery_form": "gummy",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 15,
+      "estimated_30_day_users": 1773312,
+      "sample_participants": 24,
+      "matched_product_names": [
+        "6 sixstar creatine x3 3 031 mg creatine x3 blend per serving",
+        "bulksupplements com creatine monohydrate micronized powder 5g per serving",
+        "creatine monohydrate 5 g",
+        "creatine monohydrate 750 mg",
+        "default creatine capsules",
+        "default creatine monohydrate",
+        "essentials creatine monohydrate micronized creatine monohydrate 5000mg per serving bucked up",
+        "evl evlution nutrition creatine1000 1000 mg creatine monohydrate",
+        "gnc amp advanced muscle performance creatine hcl 189 clinically studied with enhanced bioavailability",
+        "gnc pro performance creatine monohydrate 5000mg creatine monohydrate",
+        "klean athlete klean creatine",
+        "myprotein creatine monohydrate unflavored",
+        "nutricost performance creatine monohydrate micronized creatine monohydrate 3g per serving",
+        "nutricost performance creatine monohydrate micronized creatine monohydrate 5g creatine per serving",
+        "on optimum nutrition micronized creatine capsules 100 pure creatine monohydrate 2 5g per serving creatine",
+        "on optimum nutrition micronized creatine powder 100 pure creatine monohydrate 5g per serving creatine"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 15
+    }
+  },
+  {
+    "entity_id": "supplement:whey-protein-isolate",
+    "canonical_name": "Whey Protein Isolate",
+    "display_name": "Whey Protein Isolate",
+    "entity_type": "supplement",
+    "aliases": [
+      "whey protein isolate"
+    ],
+    "components": [
+      "whey protein isolate"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 53,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "whey protein isolate",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:clear-whey-protein",
+    "canonical_name": "Clear Whey Protein",
+    "display_name": "Clear Whey Protein",
+    "entity_type": "supplement",
+    "aliases": [
+      "clear whey protein"
+    ],
+    "components": [
+      "whey protein"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 54,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "clear whey protein",
+    "delivery_form": "clear drink mix",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 35,
+      "estimated_30_day_users": 162654,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "default whey protein",
+        "pure protein 100 whey protein 25g protein 2g sugar 160 calories"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 35
+    }
+  },
+  {
+    "entity_id": "supplement:essential-amino-acids-eaa",
+    "canonical_name": "Essential Amino Acids (EAA)",
+    "display_name": "Essential Amino Acids (EAA)",
+    "entity_type": "supplement",
+    "aliases": [
+      "EAA",
+      "essential amino acid supplementation"
+    ],
+    "components": [
+      "essential amino acids"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 55,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "essential amino acid supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 48,
+      "estimated_30_day_users": 103561,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "fresh healthcare pure premium moringa complete green superfood 1000 mg per serving high strength rich source of phytonutrients contains essential amino acids"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 48
+    }
+  },
+  {
+    "entity_id": "supplement:hmb",
+    "canonical_name": "HMB",
+    "display_name": "HMB",
+    "entity_type": "supplement",
+    "aliases": [
+      "beta-hydroxy-beta-methylbutyrate",
+      "HMB supplementation"
+    ],
+    "components": [
+      "beta-hydroxy-beta-methylbutyrate"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 56,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "beta-hydroxy-beta-methylbutyrate OR HMB supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:beta-alanine",
+    "canonical_name": "Beta-Alanine",
+    "display_name": "Beta-Alanine",
+    "entity_type": "supplement",
+    "aliases": [
+      "beta-alanine supplementation"
+    ],
+    "components": [
+      "beta-alanine supplementation"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 57,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "beta-alanine supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 37,
+      "estimated_30_day_users": 148527,
+      "sample_participants": 3,
+      "matched_product_names": [
+        "gnc mega men sport one daily one per day multivitamin features beta alanine packed with b vitamins",
+        "rival nutrition powder burn 3g l citrulline 1 6g carosyn beta alanine 200mg natural source caffeine",
+        "rule one pre train intense energy pre workout performance 3g l citrulline 2 4g beta alanine 1g nitrosigne"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 37
+    }
+  },
+  {
+    "entity_id": "supplement:l-citrulline",
+    "canonical_name": "L-Citrulline",
+    "display_name": "L-Citrulline",
+    "entity_type": "supplement",
+    "aliases": [
+      "L-citrulline supplementation"
+    ],
+    "components": [
+      "L-citrulline supplementation"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 58,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "L-citrulline supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 62,
+      "estimated_30_day_users": 35866,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "rival nutrition powder burn 3g l citrulline 1 6g carosyn beta alanine 200mg natural source caffeine",
+        "rule one pre train intense energy pre workout performance 3g l citrulline 2 4g beta alanine 1g nitrosigne"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 62
+    }
+  },
+  {
+    "entity_id": "supplement:beetroot-nitrates",
+    "canonical_name": "Beetroot Nitrates",
+    "display_name": "Beetroot Nitrates",
+    "entity_type": "supplement",
+    "aliases": [
+      "beetroot nitrate supplementation"
+    ],
+    "components": [
+      "beetroot",
+      "nitrate"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 59,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "beetroot nitrate supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 46,
+      "estimated_30_day_users": 106022,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "force factor total beets beetroot superfood with grapeseed extract"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 46
+    }
+  },
+  {
+    "entity_id": "supplement:electrolyte-powders",
+    "canonical_name": "Electrolyte Powders",
+    "display_name": "Electrolyte Powders",
+    "entity_type": "supplement",
+    "aliases": [
+      "electrolyte supplementation hydration"
+    ],
+    "components": [
+      "electrolytes"
+    ],
+    "category": "Fitness, Muscle & Recovery",
+    "popularity_rank": 60,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "electrolyte supplementation hydration",
+    "delivery_form": "powder",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 11,
+      "estimated_30_day_users": 2922375,
+      "sample_participants": 60,
+      "matched_product_names": [
+        "apsu superfood multivitamin vegetarian for athletes and active people powered by a superfood complex together with premium nutrients vitamins electrolytes and antioxidants",
+        "cvs health vitamin c 1000 mg includes 7 b vitamins antioxidant and electrolytes single serve powder packets 30 calories per serving drink mix",
+        "emergen c 1 000 mg vitamin c antioxidants b vitamins and electrolytes raspberry fizzy drink mix caffeine free vitamin c zinc and manganese",
+        "emergen c 1 000 mg vitamin c antioxidants b vitamins and electrolytes super orange fizzy drink mix caffeine free vitamin c zinc and manganese",
+        "equate 1 000 mg vitamin c essential nutrients 7 b vitamins antioxidants and electrolytes vitamin c zinc and manganese",
+        "equate 1 000 mg vitamin c plus vitamin d and zinc essential nutrients 7 b vitamins antioxidants and electrolytes vitamin c zinc and manganese fizzy drink mix packets",
+        "immune works defense c vitamin c 1 000 mg 17 vitamins and minerals vitamin d b12 and electrolytes",
+        "kirkland signature one per day super b complex with electrolytes",
+        "resistance c complete immunity vitamin c 1000 mg zinc and vitamin d packets zinc 30 mg sugar free 16 vitamins antioxidants electrolytes",
+        "topcare health essence c vitamin c powder blend 1 000 mg vitamin c per serving 7 b vitamins antioxidant vitamin c and electrolytes sodium 3 dv potassium 4 dv zinc and manganese",
+        "zeal naturals enhanced electrolytes bcaas real salt b vitamins"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 11
+    }
+  },
+  {
+    "entity_id": "supplement:collagen-peptides",
+    "canonical_name": "Collagen Peptides",
+    "display_name": "Collagen Peptides",
+    "entity_type": "supplement",
+    "aliases": [
+      "collagen peptides supplementation"
+    ],
+    "components": [
+      "collagen peptides supplementation"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 61,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "collagen peptides supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 13,
+      "estimated_30_day_users": 2171053,
+      "sample_participants": 47,
+      "matched_product_names": [
+        "ancient nutrition collagen peptides 20g collagen per serving whole food",
+        "andrew lessman procaps laboratories marine collagen peptides with msm methyl sulfonyl methane",
+        "dose and co pure collagen unflavored collagen peptides 20g collagen per serving",
+        "dose and co types 1 and 3 collagen peptides biotin and vitamin c 6 000 mg per day",
+        "equate grass fed collagen peptides type 1 and 3 joint support formula 10g of collagen per sering",
+        "hearthy foods grass fed collagen peptides pure protein type i and iii 7 grams of protein per serving",
+        "live conscious collagen peptides pure hydrolyzed peptides grass fed and pasture raised",
+        "nativepath collagen peptides premium grass fed pasture raised 10g per scoop collagen peptides",
+        "phinaturals pure instant mix collagen peptides bovine collagen types i and iii",
+        "pure research biotin with collagen peptides b7 liquid vitamin drops 50 000",
+        "skinnyfit super youth multi collagen peptides 5 types of collagen type i ii iii v and x",
+        "spring valley collagen peptides type 1 and 3 keto and paleo formula",
+        "terranics multi collagen with biotin vitamin c and hyaluronic acid type i ii iii v and x original collagen peptides",
+        "vital proteins collagen peptides 20g collagen per serving grass fed pasture raised unflavored",
+        "vital proteins collagen peptides 20g grass fed collagen 0g sugar made with natural cocoa",
+        "vital proteins collagen peptides 6g collagen per day grass fed pasture raised capsules",
+        "vital proteins original collagen peptides 20g collagen per serving grass fed pasture raised unflavored with hyaluronic acid with vitamin c",
+        "zammex hydrolyzed collagen peptides grass fed pasture raised"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 13
+    }
+  },
+  {
+    "entity_id": "supplement:marine-collagen",
+    "canonical_name": "Marine Collagen",
+    "display_name": "Marine Collagen",
+    "entity_type": "supplement",
+    "aliases": [
+      "marine collagen supplementation"
+    ],
+    "components": [
+      "marine collagen supplementation"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 62,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "marine collagen supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 56,
+      "estimated_30_day_users": 66003,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "andrew lessman procaps laboratories marine collagen peptides with msm methyl sulfonyl methane"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 56
+    }
+  },
+  {
+    "entity_id": "supplement:hyaluronic-acid-oral",
+    "canonical_name": "Hyaluronic Acid (oral)",
+    "display_name": "Hyaluronic Acid (oral)",
+    "entity_type": "supplement",
+    "aliases": [
+      "oral hyaluronic acid"
+    ],
+    "components": [
+      "hyaluronic acid"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 63,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "oral hyaluronic acid",
+    "route": "oral",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 20,
+      "estimated_30_day_users": 1092506,
+      "sample_participants": 32,
+      "matched_product_names": [
+        "arbonne skinelixir collagen builder with hyaluronic acid",
+        "baker s best turmeric triple gold ginger root hyaluronic acid",
+        "baxyl hyaluronic acid liquid oral patented mhb3",
+        "m glucosamine hcl 1500 mg msm 1500 mg with hyaluronic acid two tablets per day",
+        "nature s bounty optimal solutions extra strength hair skin and nails argan oil infused with biotin 5000 mcg per serving antioxidants c and e plus hyaluronic acid",
+        "nature s bounty optimal solutions hair skin and nails softgels extra strength 5 000 mcg biotin per serving argan oil infused antioxidant vitamins c and e plus hyaluronic acid multivitamin",
+        "naturebell saw palmetto formula formulated with biotin and hyaluronic acid 1000 mg",
+        "olly glowing skin hyaluronic acid collagen and sea buckthorn",
+        "pure encapsulations hyaluronic acid",
+        "puritan s pride hyaluronic acid 100 mg",
+        "reserveage beauty collagen booster with hyaluronic acid and resveratrol",
+        "schiff glucosamine hcl 1500 mg plus msm 1500 mg per 3 tablets high potency glucosamine with hyaluronic acid and msm",
+        "swanson hyaluronic acid complex 83 mg per capsule",
+        "terranics multi collagen with biotin vitamin c and hyaluronic acid type i ii iii v and x original collagen peptides",
+        "topcare health triple strength glucosamine and chondroitin with msm and hyaluronic acid plus collagen",
+        "vital proteins original collagen peptides 20g collagen per serving grass fed pasture raised unflavored with hyaluronic acid with vitamin c",
+        "walgreens hair skin and nails formula antioxidants c and e plus hyaluronic acid"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 20
+    }
+  },
+  {
+    "entity_id": "supplement:ceramide-supplements",
+    "canonical_name": "Ceramide Supplements",
+    "display_name": "Ceramide Supplements",
+    "entity_type": "supplement",
+    "aliases": [
+      "oral ceramide supplementation"
+    ],
+    "components": [
+      "ceramide"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 64,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "oral ceramide supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:astaxanthin",
+    "canonical_name": "Astaxanthin",
+    "display_name": "Astaxanthin",
+    "entity_type": "supplement",
+    "aliases": [
+      "astaxanthin supplementation"
+    ],
+    "components": [
+      "astaxanthin supplementation"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 65,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "astaxanthin supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 28,
+      "estimated_30_day_users": 409707,
+      "sample_participants": 12,
+      "matched_product_names": [
+        "bioastin hawaiian astaxanthin 4 mg 3 per day",
+        "bioemblem non gmo antarctic sourced 1000 mg krill oil omega 3 epa dha phospholipids astaxanthin whole food",
+        "california gold nutrition astaxanthin 12 mg astalif pure icelandic astaxanthin",
+        "gundry md active advantage with astaxanthin and coq10",
+        "kirkland signature one per day krill oil 500 mg omega 3 astaxanthin",
+        "life extension macuguard ocular support with saffron and astaxanthin",
+        "micro ingredients krill oil antarctic natural astaxanthin omega 3 1000 mg per serving",
+        "sr sports research antarctic krill oil omega 3 phospholipids with astaxanthin made with superba2 ikos 5 star certified krill oil 1000 mg",
+        "twinbest krill oil 1250 mg per serving omega 3 epa dha and astaxanthin"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 28
+    }
+  },
+  {
+    "entity_id": "supplement:glutathione-oral",
+    "canonical_name": "Glutathione (oral)",
+    "display_name": "Glutathione (oral)",
+    "entity_type": "supplement",
+    "aliases": [
+      "oral glutathione"
+    ],
+    "components": [
+      "glutathione"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 66,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "oral glutathione",
+    "route": "oral",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 52,
+      "estimated_30_day_users": 82237,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "emerald labs coenzymated men s 45 1 daily multi methylated folate setria l glutathione saw palmetto iron free 1 daily",
+        "we like vitamins glutathione reduced 500 mg per serving"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 52
+    }
+  },
+  {
+    "entity_id": "supplement:liposomal-glutathione",
+    "canonical_name": "Liposomal Glutathione",
+    "display_name": "Liposomal Glutathione",
+    "entity_type": "supplement",
+    "aliases": [
+      "liposomal glutathione"
+    ],
+    "components": [
+      "glutathione"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 67,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "liposomal glutathione",
+    "delivery_form": "liposomal",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 53,
+      "estimated_30_day_users": 82237,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "emerald labs coenzymated men s 45 1 daily multi methylated folate setria l glutathione saw palmetto iron free 1 daily",
+        "we like vitamins glutathione reduced 500 mg per serving"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 53
+    }
+  },
+  {
+    "entity_id": "supplement:msm",
+    "canonical_name": "MSM",
+    "display_name": "MSM",
+    "entity_type": "supplement",
+    "aliases": [
+      "methylsulfonylmethane",
+      "MSM supplementation"
+    ],
+    "components": [
+      "methylsulfonylmethane"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 68,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "methylsulfonylmethane OR MSM supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 54,
+      "estimated_30_day_users": 80695,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "now msm methylsulfonylmethane 1000 mg vegetarian vegan",
+        "now msm methylsulfonylmethane 1500 mg vegetarian vegan"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 54
+    }
+  },
+  {
+    "entity_id": "supplement:biotin-gummies",
+    "canonical_name": "Biotin Gummies",
+    "display_name": "Biotin Gummies",
+    "entity_type": "supplement",
+    "aliases": [
+      "biotin gummies"
+    ],
+    "components": [
+      "biotin"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 69,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "biotin gummies",
+    "delivery_form": "gummy",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 8,
+      "estimated_30_day_users": 10898868,
+      "sample_participants": 256,
+      "matched_product_names": [
+        "21st century biotin 5000 mcg vitamin",
+        "amazon elements biotin 5000 mcg per serving vegan",
+        "andrew lessman procaps laboratories essential 1 1000 iu vitamin d3 100 mcg methyl b12 1200 mcg biotin 400 mcg methyl folate lutein lycopene zeaxanthin ultra high potency one daily capsule",
+        "andrew lessman procaps laboratories healthy hair skin and nails 5 000 mcg biotin complete b complex msm",
+        "andrew lessman procaps laboratories phytoceramides 320 mg phytoceramide complex 500 mcg biotin",
+        "animal friends iron vegan gummies iron b complex vitamin c biotin and zinc made with organic tapioca",
+        "biotin 10 000 mcg",
+        "biotin 5 000 mcg up and up",
+        "biotin 5000 mcg",
+        "biotin plus keratin biotin 10 000 mcg keratin 100 mg up and up",
+        "bonita hair skin nails superior bioavailability advanced complex 3500 mcg biotin once daily essential source",
+        "cvs health biotin 10 000 mcg",
+        "default biotin",
+        "dose and co types 1 and 3 collagen peptides biotin and vitamin c 6 000 mg per day",
+        "equate hair skin and nails adult gummy 2 500 mcg biotin",
+        "finest nutrition biotin 5 000 mcg per capsule one per day",
+        "finest nutrition biotin plus keratin 10 000 mcg biotin per serving",
+        "finest nutrition timed release biotin 10 000 mcg per serving",
+        "generic46 high potency biotin 1 000 mcg vitamin",
+        "hum hair strong gummies biotin folic acid b12 zinc",
+        "jarrow formulas alpha lipoic sustain with biotin quick sustained release",
+        "kroger biotin 5000 mcg",
+        "lifeseasons therapeutics beau t hair skin and nails collagen horsetail turmeric biotin msm",
+        "live conscious multi type formula beyond collagen with biotin and vitamin c",
+        "m super b complex with 1000 mcg biotin contains eight b vitamins 1 tablet per day"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 8
+    }
+  },
+  {
+    "entity_id": "supplement:silica-supplements",
+    "canonical_name": "Silica Supplements",
+    "display_name": "Silica Supplements",
+    "entity_type": "supplement",
+    "aliases": [
+      "silica supplementation hair nails"
+    ],
+    "components": [
+      "silica"
+    ],
+    "category": "Beauty From Within",
+    "popularity_rank": 70,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "silica supplementation hair nails",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 41,
+      "estimated_30_day_users": 129108,
+      "sample_participants": 4,
+      "matched_product_names": [
+        "default silica",
+        "liquid health calcium and magnesium natural silica blend from bamboo 30 mcg 1200 iu vitamin d3 vegetarian non gmo sugar free",
+        "now eve softgels superior women s multi with evening primrose cranberry green tea horsetail silica and coq10",
+        "positive power nutritionals super silica pure ionic silver"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 41
+    }
+  },
+  {
+    "entity_id": "supplement:dim-diindolylmethane",
+    "canonical_name": "DIM (Diindolylmethane)",
+    "display_name": "DIM (Diindolylmethane)",
+    "entity_type": "supplement",
+    "aliases": [
+      "DIM",
+      "diindolylmethane",
+      "DIM supplementation"
+    ],
+    "components": [
+      "diindolylmethane"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 71,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "diindolylmethane OR DIM supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 69,
+      "estimated_30_day_users": 21955,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "dim diindolylmethane 200 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 69
+    }
+  },
+  {
+    "entity_id": "supplement:vitex-agnus-castus",
+    "canonical_name": "Vitex Agnus-Castus",
+    "display_name": "Vitex Agnus-Castus",
+    "entity_type": "supplement",
+    "aliases": [
+      "Vitex agnus-castus"
+    ],
+    "components": [
+      "Vitex agnus-castus"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 72,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Vitex agnus-castus",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:maca-root",
+    "canonical_name": "Maca Root",
+    "display_name": "Maca Root",
+    "entity_type": "supplement",
+    "aliases": [
+      "maca",
+      "Lepidium meyenii"
+    ],
+    "components": [
+      "maca"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 73,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "maca OR Lepidium meyenii",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 71,
+      "estimated_30_day_users": 14457,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "nutra champs maca 2100 mg organic peruvian maca black red and yellow maca root blend with black pepper"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 71
+    }
+  },
+  {
+    "entity_id": "supplement:shatavari",
+    "canonical_name": "Shatavari",
+    "display_name": "Shatavari",
+    "entity_type": "supplement",
+    "aliases": [
+      "Asparagus racemosus",
+      "shatavari"
+    ],
+    "components": [
+      "Asparagus racemosus"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 74,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Asparagus racemosus OR shatavari",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:d-mannose",
+    "canonical_name": "D-Mannose",
+    "display_name": "D-Mannose",
+    "entity_type": "supplement",
+    "aliases": [
+      "D-mannose"
+    ],
+    "components": [
+      "D-mannose"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 75,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "D-mannose",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 42,
+      "estimated_30_day_users": 127099,
+      "sample_participants": 3,
+      "matched_product_names": [
+        "dacha d mannose with cranberry hibiscus and dandelion extract 1500 mg per serving",
+        "gnc herbal plus cranberry and d mannose with vitamin c whole fruit",
+        "now d mannose 500 mg vegetarian vegan"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 42
+    }
+  },
+  {
+    "entity_id": "supplement:cranberry-pacs",
+    "canonical_name": "Cranberry PACs",
+    "display_name": "Cranberry PACs",
+    "entity_type": "supplement",
+    "aliases": [
+      "cranberry proanthocyanidins",
+      "cranberry PACs"
+    ],
+    "components": [
+      "cranberry"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 76,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "cranberry proanthocyanidins OR cranberry PACs",
+    "constituent": "proanthocyanidins",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 12,
+      "estimated_30_day_users": 2607386,
+      "sample_participants": 57,
+      "matched_product_names": [
+        "align probiotic women s health prebiotic probiotic with cranberry",
+        "azo cranberry clinical strength cranberry",
+        "cranberry 250 mg",
+        "cranberry 500 mg",
+        "cvs health super strength cranberry 500 mg",
+        "dacha d mannose with cranberry hibiscus and dandelion extract 1500 mg per serving",
+        "default cranberry",
+        "default gummy adult cranberry",
+        "doctor s recipes women s probiotics probiotics prebiotics and cranberry 50 billion cfus 16 clinically proven strains delayed release",
+        "gnc herbal plus cranberry and d mannose with vitamin c whole fruit",
+        "horbaach cranberry concentrate vitamin c 30 000 mg equivalent per serving",
+        "leader cranberry concentrate with vitamin c 1680 mg fruit",
+        "nature made cranberry 450 mg extract fruit extract with c",
+        "nature s bounty cranberry fruit 4200 mg equivalent per softgel with vitamin c",
+        "nature s reward cranberry concentrate 10 000 mg equivalent per serving plus vitamin c",
+        "nature s sunshine cranberry and buchu with herbal extract",
+        "nordvida women s probiotic with prebiotics and cranberry and enzymes 120 billion 32 strains 20mg cranberry 150mg prebiotics",
+        "now eve softgels superior women s multi with evening primrose cranberry green tea horsetail silica and coq10",
+        "pharmvista apple cider vinegar gummies with organic beet root cranberry vitamin b9 and b12",
+        "puritan s pride natural cranberry fruit extract one per day 25 000 mg equivalent per capsule",
+        "spring valley adult gummy cranberry 500 mg per serving",
+        "spring valley cranberry 500 mg per serving plus vitamin c 200 mg per serving",
+        "spring valley extra strength cranberry 15 000 mg equivalent per capsule",
+        "spring valley standardized extract cranberry 500 mg",
+        "spring valley women s probiotic 1 billion active cultures per capsule with cranberry extract"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 12
+    }
+  },
+  {
+    "entity_id": "supplement:lactoferrin",
+    "canonical_name": "Lactoferrin",
+    "display_name": "Lactoferrin",
+    "entity_type": "supplement",
+    "aliases": [
+      "lactoferrin supplementation"
+    ],
+    "components": [
+      "lactoferrin supplementation"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 77,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "lactoferrin supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:methylfolate-5-mthf",
+    "canonical_name": "Methylfolate (5-MTHF)",
+    "display_name": "Methylfolate (5-MTHF)",
+    "entity_type": "supplement",
+    "aliases": [
+      "5-MTHF",
+      "methylfolate"
+    ],
+    "components": [
+      "methylfolate"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 78,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "methylfolate OR 5-MTHF",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 32,
+      "estimated_30_day_users": 209067,
+      "sample_participants": 4,
+      "matched_product_names": [
+        "bodyhealth multi complete complete multivitamin mineral and micronutrient blend with full spectrum antioxidant support includes liver support methylfolate chelated minerals co q10 vitamin k2 d3",
+        "deplin l methylfolate ca 15",
+        "one elevated methyl folate with l 5 mthf methyl b12 premium formula",
+        "spring valley methyl folate 5 mthf with patented quatrefolic"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 32
+    }
+  },
+  {
+    "entity_id": "supplement:choline",
+    "canonical_name": "Choline",
+    "display_name": "Choline",
+    "entity_type": "supplement",
+    "aliases": [
+      "choline supplementation"
+    ],
+    "components": [
+      "choline supplementation"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 79,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "choline supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 7,
+      "estimated_30_day_users": 14158569,
+      "sample_participants": 290,
+      "matched_product_names": [
+        "andrew lessman procaps laboratories phosphatidyl choline pc liver and brain benefits concentrated phosphatidyl choline",
+        "country life coenzyme b complex now with choline with l 5 methyltetrahydrofolate",
+        "health dotfit women s mv multivitamin and mineral formula now with choline formulated for women 25 mcg 1000 iu vitamin d delayed release formula",
+        "nature made gummies prenatal folic acid dha choline contains folic acid choline and 14 other nutrients",
+        "nature s way choline 500 mg per serving",
+        "now sunflower lecithin 1200 mg soy free non gmo phosphatidyl choline",
+        "smarty pants kids formula non gmo multivitamin omega 3 fish oil vitamin d3 and choline",
+        "sp standard process choline",
+        "spring valley sunflower lecithin 1200 mg per softgel with phosphatidyl choline",
+        "stonehenge health dynamic brain 40 ingredients includes choline daily nootropic",
+        "upspring prenatal complete multivitamin active folate omega 3 dha iodine choline"
+      ],
+      "match_method": "product_name_or_positive_DSQICHL",
+      "match_status": "matched",
+      "nutrient_proxy_used": true,
+      "rank_among_matched_medguide_supplements": 7
+    }
+  },
+  {
+    "entity_id": "supplement:menopause-probiotic-blends",
+    "canonical_name": "Menopause Probiotic Blends",
+    "display_name": "Menopause Probiotic Blends",
+    "entity_type": "supplement",
+    "aliases": [
+      "probiotic menopause"
+    ],
+    "components": [
+      "probiotic"
+    ],
+    "category": "Women's Health & Hormones",
+    "popularity_rank": 80,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "probiotic menopause",
+    "population_marketing": "menopause",
+    "product_type": "blend",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 6,
+      "estimated_30_day_users": 15023605,
+      "sample_participants": 319,
+      "matched_product_names": [
+        "21st century ultra potency advanced probiotic",
+        "advocare probiotic restore ultra probiotic",
+        "align dualbiotic prebiotic probiotic gummies",
+        "align probiotic probiotic",
+        "align probiotic women s health prebiotic probiotic with cranberry",
+        "amazon basics prebiotic and probiotic",
+        "american health chewable acidophilus 1 billion live cultures probiotic chewable wafers",
+        "bariatric advantage chewable floravantage probiotic",
+        "better body co provitalize everyday probiotic formula weight management complex 10 strains 68 billion cfu",
+        "culturelle probiotics 3 in 1 complete probiotic with omega 3s once daily probiotic",
+        "culturelle probiotics digestive daily probiotic with prebiotics 200 mg inulin 10 billion cfus once daily vegetarian capsules probiotic",
+        "culturelle probiotics health and wellness 15 billion cfus once daily probiotic",
+        "culturelle probiotics kids multivitamin probiotic chewables 11 essential vitamins and minerals plus a probiotic 3 years once daily probiotic",
+        "culturelle probiotics kids probiotic fiber regularity packets probiotic 1 years",
+        "culturelle probiotics kids probiotic gummies once daily probiotic",
+        "culturelle probiotics kids probiotic multivitamin chewables 11 vitamins and minerals 3 years once daily probiotic",
+        "culturelle probiotics kids purely probiotics packets probiotic 1 years",
+        "culturelle probiotics pro strength digestive daily probiotic 12 billion cfus with prebiotics 200 mg inulin probiotic",
+        "culturelle probiotics probiotic gummies 3 billion cfus probiotic",
+        "cvs health advanced probiotic gummies 500 million cfu viable bacteria cells per 2 gummies easy to take gummies",
+        "cvs health daily probiotic contains prebiotics 2 billion cfu live bacteria cells per capsule formulated with 4 strains of healthy bacteria",
+        "cvs health everyday care probiotic adult daily gummies 2 billion live cultures per serving",
+        "cvs health prebiotic probiotic gummies 1 billion cfu viable bacteria cells per 2 gummies easy to take gummies",
+        "cvs health probiotic 10 strains 3 billion live bacteria cells per capsule formulated with 10 strains of friendly bacteria",
+        "cvs health probiotic acidophilus 100 million cfus"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 6
+    }
+  },
+  {
+    "entity_id": "supplement:nac-n-acetylcysteine",
+    "canonical_name": "NAC (N-Acetylcysteine)",
+    "display_name": "NAC (N-Acetylcysteine)",
+    "entity_type": "supplement",
+    "aliases": [
+      "NAC",
+      "N-acetylcysteine",
+      "NAC supplementation"
+    ],
+    "components": [
+      "N-acetylcysteine"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 81,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "N-acetylcysteine OR NAC supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 59,
+      "estimated_30_day_users": 43219,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "thorne nac n acetylcysteine"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 59
+    }
+  },
+  {
+    "entity_id": "supplement:milk-thistle-silymarin",
+    "canonical_name": "Milk Thistle (Silymarin)",
+    "display_name": "Milk Thistle (Silymarin)",
+    "entity_type": "supplement",
+    "aliases": [
+      "milk thistle",
+      "silymarin"
+    ],
+    "components": [
+      "milk thistle",
+      "silymarin"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 82,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "milk thistle OR silymarin",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 22,
+      "estimated_30_day_users": 992511,
+      "sample_participants": 22,
+      "matched_product_names": [
+        "bronson milk thistle 1000 mg fortified with dandelion root",
+        "full circle market ultimate extract standardized milk thistle 350 mg",
+        "gaia herbs liver health with milk thistle turmeric root and gaia grown chinese skullcap",
+        "milk thistle 1000 mg",
+        "milk thistle 175 mg",
+        "milk thistle 250 mg",
+        "milk thistle 300 mg",
+        "milk thistle 360 mg",
+        "nature s bounty milk thistle 175 mg standardized extract",
+        "nature s sunshine time release milk thistle herbal extract",
+        "puritan s pride milk thistle extract 1000 mg equivalent traditional herb concentrated extract",
+        "puritan s pride milk thistle liver complex plus fennel dandelion and licorice naturally sourced herbs",
+        "solgar milk thistle silybum marianum",
+        "spring valley standardized extract milk thistle 175 mg per capsule",
+        "swanson full spectrum milk thistle 500 mg per capsule",
+        "the vitamin shoppe milk thistle extract 70 mg",
+        "walgreens milk thistle 1000 mg milk thistle per serving",
+        "zazzee naturals organic milk thistle 7500 mg strength 80 silymarin flavonoids high grade 30 1 extract"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 22
+    }
+  },
+  {
+    "entity_id": "supplement:tudca",
+    "canonical_name": "TUDCA",
+    "display_name": "TUDCA",
+    "entity_type": "supplement",
+    "aliases": [
+      "tauroursodeoxycholic acid",
+      "TUDCA"
+    ],
+    "components": [
+      "tauroursodeoxycholic acid"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 83,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "tauroursodeoxycholic acid OR TUDCA",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:black-seed-oil",
+    "canonical_name": "Black Seed Oil",
+    "display_name": "Black Seed Oil",
+    "entity_type": "supplement",
+    "aliases": [
+      "black seed oil",
+      "Nigella sativa"
+    ],
+    "components": [
+      "black seed oil"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 84,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "black seed oil OR Nigella sativa",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 72,
+      "estimated_30_day_users": 11717,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "maryruth s organic black seed oil liquid drops herbals"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 72
+    }
+  },
+  {
+    "entity_id": "supplement:curcumin-phytosome",
+    "canonical_name": "Curcumin Phytosome",
+    "display_name": "Curcumin Phytosome",
+    "entity_type": "supplement",
+    "aliases": [
+      "curcumin phytosome"
+    ],
+    "components": [
+      "curcumin phytosome"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 85,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "curcumin phytosome",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 67,
+      "estimated_30_day_users": 24564,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "thorne meriva 500 sf curcumin phytosome"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 67
+    }
+  },
+  {
+    "entity_id": "supplement:boswellia-serrata",
+    "canonical_name": "Boswellia Serrata",
+    "display_name": "Boswellia Serrata",
+    "entity_type": "supplement",
+    "aliases": [
+      "Boswellia serrata"
+    ],
+    "components": [
+      "Boswellia serrata"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 86,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Boswellia serrata",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:vitamin-d3-k2",
+    "canonical_name": "Vitamin D3 + K2",
+    "display_name": "Vitamin D3 + K2",
+    "entity_type": "supplement",
+    "aliases": [
+      "vitamin D3 vitamin K2 supplementation"
+    ],
+    "components": [
+      "vitamin D3",
+      "vitamin K2"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 87,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "vitamin D3 vitamin K2 supplementation",
+    "relationship": "combination",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 5,
+      "estimated_30_day_users": 19905848,
+      "sample_participants": 464,
+      "matched_product_names": [
+        "21st century 600 d3 calcium and vitamin d3",
+        "21st century calcium citrate maximum d3 calcium and vitamin d3",
+        "21st century calcium citrate petites d3 calcium and vitamin d3",
+        "21st century liquid filled calcium 1200 mg per serving plus d3 10 mcg 400 iu calcium and vitamin d3",
+        "365 whole foods market cal mag zinc with vitamin d3 excellent source of calcium magnesium and zinc with vitamin d3",
+        "365 whole foods market calcium 600 with vitamin d3 10 mcg 400 iu vitamin d3 per tablet take 2 per day",
+        "adora calcium calcium 500 mg vitamin d3 500 iu mangesium 40 mg",
+        "adult vitamin d3 gummies up and up",
+        "ag d3 k2 vitamin d3 from cholecalciferol 1000iu per serving vitamin k2 from mk7 mk4 100 mcg per serving",
+        "algaecal plus ocean algae provides highly absorbable calcium magnesium and trace minerals boron vitamin d3 and k2 added",
+        "amazing nutrition amazing formulas calcium magnesium zinc vitamin d3",
+        "ancient nutrition ancient nutrients vitamin d vitamin k2 mk 7 ancient superfoods adaptogenic herbs whole food",
+        "andrew lessman procaps laboratories calcium intensive care gentle soluble bioavailable calcium vitamin d3 and boron",
+        "andrew lessman procaps laboratories coenzyme q 10 200 mg with vitamin d3 2000 complete b complex vitamin c 300 with methyl b12 and methyl folate",
+        "andrew lessman procaps laboratories essential 1 1000 iu vitamin d3 100 mcg methyl b12 1200 mcg biotin 400 mcg methyl folate lutein lycopene zeaxanthin ultra high potency one daily capsule",
+        "bariatric advantage calcium citrate chewy bite 500 mg calcium 500 iu vitamin d3 sugar free",
+        "bluebonnet earth sweet chewables calcium magnesium and vitamin d3",
+        "bluebonnet vitamin d3 and k2",
+        "bodyhealth multi complete complete multivitamin mineral and micronutrient blend with full spectrum antioxidant support includes liver support methylfolate chelated minerals co q10 vitamin k2 d3",
+        "bronson vitamin k triple play vitamin k1 and two forms of vitamin k2",
+        "bronson vitamin k2 d3 vitamin k2 as mk 7",
+        "calcium magnesium and zinc with vitamin d3 up and up",
+        "calcium vitamin d3 600 mg 20 mcg up and up",
+        "caltrate bone health calcium 600 d3 highest level of vitamin d3 calcium",
+        "caltrate bone health calcium soft chews 600 d3 bone strength highest level of vitamin d3"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 5
+    }
+  },
+  {
+    "entity_id": "supplement:zinc-carnosine",
+    "canonical_name": "Zinc Carnosine",
+    "display_name": "Zinc Carnosine",
+    "entity_type": "supplement",
+    "aliases": [
+      "zinc carnosine",
+      "polaprezinc"
+    ],
+    "components": [
+      "zinc carnosine"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 88,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "zinc carnosine OR polaprezinc",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:elderberry-extract",
+    "canonical_name": "Elderberry Extract",
+    "display_name": "Elderberry Extract",
+    "entity_type": "supplement",
+    "aliases": [
+      "elderberry extract",
+      "Sambucus nigra"
+    ],
+    "components": [
+      "elderberry extract"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 89,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "elderberry extract OR Sambucus nigra",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 31,
+      "estimated_30_day_users": 215154,
+      "sample_participants": 3,
+      "matched_product_names": [
+        "flintstones supplements elderberry gummies with immunity support from vitamin c zinc bayer made with elderberry extract",
+        "kore nutrition immune boost multi nutrient with vitamins c b6 d e and zinc includes probiotics with elderberry extract",
+        "nature s truth vitamins super concentrated sambucus black elderberry extract 4 250 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 31
+    }
+  },
+  {
+    "entity_id": "supplement:quercetin-bromelain",
+    "canonical_name": "Quercetin + Bromelain",
+    "display_name": "Quercetin + Bromelain",
+    "entity_type": "supplement",
+    "aliases": [
+      "quercetin bromelain"
+    ],
+    "components": [
+      "quercetin",
+      "bromelain"
+    ],
+    "category": "Immunity, Liver & Cellular Health",
+    "popularity_rank": 90,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "quercetin bromelain",
+    "relationship": "combination",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 19,
+      "estimated_30_day_users": 1129512,
+      "sample_participants": 26,
+      "matched_product_names": [
+        "amazing nutrition amazing formulas quercetin 500 mg",
+        "angry supplements turmeric and ginger maxx with bromelain and black pepper",
+        "don t worry z healthy z stack a dr zelenko vitamin zinc quercetin vitamin c vitamin d",
+        "forestleaf advanced allergy and immune complex quercetin bromelain stinging nettle",
+        "gflow vitamins quercetin with bromelain zinc vitamin c vitamin d3 stinging nettle",
+        "kal uric acid flush cleansing formula with tart cherry quercetin celery seed and more 2 daily",
+        "life extension senolytic activator advanced bio quercetin theaflavin apigenin bio fisetin formula",
+        "life extension vitamin c and bio quercetin phytosome",
+        "mrm nutrition quercetin",
+        "naturebell quercetin 1000 mg per serving",
+        "pure encapsulations quercetin",
+        "purity labs pure organic trans resveratrol enhanced with quercetin 1 500 mg per serving",
+        "quercetin 250 mg",
+        "quercetin 500 mg",
+        "solaray mega quercetin 600 mg",
+        "spartis zinc quercetin vitamin c d3 immune complex high potency",
+        "spring valley quercetin 500 mg per capsule with zinc 50 mg",
+        "swanson quercetin and bromelain advanced formula",
+        "the vitamin shoppe quercetin with bromelain",
+        "vitamin c complete with bioflavonoids and quercetin"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 19
+    }
+  },
+  {
+    "entity_id": "supplement:c15-0-pentadecanoic-acid",
+    "canonical_name": "C15:0 (Pentadecanoic Acid)",
+    "display_name": "C15:0 (Pentadecanoic Acid)",
+    "entity_type": "supplement",
+    "aliases": [
+      "C15:0",
+      "pentadecanoic acid"
+    ],
+    "components": [
+      "pentadecanoic acid"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 91,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "pentadecanoic acid OR C15:0",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 57,
+      "estimated_30_day_users": 63792,
+      "sample_participants": 1,
+      "matched_product_names": [
+        "fatty15 c15 0 fatty acid"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 57
+    }
+  },
+  {
+    "entity_id": "supplement:pqq-pyrroloquinoline-quinone",
+    "canonical_name": "PQQ (Pyrroloquinoline Quinone)",
+    "display_name": "PQQ (Pyrroloquinoline Quinone)",
+    "entity_type": "supplement",
+    "aliases": [
+      "PQQ",
+      "pyrroloquinoline quinone"
+    ],
+    "components": [
+      "pyrroloquinoline quinone"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 92,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "pyrroloquinoline quinone OR PQQ",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:ergothioneine",
+    "canonical_name": "Ergothioneine",
+    "display_name": "Ergothioneine",
+    "entity_type": "supplement",
+    "aliases": [
+      "ergothioneine supplementation"
+    ],
+    "components": [
+      "ergothioneine supplementation"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 93,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "ergothioneine supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:methylene-blue",
+    "canonical_name": "Methylene Blue",
+    "display_name": "Methylene Blue",
+    "entity_type": "supplement",
+    "aliases": [
+      "methylene blue oral"
+    ],
+    "components": [
+      "methylene blue"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 94,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "methylene blue oral",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:shilajit",
+    "canonical_name": "Shilajit",
+    "display_name": "Shilajit",
+    "entity_type": "supplement",
+    "aliases": [
+      "shilajit"
+    ],
+    "components": [
+      "shilajit"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 95,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "shilajit",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:tongkat-ali",
+    "canonical_name": "Tongkat Ali",
+    "display_name": "Tongkat Ali",
+    "entity_type": "supplement",
+    "aliases": [
+      "Eurycoma longifolia",
+      "tongkat ali"
+    ],
+    "components": [
+      "Eurycoma longifolia"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 96,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Eurycoma longifolia OR tongkat ali",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:fadogia-agrestis",
+    "canonical_name": "Fadogia Agrestis",
+    "display_name": "Fadogia Agrestis",
+    "entity_type": "supplement",
+    "aliases": [
+      "Fadogia agrestis"
+    ],
+    "components": [
+      "Fadogia agrestis"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 97,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Fadogia agrestis",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "supplement:turkey-tail-mushroom",
+    "canonical_name": "Turkey Tail Mushroom",
+    "display_name": "Turkey Tail Mushroom",
+    "entity_type": "supplement",
+    "aliases": [
+      "Trametes versicolor",
+      "turkey tail mushroom"
+    ],
+    "components": [
+      "Trametes versicolor"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 98,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Trametes versicolor OR turkey tail mushroom",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 39,
+      "estimated_30_day_users": 141283,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "default turkey tail mushroom mycelium powder",
+        "turkey tail mushroom 600 mg"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 39
+    }
+  },
+  {
+    "entity_id": "supplement:reishi-mushroom",
+    "canonical_name": "Reishi Mushroom",
+    "display_name": "Reishi Mushroom",
+    "entity_type": "supplement",
+    "aliases": [
+      "Ganoderma lucidum",
+      "reishi"
+    ],
+    "components": [
+      "Ganoderma lucidum"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 99,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Ganoderma lucidum OR reishi",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 51,
+      "estimated_30_day_users": 90201,
+      "sample_participants": 2,
+      "matched_product_names": [
+        "default reishi mushroom",
+        "freshcap mushroom extract capsules ultimate mushroom complex lion s mane turkey tail reishi cordyceps maitake chaga"
+      ],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "matched",
+      "nutrient_proxy_used": false,
+      "rank_among_matched_medguide_supplements": 51
+    }
+  },
+  {
+    "entity_id": "supplement:cordyceps-mushroom",
+    "canonical_name": "Cordyceps Mushroom",
+    "display_name": "Cordyceps Mushroom",
+    "entity_type": "supplement",
+    "aliases": [
+      "Cordyceps supplementation"
+    ],
+    "components": [
+      "Cordyceps supplementation"
+    ],
+    "category": "Emerging & Biohacking",
+    "popularity_rank": 100,
+    "popularity_source": "medguide_trends_2025_2026",
+    "evidence_query": "Cordyceps supplementation",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": null,
+      "estimated_30_day_users": 0,
+      "sample_participants": 0,
+      "matched_product_names": [],
+      "match_method": "normalized_product_name_phrase",
+      "match_status": "not_matched",
+      "nutrient_proxy_used": false
+    }
+  },
+  {
+    "entity_id": "ingredient:calcium",
+    "canonical_name": "calcium",
+    "display_name": "Calcium",
+    "entity_type": "supplement",
+    "aliases": [
+      "calcium supplement"
+    ],
+    "components": [
+      "calcium"
+    ],
+    "category": "Vitamin or mineral",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "calcium OR calcium supplement",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 2,
+      "estimated_30_day_users": 113355299,
+      "sample_participants": 2428,
+      "matched_product_names": [
+        "21st century 600 d3 calcium and vitamin d3",
+        "21st century calcium citrate maximum d3 calcium and vitamin d3",
+        "21st century calcium citrate petites d3 calcium and vitamin d3",
+        "21st century calcium magnesium zinc d3 mineral",
+        "21st century liquid filled calcium 1200 mg per serving plus d3 10 mcg 400 iu calcium and vitamin d3",
+        "365 whole foods market cal mag zinc with vitamin d3 excellent source of calcium magnesium and zinc with vitamin d3",
+        "365 whole foods market calcium 600 with vitamin d3 10 mcg 400 iu vitamin d3 per tablet take 2 per day",
+        "adora calcium calcium 500 mg vitamin d3 500 iu mangesium 40 mg",
+        "adult calcium gummies 500 mg per serving vitamin d up and up",
+        "algaecal plus ocean algae provides highly absorbable calcium magnesium and trace minerals boron vitamin d3 and k2 added",
+        "alka seltzer extra strength heartburn reliefchews calcium carbonate antacid bayer",
+        "alka seltzer heartburn gas reliefchews calcium carbonate antacid simethicone antigas bayer",
+        "allergy research group buffered vitamin c with calcium and magnesium",
+        "amazing nutrition amazing formulas calcium magnesium zinc vitamin d3",
+        "anabolic laboratories cal m calcium magnesium with vitamins in a special formulation",
+        "andrew lessman procaps laboratories calcium intensive care gentle soluble bioavailable calcium vitamin d3 and boron",
+        "assured regular strength antacid calcium carbonate 500 mg antacid rich calcium source",
+        "bariatric advantage calcium citrate chewy bite 500 mg calcium 500 iu vitamin d3 sugar free",
+        "bluebonnet earth sweet chewables calcium magnesium and vitamin d3",
+        "bob s best coral calcium 2000 mg of coral calcium 74 trace minerals 100 pure high grade smp 44 marine coral calcium from the okinawa prefecture formulated by bob barefoot endorsed by bob barefoot",
+        "bodybio calcium magnesium butyrate a short chain fatty acid",
+        "calcium 1000 mg vitamin d 300 iu",
+        "calcium 1200 mg",
+        "calcium 150 mg",
+        "calcium 175 mg"
+      ],
+      "match_method": "product_name_or_positive_DSQICALC",
+      "match_status": "matched",
+      "nutrient_proxy_used": true,
+      "rank_among_matched_medguide_supplements": 2
+    }
+  },
+  {
+    "entity_id": "ingredient:iron",
+    "canonical_name": "iron",
+    "display_name": "Iron",
+    "entity_type": "supplement",
+    "aliases": [
+      "ferrous sulfate",
+      "iron supplement"
+    ],
+    "components": [
+      "iron"
+    ],
+    "category": "Vitamin or mineral",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "iron OR ferrous sulfate OR iron supplement",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 4,
+      "estimated_30_day_users": 48370359,
+      "sample_participants": 1052,
+      "matched_product_names": [],
+      "match_method": "product_name_or_positive_DSQIIRON",
+      "match_status": "matched",
+      "nutrient_proxy_used": true,
+      "rank_among_matched_medguide_supplements": 4
+    }
+  },
+  {
+    "entity_id": "ingredient:magnesium",
+    "canonical_name": "magnesium",
+    "display_name": "Magnesium",
+    "entity_type": "supplement",
+    "aliases": [
+      "magnesium supplement"
+    ],
+    "components": [
+      "magnesium"
+    ],
+    "category": "Vitamin or mineral",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "magnesium OR magnesium supplement",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 3,
+      "estimated_30_day_users": 72862019,
+      "sample_participants": 1618,
+      "matched_product_names": [
+        "21st century calcium magnesium zinc d3 mineral",
+        "21st century magnesium 250 mg mineral",
+        "365 whole foods market cal mag zinc with vitamin d3 excellent source of calcium magnesium and zinc with vitamin d3",
+        "365 whole foods market men s multivitamin iron free once daily vitamins minerals with magnesium and vitamins d and b6 with saw palmetto and lycopene with greens spirulina and digestive enzymes multivitamin",
+        "algaecal plus ocean algae provides highly absorbable calcium magnesium and trace minerals boron vitamin d3 and k2 added",
+        "allergy research group buffered vitamin c with calcium and magnesium",
+        "amazing nutrition amazing formulas calcium magnesium zinc vitamin d3",
+        "anabolic laboratories cal m calcium magnesium with vitamins in a special formulation",
+        "bioptimizers magnesium breakthrough premium magnesium complex version 4 0",
+        "bluebonnet earth sweet chewables calcium magnesium and vitamin d3",
+        "bodybio calcium magnesium butyrate a short chain fatty acid",
+        "calcium 333 mg magnesium 133 mg",
+        "calcium 600 mg magnesium 500 mg vitamin d 40 mcg",
+        "calcium d from milk with vitamin d mineral complex including magnesium immunotec",
+        "calcium magnesium and zinc with vitamin d3 up and up",
+        "caltrate bone health advanced calcium 600 d3 plus minerals 2 in 1 dual action includes magnesium and zinc calcium",
+        "caltrate bone health advanced calcium chewables 600 d3 plus minerals 2 in 1 dual action includes magnesium and zinc calcium",
+        "chewable magnesium 400 mg per serving up and up",
+        "childlife essentials liquid calcium with magnesium",
+        "country life target mins calcium magnesium complex 1 000 mg 500 mg only 2 tablets per day",
+        "country life target mins calcium magnesium potassium 500 mg 500 mg 99 mg only 2 tablets per day",
+        "cvs health dual action complete acid reducer plus antacid famotidine 10 mg calcium carbonate 800 mg magnesium hydroxide 165 mg tablets chewable acid reducer plus antacid just one tablet",
+        "default antacid aluminum and magnesium",
+        "default antacid calcium and magnesium",
+        "default calcium and magnesium"
+      ],
+      "match_method": "product_name_or_positive_DSQIMAGN",
+      "match_status": "matched",
+      "nutrient_proxy_used": true,
+      "rank_among_matched_medguide_supplements": 3
+    }
+  },
+  {
+    "entity_id": "ingredient:vitamin-d",
+    "canonical_name": "vitamin d",
+    "display_name": "Vitamin D",
+    "entity_type": "supplement",
+    "aliases": [
+      "cholecalciferol",
+      "ergocalciferol"
+    ],
+    "components": [
+      "vitamin d"
+    ],
+    "category": "Vitamin or mineral",
+    "popularity_rank": null,
+    "popularity_source": "interaction_pilot",
+    "evidence_query": "vitamin d OR cholecalciferol OR ergocalciferol",
+    "official_popularity": {
+      "source": "NHANES August 2021-August 2023 DSQIDS_L",
+      "source_url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2021/DataFiles/DSQIDS_L.htm",
+      "rank": 1,
+      "estimated_30_day_users": 136980307,
+      "sample_participants": 3017,
+      "matched_product_names": [
+        "adult calcium gummies 500 mg per serving vitamin d up and up",
+        "ag d3 k2 vitamin d3 from cholecalciferol 1000iu per serving vitamin k2 from mk7 mk4 100 mcg per serving",
+        "airborne immune support vitamin d crafted blend vitamin d vitamin c and zinc gummies",
+        "ancient nutrition ancient nutrients vitamin d vitamin k2 mk 7 ancient superfoods adaptogenic herbs whole food",
+        "barlean s seriously delicious omega 3 from fish oil omega 3 epa dha 1 080 mg vitamin d sugar free",
+        "bausch lomb ocuvite adult 50 now with vitamin d antioxidant lutein zeaxanthin omega 3 mini soft gels",
+        "calcium 1000 mg vitamin d 300 iu",
+        "calcium 200 mg vitamin d 6 25 mcg",
+        "calcium 315 mg vitamin d 6 25 mcg",
+        "calcium 500 mg vitamin d 200 iu",
+        "calcium 600 mg magnesium 500 mg vitamin d 40 mcg",
+        "calcium 600 mg vitamin d 10 mcg",
+        "calcium 600 mg vitamin d 20 mcg",
+        "calcium 600 mg vitamin d 3 mcg",
+        "calcium 600 mg vitamin d 400 iu",
+        "calcium 600 mg vitamin d 5 mcg",
+        "calcium 600 mg vitamin d 500 iu",
+        "calcium 600 mg vitamin d 800 iu",
+        "calcium d from milk with vitamin d mineral complex including magnesium immunotec",
+        "coracue baby and kids immune support multivitamin for infants and toddlers essential immune supporting ingredients aspalathin zinc vitamin d and iron",
+        "cvs health calcium 500 mg with vitamin d 3 25 mcg per serving",
+        "cvs health calcium and vitamin d3 gummies 500 mg calcium 25 mcg vitamin d 3",
+        "cvs health calcium soft chews calcium 650 mg vitamin d vitamin k",
+        "cvs health oyster shell calcium 500 mg with vitamin d",
+        "default calcium 1200 mg with vitamin d"
+      ],
+      "match_method": "product_name_or_positive_DSQIVD",
+      "match_status": "matched",
+      "nutrient_proxy_used": true,
+      "rank_among_matched_medguide_supplements": 1
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "run_id": "ba3bc75a9a4e8b37",
+  "status": "offline_fixture_engineering_only",
+  "code_version": "workspace_without_git",
+  "corpus_hash": "b892c91da6d13905f8737dfedca354faed2f1ac278d525ff7a9d8a51ddcef3ab",
+  "benchmark_hash": "c8c60ba0046bfb2afe238289ccb0a2f0c2a90f654f9d4e874ac5edfc915cf147",
+  "embedding_model": "fixed-hash-token-v1",
+  "embedding_revision": "1",
+  "device": "cpu",
+  "chunk_config": {"target_text_tokens": 480, "overlap_tokens": 64, "max_complete_embedding_input_tokens": 512, "silent_truncation": false},
+  "retrieval_config": {"dense_k": 20, "bm25_k": 20, "rrf_k": 60, "rerank_k": 20, "context_top_k": 5},
+  "provider_runs": {"nebius": "not_run_missing_credentials", "cuda": "not_run"},
+  "created_at": "2026-10-26T17:44:28.907555+00:00"
+}
+

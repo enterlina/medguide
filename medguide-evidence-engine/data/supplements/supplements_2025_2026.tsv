@@ -1,0 +1,101 @@
+rank	category	name	promoted_for	search_term
+1	Longevity & Anti-Aging	NMN (Nicotinamide Mononucleotide)	NAD+ and cellular aging	nicotinamide mononucleotide
+2	Longevity & Anti-Aging	NR (Nicotinamide Riboside)	NAD+ support	nicotinamide riboside
+3	Longevity & Anti-Aging	NAD+	Cellular energy and longevity	nicotinamide adenine dinucleotide
+4	Longevity & Anti-Aging	Spermidine	Autophagy and healthy aging	spermidine
+5	Longevity & Anti-Aging	Urolithin A	Mitochondria and muscle	urolithin A
+6	Longevity & Anti-Aging	Ca-AKG (Calcium Alpha-Ketoglutarate)	Metabolism and longevity	calcium alpha-ketoglutarate
+7	Longevity & Anti-Aging	Fisetin	Cellular aging	fisetin
+8	Longevity & Anti-Aging	Quercetin	Antioxidant and senolytic hypotheses	quercetin
+9	Longevity & Anti-Aging	Resveratrol	Cellular aging	resveratrol
+10	Longevity & Anti-Aging	Taurine	Metabolism and cellular health	taurine supplementation
+11	Brain Health & Nootropics	Lion's Mane Mushroom	Memory and neuroplasticity	Hericium erinaceus
+12	Brain Health & Nootropics	L-Theanine	Calm and concentration	L-theanine
+13	Brain Health & Nootropics	Citicoline (CDP-Choline)	Cognitive function	citicoline OR CDP-choline
+14	Brain Health & Nootropics	Alpha-GPC	Memory and concentration	alpha-glycerophosphocholine OR alpha-GPC
+15	Brain Health & Nootropics	Bacopa Monnieri	Memory and learning	Bacopa monnieri
+16	Brain Health & Nootropics	Rhodiola Rosea	Stress and fatigue	Rhodiola rosea
+17	Brain Health & Nootropics	Phosphatidylserine	Cognitive health	phosphatidylserine supplementation
+18	Brain Health & Nootropics	Acetyl-L-Carnitine (ALCAR)	Cellular energy and brain	acetyl-L-carnitine OR ALCAR
+19	Brain Health & Nootropics	L-Tyrosine	Concentration under stress	L-tyrosine supplementation
+20	Brain Health & Nootropics	Saffron Extract	Mood and emotional health	saffron extract OR Crocus sativus
+21	Sleep, Stress & Mood	Magnesium Glycinate	Sleep and relaxation	magnesium glycinate OR magnesium bisglycinate
+22	Sleep, Stress & Mood	Magnesium L-Threonate	Sleep and cognition	magnesium L-threonate
+23	Sleep, Stress & Mood	Ashwagandha (KSM-66)	Stress and cortisol	ashwagandha OR Withania somnifera OR KSM-66
+24	Sleep, Stress & Mood	Apigenin	Sleep	apigenin supplementation
+25	Sleep, Stress & Mood	Glycine	Sleep quality	glycine supplementation sleep
+26	Sleep, Stress & Mood	GABA	Relaxation	gamma-aminobutyric acid supplementation
+27	Sleep, Stress & Mood	Lemon Balm Extract	Stress and sleep	lemon balm OR Melissa officinalis
+28	Sleep, Stress & Mood	Tart Cherry Extract	Sleep and recovery	tart cherry OR Prunus cerasus
+29	Sleep, Stress & Mood	Inositol	Mood and metabolism	inositol supplementation
+30	Sleep, Stress & Mood	Melatonin	Sleep timing	melatonin
+31	Gut Health & Microbiome	Akkermansia muciniphila	Microbiome and metabolism	Akkermansia muciniphila
+32	Gut Health & Microbiome	Clostridium butyricum	Gut microbiome	Clostridium butyricum
+33	Gut Health & Microbiome	Lactobacillus reuteri	Gut health	Lactobacillus reuteri
+34	Gut Health & Microbiome	Bifidobacterium longum	Digestion and gut-brain axis	Bifidobacterium longum
+35	Gut Health & Microbiome	Saccharomyces boulardii	Diarrhea and digestion	Saccharomyces boulardii
+36	Gut Health & Microbiome	Bovine Colostrum	Gut barrier and immunity	bovine colostrum
+37	Gut Health & Microbiome	Postbiotics	Microbiome support	postbiotic OR postbiotics
+38	Gut Health & Microbiome	Butyrate / Tributyrin	Gut barrier	butyrate supplementation OR tributyrin
+39	Gut Health & Microbiome	PHGG (Partially Hydrolyzed Guar Gum)	Fiber and digestion	partially hydrolyzed guar gum OR PHGG
+40	Gut Health & Microbiome	Psyllium Husk	Fiber and regularity	psyllium husk
+41	Metabolism & GLP-1	Berberine	Glucose and metabolism	berberine
+42	Metabolism & GLP-1	Dihydroberberine	Alternative berberine form	dihydroberberine
+43	Metabolism & GLP-1	Chromium Picolinate	Glucose metabolism	chromium picolinate
+44	Metabolism & GLP-1	Alpha-Lipoic Acid	Metabolic markers	alpha-lipoic acid supplementation
+45	Metabolism & GLP-1	Myo-Inositol	Insulin resistance and PCOS	myo-inositol
+46	Metabolism & GLP-1	D-Chiro-Inositol	Metabolic health	D-chiro-inositol
+47	Metabolism & GLP-1	White Mulberry Leaf Extract	Post-meal glucose	white mulberry leaf OR Morus alba extract
+48	Metabolism & GLP-1	Apple Cider Vinegar Gummies	Weight control and digestion	apple cider vinegar gummies
+49	Metabolism & GLP-1	Green Tea EGCG Extract	Metabolism	green tea extract OR EGCG
+50	Metabolism & GLP-1	Glucomannan	Satiety and fiber	glucomannan supplementation
+51	Fitness, Muscle & Recovery	Creatine Monohydrate	Strength and performance	creatine monohydrate
+52	Fitness, Muscle & Recovery	Creatine Gummies	Convenient creatine form	creatine gummies
+53	Fitness, Muscle & Recovery	Whey Protein Isolate	Protein and recovery	whey protein isolate
+54	Fitness, Muscle & Recovery	Clear Whey Protein	Protein drink	clear whey protein
+55	Fitness, Muscle & Recovery	Essential Amino Acids (EAA)	Amino acid provision	essential amino acid supplementation
+56	Fitness, Muscle & Recovery	HMB	Muscle preservation	beta-hydroxy-beta-methylbutyrate OR HMB supplementation
+57	Fitness, Muscle & Recovery	Beta-Alanine	High-intensity exercise	beta-alanine supplementation
+58	Fitness, Muscle & Recovery	L-Citrulline	Exercise performance	L-citrulline supplementation
+59	Fitness, Muscle & Recovery	Beetroot Nitrates	Endurance	beetroot nitrate supplementation
+60	Fitness, Muscle & Recovery	Electrolyte Powders	Hydration	electrolyte supplementation hydration
+61	Beauty From Within	Collagen Peptides	Skin and joints	collagen peptides supplementation
+62	Beauty From Within	Marine Collagen	Skin and hair	marine collagen supplementation
+63	Beauty From Within	Hyaluronic Acid (oral)	Skin hydration	oral hyaluronic acid
+64	Beauty From Within	Ceramide Supplements	Skin barrier	oral ceramide supplementation
+65	Beauty From Within	Astaxanthin	Skin antioxidant support	astaxanthin supplementation
+66	Beauty From Within	Glutathione (oral)	Antioxidant and skin tone	oral glutathione
+67	Beauty From Within	Liposomal Glutathione	Alternative glutathione form	liposomal glutathione
+68	Beauty From Within	MSM	Joints and skin	methylsulfonylmethane OR MSM supplementation
+69	Beauty From Within	Biotin Gummies	Hair and nails	biotin gummies
+70	Beauty From Within	Silica Supplements	Hair and nails	silica supplementation hair nails
+71	Women's Health & Hormones	DIM (Diindolylmethane)	Estrogen metabolism	diindolylmethane OR DIM supplementation
+72	Women's Health & Hormones	Vitex Agnus-Castus	PMS symptoms	Vitex agnus-castus
+73	Women's Health & Hormones	Maca Root	Libido and energy	maca OR Lepidium meyenii
+74	Women's Health & Hormones	Shatavari	Women's health	Asparagus racemosus OR shatavari
+75	Women's Health & Hormones	D-Mannose	Urinary tract health	D-mannose
+76	Women's Health & Hormones	Cranberry PACs	Recurrent UTI prevention	cranberry proanthocyanidins OR cranberry PACs
+77	Women's Health & Hormones	Lactoferrin	Immunity and iron metabolism	lactoferrin supplementation
+78	Women's Health & Hormones	Methylfolate (5-MTHF)	Folate status	methylfolate OR 5-MTHF
+79	Women's Health & Hormones	Choline	Pregnancy nutrition and brain	choline supplementation
+80	Women's Health & Hormones	Menopause Probiotic Blends	Menopause symptoms and microbiome	probiotic menopause
+81	Immunity, Liver & Cellular Health	NAC (N-Acetylcysteine)	Glutathione and antioxidant defense	N-acetylcysteine OR NAC supplementation
+82	Immunity, Liver & Cellular Health	Milk Thistle (Silymarin)	Liver health	milk thistle OR silymarin
+83	Immunity, Liver & Cellular Health	TUDCA	Liver and bile acids	tauroursodeoxycholic acid OR TUDCA
+84	Immunity, Liver & Cellular Health	Black Seed Oil	Inflammation and immunity	black seed oil OR Nigella sativa
+85	Immunity, Liver & Cellular Health	Curcumin Phytosome	Inflammation	curcumin phytosome
+86	Immunity, Liver & Cellular Health	Boswellia Serrata	Joints and inflammation	Boswellia serrata
+87	Immunity, Liver & Cellular Health	Vitamin D3 + K2	Bones and vitamin status	vitamin D3 vitamin K2 supplementation
+88	Immunity, Liver & Cellular Health	Zinc Carnosine	Gastric mucosa	zinc carnosine OR polaprezinc
+89	Immunity, Liver & Cellular Health	Elderberry Extract	Immune support	elderberry extract OR Sambucus nigra
+90	Immunity, Liver & Cellular Health	Quercetin + Bromelain	Combined antioxidant formula	quercetin bromelain
+91	Emerging & Biohacking	C15:0 (Pentadecanoic Acid)	Cellular health and longevity	pentadecanoic acid OR C15:0
+92	Emerging & Biohacking	PQQ (Pyrroloquinoline Quinone)	Mitochondrial function	pyrroloquinoline quinone OR PQQ
+93	Emerging & Biohacking	Ergothioneine	Antioxidant defense	ergothioneine supplementation
+94	Emerging & Biohacking	Methylene Blue	Mitochondria and cognition	methylene blue oral
+95	Emerging & Biohacking	Shilajit	Energy and men's health	shilajit
+96	Emerging & Biohacking	Tongkat Ali	Testosterone and libido	Eurycoma longifolia OR tongkat ali
+97	Emerging & Biohacking	Fadogia Agrestis	Testosterone	Fadogia agrestis
+98	Emerging & Biohacking	Turkey Tail Mushroom	Immune function	Trametes versicolor OR turkey tail mushroom
+99	Emerging & Biohacking	Reishi Mushroom	Stress and immunity	Ganoderma lucidum OR reishi
+100	Emerging & Biohacking	Cordyceps Mushroom	Energy and exercise	Cordyceps supplementation

@@ -1,0 +1,2229 @@
+{
+  "fixture_version": "interaction_gold_v1",
+  "source_checked_on": "2026-10-29",
+  "notice": "Curated regression data; review_required rows are not clinical ground truth.",
+  "resolver_inventory": [
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "acetaminophen"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "ibuprofen"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "naproxen"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "aspirin"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "diclofenac"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "celecoxib"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "meloxicam"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "tramadol"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "oxycodone"
+    },
+    {
+      "group": "C01",
+      "category": "pain",
+      "name": "gabapentin"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "warfarin"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "apixaban"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "rivaroxaban"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "clopidogrel"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "lisinopril"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "losartan"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "spironolactone"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "hydrochlorothiazide"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "amlodipine"
+    },
+    {
+      "group": "C02",
+      "category": "cardiovascular",
+      "name": "metoprolol"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "atorvastatin"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "simvastatin"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "rosuvastatin"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "metformin"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "glipizide"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "insulin glargine"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "semaglutide"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "empagliflozin"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "levothyroxine"
+    },
+    {
+      "group": "C03",
+      "category": "lipid/metabolic",
+      "name": "prednisone"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "sertraline"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "fluoxetine"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "escitalopram"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "citalopram"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "duloxetine"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "venlafaxine"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "bupropion"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "trazodone"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "alprazolam"
+    },
+    {
+      "group": "C04",
+      "category": "mental health",
+      "name": "zolpidem"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "amoxicillin"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "amoxicillin/clavulanate"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "azithromycin"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "clarithromycin"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "doxycycline"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "ciprofloxacin"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "levofloxacin"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "metronidazole"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "fluconazole"
+    },
+    {
+      "group": "C05",
+      "category": "infection",
+      "name": "trimethoprim/sulfamethoxazole"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "omeprazole"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "pantoprazole"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "famotidine"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "calcium carbonate (antacid)"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "magnesium hydroxide (antacid)"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "alendronate"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "ferrous sulfate"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "oral contraceptive ethinyl estradiol/levonorgestrel"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "sildenafil"
+    },
+    {
+      "group": "C06",
+      "category": "GI/other",
+      "name": "tamsulosin"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "vitamin D3"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "vitamin K1"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "vitamin K2"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "vitamin C"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "vitamin B12"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "folic acid"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "calcium citrate"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "magnesium glycinate"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "zinc gluconate"
+    },
+    {
+      "group": "S01",
+      "category": "vitamins/minerals",
+      "name": "iron bisglycinate"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "multivitamin"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "omega-3 fish oil"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "CoQ10"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "creatine monohydrate"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "whey protein"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "collagen peptides"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "melatonin"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "probiotic"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "psyllium fiber"
+    },
+    {
+      "group": "S02",
+      "category": "popular supplements",
+      "name": "biotin"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "St. John's wort"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "ginkgo biloba"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "garlic extract"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "turmeric/curcumin"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "ginger extract"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "ginseng"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "ashwagandha"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "green tea extract"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "valerian"
+    },
+    {
+      "group": "S03",
+      "category": "botanicals",
+      "name": "kava"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "glucosamine"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "chondroitin"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "glucosamine/chondroitin combination"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "berberine"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "red yeast rice"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "niacin"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "potassium chloride supplement"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "potassium-containing salt substitute"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "calcium + vitamin D combination"
+    },
+    {
+      "group": "S04",
+      "category": "other",
+      "name": "magnesium + zinc combination"
+    }
+  ],
+  "cases": [
+    {
+      "id": "MG001",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "ibuprofen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + ibuprofen"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Increased bleeding risk; highlight important interaction, seek clinician advice, not merely separate by hours",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG002",
+      "inputs": [
+        {
+          "name": "apixaban",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "naproxen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "apixaban + naproxen"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Increased bleeding risk; avoid suggesting time spacing eliminates risk",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG003",
+      "inputs": [
+        {
+          "name": "aspirin low-dose",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "ibuprofen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "aspirin low-dose + ibuprofen"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Bleeding/GI concern; ibuprofen can interfere with aspirin's antiplatelet effect; dose/timing-dependent",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG004",
+      "inputs": [
+        {
+          "name": "sertraline",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "tramadol",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "sertraline + tramadol"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Serotonin syndrome risk; clinical assessment",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG005",
+      "inputs": [
+        {
+          "name": "fluoxetine",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "tramadol",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "fluoxetine + tramadol"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Serotonin syndrome and seizure risk; clinical assessment",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG006",
+      "inputs": [
+        {
+          "name": "alprazolam",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "oxycodone",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "alprazolam + oxycodone"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Additive CNS/respiratory depression risk; high-priority warning",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG007",
+      "inputs": [
+        {
+          "name": "lisinopril",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "spironolactone",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "lisinopril + spironolactone"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Hyperkalemia risk, especially renal impairment; monitoring",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [
+        "especially renal impairment"
+      ],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG008",
+      "inputs": [
+        {
+          "name": "lisinopril",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "potassium chloride",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "lisinopril + potassium chloride"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Hyperkalemia risk; lab monitoring, not merely timing",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG009",
+      "inputs": [
+        {
+          "name": "simvastatin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "clarithromycin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "simvastatin + clarithromycin"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Strong CYP3A4 interaction/myopathy risk; identify label restriction",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=9f89e53e-a8fb-4ba7-a26d-21a962abcb1b&type=display",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG010",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "trimethoprim/sulfamethoxazole",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + trimethoprim/sulfamethoxazole"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "INR/bleeding interaction; clinical monitoring",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG011",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "metronidazole",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + metronidazole"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "INR/bleeding interaction; clinical monitoring",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG012",
+      "inputs": [
+        {
+          "name": "sildenafil",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "nitrate",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "sildenafil + nitrate (nitroglycerin as additional resolver entity)"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Serious hypotension; contraindicated combination",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG013",
+      "inputs": [
+        {
+          "name": "metformin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "glipizide",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "metformin + glipizide"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Do not flag as prohibited simply because both treat diabetes; monitor hypoglycemia mainly due to sulfonylurea",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG014",
+      "inputs": [
+        {
+          "name": "losartan",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "ibuprofen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "losartan + ibuprofen"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "Potential kidney/BP effects, especially dehydration/CKD",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [
+        "especially dehydration/CKD"
+      ],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG015",
+      "inputs": [
+        {
+          "name": "escitalopram",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "azithromycin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "escitalopram + azithromycin"
+      },
+      "interaction_type": "drug_drug",
+      "must_detect": true,
+      "expected_effect": "QT-risk context; dose and other risk factors matter",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG016",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "vitamin K1",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + vitamin K1"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "May reduce anticoagulant effect; emphasize consistent intake and INR monitoring, not blanket avoidance of vegetables",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [
+        "consistent intake"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG017",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "spinach/kale",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + spinach/kale"
+      },
+      "interaction_type": "drug_food",
+      "must_detect": true,
+      "expected_effect": "Vitamin K intake consistency; do not demand elimination of greens",
+      "expected_action_category": "food_instruction",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://health.ucsd.edu/for-health-care-professionals/anticoagulation-guidelines/warfarin/supplement-interactions/",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG018",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "St. John's wort",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + St. John's wort"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "May reduce warfarin effect; interaction can change on starting/stopping herb",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://health.ucsd.edu/for-health-care-professionals/anticoagulation-guidelines/warfarin/supplement-interactions/",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG019",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "CoQ10",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + CoQ10"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Possible reduced anticoagulant activity / variable evidence; monitor INR",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://health.ucsd.edu/for-health-care-professionals/anticoagulation-guidelines/warfarin/supplement-interactions/",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG020",
+      "inputs": [
+        {
+          "name": "sertraline",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "St. John's wort",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "sertraline + St. John's wort"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Serotonergic interaction, serious toxicity possible; do not call supplement harmless",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://www.nccih.nih.gov/health/providers/digest/how-medications-and-supplements-can-interact-science",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG021",
+      "inputs": [
+        {
+          "name": "oral contraceptive",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "St. John's wort",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "oral contraceptive + St. John's wort"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Reduced hormonal contraception effectiveness; counseling",
+      "expected_action_category": "consult_or_monitor",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://www.nccih.nih.gov/health/providers/digest/how-medications-and-supplements-can-interact-science",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG022",
+      "inputs": [
+        {
+          "name": "simvastatin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "red yeast rice",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "simvastatin + red yeast rice"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Potential additive statin-like exposure/myopathy; product content variable",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG023",
+      "inputs": [
+        {
+          "name": "atorvastatin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "high-dose niacin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "atorvastatin + high-dose niacin"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Muscle/liver adverse-effect concerns, dose dependent",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [
+        "dose dependent"
+      ],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG024",
+      "inputs": [
+        {
+          "name": "warfarin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "ginkgo",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "warfarin + ginkgo"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Bleeding concern; strength and product variability require evidence caveat",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG025",
+      "inputs": [
+        {
+          "name": "apixaban",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "fish oil",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "apixaban + fish oil"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Do not label universally contraindicated; assess dose and uncertain clinical relevance",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG026",
+      "inputs": [
+        {
+          "name": "metformin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "berberine",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "metformin + berberine"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Potential additive glucose-lowering and uncertain supplement exposure; avoid definitive dose adjustment",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG027",
+      "inputs": [
+        {
+          "name": "levothyroxine",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "calcium carbonate",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "levothyroxine + calcium carbonate"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Reduced absorption; separate at least 4 h (formulation-specific labeling)",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "at least 4 h"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=237cc591-c40b-416f-ac00-96cd61bc59dc",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG028",
+      "inputs": [
+        {
+          "name": "levothyroxine",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "ferrous sulfate",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "levothyroxine + ferrous sulfate"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Reduced absorption; separate at least 4 h",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "at least 4 h"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=237cc591-c40b-416f-ac00-96cd61bc59dc",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG029",
+      "inputs": [
+        {
+          "name": "levothyroxine",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "calcium + vitamin D",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "levothyroxine + calcium + vitamin D"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Detect calcium active component and separate; do not blame vitamin D itself",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=237cc591-c40b-416f-ac00-96cd61bc59dc",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG030",
+      "inputs": [
+        {
+          "name": "levothyroxine",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "multivitamin with iron",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "levothyroxine + multivitamin with iron"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Parse ingredient list; iron separation; if content unknown request label",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=237cc591-c40b-416f-ac00-96cd61bc59dc",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG031",
+      "inputs": [
+        {
+          "name": "ciprofloxacin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "zinc supplement",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "ciprofloxacin + zinc supplement"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Chelation/reduced absorption; label-specific spacing ciprofloxacin ≥2 h before or ≥6 h after mineral",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "≥2 h",
+        "2 h before",
+        "6 h after"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG032",
+      "inputs": [
+        {
+          "name": "ciprofloxacin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "magnesium antacid",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "ciprofloxacin + magnesium antacid"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Same chelation issue; route/form matters",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG033",
+      "inputs": [
+        {
+          "name": "doxycycline",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "iron",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "doxycycline + iron"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Reduced absorption; source-specific spacing iron ≥3 h before or ≥2 h after doxycycline",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "≥3 h",
+        "3 h before",
+        "2 h after"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://www.medlineplus.gov/druginfo/meds/a682063.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG034",
+      "inputs": [
+        {
+          "name": "doxycycline",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "calcium supplement",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "doxycycline + calcium supplement"
+      },
+      "interaction_type": "drug_supplement",
+      "must_detect": true,
+      "expected_effect": "Reduced absorption; MedlinePlus describes 1–2 h before/after doxycycline for calcium",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "2 h before"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://www.medlineplus.gov/druginfo/meds/a682063.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG035",
+      "inputs": [
+        {
+          "name": "simvastatin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "grapefruit juice",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "simvastatin + grapefruit juice"
+      },
+      "interaction_type": "drug_food",
+      "must_detect": true,
+      "expected_effect": "Grapefruit affects simvastatin exposure; drug-specific warning (not all statins uniformly)",
+      "expected_action_category": "food_instruction",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=9f89e53e-a8fb-4ba7-a26d-21a962abcb1b&type=display",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG036",
+      "inputs": [
+        {
+          "name": "atorvastatin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "grapefruit",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "atorvastatin + grapefruit"
+      },
+      "interaction_type": "drug_food",
+      "must_detect": true,
+      "expected_effect": "Potential interaction, amount dependent; do not automatically copy simvastatin contraindication",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG037",
+      "inputs": [
+        {
+          "name": "rosuvastatin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "grapefruit",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "rosuvastatin + grapefruit"
+      },
+      "interaction_type": "drug_food",
+      "must_detect": true,
+      "expected_effect": "Negative control: do not extrapolate simvastatin grapefruit effect to all statins",
+      "expected_action_category": "food_instruction",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG038",
+      "inputs": [
+        {
+          "name": "ciprofloxacin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "milk alone",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "ciprofloxacin + milk alone"
+      },
+      "interaction_type": "drug_food",
+      "must_detect": true,
+      "expected_effect": "Do not take with dairy alone; reduced absorption",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG039",
+      "inputs": [
+        {
+          "name": "ciprofloxacin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "mixed meal containing dairy",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "ciprofloxacin + mixed meal containing dairy"
+      },
+      "interaction_type": "drug_food",
+      "must_detect": true,
+      "expected_effect": "Important contrast: ordinary meal containing dairy is allowed per MedlinePlus; do not assert all dairy meals prohibited",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG040",
+      "inputs": [
+        {
+          "name": "alendronate tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "coffee/orange juice",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "alendronate tablet + coffee/orange juice"
+      },
+      "interaction_type": "drug_food",
+      "must_detect": true,
+      "expected_effect": "Take with plain water only, morning fasting; avoid these beverages with dose",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a601011.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG041",
+      "inputs": [
+        {
+          "name": "alendronate tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "breakfast",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "alendronate tablet + breakfast at +10 min"
+      },
+      "interaction_type": "drug_timing",
+      "must_detect": true,
+      "expected_effect": "At least 30 min before food/other medication and remain upright; fail +10 min schedule",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "remain upright"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a601011.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG042",
+      "inputs": [
+        {
+          "name": "alendronate tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "lying down",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "alendronate tablet + lying down after +10 min"
+      },
+      "interaction_type": "drug_timing",
+      "must_detect": true,
+      "expected_effect": "Must remain upright at least 30 min; important esophageal-injury warning",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "remain upright"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a601011.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG043",
+      "inputs": [
+        {
+          "name": "levothyroxine tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "breakfast",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "levothyroxine tablet + breakfast at +10 min"
+      },
+      "interaction_type": "drug_timing",
+      "must_detect": true,
+      "expected_effect": "Usually 30–60 min before breakfast on empty stomach; flag schedule",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "30–60 min"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=237cc591-c40b-416f-ac00-96cd61bc59dc",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG044",
+      "inputs": [
+        {
+          "name": "levothyroxine tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "calcium",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "levothyroxine tablet + calcium at +1 h"
+      },
+      "interaction_type": "drug_timing",
+      "must_detect": true,
+      "expected_effect": "Flag spacing below 4 h; propose non-conflicting window only if scheduler supports it",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=237cc591-c40b-416f-ac00-96cd61bc59dc",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG045",
+      "inputs": [
+        {
+          "name": "ciprofloxacin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "zinc",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "ciprofloxacin at 08:00 + zinc at 09:00"
+      },
+      "interaction_type": "drug_timing",
+      "must_detect": true,
+      "expected_effect": "Flag; 08:00 antibiotic then 09:00 zinc violates 2 h-before-mineral rule",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG046",
+      "inputs": [
+        {
+          "name": "ciprofloxacin",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "zinc",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "ciprofloxacin at 08:00 + zinc at 11:00"
+      },
+      "interaction_type": "drug_timing",
+      "must_detect": true,
+      "expected_effect": "Negative control: three hours later is consistent with ≥2 h antibiotic-before-mineral rule",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [
+        "≥2 h"
+      ],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a688016.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG047",
+      "inputs": [
+        {
+          "name": "alendronate weekly tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "other pills",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "alendronate weekly tablet + other pills after +15 min"
+      },
+      "interaction_type": "drug_timing",
+      "must_detect": true,
+      "expected_effect": "Flag other medication taken too early; check formulation",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": "https://medlineplus.gov/druginfo/meds/a601011.html",
+      "reference_status": "verified_anchor"
+    },
+    {
+      "id": "MG048",
+      "inputs": [
+        {
+          "name": "vitamin D3",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "vitamin B12",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "vitamin D3 + vitamin B12, standard oral doses"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": false,
+      "expected_effect": "No unsupported severe interaction alert; still check individual indications/doses",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [
+        "safe"
+      ],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG049",
+      "inputs": [
+        {
+          "name": "magnesium glycinate",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "vitamin D3",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "magnesium glycinate + vitamin D3"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": false,
+      "expected_effect": "Do not invent contraindication; evidence or null status clearly distinguished",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [
+        "safe"
+      ],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG050",
+      "inputs": [
+        {
+          "name": "acetaminophen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "ibuprofen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "acetaminophen + ibuprofen, standard short-term regimen"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": false,
+      "expected_effect": "Do not claim absolute contraindication; dose, age, liver/kidney and duplicate products matter",
+      "expected_action_category": "avoid_or_contraindicated",
+      "must_include_qualifiers": [],
+      "must_not_claim": [
+        "safe"
+      ],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG051",
+      "inputs": [
+        {
+          "name": "iron bisglycinate",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "ferrous sulfate",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "iron bisglycinate + ferrous sulfate"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": true,
+      "expected_effect": "Duplicate iron ingredient/exposure; do not treat as two unrelated nutrients",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG052",
+      "inputs": [
+        {
+          "name": "ibuprofen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "naproxen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "ibuprofen + naproxen"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": true,
+      "expected_effect": "Duplicate NSAID class/additive GI/renal harm; not solved by spacing",
+      "expected_action_category": "separate_doses",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG053",
+      "inputs": [
+        {
+          "name": "branded Tylenol",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "generic acetaminophen",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "branded Tylenol + generic acetaminophen"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": true,
+      "expected_effect": "Duplicate active ingredient; enforce daily-total context without inventing an exact universal maximum",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG054",
+      "inputs": [
+        {
+          "name": "omega-3 fish oil",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "vitamin D3",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "omega-3 fish oil + vitamin D3"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": false,
+      "expected_effect": "Do not invent a serious interaction from unrelated supplement names",
+      "expected_action_category": "no_material_interaction_known",
+      "must_include_qualifiers": [],
+      "must_not_claim": [
+        "safe"
+      ],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG055",
+      "inputs": [
+        {
+          "name": "St. John's wort",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "unknown brand-name antidepressant",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "St. John's wort + unknown brand-name antidepressant"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": false,
+      "expected_effect": "Resolver must ask for actual active ingredient; no guessed safe clearance",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [
+        "safe"
+      ],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    },
+    {
+      "id": "MG056",
+      "inputs": [
+        {
+          "name": "calcium carbonate tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        },
+        {
+          "name": "calcium citrate tablet",
+          "ingredient": null,
+          "dose": null,
+          "dosage_form": null,
+          "route": null
+        }
+      ],
+      "context": {
+        "raw": "calcium carbonate tablet + calcium citrate tablet"
+      },
+      "interaction_type": "negative_control",
+      "must_detect": true,
+      "expected_effect": "Duplicate calcium exposure; calculate elemental calcium only when strength/form given",
+      "expected_action_category": "context_dependent",
+      "must_include_qualifiers": [],
+      "must_not_claim": [],
+      "evidence_source": null,
+      "reference_status": "review_required"
+    }
+  ]
+}

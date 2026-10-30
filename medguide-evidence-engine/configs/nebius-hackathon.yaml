@@ -1,0 +1,13 @@
+profile: nebius-hackathon
+provider: nebius-token-factory
+base_url_env: NEBIUS_BASE_URL
+api_key_env: NEBIUS_API_KEY
+model_id_env: NEBIUS_MODEL_ID
+model_id: unresolved_until_authenticated_capability_check
+timeout_seconds: 30
+max_retries: 2
+max_input_contexts: 5
+max_output_tokens: 1600
+reasoning_effort: none
+fallback: none
+

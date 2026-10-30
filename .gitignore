@@ -1,28 +1,73 @@
-# Secrets and environment
-.env
-.env.*
-!.env.example
-*.pem
-*.key
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.pytest_cache/
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
-# JS/TS
-node_modules/
-dist/
-build/
-.next/
+# testing
+/coverage
 
-# OS and editor
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
 .DS_Store
-.idea/
-.vscode/
+*.pem
 
-# Outputs
-*.log
-coverage/
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files with secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Python caches and local tooling
+**/__pycache__/
+**/.pytest_cache/
+**/.ruff_cache/
+*.py[cod]
+
+# Rebuildable ML/search indexes and large external benchmark snapshots
+*.npy
+*.pkl
+/medguide-evidence-engine/data/external/bioasq14b/*.jsonl
+/medguide-evidence-engine/data/popularity/raw/
+/medguide-evidence-engine/artifacts/external-benchmarks/bioasq14b/pilot/chunks.json
+
+# SQLite transient files (the primary databases remain versioned locally)
+*.sqlite3-shm
+*.sqlite3-wal
+
+# Local corpus databases are rebuilt from source adapters and are not published.
+*.sqlite3
+
+# Rebuildable, high-volume evaluation outputs. Keep compact summaries and reports instead.
+/medguide-evidence-engine/artifacts/external-benchmarks/**/chunks.json
+/medguide-evidence-engine/artifacts/external-benchmarks/**/per_query_rankings.jsonl
+/medguide-evidence-engine/artifacts/external-benchmarks/**/benchmark_results.json
+/medguide-evidence-engine/artifacts/retrieval-experiment/ranking_results.csv
+/medguide-evidence-engine/artifacts/retrieval-experiment/ranking_results.json
+/medguide-evidence-engine/artifacts/interactions/audit_v1/audit_results.jsonl
+/medguide-evidence-engine/artifacts/interactions/corpus_audit/rules.jsonl

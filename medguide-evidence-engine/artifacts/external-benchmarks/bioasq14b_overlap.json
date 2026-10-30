@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "created_at": "2026-10-27T22:40:57.652018+00:00",
+    "bioasq_release": "training14b",
+    "bioasq_source_filename": "training14b.json",
+    "bioasq_source_sha256": "5669afbc0bbc8f50d54850edb4aa592ecff3e38b29b09ac6684bb52990b651b7",
+    "corpus_source": "data/supplements/processed/rag_documents.json",
+    "transfer_rule": "A BioASQ relevance judgment transfers only for the original BioASQ question and exact PMID; PMID presence alone is not a universal relevance label."
+  },
+  "summary": {
+    "bioasq_question_count": 5729,
+    "bioasq_unique_gold_pmid_count": 58048,
+    "medguide_document_count": 220,
+    "overlapping_pmid_count": 0,
+    "bioasq_questions_with_overlap": 0
+  },
+  "overlapping_pmids": [],
+  "matched_questions": [],
+  "interpretation": "No overlap means BioASQ cannot directly label the current MedGuide questions or documents. BioASQ remains useful as an external retrieval benchmark and schema model."
+}

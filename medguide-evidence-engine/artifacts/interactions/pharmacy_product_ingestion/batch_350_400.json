@@ -1,0 +1,608 @@
+[
+  {
+    "position": 351,
+    "product_id": "RX-151",
+    "product_title": "APRISO (MESALAMINE) CAPSULE, EXTENDED RELEASE",
+    "set_id": "7951139c-b271-45a4-b523-34b23800917b",
+    "ingredient_ids": [
+      "ingredient:mesalamine"
+    ],
+    "status": "ingested",
+    "rules": 18,
+    "label_id": "dailymed:7951139c-b271-45a4-b523-34b23800917b:Oct 22, 2026"
+  },
+  {
+    "position": 352,
+    "product_id": "RX-152",
+    "product_title": "MYRBETRIQ (MIRABEGRON) TABLET, FILM COATED, EXTENDED RELEASE MYRBETRIQ (MIRABEGRON) GRANULE, FOR SUSPENSION, EXTENDED RELEASE",
+    "set_id": "ba9e9e15-e666-4c56-9271-2e24739cfa2d",
+    "ingredient_ids": [
+      "ingredient:mirabegron"
+    ],
+    "status": "ingested",
+    "rules": 13,
+    "label_id": "dailymed:ba9e9e15-e666-4c56-9271-2e24739cfa2d:Aug 20, 2024"
+  },
+  {
+    "position": 353,
+    "product_id": "RX-153",
+    "product_title": "GEMTESA (VIBEGRON) TABLET, FILM COATED",
+    "set_id": "25f21d25-14f8-4fda-91f6-7aa8b68aa1c8",
+    "ingredient_ids": [
+      "ingredient:vibegron"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:25f21d25-14f8-4fda-91f6-7aa8b68aa1c8:Apr 09, 2025"
+  },
+  {
+    "position": 354,
+    "product_id": "RX-154",
+    "product_title": "VESICARE (SOLIFENACIN SUCCINATE) TABLET, FILM COATED",
+    "set_id": "100678f1-313a-4e99-ae77-319c610a830f",
+    "ingredient_ids": [
+      "ingredient:solifenacin"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:100678f1-313a-4e99-ae77-319c610a830f:Dec 28, 2017"
+  },
+  {
+    "position": 355,
+    "product_id": "RX-155",
+    "product_title": "ENABLEX (DARIFENACIN) TABLET, EXTENDED RELEASE",
+    "set_id": "a293cece-e97a-4e67-be72-b187568e3b11",
+    "ingredient_ids": [
+      "ingredient:darifenacin"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:a293cece-e97a-4e67-be72-b187568e3b11:Aug 09, 2010"
+  },
+  {
+    "position": 356,
+    "product_id": "RX-156",
+    "product_title": "TOVIAZ (FESOTERODINE FUMARATE) TABLET, FILM COATED, EXTENDED RELEASE",
+    "set_id": "5be745f0-8ae7-4c3c-9962-37d6263326f1",
+    "ingredient_ids": [
+      "ingredient:fesoterodine"
+    ],
+    "status": "ingested",
+    "rules": 7,
+    "label_id": "dailymed:5be745f0-8ae7-4c3c-9962-37d6263326f1:Apr 09, 2026"
+  },
+  {
+    "position": 357,
+    "product_id": "RX-157",
+    "product_title": "DETROL (TOLTERODINE TARTRATE) TABLET, FILM COATED",
+    "set_id": "41eb00d2-64e3-4ec9-8732-4bfc81b04180",
+    "ingredient_ids": [
+      "ingredient:tolterodine"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:41eb00d2-64e3-4ec9-8732-4bfc81b04180:Feb 03, 2025"
+  },
+  {
+    "position": 358,
+    "product_id": "RX-158",
+    "product_title": "DITROPAN XL (OXYBUTYNIN CHLORIDE) TABLET, EXTENDED RELEASE",
+    "set_id": "2b0384a5-c65a-454d-9761-716af8afe5bd",
+    "ingredient_ids": [
+      "ingredient:oxybutynin-chloride"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:2b0384a5-c65a-454d-9761-716af8afe5bd:Feb 21, 2012"
+  },
+  {
+    "position": 359,
+    "product_id": "RX-159",
+    "product_title": "ESTRACE (ESTRADIOL) CREAM",
+    "set_id": "dfc41fcd-c5ba-4b25-b647-cf04d3988b3e",
+    "ingredient_ids": [
+      "ingredient:estradiol"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:dfc41fcd-c5ba-4b25-b647-cf04d3988b3e:Nov 05, 2024"
+  },
+  {
+    "position": 360,
+    "product_id": "RX-160",
+    "product_title": "PREMARIN (CONJUGATED ESTROGENS) TABLET, FILM COATED",
+    "set_id": "b32fcb1b-fee4-44b8-a91c-10dfdd3f84ea",
+    "ingredient_ids": [
+      "ingredient:conjugated-estrogens"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:b32fcb1b-fee4-44b8-a91c-10dfdd3f84ea:May 13, 2014"
+  },
+  {
+    "position": 361,
+    "product_id": "RX-161",
+    "product_title": "VAGIFEM (ESTRADIOL) INSERT",
+    "set_id": "e5ad3cf6-dd96-4e64-af21-c1eee38d0b88",
+    "ingredient_ids": [
+      "ingredient:estradiol"
+    ],
+    "status": "ingested",
+    "rules": 21,
+    "label_id": "dailymed:e5ad3cf6-dd96-4e64-af21-c1eee38d0b88:Feb 12, 2025"
+  },
+  {
+    "position": 362,
+    "product_id": "RX-162",
+    "product_title": "IMVEXXY (ESTRADIOL) INSERT",
+    "set_id": "6ce645c0-a550-4ae9-8dbd-3853ee8b7d26",
+    "ingredient_ids": [
+      "ingredient:estradiol"
+    ],
+    "status": "ingested",
+    "rules": 15,
+    "label_id": "dailymed:6ce645c0-a550-4ae9-8dbd-3853ee8b7d26:Oct 01, 2026"
+  },
+  {
+    "position": 363,
+    "product_id": "RX-163",
+    "product_title": "ESTRING (ESTRADIOL) RING",
+    "set_id": "50ee3815-7675-4bc0-a88a-ab3886aea795",
+    "ingredient_ids": [
+      "ingredient:estradiol"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:50ee3815-7675-4bc0-a88a-ab3886aea795:Sep 01, 2010"
+  },
+  {
+    "position": 364,
+    "product_id": "RX-164",
+    "product_title": "CLIMARA (ESTRADIOL) PATCH",
+    "set_id": "1e9702c4-f2d7-4ea8-b6e8-7dca31671864",
+    "ingredient_ids": [
+      "ingredient:estradiol"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:1e9702c4-f2d7-4ea8-b6e8-7dca31671864:Mar 30, 2026"
+  },
+  {
+    "position": 365,
+    "product_id": "RX-165",
+    "product_title": "VIVELLE-DOT (ESTRADIOL) PATCH, EXTENDED RELEASE",
+    "set_id": "5ccb77f9-d47b-4381-ad5c-5b92524e1c4a",
+    "ingredient_ids": [
+      "ingredient:estradiol"
+    ],
+    "status": "ingested",
+    "rules": 22,
+    "label_id": "dailymed:5ccb77f9-d47b-4381-ad5c-5b92524e1c4a:Jul 04, 2024"
+  },
+  {
+    "position": 366,
+    "product_id": "RX-166",
+    "product_title": "DOTTI (ESTRADIOL) PATCH, EXTENDED RELEASE",
+    "set_id": "75fc6d3a-49b6-47ad-b704-410692010d3a",
+    "ingredient_ids": [
+      "ingredient:estradiol"
+    ],
+    "status": "ingested",
+    "rules": 20,
+    "label_id": "dailymed:75fc6d3a-49b6-47ad-b704-410692010d3a:Aug 30, 2024"
+  },
+  {
+    "position": 367,
+    "product_id": "RX-167",
+    "product_title": "COMBIPATCH (ESTRADIOL/NORETHINDRONE ACETATE TRANSDERMAL SYSTEM) (ESTRADIOL/NORETHINDRONE ACETATE TRANSDERMAL SYSTEM) PATCH, EXTENDED RELEASE",
+    "set_id": "83198ef1-11c4-11e4-9191-0800200c9a66",
+    "ingredient_ids": [
+      "ingredient:estradiol-norethindrone-acetate-transdermal-system"
+    ],
+    "status": "ingested",
+    "rules": 9,
+    "label_id": "dailymed:83198ef1-11c4-11e4-9191-0800200c9a66:Feb 27, 2024"
+  },
+  {
+    "position": 368,
+    "product_id": "RX-168",
+    "product_title": "PROMETRIUM (PROGESTERONE) CAPSULE",
+    "set_id": "1cf237ff-c4f8-4faa-a7aa-77599c856889",
+    "ingredient_ids": [
+      "ingredient:progesterone"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:1cf237ff-c4f8-4faa-a7aa-77599c856889:Jul 27, 2026"
+  },
+  {
+    "position": 369,
+    "product_id": "RX-169",
+    "product_title": "JUNEL 21 DAY (NORETHINDRONE ACETATE AND ETHINYL ESTRADIOL) TABLET",
+    "set_id": "56e91ad4-f31b-494d-9e75-6dd4f396779c",
+    "ingredient_ids": [
+      "ingredient:norethindrone-acetate",
+      "ingredient:ethinyl-estradiol"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:56e91ad4-f31b-494d-9e75-6dd4f396779c:Dec 16, 2024"
+  },
+  {
+    "position": 370,
+    "product_id": "RX-170",
+    "product_title": "NUVARING (ETONOGESTREL AND ETHINYL ESTRADIOL) INSERT, EXTENDED RELEASE",
+    "set_id": "55eb60e3-6f4d-40a3-8ee6-e7fd2d0c7d97",
+    "ingredient_ids": [
+      "ingredient:etonogestrel",
+      "ingredient:ethinyl-estradiol"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:55eb60e3-6f4d-40a3-8ee6-e7fd2d0c7d97:Nov 21, 2025"
+  },
+  {
+    "position": 371,
+    "product_id": "RX-171",
+    "product_title": "ANNOVERA (SEGESTERONE ACETATE AND ETHINYL ESTRADIOL) RING",
+    "set_id": "eb18194f-2021-41fa-8bdf-31e0c0eb646b",
+    "ingredient_ids": [
+      "ingredient:segesterone-acetate",
+      "ingredient:ethinyl-estradiol"
+    ],
+    "status": "ingested",
+    "rules": 41,
+    "label_id": "dailymed:eb18194f-2021-41fa-8bdf-31e0c0eb646b:Sep 24, 2026"
+  },
+  {
+    "position": 372,
+    "product_id": "RX-172",
+    "product_title": "TWIRLA (LEVONORGESTREL/ETHINYL ESTRADIOL) PATCH",
+    "set_id": "bcaf8db0-1750-425d-b008-255b5e7a9cc6",
+    "ingredient_ids": [
+      "ingredient:levonorgestrel-ethinyl-estradiol"
+    ],
+    "status": "ingested",
+    "rules": 41,
+    "label_id": "dailymed:bcaf8db0-1750-425d-b008-255b5e7a9cc6:Jul 02, 2026"
+  },
+  {
+    "position": 373,
+    "product_id": "RX-173",
+    "product_title": "XULANE (NORELGESTROMIN AND ETHINYL ESTRADIOL) PATCH",
+    "set_id": "f7848550-086a-43d8-8ae5-047f4b9e4382",
+    "ingredient_ids": [
+      "ingredient:norelgestromin",
+      "ingredient:ethinyl-estradiol"
+    ],
+    "status": "ingested",
+    "rules": 9,
+    "label_id": "dailymed:f7848550-086a-43d8-8ae5-047f4b9e4382:Jun 15, 2026"
+  },
+  {
+    "position": 374,
+    "product_id": "RX-174",
+    "product_title": "ELLA (ULIPRISTAL ACETATE) TABLET",
+    "set_id": "2bf93d23-cddd-4613-9066-5b5fa090404b",
+    "ingredient_ids": [
+      "ingredient:ulipristal-acetate"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:2bf93d23-cddd-4613-9066-5b5fa090404b:Jul 24, 2026"
+  },
+  {
+    "position": 375,
+    "product_id": "RX-175",
+    "product_title": "FOSAMAX (ALENDRONATE SODIUM) TABLET",
+    "set_id": "14e931fd-2c5f-4d90-b7db-5980706f4a56",
+    "ingredient_ids": [
+      "ingredient:alendronate"
+    ],
+    "status": "ingested",
+    "rules": 12,
+    "label_id": "dailymed:14e931fd-2c5f-4d90-b7db-5980706f4a56:Mar 16, 2026"
+  },
+  {
+    "position": 376,
+    "product_id": "RX-176",
+    "product_title": "BONIVA (IBANDRONATE SODIUM) TABLET, FILM COATED",
+    "set_id": "d6d7711f-541b-47d1-b937-2c6a021eb6c3",
+    "ingredient_ids": [
+      "ingredient:ibandronate"
+    ],
+    "status": "ingested",
+    "rules": 13,
+    "label_id": "dailymed:d6d7711f-541b-47d1-b937-2c6a021eb6c3:Dec 10, 2010"
+  },
+  {
+    "position": 377,
+    "product_id": "RX-177",
+    "product_title": "ACTONEL (RISEDRONATE SODIUM) TABLET, FILM COATED",
+    "set_id": "24ed00e0-25e2-49a8-97fc-66c1b417dc0b",
+    "ingredient_ids": [
+      "ingredient:risedronate"
+    ],
+    "status": "ingested",
+    "rules": 11,
+    "label_id": "dailymed:24ed00e0-25e2-49a8-97fc-66c1b417dc0b:May 11, 2026"
+  },
+  {
+    "position": 378,
+    "product_id": "RX-178",
+    "product_title": "FORTEO (TERIPARATIDE) INJECTION, SOLUTION",
+    "set_id": "aae667c5-381f-4f92-93df-2ed6158d07b0",
+    "ingredient_ids": [
+      "ingredient:teriparatide"
+    ],
+    "status": "ingested",
+    "rules": 9,
+    "label_id": "dailymed:aae667c5-381f-4f92-93df-2ed6158d07b0:Aug 19, 2026"
+  },
+  {
+    "position": 379,
+    "product_id": "RX-179",
+    "product_title": "TYMLOS (ABALOPARATIDE) INJECTION, SOLUTION",
+    "set_id": "712143d9-e21e-4013-bb3b-3426a21060a8",
+    "ingredient_ids": [
+      "ingredient:abaloparatide"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:712143d9-e21e-4013-bb3b-3426a21060a8:Aug 17, 2026"
+  },
+  {
+    "position": 380,
+    "product_id": "RX-180",
+    "product_title": "PLAQUENIL (HYDROXYCHLOROQUINE SULFATE) TABLET",
+    "set_id": "34496b43-05a2-45fb-a769-52b12e099341",
+    "ingredient_ids": [
+      "ingredient:hydroxychloroquine"
+    ],
+    "status": "ingested",
+    "rules": 21,
+    "label_id": "dailymed:34496b43-05a2-45fb-a769-52b12e099341:May 21, 2026"
+  },
+  {
+    "position": 381,
+    "product_id": "RX-181",
+    "product_title": "RINVOQ (UPADACITINIB) TABLET, EXTENDED RELEASE RINVOQ (UPADACITINIB) SOLUTION",
+    "set_id": "2966aec7-2ef0-923c-d8ff-fe1a957bf095",
+    "ingredient_ids": [
+      "ingredient:upadacitinib"
+    ],
+    "status": "ingested",
+    "rules": 25,
+    "label_id": "dailymed:2966aec7-2ef0-923c-d8ff-fe1a957bf095:Jul 15, 2026"
+  },
+  {
+    "position": 382,
+    "product_id": "RX-182",
+    "product_title": "XELJANZ (TOFACITINIB) TABLET, FILM COATED XELJANZ XR (TOFACITINIB) TABLET, EXTENDED RELEASE XELJANZ (TOFACITINIB) SOLUTION",
+    "set_id": "68e3d6b2-7838-4d2d-a417-09d919b43e13",
+    "ingredient_ids": [
+      "ingredient:tofacitinib"
+    ],
+    "status": "ingested",
+    "rules": 11,
+    "label_id": "dailymed:68e3d6b2-7838-4d2d-a417-09d919b43e13:Oct 19, 2026"
+  },
+  {
+    "position": 383,
+    "product_id": "RX-183",
+    "product_title": "ENBREL (ETANERCEPT) SOLUTION",
+    "set_id": "74bead6e-b746-4134-817f-0c053ef9e451",
+    "ingredient_ids": [
+      "ingredient:etanercept"
+    ],
+    "status": "ingested",
+    "rules": 11,
+    "label_id": "dailymed:74bead6e-b746-4134-817f-0c053ef9e451:Jun 17, 2021"
+  },
+  {
+    "position": 384,
+    "product_id": "RX-184",
+    "product_title": "COSENTYX (SECUKINUMAB) INJECTION COSENTYX (SECUKINUMAB) INJECTION, SOLUTION, CONCENTRATE",
+    "set_id": "77c4b13e-7df3-42d4-81db-3d0cddb7f67a",
+    "ingredient_ids": [
+      "ingredient:secukinumab"
+    ],
+    "status": "ingested",
+    "rules": 11,
+    "label_id": "dailymed:77c4b13e-7df3-42d4-81db-3d0cddb7f67a:Oct 26, 2026"
+  },
+  {
+    "position": 385,
+    "product_id": "RX-185",
+    "product_title": "TALTZ (IXEKIZUMAB) INJECTION, SOLUTION",
+    "set_id": "ac96658a-d7dc-4c7c-8928-2adcdf4318b2",
+    "ingredient_ids": [
+      "ingredient:ixekizumab"
+    ],
+    "status": "ingested",
+    "rules": 7,
+    "label_id": "dailymed:ac96658a-d7dc-4c7c-8928-2adcdf4318b2:Jun 23, 2026"
+  },
+  {
+    "position": 386,
+    "product_id": "RX-186",
+    "product_title": "TREMFYA (GUSELKUMAB) INJECTION TREMFYA (GUSELKUMAB) INJECTION",
+    "set_id": "1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56",
+    "ingredient_ids": [
+      "ingredient:guselkumab"
+    ],
+    "status": "ingested",
+    "rules": 11,
+    "label_id": "dailymed:1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56:Oct 23, 2026"
+  },
+  {
+    "position": 387,
+    "product_id": "RX-187",
+    "product_title": "STELARA (USTEKINUMAB) INJECTION, SOLUTION STELARA (USTEKINUMAB) SOLUTION",
+    "set_id": "c77a9664-e3bb-4023-b400-127aa53bca2b",
+    "ingredient_ids": [
+      "ingredient:ustekinumab"
+    ],
+    "status": "ingested",
+    "rules": 9,
+    "label_id": "dailymed:c77a9664-e3bb-4023-b400-127aa53bca2b:Sep 10, 2026"
+  },
+  {
+    "position": 388,
+    "product_id": "RX-188",
+    "product_title": "BIMZELX (BIMEKIZUMAB) INJECTION, SOLUTION",
+    "set_id": "26b88358-871f-4c80-9d80-b2fb16477f81",
+    "ingredient_ids": [
+      "ingredient:bimekizumab"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:26b88358-871f-4c80-9d80-b2fb16477f81:Jun 18, 2025"
+  },
+  {
+    "position": 389,
+    "product_id": "RX-189",
+    "product_title": "RETIN-A (TRETINOIN) CREAM RETIN-A (TRETINOIN) GEL",
+    "set_id": "9556d73d-c573-4e0a-9feb-764ce2d1107b",
+    "ingredient_ids": [
+      "ingredient:tretinoin"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:9556d73d-c573-4e0a-9feb-764ce2d1107b:May 20, 2024"
+  },
+  {
+    "position": 390,
+    "product_id": "RX-190",
+    "product_title": "ALTRENO (TRETINOIN) LOTION",
+    "set_id": "1412aba5-71aa-4cce-8db4-c189bed1852c",
+    "ingredient_ids": [
+      "ingredient:tretinoin"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:1412aba5-71aa-4cce-8db4-c189bed1852c:Oct 06, 2026"
+  },
+  {
+    "position": 391,
+    "product_id": "RX-191",
+    "product_title": "WINLEVI (CLASCOTERONE) CREAM",
+    "set_id": "1673a84b-7f5c-47ab-a99c-1e3db21a6a09",
+    "ingredient_ids": [
+      "ingredient:clascoterone"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:1673a84b-7f5c-47ab-a99c-1e3db21a6a09:Jan 06, 2025"
+  },
+  {
+    "position": 392,
+    "product_id": "RX-192",
+    "product_title": "EPIDUO (ADAPALENE AND BENZOYL PEROXIDE) GEL",
+    "set_id": "67002593-3bd3-4e91-a48f-9f7483e579a0",
+    "ingredient_ids": [
+      "ingredient:adapalene",
+      "ingredient:benzoyl-peroxide"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:67002593-3bd3-4e91-a48f-9f7483e579a0:Feb 15, 2012"
+  },
+  {
+    "position": 393,
+    "product_id": "RX-193",
+    "product_title": "ONEXTON (CLINDAMYCIN PHOSPHATE AND BENZOYL PEROXIDE) GEL",
+    "set_id": "697e760a-c206-4565-8f4e-a8085e215827",
+    "ingredient_ids": [
+      "ingredient:clindamycin-phosphate",
+      "ingredient:benzoyl-peroxide"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:697e760a-c206-4565-8f4e-a8085e215827:Aug 21, 2025"
+  },
+  {
+    "position": 394,
+    "product_id": "RX-194",
+    "product_title": "FINACEA (AZELAIC ACID) GEL",
+    "set_id": "9f40cd45-58a6-4376-9220-84bfe7d7e358",
+    "ingredient_ids": [
+      "ingredient:azelaic-acid"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:9f40cd45-58a6-4376-9220-84bfe7d7e358:Jan 21, 2020"
+  },
+  {
+    "position": 395,
+    "product_id": "RX-195",
+    "product_title": "SOOLANTRA (IVERMECTIN) CREAM",
+    "set_id": "b1d5b166-ab06-4ab5-b0c6-31126238118a",
+    "ingredient_ids": [
+      "ingredient:ivermectin"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:b1d5b166-ab06-4ab5-b0c6-31126238118a:Oct 28, 2024"
+  },
+  {
+    "position": 396,
+    "product_id": "RX-196",
+    "product_title": "METROGEL (METRONIDAZOLE) GEL",
+    "set_id": "2b2a552d-ea3c-472c-bf61-f4d878cc4874",
+    "ingredient_ids": [
+      "ingredient:metronidazole"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:2b2a552d-ea3c-472c-bf61-f4d878cc4874:Feb 15, 2012"
+  },
+  {
+    "position": 397,
+    "product_id": "RX-197",
+    "product_title": "EUCRISA (CRISABOROLE) OINTMENT",
+    "set_id": "609b77de-1ca3-4783-b8f5-01a9c0f1d77d",
+    "ingredient_ids": [
+      "ingredient:crisaborole"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:609b77de-1ca3-4783-b8f5-01a9c0f1d77d:Sep 25, 2025"
+  },
+  {
+    "position": 398,
+    "product_id": "RX-198",
+    "product_title": "OPZELURA (RUXOLITINIB) CREAM",
+    "set_id": "24da5509-6631-4795-9d42-273faecd08e7",
+    "ingredient_ids": [
+      "ingredient:ruxolitinib"
+    ],
+    "status": "ingested",
+    "rules": 7,
+    "label_id": "dailymed:24da5509-6631-4795-9d42-273faecd08e7:Jul 15, 2026"
+  },
+  {
+    "position": 399,
+    "product_id": "RX-199",
+    "product_title": "ZORYVE (ROFLUMILAST) CREAM",
+    "set_id": "ec1bb0d1-f38a-4080-831a-68791d1d1fdb",
+    "ingredient_ids": [
+      "ingredient:roflumilast"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:ec1bb0d1-f38a-4080-831a-68791d1d1fdb:Aug 03, 2026"
+  },
+  {
+    "position": 400,
+    "product_id": "RX-200",
+    "product_title": "VTAMA (TAPINAROF) CREAM",
+    "set_id": "9309d20f-8cd4-4c96-93fa-7f730e83c7ab",
+    "ingredient_ids": [
+      "ingredient:tapinarof"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:9309d20f-8cd4-4c96-93fa-7f730e83c7ab:Jul 30, 2025"
+  }
+]

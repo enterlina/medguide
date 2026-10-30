@@ -1,0 +1,18 @@
+{
+  "_snapshot": {
+    "retrieved_at": "2026-10-26T17:30:00+00:00",
+    "source_updated_at": "2024-09-10T06:44:00+00:00",
+    "license": null,
+    "fetch_status": "abstract_only",
+    "source_uri": "https://pubmed.ncbi.nlm.nih.gov/39252819/"
+  },
+  "pmid": "39252819",
+  "pmcid": "PMC11381753",
+  "doi": "10.1016/j.sleepx.2024.100121",
+  "title": "Magnesium-L-threonate improves sleep quality and daytime functioning in adults with self-reported sleep problems: A randomized controlled trial.",
+  "journal": "Sleep medicine: X",
+  "publication_year": 2024,
+  "publication_types": ["Journal Article"],
+  "registry_ids": []
+}
+

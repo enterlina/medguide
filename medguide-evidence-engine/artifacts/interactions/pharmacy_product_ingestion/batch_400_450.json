@@ -1,0 +1,627 @@
+[
+  {
+    "position": 401,
+    "product_id": "RX-201",
+    "product_title": "LIDEXA CREAM",
+    "set_id": "46d6b3b8-3a9a-44c2-b807-a32f24945f4a",
+    "ingredient_ids": [],
+    "status": "needs_manual_mapping",
+    "rules": 0
+  },
+  {
+    "position": 402,
+    "product_id": "RX-202",
+    "product_title": "ELOCON (MOMETASONE FUROATE) CREAM",
+    "set_id": "0edf333a-776d-45b8-b567-acc863f8599b",
+    "ingredient_ids": [
+      "ingredient:mometasone-furoate"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:0edf333a-776d-45b8-b567-acc863f8599b:Sep 01, 2010"
+  },
+  {
+    "position": 403,
+    "product_id": "RX-203",
+    "product_title": "DESONATE (DESONIDE) GEL",
+    "set_id": "4ae18cfa-0451-466d-80cd-73f6748405b6",
+    "ingredient_ids": [
+      "ingredient:desonide"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:4ae18cfa-0451-466d-80cd-73f6748405b6:Nov 12, 2010"
+  },
+  {
+    "position": 404,
+    "product_id": "RX-204",
+    "product_title": "XALATAN (LATANOPROST) SOLUTION",
+    "set_id": "0f4881ec-2984-4853-bc25-5b14c3b79da7",
+    "ingredient_ids": [
+      "ingredient:latanoprost"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:0f4881ec-2984-4853-bc25-5b14c3b79da7:Oct 07, 2011"
+  },
+  {
+    "position": 405,
+    "product_id": "RX-205",
+    "product_title": "LUMIGAN (BIMATOPROST) SOLUTION/ DROPS",
+    "set_id": "a5e67c75-db88-4372-bb07-c8dd15c97631",
+    "ingredient_ids": [
+      "ingredient:bimatoprost"
+    ],
+    "status": "ingested",
+    "rules": 3,
+    "label_id": "dailymed:a5e67c75-db88-4372-bb07-c8dd15c97631:Jul 28, 2026"
+  },
+  {
+    "position": 406,
+    "product_id": "RX-206",
+    "product_title": "TRAVATAN Z (TRAVOPROST) SOLUTION",
+    "set_id": "db08d5f3-6713-4372-a66c-fad3018ef5c6",
+    "ingredient_ids": [
+      "ingredient:travoprost"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:db08d5f3-6713-4372-a66c-fad3018ef5c6:Sep 02, 2011"
+  },
+  {
+    "position": 407,
+    "product_id": "RX-207",
+    "product_title": "VYZULTA (LATANOPROSTENE BUNOD) SOLUTION/ DROPS",
+    "set_id": "60ce7900-a677-4fc2-88d0-1603baa9dbd4",
+    "ingredient_ids": [
+      "ingredient:latanoprostene-bunod"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:60ce7900-a677-4fc2-88d0-1603baa9dbd4:Feb 29, 2024"
+  },
+  {
+    "position": 408,
+    "product_id": "RX-208",
+    "product_title": "ROCKLATAN (NETARSUDIL AND LATANOPROST OPHTHALMIC SOLUTION, 0.02%/0.005%) SOLUTION/ DROPS",
+    "set_id": "b1d71f41-be06-4a08-94d4-e352198f09c2",
+    "ingredient_ids": [
+      "ingredient:netarsudil",
+      "ingredient:latanoprost-ophthalmic-solution",
+      "ingredient:0-02-0-005"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:b1d71f41-be06-4a08-94d4-e352198f09c2:Sep 02, 2026"
+  },
+  {
+    "position": 409,
+    "product_id": "RX-209",
+    "product_title": "RHOPRESSA (NETARSUDIL) SOLUTION/ DROPS",
+    "set_id": "7d4f0e3a-5b86-4c43-982a-813b22ae7e22",
+    "ingredient_ids": [
+      "ingredient:netarsudil"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:7d4f0e3a-5b86-4c43-982a-813b22ae7e22:Jan 23, 2026"
+  },
+  {
+    "position": 410,
+    "product_id": "RX-210",
+    "product_title": "COMBIGAN (BRIMONIDINE TARTRATE, TIMOLOL MALEATE) SOLUTION/ DROPS",
+    "set_id": "feaf1480-a4b8-4486-992a-96be3a596243",
+    "ingredient_ids": [
+      "ingredient:brimonidine",
+      "ingredient:timolol"
+    ],
+    "status": "ingested",
+    "rules": 11,
+    "label_id": "dailymed:feaf1480-a4b8-4486-992a-96be3a596243:Mar 30, 2026"
+  },
+  {
+    "position": 411,
+    "product_id": "RX-211",
+    "product_title": "COSOPT (DORZOLAMIDE HYDROCHLORIDE AND TIMOLOL MALEATE) SOLUTION",
+    "set_id": "44e3bbcd-01d4-4dba-be22-308dffecf236",
+    "ingredient_ids": [
+      "ingredient:dorzolamide",
+      "ingredient:timolol"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:44e3bbcd-01d4-4dba-be22-308dffecf236:Jan 11, 2011"
+  },
+  {
+    "position": 412,
+    "product_id": "RX-212",
+    "product_title": "RESTASIS (CYCLOSPORINE) EMULSION",
+    "set_id": "8e24af2b-bc1c-4849-94f2-6df950cdca89",
+    "ingredient_ids": [
+      "ingredient:cyclosporine"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:8e24af2b-bc1c-4849-94f2-6df950cdca89:Dec 30, 2024"
+  },
+  {
+    "position": 413,
+    "product_id": "RX-213",
+    "product_title": "XIIDRA (LIFITEGRAST) SOLUTION/ DROPS",
+    "set_id": "8589d376-ac10-4ddb-9c53-2e0c8d5675c4",
+    "ingredient_ids": [
+      "ingredient:lifitegrast"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:8589d376-ac10-4ddb-9c53-2e0c8d5675c4:Aug 20, 2025"
+  },
+  {
+    "position": 414,
+    "product_id": "RX-214",
+    "product_title": "CEQUA (CYCLOSPORINE) SOLUTION/ DROPS",
+    "set_id": "48c3d8a3-4289-4b52-9189-58b48596095c",
+    "ingredient_ids": [
+      "ingredient:cyclosporine"
+    ],
+    "status": "ingested",
+    "rules": 2,
+    "label_id": "dailymed:48c3d8a3-4289-4b52-9189-58b48596095c:Jun 26, 2026"
+  },
+  {
+    "position": 415,
+    "product_id": "RX-215",
+    "product_title": "MIEBO (PERFLUOROHEXYLOCTANE) SOLUTION",
+    "set_id": "6b283c02-7df4-4c00-951b-555cddffe77c",
+    "ingredient_ids": [
+      "ingredient:perfluorohexyloctane"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:6b283c02-7df4-4c00-951b-555cddffe77c:Mar 12, 2026"
+  },
+  {
+    "position": 416,
+    "product_id": "RX-216",
+    "product_title": "TYRVAYA (VARENICLINE) SPRAY",
+    "set_id": "014c93dc-5737-479c-a9f0-aaadac1ac298",
+    "ingredient_ids": [
+      "ingredient:varenicline"
+    ],
+    "status": "ingested",
+    "rules": 0,
+    "label_id": "dailymed:014c93dc-5737-479c-a9f0-aaadac1ac298:Oct 28, 2026"
+  },
+  {
+    "position": 417,
+    "product_id": "RX-217",
+    "product_title": "CIPRODEX (CIPROFLOXACIN AND DEXAMETHASONE) SUSPENSION",
+    "set_id": "895c2307-aeeb-49fd-ac3d-750a463fc3ef",
+    "ingredient_ids": [
+      "ingredient:ciprofloxacin",
+      "ingredient:dexamethasone"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:895c2307-aeeb-49fd-ac3d-750a463fc3ef:Oct 21, 2011"
+  },
+  {
+    "position": 418,
+    "product_id": "RX-218",
+    "product_title": "CORTISPORIN (NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND HYDROCORTISONE ACETATE) CREAM",
+    "set_id": "e86a5293-312d-4425-bf95-35e4d7149aed",
+    "ingredient_ids": [
+      "ingredient:neomycin",
+      "ingredient:polymyxin-b",
+      "ingredient:hydrocortisone-acetate"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:e86a5293-312d-4425-bf95-35e4d7149aed:Jan 11, 2011"
+  },
+  {
+    "position": 419,
+    "product_id": "RX-219",
+    "product_title": "BIKTARVY (BICTEGRAVIR SODIUM, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE FUMARATE) TABLET",
+    "set_id": "664cb8f0-1f65-441b-b0d9-ba3d798be309",
+    "ingredient_ids": [
+      "ingredient:bictegravir",
+      "ingredient:emtricitabine",
+      "ingredient:tenofovir-alafenamide"
+    ],
+    "status": "ingested",
+    "rules": 30,
+    "label_id": "dailymed:664cb8f0-1f65-441b-b0d9-ba3d798be309:Sep 14, 2026"
+  },
+  {
+    "position": 420,
+    "product_id": "RX-220",
+    "product_title": "DOVATO (DOLUTEGRAVIR SODIUM AND LAMIVUDINE) TABLET, FILM COATED",
+    "set_id": "68e45422-43ed-4cfb-9356-fae88d14a53a",
+    "ingredient_ids": [
+      "ingredient:dolutegravir",
+      "ingredient:lamivudine"
+    ],
+    "status": "ingested",
+    "rules": 34,
+    "label_id": "dailymed:68e45422-43ed-4cfb-9356-fae88d14a53a:Jan 23, 2026"
+  },
+  {
+    "position": 421,
+    "product_id": "RX-221",
+    "product_title": "DESCOVY (EMTRICITABINE AND TENOFOVIR ALAFENAMIDE) TABLET",
+    "set_id": "06f66e98-e6ee-4538-9506-6c1282cc14c1",
+    "ingredient_ids": [
+      "ingredient:emtricitabine",
+      "ingredient:tenofovir-alafenamide"
+    ],
+    "status": "ingested",
+    "rules": 32,
+    "label_id": "dailymed:06f66e98-e6ee-4538-9506-6c1282cc14c1:Jul 29, 2026"
+  },
+  {
+    "position": 422,
+    "product_id": "RX-222",
+    "product_title": "TRUVADA (EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE) TABLET, FILM COATED",
+    "set_id": "54e82b13-a037-49ed-b4b3-030b37c0ecdd",
+    "ingredient_ids": [
+      "ingredient:emtricitabine",
+      "ingredient:tenofovir-disoproxil"
+    ],
+    "status": "ingested",
+    "rules": 22,
+    "label_id": "dailymed:54e82b13-a037-49ed-b4b3-030b37c0ecdd:Jul 25, 2025"
+  },
+  {
+    "position": 423,
+    "product_id": "RX-223",
+    "product_title": "TIVICAY (DOLUTEGRAVIR SODIUM) TABLET, FILM COATED",
+    "set_id": "485bc9db-8665-9f5a-e063-6394a90a7921",
+    "ingredient_ids": [
+      "ingredient:dolutegravir"
+    ],
+    "status": "ingested",
+    "rules": 31,
+    "label_id": "dailymed:485bc9db-8665-9f5a-e063-6394a90a7921:May 25, 2026"
+  },
+  {
+    "position": 424,
+    "product_id": "RX-224",
+    "product_title": "JULUCA (DOLUTEGRAVIR SODIUM AND RILPIVIRINE HYDROCHLORIDE) TABLET, FILM COATED",
+    "set_id": "806653d1-bf35-4924-b999-ad5d21821cc1",
+    "ingredient_ids": [
+      "ingredient:dolutegravir",
+      "ingredient:rilpivirine"
+    ],
+    "status": "ingested",
+    "rules": 58,
+    "label_id": "dailymed:806653d1-bf35-4924-b999-ad5d21821cc1:Jul 31, 2026"
+  },
+  {
+    "position": 425,
+    "product_id": "RX-225",
+    "product_title": "GENVOYA (ELVITEGRAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET",
+    "set_id": "34784acf-15ed-4715-b504-eb30430518e9",
+    "ingredient_ids": [
+      "ingredient:elvitegravir",
+      "ingredient:cobicistat",
+      "ingredient:emtricitabine",
+      "ingredient:tenofovir-alafenamide"
+    ],
+    "status": "ingested",
+    "rules": 88,
+    "label_id": "dailymed:34784acf-15ed-4715-b504-eb30430518e9:Feb 05, 2025"
+  },
+  {
+    "position": 426,
+    "product_id": "RX-226",
+    "product_title": "ODEFSEY (EMTRICITABINE, RILPIVIRINE, AND TENOFOVIR ALAFENAMIDE) TABLET",
+    "set_id": "f8689541-6526-47a5-9ff5-b8fc39ef4099",
+    "ingredient_ids": [
+      "ingredient:emtricitabine",
+      "ingredient:rilpivirine",
+      "ingredient:tenofovir-alafenamide"
+    ],
+    "status": "ingested",
+    "rules": 41,
+    "label_id": "dailymed:f8689541-6526-47a5-9ff5-b8fc39ef4099:Feb 25, 2019"
+  },
+  {
+    "position": 427,
+    "product_id": "RX-227",
+    "product_title": "SYMTUZA (DARUNAVIR, COBICISTAT, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE) TABLET, FILM COATED",
+    "set_id": "85a17d00-6b7c-41ea-a6b3-5ad924820dab",
+    "ingredient_ids": [
+      "ingredient:darunavir",
+      "ingredient:cobicistat",
+      "ingredient:emtricitabine",
+      "ingredient:tenofovir-alafenamide"
+    ],
+    "status": "ingested",
+    "rules": 108,
+    "label_id": "dailymed:85a17d00-6b7c-41ea-a6b3-5ad924820dab:Apr 20, 2026"
+  },
+  {
+    "position": 428,
+    "product_id": "RX-228",
+    "product_title": "PIFELTRO (DORAVIRINE) TABLET, FILM COATED",
+    "set_id": "76ce1f00-28c0-4314-bd2c-d473fe3d0970",
+    "ingredient_ids": [
+      "ingredient:doravirine"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:76ce1f00-28c0-4314-bd2c-d473fe3d0970:Jul 13, 2026"
+  },
+  {
+    "position": 429,
+    "product_id": "RX-229",
+    "product_title": "ISENTRESS (RALTEGRAVIR) TABLET, FILM COATED",
+    "set_id": "7e659505-c902-4906-9461-1cc83e2236d2",
+    "ingredient_ids": [
+      "ingredient:raltegravir"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:7e659505-c902-4906-9461-1cc83e2236d2:Sep 17, 2026"
+  },
+  {
+    "position": 430,
+    "product_id": "RX-230",
+    "product_title": "CRESTOR (ROSUVASTATIN CALCIUM) TABLET, FILM COATED",
+    "set_id": "303f6c6c-c9ec-4a29-b2c9-2e81cc0e50f0",
+    "ingredient_ids": [
+      "ingredient:rosuvastatin"
+    ],
+    "status": "ingested",
+    "rules": 31,
+    "label_id": "dailymed:303f6c6c-c9ec-4a29-b2c9-2e81cc0e50f0:Jan 22, 2020"
+  },
+  {
+    "position": 431,
+    "product_id": "RX-231",
+    "product_title": "TIROSINT SOL (LEVOTHYROXINE SODIUM) SOLUTION",
+    "set_id": "5d378add-f13d-40f2-99dc-0f2340ab44b7",
+    "ingredient_ids": [
+      "ingredient:levothyroxine"
+    ],
+    "status": "ingested",
+    "rules": 22,
+    "label_id": "dailymed:5d378add-f13d-40f2-99dc-0f2340ab44b7:Mar 30, 2026"
+  },
+  {
+    "position": 432,
+    "product_id": "RX-232",
+    "product_title": "ARMOUR THYROID (THYROID, PORCINE) TABLET",
+    "set_id": "56b41079-60db-4256-9695-202b3a65d13d",
+    "ingredient_ids": [
+      "ingredient:thyroid",
+      "ingredient:porcine"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:56b41079-60db-4256-9695-202b3a65d13d:Sep 28, 2026"
+  },
+  {
+    "position": 433,
+    "product_id": "RX-233",
+    "product_title": "DIOVAN HCT (HYDROCHLOROTHIAZIDE, VALSARTAN) TABLET, FILM COATED",
+    "set_id": "f6a79b4e-d7b3-4849-a552-7a37017e0a7a",
+    "ingredient_ids": [
+      "ingredient:hydrochlorothiazide",
+      "ingredient:valsartan"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:f6a79b4e-d7b3-4849-a552-7a37017e0a7a:Jan 28, 2010"
+  },
+  {
+    "position": 434,
+    "product_id": "RX-234",
+    "product_title": "BENICAR HCT (OLMESARTAN MEDOXOMIL-HYDROCHLOROTHIAZIDE) TABLET, FILM COATED",
+    "set_id": "a90915ca-f9d3-4fff-8370-d5dc4cdfc521",
+    "ingredient_ids": [
+      "ingredient:olmesartan-medoxomil-hydrochlorothiazide"
+    ],
+    "status": "ingested",
+    "rules": 17,
+    "label_id": "dailymed:a90915ca-f9d3-4fff-8370-d5dc4cdfc521:Apr 02, 2026"
+  },
+  {
+    "position": 435,
+    "product_id": "RX-235",
+    "product_title": "AVAPRO (IRBESARTAN) TABLET, FILM COATED",
+    "set_id": "7885b2a8-be4e-48ab-8113-4e6ab791eb98",
+    "ingredient_ids": [
+      "ingredient:irbesartan"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:7885b2a8-be4e-48ab-8113-4e6ab791eb98:Aug 31, 2026"
+  },
+  {
+    "position": 436,
+    "product_id": "RX-236",
+    "product_title": "MICARDIS HCT (TELMISARTAN AND HYDROCHLOROTHIAZIDE) TABLET",
+    "set_id": "b078dae2-664d-4144-847a-3b9d9b557402",
+    "ingredient_ids": [
+      "ingredient:telmisartan",
+      "ingredient:hydrochlorothiazide"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:b078dae2-664d-4144-847a-3b9d9b557402:Mar 27, 2025"
+  },
+  {
+    "position": 437,
+    "product_id": "RX-237",
+    "product_title": "ENTRESTO (SACUBITRIL AND VALSARTAN) TABLET, FILM COATED ENTRESTO (SACUBITRIL AND VALSARTAN) PELLET",
+    "set_id": "000dc81d-ab91-450c-8eae-8eb74e72296f",
+    "ingredient_ids": [
+      "ingredient:sacubitril",
+      "ingredient:valsartan"
+    ],
+    "status": "ingested",
+    "rules": 12,
+    "label_id": "dailymed:000dc81d-ab91-450c-8eae-8eb74e72296f:Jul 07, 2026"
+  },
+  {
+    "position": 438,
+    "product_id": "RX-238",
+    "product_title": "LOPRESSOR (METOPROLOL TARTRATE) SOLUTION",
+    "set_id": "9f448171-9588-4a54-88b3-5d870060ce86",
+    "ingredient_ids": [
+      "ingredient:metoprolol"
+    ],
+    "status": "ingested",
+    "rules": 4,
+    "label_id": "dailymed:9f448171-9588-4a54-88b3-5d870060ce86:May 16, 2025"
+  },
+  {
+    "position": 439,
+    "product_id": "RX-239",
+    "product_title": "COREG CR (CARVEDILOL PHOSPHATE) CAPSULE, EXTENDED RELEASE",
+    "set_id": "d3625d78-6eb6-41fe-8f6f-664965c104c4",
+    "ingredient_ids": [
+      "ingredient:carvedilol-phosphate"
+    ],
+    "status": "ingested",
+    "rules": 15,
+    "label_id": "dailymed:d3625d78-6eb6-41fe-8f6f-664965c104c4:Apr 28, 2025"
+  },
+  {
+    "position": 440,
+    "product_id": "RX-240",
+    "product_title": "CARDIZEM CD (DILTIAZEM HYDROCHLORIDE) CAPSULE",
+    "set_id": "1b67a7ed-32e9-432a-962e-4a424b9f4610",
+    "ingredient_ids": [
+      "ingredient:diltiazem"
+    ],
+    "status": "ingested",
+    "rules": 1,
+    "label_id": "dailymed:1b67a7ed-32e9-432a-962e-4a424b9f4610:Mar 29, 2012"
+  },
+  {
+    "position": 441,
+    "product_id": "RX-241",
+    "product_title": "LASIX ONYU (FUROSEMIDE) INJECTION",
+    "set_id": "cb27654f-c7a1-4796-ab08-60a5fa16f5c0",
+    "ingredient_ids": [
+      "ingredient:furosemide"
+    ],
+    "status": "ingested",
+    "rules": 13,
+    "label_id": "dailymed:cb27654f-c7a1-4796-ab08-60a5fa16f5c0:Dec 02, 2025"
+  },
+  {
+    "position": 442,
+    "product_id": "RX-242",
+    "product_title": "EXFORGE HCT (AMLODIPINE VALSARTAN AND HYDROCHLOROTHIAZIDE) TABLET, FILM COATED",
+    "set_id": "18d7820d-471f-4ee2-9ec6-25d8d27c77de",
+    "ingredient_ids": [
+      "ingredient:amlodipine-valsartan",
+      "ingredient:hydrochlorothiazide"
+    ],
+    "status": "ingested",
+    "rules": 25,
+    "label_id": "dailymed:18d7820d-471f-4ee2-9ec6-25d8d27c77de:Dec 15, 2025"
+  },
+  {
+    "position": 443,
+    "product_id": "RX-243",
+    "product_title": "PRADAXA (DABIGATRAN ETEXILATE MESYLATE) CAPSULE",
+    "set_id": "ba74e3cd-b06f-4145-b284-5fd6b84ff3c9",
+    "ingredient_ids": [
+      "ingredient:dabigatran-etexilate-mesylate"
+    ],
+    "status": "ingested",
+    "rules": 14,
+    "label_id": "dailymed:ba74e3cd-b06f-4145-b284-5fd6b84ff3c9:Jun 30, 2025"
+  },
+  {
+    "position": 444,
+    "product_id": "RX-244",
+    "product_title": "PLAVIX (CLOPIDOGREL BISULFATE) TABLET, FILM COATED",
+    "set_id": "f1d77dba-9dae-4f30-b3e3-b4898993f865",
+    "ingredient_ids": [
+      "ingredient:clopidogrel-bisulfate"
+    ],
+    "status": "ingested",
+    "rules": 16,
+    "label_id": "dailymed:f1d77dba-9dae-4f30-b3e3-b4898993f865:Jan 18, 2012"
+  },
+  {
+    "position": 445,
+    "product_id": "RX-245",
+    "product_title": "EFFIENT (PRASUGREL HYDROCHLORIDE) TABLET, FILM COATED",
+    "set_id": "cb684ad9-0b72-406f-8a07-a419254ccd36",
+    "ingredient_ids": [
+      "ingredient:prasugrel"
+    ],
+    "status": "ingested",
+    "rules": 11,
+    "label_id": "dailymed:cb684ad9-0b72-406f-8a07-a419254ccd36:Mar 17, 2011"
+  },
+  {
+    "position": 446,
+    "product_id": "RX-246",
+    "product_title": "LANOXIN (DIGOXIN) INJECTION, SOLUTION",
+    "set_id": "9ec84cac-6ecc-43dc-8006-6ccc029e2707",
+    "ingredient_ids": [
+      "ingredient:digoxin"
+    ],
+    "status": "ingested",
+    "rules": 6,
+    "label_id": "dailymed:9ec84cac-6ecc-43dc-8006-6ccc029e2707:Nov 17, 2025"
+  },
+  {
+    "position": 447,
+    "product_id": "RX-247",
+    "product_title": "NITROSTAT (NITROGLYCERIN TABLET) TABLET",
+    "set_id": "5265648f-3062-48a2-a4e3-fea1207807a8",
+    "ingredient_ids": [
+      "ingredient:nitroglycerin-tablet"
+    ],
+    "status": "ingested",
+    "rules": 5,
+    "label_id": "dailymed:5265648f-3062-48a2-a4e3-fea1207807a8:Nov 17, 2025"
+  },
+  {
+    "position": 448,
+    "product_id": "RX-248",
+    "product_title": "JANUMET XR (SITAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED, EXTENDED RELEASE",
+    "set_id": "64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50",
+    "ingredient_ids": [
+      "ingredient:sitagliptin",
+      "ingredient:metformin"
+    ],
+    "status": "ingested",
+    "rules": 15,
+    "label_id": "dailymed:64beb3d2-3aeb-4cd5-ba11-dacf6c9a5b50:Aug 28, 2026"
+  },
+  {
+    "position": 449,
+    "product_id": "RX-249",
+    "product_title": "JENTADUETO (LINAGLIPTIN AND METFORMIN HYDROCHLORIDE) TABLET, FILM COATED",
+    "set_id": "f6dd9b86-0d18-95d4-2bc7-05591bfdd597",
+    "ingredient_ids": [
+      "ingredient:linagliptin",
+      "ingredient:metformin"
+    ],
+    "status": "ingested",
+    "rules": 34,
+    "label_id": "dailymed:f6dd9b86-0d18-95d4-2bc7-05591bfdd597:Aug 26, 2026"
+  },
+  {
+    "position": 450,
+    "product_id": "RX-250",
+    "product_title": "ACTOS (PIOGLITAZONE HYDROCHLORIDE) TABLET",
+    "set_id": "2a97ef74-b338-4655-a60b-923f86720179",
+    "ingredient_ids": [
+      "ingredient:pioglitazone"
+    ],
+    "status": "ingested",
+    "rules": 8,
+    "label_id": "dailymed:2a97ef74-b338-4655-a60b-923f86720179:Sep 27, 2012"
+  }
+]

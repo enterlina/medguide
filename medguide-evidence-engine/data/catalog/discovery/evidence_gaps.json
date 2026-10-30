@@ -1,0 +1,30 @@
+[
+  {
+    "entity_id": "ingredient:bacitracin-zinc",
+    "name": "Bacitracin Zinc"
+  },
+  {
+    "entity_id": "ingredient:dextromethorphan-hbr",
+    "name": "Dextromethorphan Hbr"
+  },
+  {
+    "entity_id": "ingredient:levocetirizine-dihydrochloride",
+    "name": "Levocetirizine Dihydrochloride"
+  },
+  {
+    "entity_id": "ingredient:phosphorated-carbohydrate",
+    "name": "Phosphorated Carbohydrate"
+  },
+  {
+    "entity_id": "ingredient:pramoxine",
+    "name": "Pramoxine"
+  },
+  {
+    "entity_id": "ingredient:pyrithione-zinc",
+    "name": "Pyrithione Zinc"
+  },
+  {
+    "entity_id": "ingredient:tolnaftate",
+    "name": "Tolnaftate"
+  }
+]

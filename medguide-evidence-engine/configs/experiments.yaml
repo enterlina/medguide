@@ -1,0 +1,9 @@
+experiments:
+  E0: fixed_token_chunks_plus_dense
+  E1: section_aware_chunks_plus_same_dense
+  E2: section_aware_plus_bm25_dense_rrf
+  E3: E2_plus_reranker
+hackathon_required_profiles: [offline-ci, nebius-hackathon]
+implemented_offline: [E1, E2, E3_fixture_reranker]
+post_hackathon_optional: [E0_real_e5, E3_bge, E4_router, E5_hyde, cuda-local, hosted-nvidia]
+

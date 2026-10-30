@@ -1,0 +1,1922 @@
+[
+  {
+    "pmid": "41705654",
+    "rank": 1,
+    "name": "NMN (Nicotinamide Mononucleotide)",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "NAD+ and cellular aging",
+    "query": "(\"nicotinamide mononucleotide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42877680",
+    "rank": 1,
+    "name": "NMN (Nicotinamide Mononucleotide)",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "NAD+ and cellular aging",
+    "query": "(\"nicotinamide mononucleotide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42514320",
+    "rank": 1,
+    "name": "NMN (Nicotinamide Mononucleotide)",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "NAD+ and cellular aging",
+    "query": "(\"nicotinamide mononucleotide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42877680",
+    "rank": 2,
+    "name": "NR (Nicotinamide Riboside)",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "NAD+ support",
+    "query": "(\"nicotinamide riboside\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42650830",
+    "rank": 2,
+    "name": "NR (Nicotinamide Riboside)",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "NAD+ support",
+    "query": "(\"nicotinamide riboside\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42478598",
+    "rank": 2,
+    "name": "NR (Nicotinamide Riboside)",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "NAD+ support",
+    "query": "(\"nicotinamide riboside\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42877680",
+    "rank": 3,
+    "name": "NAD+",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular energy and longevity",
+    "query": "(\"nicotinamide adenine dinucleotide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42739057",
+    "rank": 3,
+    "name": "NAD+",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular energy and longevity",
+    "query": "(\"nicotinamide adenine dinucleotide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42514320",
+    "rank": 3,
+    "name": "NAD+",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular energy and longevity",
+    "query": "(\"nicotinamide adenine dinucleotide\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42455181",
+    "rank": 4,
+    "name": "Spermidine",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Autophagy and healthy aging",
+    "query": "(\"spermidine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42346071",
+    "rank": 4,
+    "name": "Spermidine",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Autophagy and healthy aging",
+    "query": "(\"spermidine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42169618",
+    "rank": 4,
+    "name": "Spermidine",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Autophagy and healthy aging",
+    "query": "(\"spermidine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42563439",
+    "rank": 5,
+    "name": "Urolithin A",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Mitochondria and muscle",
+    "query": "(\"urolithin A\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42853569",
+    "rank": 5,
+    "name": "Urolithin A",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Mitochondria and muscle",
+    "query": "(\"urolithin A\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42371155",
+    "rank": 5,
+    "name": "Urolithin A",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Mitochondria and muscle",
+    "query": "(\"urolithin A\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40819772",
+    "rank": 6,
+    "name": "Ca-AKG (Calcium Alpha-Ketoglutarate)",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Metabolism and longevity",
+    "query": "(\"calcium alpha-ketoglutarate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42218768",
+    "rank": 7,
+    "name": "Fisetin",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular aging",
+    "query": "(\"fisetin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41683255",
+    "rank": 7,
+    "name": "Fisetin",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular aging",
+    "query": "(\"fisetin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40464183",
+    "rank": 7,
+    "name": "Fisetin",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular aging",
+    "query": "(\"fisetin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42384483",
+    "rank": 8,
+    "name": "Quercetin",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Antioxidant and senolytic hypotheses",
+    "query": "(\"quercetin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42725681",
+    "rank": 8,
+    "name": "Quercetin",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Antioxidant and senolytic hypotheses",
+    "query": "(\"quercetin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42827146",
+    "rank": 8,
+    "name": "Quercetin",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Antioxidant and senolytic hypotheses",
+    "query": "(\"quercetin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42725681",
+    "rank": 9,
+    "name": "Resveratrol",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular aging",
+    "query": "(\"resveratrol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42508715",
+    "rank": 9,
+    "name": "Resveratrol",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular aging",
+    "query": "(\"resveratrol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42475944",
+    "rank": 9,
+    "name": "Resveratrol",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Cellular aging",
+    "query": "(\"resveratrol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42112616",
+    "rank": 10,
+    "name": "Taurine",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Metabolism and cellular health",
+    "query": "(\"taurine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41275513",
+    "rank": 10,
+    "name": "Taurine",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Metabolism and cellular health",
+    "query": "(\"taurine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42514394",
+    "rank": 10,
+    "name": "Taurine",
+    "category": "Longevity & Anti-Aging",
+    "promoted_for": "Metabolism and cellular health",
+    "query": "(\"taurine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41562932",
+    "rank": 11,
+    "name": "Lion's Mane Mushroom",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and neuroplasticity",
+    "query": "(\"Hericium erinaceus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40289452",
+    "rank": 11,
+    "name": "Lion's Mane Mushroom",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and neuroplasticity",
+    "query": "(\"Hericium erinaceus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "38140277",
+    "rank": 11,
+    "name": "Lion's Mane Mushroom",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and neuroplasticity",
+    "query": "(\"Hericium erinaceus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42829807",
+    "rank": 12,
+    "name": "L-Theanine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Calm and concentration",
+    "query": "(\"L-theanine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42410082",
+    "rank": 12,
+    "name": "L-Theanine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Calm and concentration",
+    "query": "(\"L-theanine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42552237",
+    "rank": 12,
+    "name": "L-Theanine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Calm and concentration",
+    "query": "(\"L-theanine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42679920",
+    "rank": 13,
+    "name": "Citicoline (CDP-Choline)",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cognitive function",
+    "query": "(\"citicoline\"[Title/Abstract] OR \"CDP-choline\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42561742",
+    "rank": 13,
+    "name": "Citicoline (CDP-Choline)",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cognitive function",
+    "query": "(\"citicoline\"[Title/Abstract] OR \"CDP-choline\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42552237",
+    "rank": 13,
+    "name": "Citicoline (CDP-Choline)",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cognitive function",
+    "query": "(\"citicoline\"[Title/Abstract] OR \"CDP-choline\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42899920",
+    "rank": 14,
+    "name": "Alpha-GPC",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and concentration",
+    "query": "(\"alpha-glycerophosphocholine\"[Title/Abstract] OR \"alpha-GPC\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "37340479",
+    "rank": 14,
+    "name": "Alpha-GPC",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and concentration",
+    "query": "(\"alpha-glycerophosphocholine\"[Title/Abstract] OR \"alpha-GPC\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36840817",
+    "rank": 14,
+    "name": "Alpha-GPC",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and concentration",
+    "query": "(\"alpha-glycerophosphocholine\"[Title/Abstract] OR \"alpha-GPC\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42102930",
+    "rank": 15,
+    "name": "Bacopa Monnieri",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and learning",
+    "query": "(\"Bacopa monnieri\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41678913",
+    "rank": 15,
+    "name": "Bacopa Monnieri",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and learning",
+    "query": "(\"Bacopa monnieri\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41091332",
+    "rank": 15,
+    "name": "Bacopa Monnieri",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Memory and learning",
+    "query": "(\"Bacopa monnieri\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42879451",
+    "rank": 16,
+    "name": "Rhodiola Rosea",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Stress and fatigue",
+    "query": "(\"Rhodiola rosea\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42829807",
+    "rank": 16,
+    "name": "Rhodiola Rosea",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Stress and fatigue",
+    "query": "(\"Rhodiola rosea\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42821324",
+    "rank": 16,
+    "name": "Rhodiola Rosea",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Stress and fatigue",
+    "query": "(\"Rhodiola rosea\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42538853",
+    "rank": 17,
+    "name": "Phosphatidylserine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cognitive health",
+    "query": "(\"phosphatidylserine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42312814",
+    "rank": 17,
+    "name": "Phosphatidylserine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cognitive health",
+    "query": "(\"phosphatidylserine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "33539192",
+    "rank": 17,
+    "name": "Phosphatidylserine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cognitive health",
+    "query": "(\"phosphatidylserine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41879202",
+    "rank": 18,
+    "name": "Acetyl-L-Carnitine (ALCAR)",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cellular energy and brain",
+    "query": "(\"acetyl-L-carnitine\"[Title/Abstract] OR \"ALCAR\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41692009",
+    "rank": 18,
+    "name": "Acetyl-L-Carnitine (ALCAR)",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cellular energy and brain",
+    "query": "(\"acetyl-L-carnitine\"[Title/Abstract] OR \"ALCAR\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41026176",
+    "rank": 18,
+    "name": "Acetyl-L-Carnitine (ALCAR)",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Cellular energy and brain",
+    "query": "(\"acetyl-L-carnitine\"[Title/Abstract] OR \"ALCAR\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42356406",
+    "rank": 19,
+    "name": "L-Tyrosine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Concentration under stress",
+    "query": "(\"L-tyrosine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41818465",
+    "rank": 19,
+    "name": "L-Tyrosine",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Concentration under stress",
+    "query": "(\"L-tyrosine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42858054",
+    "rank": 20,
+    "name": "Saffron Extract",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Mood and emotional health",
+    "query": "(\"saffron extract\"[Title/Abstract] OR \"Crocus sativus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42895808",
+    "rank": 20,
+    "name": "Saffron Extract",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Mood and emotional health",
+    "query": "(\"saffron extract\"[Title/Abstract] OR \"Crocus sativus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41693488",
+    "rank": 20,
+    "name": "Saffron Extract",
+    "category": "Brain Health & Nootropics",
+    "promoted_for": "Mood and emotional health",
+    "query": "(\"saffron extract\"[Title/Abstract] OR \"Crocus sativus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42283837",
+    "rank": 21,
+    "name": "Magnesium Glycinate",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and relaxation",
+    "query": "(\"magnesium glycinate\"[Title/Abstract] OR \"magnesium bisglycinate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "38608850",
+    "rank": 21,
+    "name": "Magnesium Glycinate",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and relaxation",
+    "query": "(\"magnesium glycinate\"[Title/Abstract] OR \"magnesium bisglycinate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36640582",
+    "rank": 21,
+    "name": "Magnesium Glycinate",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and relaxation",
+    "query": "(\"magnesium glycinate\"[Title/Abstract] OR \"magnesium bisglycinate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42829807",
+    "rank": 22,
+    "name": "Magnesium L-Threonate",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and cognition",
+    "query": "(\"magnesium L-threonate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36703238",
+    "rank": 22,
+    "name": "Magnesium L-Threonate",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and cognition",
+    "query": "(\"magnesium L-threonate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36558392",
+    "rank": 22,
+    "name": "Magnesium L-Threonate",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and cognition",
+    "query": "(\"magnesium L-threonate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42105298",
+    "rank": 23,
+    "name": "Ashwagandha (KSM-66)",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Stress and cortisol",
+    "query": "(\"ashwagandha\"[Title/Abstract] OR \"Withania somnifera\"[Title/Abstract] OR \"KSM-66\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42829807",
+    "rank": 23,
+    "name": "Ashwagandha (KSM-66)",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Stress and cortisol",
+    "query": "(\"ashwagandha\"[Title/Abstract] OR \"Withania somnifera\"[Title/Abstract] OR \"KSM-66\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42641800",
+    "rank": 23,
+    "name": "Ashwagandha (KSM-66)",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Stress and cortisol",
+    "query": "(\"ashwagandha\"[Title/Abstract] OR \"Withania somnifera\"[Title/Abstract] OR \"KSM-66\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42739045",
+    "rank": 26,
+    "name": "GABA",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Relaxation",
+    "query": "(\"gamma-aminobutyric acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40345658",
+    "rank": 26,
+    "name": "GABA",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Relaxation",
+    "query": "(\"gamma-aminobutyric acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "37495019",
+    "rank": 26,
+    "name": "GABA",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Relaxation",
+    "query": "(\"gamma-aminobutyric acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41317165",
+    "rank": 27,
+    "name": "Lemon Balm Extract",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Stress and sleep",
+    "query": "(\"lemon balm\"[Title/Abstract] OR \"Melissa officinalis\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41350450",
+    "rank": 27,
+    "name": "Lemon Balm Extract",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Stress and sleep",
+    "query": "(\"lemon balm\"[Title/Abstract] OR \"Melissa officinalis\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41101745",
+    "rank": 27,
+    "name": "Lemon Balm Extract",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Stress and sleep",
+    "query": "(\"lemon balm\"[Title/Abstract] OR \"Melissa officinalis\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42797032",
+    "rank": 28,
+    "name": "Tart Cherry Extract",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and recovery",
+    "query": "(\"tart cherry\"[Title/Abstract] OR \"Prunus cerasus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42242852",
+    "rank": 28,
+    "name": "Tart Cherry Extract",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and recovery",
+    "query": "(\"tart cherry\"[Title/Abstract] OR \"Prunus cerasus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42197097",
+    "rank": 28,
+    "name": "Tart Cherry Extract",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep and recovery",
+    "query": "(\"tart cherry\"[Title/Abstract] OR \"Prunus cerasus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42242341",
+    "rank": 29,
+    "name": "Inositol",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Mood and metabolism",
+    "query": "(\"inositol supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42517336",
+    "rank": 29,
+    "name": "Inositol",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Mood and metabolism",
+    "query": "(\"inositol supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41947399",
+    "rank": 29,
+    "name": "Inositol",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Mood and metabolism",
+    "query": "(\"inositol supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42623795",
+    "rank": 30,
+    "name": "Melatonin",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep timing",
+    "query": "(\"melatonin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42574897",
+    "rank": 30,
+    "name": "Melatonin",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep timing",
+    "query": "(\"melatonin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42532281",
+    "rank": 30,
+    "name": "Melatonin",
+    "category": "Sleep, Stress & Mood",
+    "promoted_for": "Sleep timing",
+    "query": "(\"melatonin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42343233",
+    "rank": 31,
+    "name": "Akkermansia muciniphila",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Microbiome and metabolism",
+    "query": "(\"Akkermansia muciniphila\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42625391",
+    "rank": 31,
+    "name": "Akkermansia muciniphila",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Microbiome and metabolism",
+    "query": "(\"Akkermansia muciniphila\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42851568",
+    "rank": 31,
+    "name": "Akkermansia muciniphila",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Microbiome and metabolism",
+    "query": "(\"Akkermansia muciniphila\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42364424",
+    "rank": 32,
+    "name": "Clostridium butyricum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut microbiome",
+    "query": "(\"Clostridium butyricum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41895129",
+    "rank": 32,
+    "name": "Clostridium butyricum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut microbiome",
+    "query": "(\"Clostridium butyricum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41722754",
+    "rank": 32,
+    "name": "Clostridium butyricum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut microbiome",
+    "query": "(\"Clostridium butyricum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42080229",
+    "rank": 33,
+    "name": "Lactobacillus reuteri",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut health",
+    "query": "(\"Lactobacillus reuteri\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42485904",
+    "rank": 33,
+    "name": "Lactobacillus reuteri",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut health",
+    "query": "(\"Lactobacillus reuteri\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42738967",
+    "rank": 33,
+    "name": "Lactobacillus reuteri",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut health",
+    "query": "(\"Lactobacillus reuteri\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42689867",
+    "rank": 34,
+    "name": "Bifidobacterium longum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Digestion and gut-brain axis",
+    "query": "(\"Bifidobacterium longum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42046285",
+    "rank": 34,
+    "name": "Bifidobacterium longum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Digestion and gut-brain axis",
+    "query": "(\"Bifidobacterium longum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42628338",
+    "rank": 34,
+    "name": "Bifidobacterium longum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Digestion and gut-brain axis",
+    "query": "(\"Bifidobacterium longum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42080229",
+    "rank": 35,
+    "name": "Saccharomyces boulardii",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Diarrhea and digestion",
+    "query": "(\"Saccharomyces boulardii\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42608299",
+    "rank": 35,
+    "name": "Saccharomyces boulardii",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Diarrhea and digestion",
+    "query": "(\"Saccharomyces boulardii\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42470702",
+    "rank": 35,
+    "name": "Saccharomyces boulardii",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Diarrhea and digestion",
+    "query": "(\"Saccharomyces boulardii\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42409313",
+    "rank": 36,
+    "name": "Bovine Colostrum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut barrier and immunity",
+    "query": "(\"bovine colostrum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42653193",
+    "rank": 36,
+    "name": "Bovine Colostrum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut barrier and immunity",
+    "query": "(\"bovine colostrum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42249952",
+    "rank": 36,
+    "name": "Bovine Colostrum",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut barrier and immunity",
+    "query": "(\"bovine colostrum\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42343233",
+    "rank": 37,
+    "name": "Postbiotics",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Microbiome support",
+    "query": "(\"postbiotic\"[Title/Abstract] OR \"postbiotics\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42692720",
+    "rank": 37,
+    "name": "Postbiotics",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Microbiome support",
+    "query": "(\"postbiotic\"[Title/Abstract] OR \"postbiotics\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42878288",
+    "rank": 37,
+    "name": "Postbiotics",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Microbiome support",
+    "query": "(\"postbiotic\"[Title/Abstract] OR \"postbiotics\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41865792",
+    "rank": 38,
+    "name": "Butyrate / Tributyrin",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut barrier",
+    "query": "(\"butyrate supplementation\"[Title/Abstract] OR \"tributyrin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41974937",
+    "rank": 38,
+    "name": "Butyrate / Tributyrin",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut barrier",
+    "query": "(\"butyrate supplementation\"[Title/Abstract] OR \"tributyrin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40635319",
+    "rank": 38,
+    "name": "Butyrate / Tributyrin",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Gut barrier",
+    "query": "(\"butyrate supplementation\"[Title/Abstract] OR \"tributyrin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42400993",
+    "rank": 39,
+    "name": "PHGG (Partially Hydrolyzed Guar Gum)",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Fiber and digestion",
+    "query": "(\"partially hydrolyzed guar gum\"[Title/Abstract] OR \"PHGG\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41206756",
+    "rank": 39,
+    "name": "PHGG (Partially Hydrolyzed Guar Gum)",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Fiber and digestion",
+    "query": "(\"partially hydrolyzed guar gum\"[Title/Abstract] OR \"PHGG\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41483486",
+    "rank": 39,
+    "name": "PHGG (Partially Hydrolyzed Guar Gum)",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Fiber and digestion",
+    "query": "(\"partially hydrolyzed guar gum\"[Title/Abstract] OR \"PHGG\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42552504",
+    "rank": 40,
+    "name": "Psyllium Husk",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Fiber and regularity",
+    "query": "(\"psyllium husk\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42187214",
+    "rank": 40,
+    "name": "Psyllium Husk",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Fiber and regularity",
+    "query": "(\"psyllium husk\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41126340",
+    "rank": 40,
+    "name": "Psyllium Husk",
+    "category": "Gut Health & Microbiome",
+    "promoted_for": "Fiber and regularity",
+    "query": "(\"psyllium husk\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42725681",
+    "rank": 41,
+    "name": "Berberine",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Glucose and metabolism",
+    "query": "(\"berberine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42888989",
+    "rank": 41,
+    "name": "Berberine",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Glucose and metabolism",
+    "query": "(\"berberine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42104950",
+    "rank": 41,
+    "name": "Berberine",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Glucose and metabolism",
+    "query": "(\"berberine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41087029",
+    "rank": 42,
+    "name": "Dihydroberberine",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Alternative berberine form",
+    "query": "(\"dihydroberberine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36604927",
+    "rank": 42,
+    "name": "Dihydroberberine",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Alternative berberine form",
+    "query": "(\"dihydroberberine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "35010998",
+    "rank": 42,
+    "name": "Dihydroberberine",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Alternative berberine form",
+    "query": "(\"dihydroberberine\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42738972",
+    "rank": 43,
+    "name": "Chromium Picolinate",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Glucose metabolism",
+    "query": "(\"chromium picolinate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41840296",
+    "rank": 43,
+    "name": "Chromium Picolinate",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Glucose metabolism",
+    "query": "(\"chromium picolinate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41580698",
+    "rank": 43,
+    "name": "Chromium Picolinate",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Glucose metabolism",
+    "query": "(\"chromium picolinate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41917882",
+    "rank": 44,
+    "name": "Alpha-Lipoic Acid",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolic markers",
+    "query": "(\"alpha-lipoic acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41619689",
+    "rank": 44,
+    "name": "Alpha-Lipoic Acid",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolic markers",
+    "query": "(\"alpha-lipoic acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41077538",
+    "rank": 44,
+    "name": "Alpha-Lipoic Acid",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolic markers",
+    "query": "(\"alpha-lipoic acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42242341",
+    "rank": 45,
+    "name": "Myo-Inositol",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Insulin resistance and PCOS",
+    "query": "(\"myo-inositol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42517336",
+    "rank": 45,
+    "name": "Myo-Inositol",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Insulin resistance and PCOS",
+    "query": "(\"myo-inositol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42376811",
+    "rank": 45,
+    "name": "Myo-Inositol",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Insulin resistance and PCOS",
+    "query": "(\"myo-inositol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42517336",
+    "rank": 46,
+    "name": "D-Chiro-Inositol",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolic health",
+    "query": "(\"D-chiro-inositol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41947399",
+    "rank": 46,
+    "name": "D-Chiro-Inositol",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolic health",
+    "query": "(\"D-chiro-inositol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41792927",
+    "rank": 46,
+    "name": "D-Chiro-Inositol",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolic health",
+    "query": "(\"D-chiro-inositol\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42738972",
+    "rank": 47,
+    "name": "White Mulberry Leaf Extract",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Post-meal glucose",
+    "query": "(\"white mulberry leaf\"[Title/Abstract] OR \"Morus alba extract\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40419093",
+    "rank": 47,
+    "name": "White Mulberry Leaf Extract",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Post-meal glucose",
+    "query": "(\"white mulberry leaf\"[Title/Abstract] OR \"Morus alba extract\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39442826",
+    "rank": 47,
+    "name": "White Mulberry Leaf Extract",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Post-meal glucose",
+    "query": "(\"white mulberry leaf\"[Title/Abstract] OR \"Morus alba extract\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42739108",
+    "rank": 49,
+    "name": "Green Tea EGCG Extract",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolism",
+    "query": "(\"green tea extract\"[Title/Abstract] OR \"EGCG\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42613905",
+    "rank": 49,
+    "name": "Green Tea EGCG Extract",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolism",
+    "query": "(\"green tea extract\"[Title/Abstract] OR \"EGCG\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42228178",
+    "rank": 49,
+    "name": "Green Tea EGCG Extract",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Metabolism",
+    "query": "(\"green tea extract\"[Title/Abstract] OR \"EGCG\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39528010",
+    "rank": 50,
+    "name": "Glucomannan",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Satiety and fiber",
+    "query": "(\"glucomannan supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39385065",
+    "rank": 50,
+    "name": "Glucomannan",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Satiety and fiber",
+    "query": "(\"glucomannan supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36771306",
+    "rank": 50,
+    "name": "Glucomannan",
+    "category": "Metabolism & GLP-1",
+    "promoted_for": "Satiety and fiber",
+    "query": "(\"glucomannan supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42868132",
+    "rank": 51,
+    "name": "Creatine Monohydrate",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Strength and performance",
+    "query": "(\"creatine monohydrate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42730713",
+    "rank": 51,
+    "name": "Creatine Monohydrate",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Strength and performance",
+    "query": "(\"creatine monohydrate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42730704",
+    "rank": 51,
+    "name": "Creatine Monohydrate",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Strength and performance",
+    "query": "(\"creatine monohydrate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42739027",
+    "rank": 53,
+    "name": "Whey Protein Isolate",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Protein and recovery",
+    "query": "(\"whey protein isolate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41759604",
+    "rank": 53,
+    "name": "Whey Protein Isolate",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Protein and recovery",
+    "query": "(\"whey protein isolate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42085214",
+    "rank": 53,
+    "name": "Whey Protein Isolate",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Protein and recovery",
+    "query": "(\"whey protein isolate\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41863133",
+    "rank": 55,
+    "name": "Essential Amino Acids (EAA)",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Amino acid provision",
+    "query": "(\"essential amino acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42696639",
+    "rank": 55,
+    "name": "Essential Amino Acids (EAA)",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Amino acid provision",
+    "query": "(\"essential amino acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36856692",
+    "rank": 55,
+    "name": "Essential Amino Acids (EAA)",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Amino acid provision",
+    "query": "(\"essential amino acid supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42441818",
+    "rank": 56,
+    "name": "HMB",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Muscle preservation",
+    "query": "(\"beta-hydroxy-beta-methylbutyrate\"[Title/Abstract] OR \"HMB supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42084797",
+    "rank": 56,
+    "name": "HMB",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Muscle preservation",
+    "query": "(\"beta-hydroxy-beta-methylbutyrate\"[Title/Abstract] OR \"HMB supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42821324",
+    "rank": 56,
+    "name": "HMB",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Muscle preservation",
+    "query": "(\"beta-hydroxy-beta-methylbutyrate\"[Title/Abstract] OR \"HMB supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42218755",
+    "rank": 57,
+    "name": "Beta-Alanine",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "High-intensity exercise",
+    "query": "(\"beta-alanine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42413109",
+    "rank": 57,
+    "name": "Beta-Alanine",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "High-intensity exercise",
+    "query": "(\"beta-alanine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42127019",
+    "rank": 57,
+    "name": "Beta-Alanine",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "High-intensity exercise",
+    "query": "(\"beta-alanine supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42117339",
+    "rank": 58,
+    "name": "L-Citrulline",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Exercise performance",
+    "query": "(\"L-citrulline supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42142423",
+    "rank": 58,
+    "name": "L-Citrulline",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Exercise performance",
+    "query": "(\"L-citrulline supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41786156",
+    "rank": 58,
+    "name": "L-Citrulline",
+    "category": "Fitness, Muscle & Recovery",
+    "promoted_for": "Exercise performance",
+    "query": "(\"L-citrulline supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39914233",
+    "rank": 61,
+    "name": "Collagen Peptides",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin and joints",
+    "query": "(\"collagen peptides supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "37822045",
+    "rank": 61,
+    "name": "Collagen Peptides",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin and joints",
+    "query": "(\"collagen peptides supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "37551682",
+    "rank": 61,
+    "name": "Collagen Peptides",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin and joints",
+    "query": "(\"collagen peptides supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40911749",
+    "rank": 63,
+    "name": "Hyaluronic Acid (oral)",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin hydration",
+    "query": "(\"oral hyaluronic acid\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "37686801",
+    "rank": 63,
+    "name": "Hyaluronic Acid (oral)",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin hydration",
+    "query": "(\"oral hyaluronic acid\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42426781",
+    "rank": 65,
+    "name": "Astaxanthin",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin antioxidant support",
+    "query": "(\"astaxanthin supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42303733",
+    "rank": 65,
+    "name": "Astaxanthin",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin antioxidant support",
+    "query": "(\"astaxanthin supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42197030",
+    "rank": 65,
+    "name": "Astaxanthin",
+    "category": "Beauty From Within",
+    "promoted_for": "Skin antioxidant support",
+    "query": "(\"astaxanthin supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41900080",
+    "rank": 66,
+    "name": "Glutathione (oral)",
+    "category": "Beauty From Within",
+    "promoted_for": "Antioxidant and skin tone",
+    "query": "(\"oral glutathione\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41014073",
+    "rank": 66,
+    "name": "Glutathione (oral)",
+    "category": "Beauty From Within",
+    "promoted_for": "Antioxidant and skin tone",
+    "query": "(\"oral glutathione\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39444151",
+    "rank": 66,
+    "name": "Glutathione (oral)",
+    "category": "Beauty From Within",
+    "promoted_for": "Antioxidant and skin tone",
+    "query": "(\"oral glutathione\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "34150674",
+    "rank": 67,
+    "name": "Liposomal Glutathione",
+    "category": "Beauty From Within",
+    "promoted_for": "Alternative glutathione form",
+    "query": "(\"liposomal glutathione\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "33966361",
+    "rank": 67,
+    "name": "Liposomal Glutathione",
+    "category": "Beauty From Within",
+    "promoted_for": "Alternative glutathione form",
+    "query": "(\"liposomal glutathione\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42331134",
+    "rank": 68,
+    "name": "MSM",
+    "category": "Beauty From Within",
+    "promoted_for": "Joints and skin",
+    "query": "(\"methylsulfonylmethane\"[Title/Abstract] OR \"MSM supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42356396",
+    "rank": 68,
+    "name": "MSM",
+    "category": "Beauty From Within",
+    "promoted_for": "Joints and skin",
+    "query": "(\"methylsulfonylmethane\"[Title/Abstract] OR \"MSM supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40425393",
+    "rank": 68,
+    "name": "MSM",
+    "category": "Beauty From Within",
+    "promoted_for": "Joints and skin",
+    "query": "(\"methylsulfonylmethane\"[Title/Abstract] OR \"MSM supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42572223",
+    "rank": 71,
+    "name": "DIM (Diindolylmethane)",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Estrogen metabolism",
+    "query": "(\"diindolylmethane\"[Title/Abstract] OR \"DIM supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36642108",
+    "rank": 71,
+    "name": "DIM (Diindolylmethane)",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Estrogen metabolism",
+    "query": "(\"diindolylmethane\"[Title/Abstract] OR \"DIM supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36111381",
+    "rank": 71,
+    "name": "DIM (Diindolylmethane)",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Estrogen metabolism",
+    "query": "(\"diindolylmethane\"[Title/Abstract] OR \"DIM supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41428718",
+    "rank": 72,
+    "name": "Vitex Agnus-Castus",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "PMS symptoms",
+    "query": "(\"Vitex agnus-castus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "38213037",
+    "rank": 72,
+    "name": "Vitex Agnus-Castus",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "PMS symptoms",
+    "query": "(\"Vitex agnus-castus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "35916457",
+    "rank": 72,
+    "name": "Vitex Agnus-Castus",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "PMS symptoms",
+    "query": "(\"Vitex agnus-castus\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41719604",
+    "rank": 73,
+    "name": "Maca Root",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Libido and energy",
+    "query": "(\"maca\"[Title/Abstract] OR \"Lepidium meyenii\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40960048",
+    "rank": 73,
+    "name": "Maca Root",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Libido and energy",
+    "query": "(\"maca\"[Title/Abstract] OR \"Lepidium meyenii\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39985829",
+    "rank": 73,
+    "name": "Maca Root",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Libido and energy",
+    "query": "(\"maca\"[Title/Abstract] OR \"Lepidium meyenii\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42751626",
+    "rank": 74,
+    "name": "Shatavari",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Women's health",
+    "query": "(\"Asparagus racemosus\"[Title/Abstract] OR \"shatavari\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41816216",
+    "rank": 74,
+    "name": "Shatavari",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Women's health",
+    "query": "(\"Asparagus racemosus\"[Title/Abstract] OR \"shatavari\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42537691",
+    "rank": 74,
+    "name": "Shatavari",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Women's health",
+    "query": "(\"Asparagus racemosus\"[Title/Abstract] OR \"shatavari\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41500451",
+    "rank": 75,
+    "name": "D-Mannose",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Urinary tract health",
+    "query": "(\"D-mannose\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40853430",
+    "rank": 75,
+    "name": "D-Mannose",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Urinary tract health",
+    "query": "(\"D-mannose\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40906289",
+    "rank": 75,
+    "name": "D-Mannose",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Urinary tract health",
+    "query": "(\"D-mannose\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42337282",
+    "rank": 76,
+    "name": "Cranberry PACs",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Recurrent UTI prevention",
+    "query": "(\"cranberry proanthocyanidins\"[Title/Abstract] OR \"cranberry PACs\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "33757474",
+    "rank": 76,
+    "name": "Cranberry PACs",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Recurrent UTI prevention",
+    "query": "(\"cranberry proanthocyanidins\"[Title/Abstract] OR \"cranberry PACs\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40507041",
+    "rank": 77,
+    "name": "Lactoferrin",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Immunity and iron metabolism",
+    "query": "(\"lactoferrin supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39841980",
+    "rank": 77,
+    "name": "Lactoferrin",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Immunity and iron metabolism",
+    "query": "(\"lactoferrin supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "35333034",
+    "rank": 77,
+    "name": "Lactoferrin",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Immunity and iron metabolism",
+    "query": "(\"lactoferrin supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42739064",
+    "rank": 78,
+    "name": "Methylfolate (5-MTHF)",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Folate status",
+    "query": "(\"methylfolate\"[Title/Abstract] OR \"5-MTHF\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42907789",
+    "rank": 78,
+    "name": "Methylfolate (5-MTHF)",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Folate status",
+    "query": "(\"methylfolate\"[Title/Abstract] OR \"5-MTHF\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41544303",
+    "rank": 78,
+    "name": "Methylfolate (5-MTHF)",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Folate status",
+    "query": "(\"methylfolate\"[Title/Abstract] OR \"5-MTHF\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42862085",
+    "rank": 79,
+    "name": "Choline",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Pregnancy nutrition and brain",
+    "query": "(\"choline supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42797005",
+    "rank": 79,
+    "name": "Choline",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Pregnancy nutrition and brain",
+    "query": "(\"choline supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41524941",
+    "rank": 79,
+    "name": "Choline",
+    "category": "Women's Health & Hormones",
+    "promoted_for": "Pregnancy nutrition and brain",
+    "query": "(\"choline supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42068011",
+    "rank": 81,
+    "name": "NAC (N-Acetylcysteine)",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Glutathione and antioxidant defense",
+    "query": "(\"N-acetylcysteine\"[Title/Abstract] OR \"NAC supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42462928",
+    "rank": 81,
+    "name": "NAC (N-Acetylcysteine)",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Glutathione and antioxidant defense",
+    "query": "(\"N-acetylcysteine\"[Title/Abstract] OR \"NAC supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42260068",
+    "rank": 81,
+    "name": "NAC (N-Acetylcysteine)",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Glutathione and antioxidant defense",
+    "query": "(\"N-acetylcysteine\"[Title/Abstract] OR \"NAC supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42356263",
+    "rank": 82,
+    "name": "Milk Thistle (Silymarin)",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Liver health",
+    "query": "(\"milk thistle\"[Title/Abstract] OR \"silymarin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42280319",
+    "rank": 82,
+    "name": "Milk Thistle (Silymarin)",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Liver health",
+    "query": "(\"milk thistle\"[Title/Abstract] OR \"silymarin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41779386",
+    "rank": 82,
+    "name": "Milk Thistle (Silymarin)",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Liver health",
+    "query": "(\"milk thistle\"[Title/Abstract] OR \"silymarin\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42653271",
+    "rank": 83,
+    "name": "TUDCA",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Liver and bile acids",
+    "query": "(\"tauroursodeoxycholic acid\"[Title/Abstract] OR \"TUDCA\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42387427",
+    "rank": 83,
+    "name": "TUDCA",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Liver and bile acids",
+    "query": "(\"tauroursodeoxycholic acid\"[Title/Abstract] OR \"TUDCA\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41843212",
+    "rank": 83,
+    "name": "TUDCA",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Liver and bile acids",
+    "query": "(\"tauroursodeoxycholic acid\"[Title/Abstract] OR \"TUDCA\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42735469",
+    "rank": 84,
+    "name": "Black Seed Oil",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Inflammation and immunity",
+    "query": "(\"black seed oil\"[Title/Abstract] OR \"Nigella sativa\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42744850",
+    "rank": 84,
+    "name": "Black Seed Oil",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Inflammation and immunity",
+    "query": "(\"black seed oil\"[Title/Abstract] OR \"Nigella sativa\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42601227",
+    "rank": 84,
+    "name": "Black Seed Oil",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Inflammation and immunity",
+    "query": "(\"black seed oil\"[Title/Abstract] OR \"Nigella sativa\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "35011106",
+    "rank": 85,
+    "name": "Curcumin Phytosome",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Inflammation",
+    "query": "(\"curcumin phytosome\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "33861434",
+    "rank": 85,
+    "name": "Curcumin Phytosome",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Inflammation",
+    "query": "(\"curcumin phytosome\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42331134",
+    "rank": 86,
+    "name": "Boswellia Serrata",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Joints and inflammation",
+    "query": "(\"Boswellia serrata\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41896193",
+    "rank": 86,
+    "name": "Boswellia Serrata",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Joints and inflammation",
+    "query": "(\"Boswellia serrata\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42760675",
+    "rank": 86,
+    "name": "Boswellia Serrata",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Joints and inflammation",
+    "query": "(\"Boswellia serrata\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41902855",
+    "rank": 88,
+    "name": "Zinc Carnosine",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Gastric mucosa",
+    "query": "(\"zinc carnosine\"[Title/Abstract] OR \"polaprezinc\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41442424",
+    "rank": 88,
+    "name": "Zinc Carnosine",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Gastric mucosa",
+    "query": "(\"zinc carnosine\"[Title/Abstract] OR \"polaprezinc\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40663018",
+    "rank": 88,
+    "name": "Zinc Carnosine",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Gastric mucosa",
+    "query": "(\"zinc carnosine\"[Title/Abstract] OR \"polaprezinc\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39770987",
+    "rank": 89,
+    "name": "Elderberry Extract",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Immune support",
+    "query": "(\"elderberry extract\"[Title/Abstract] OR \"Sambucus nigra\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "38673938",
+    "rank": 89,
+    "name": "Elderberry Extract",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Immune support",
+    "query": "(\"elderberry extract\"[Title/Abstract] OR \"Sambucus nigra\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36079732",
+    "rank": 89,
+    "name": "Elderberry Extract",
+    "category": "Immunity, Liver & Cellular Health",
+    "promoted_for": "Immune support",
+    "query": "(\"elderberry extract\"[Title/Abstract] OR \"Sambucus nigra\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42181198",
+    "rank": 91,
+    "name": "C15:0 (Pentadecanoic Acid)",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Cellular health and longevity",
+    "query": "(\"pentadecanoic acid\"[Title/Abstract] OR \"C15:0\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40618911",
+    "rank": 91,
+    "name": "C15:0 (Pentadecanoic Acid)",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Cellular health and longevity",
+    "query": "(\"pentadecanoic acid\"[Title/Abstract] OR \"C15:0\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40436701",
+    "rank": 91,
+    "name": "C15:0 (Pentadecanoic Acid)",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Cellular health and longevity",
+    "query": "(\"pentadecanoic acid\"[Title/Abstract] OR \"C15:0\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "42500134",
+    "rank": 92,
+    "name": "PQQ (Pyrroloquinoline Quinone)",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Mitochondrial function",
+    "query": "(\"pyrroloquinoline quinone\"[Title/Abstract] OR \"PQQ\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41651893",
+    "rank": 92,
+    "name": "PQQ (Pyrroloquinoline Quinone)",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Mitochondrial function",
+    "query": "(\"pyrroloquinoline quinone\"[Title/Abstract] OR \"PQQ\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "39275279",
+    "rank": 92,
+    "name": "PQQ (Pyrroloquinoline Quinone)",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Mitochondrial function",
+    "query": "(\"pyrroloquinoline quinone\"[Title/Abstract] OR \"PQQ\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36324139",
+    "rank": 94,
+    "name": "Methylene Blue",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Mitochondria and cognition",
+    "query": "(\"methylene blue oral\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40573153",
+    "rank": 95,
+    "name": "Shilajit",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Energy and men's health",
+    "query": "(\"shilajit\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "37697053",
+    "rank": 95,
+    "name": "Shilajit",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Energy and men's health",
+    "query": "(\"shilajit\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36546868",
+    "rank": 95,
+    "name": "Shilajit",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Energy and men's health",
+    "query": "(\"shilajit\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "37697053",
+    "rank": 96,
+    "name": "Tongkat Ali",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Testosterone and libido",
+    "query": "(\"Eurycoma longifolia\"[Title/Abstract] OR \"tongkat ali\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36013514",
+    "rank": 96,
+    "name": "Tongkat Ali",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Testosterone and libido",
+    "query": "(\"Eurycoma longifolia\"[Title/Abstract] OR \"tongkat ali\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "34794202",
+    "rank": 96,
+    "name": "Tongkat Ali",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Testosterone and libido",
+    "query": "(\"Eurycoma longifolia\"[Title/Abstract] OR \"tongkat ali\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41620671",
+    "rank": 98,
+    "name": "Turkey Tail Mushroom",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Immune function",
+    "query": "(\"Trametes versicolor\"[Title/Abstract] OR \"turkey tail mushroom\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "36445793",
+    "rank": 98,
+    "name": "Turkey Tail Mushroom",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Immune function",
+    "query": "(\"Trametes versicolor\"[Title/Abstract] OR \"turkey tail mushroom\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "41596661",
+    "rank": 99,
+    "name": "Reishi Mushroom",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Stress and immunity",
+    "query": "(\"Ganoderma lucidum\"[Title/Abstract] OR \"reishi\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40592243",
+    "rank": 99,
+    "name": "Reishi Mushroom",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Stress and immunity",
+    "query": "(\"Ganoderma lucidum\"[Title/Abstract] OR \"reishi\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "40289452",
+    "rank": 99,
+    "name": "Reishi Mushroom",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Stress and immunity",
+    "query": "(\"Ganoderma lucidum\"[Title/Abstract] OR \"reishi\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  },
+  {
+    "pmid": "38501161",
+    "rank": 100,
+    "name": "Cordyceps Mushroom",
+    "category": "Emerging & Biohacking",
+    "promoted_for": "Energy and exercise",
+    "query": "(\"Cordyceps supplementation\"[Title/Abstract]) AND (humans[MeSH Terms]) AND (\"Clinical Trial\"[Publication Type] OR \"Randomized Controlled Trial\"[Publication Type] OR \"Systematic Review\"[Publication Type] OR \"Meta-Analysis\"[Publication Type]) AND (\"2021/01/01\"[Date - Publication] : \"2026/10/27\"[Date - Publication])"
+  }
+]
