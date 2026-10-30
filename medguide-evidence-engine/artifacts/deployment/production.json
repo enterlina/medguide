@@ -4,8 +4,8 @@
   "team_scope": "medguide1",
   "project": "medguide",
   "deployment_id": "dpl_HEhrwn8A6vzmbPmVH5XSnHfarurP",
-  "production_url": "https://medguide-orcin.vercel.app",
-  "evidence_lens_url": "https://medguide-orcin.vercel.app/evidence-lens",
+  "production_url": "https://medguidenxt.com",
+  "evidence_lens_url": "https://medguidenxt.com/evidence-lens",
   "public_smoke_test": {
     "root_http_status": 200,
     "evidence_lens_http_status": 200,
