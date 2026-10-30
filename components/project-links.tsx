@@ -3,7 +3,7 @@ import { ExternalLink, Globe2, PlayCircle, Trophy } from "lucide-react";
 const projectLinks = [
   {
     label: "Live demo",
-    href: "https://medguide-orcin.vercel.app/evidence-lens",
+    href: "https://medguidenxt.com/interactions",
     icon: Globe2,
   },
   {
