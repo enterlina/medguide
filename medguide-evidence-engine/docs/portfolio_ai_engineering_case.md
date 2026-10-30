@@ -3,6 +3,11 @@
 **Measured status: 2026-10-30.** This document describes a research prototype, not a clinically
 validated decision-support system.
 
+- **Live demo:** https://medguide-orcin.vercel.app/evidence-lens
+- **Devpost:** https://devpost.com/software/medguide-ai-medication-supplement-intelligence
+- **Demo video:** https://youtu.be/zyctKYUrL9U?si=583ddMtDRrbLeXQB
+- **Source code:** https://github.com/enterlina/medguide
+
 ## Executive summary
 
 MedGuide is an evidence-grounded assistant for people who want to understand how medicines,
