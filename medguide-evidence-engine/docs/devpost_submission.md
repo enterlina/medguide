@@ -2,8 +2,10 @@
 
 **Tagline:** Understand what you take, what may interact, and what the research actually says.
 
-**Live demo:** https://medguide-orcin.vercel.app/evidence-lens  
-**Source code:** https://github.com/enterlina/medguide
+- **Live demo:** https://medguide-orcin.vercel.app/evidence-lens
+- **Source code:** https://github.com/enterlina/medguide
+- **Demo video:** https://youtu.be/zyctKYUrL9U?si=583ddMtDRrbLeXQB
+- **Devpost:** https://devpost.com/software/medguide-ai-medication-supplement-intelligence
 
 ## Short description
 
