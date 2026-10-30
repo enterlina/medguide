@@ -1,20 +1,15 @@
 import { NextResponse } from "next/server";
+import { checkInteractions } from "@/lib/public-interactions";
 
 export async function POST(request: Request) {
-  const body = await request.text();
-  const base = process.env.MEDGUIDE_EVIDENCE_API_URL ?? "http://127.0.0.1:8000";
   try {
-    const response = await fetch(`${base.replace(/\/$/, "")}/api/interactions/check`, {
-      method: "POST",
-      cache: "no-store",
-      headers: { "Content-Type": "application/json" },
-      body,
-    });
-    return new Response(await response.text(), {
-      status: response.status,
-      headers: { "Content-Type": response.headers.get("content-type") ?? "application/json" },
-    });
+    const payload = await request.json() as { medications?: Array<{ name?: string }> };
+    const names = (payload.medications ?? []).map((item) => item.name?.trim() ?? "").filter(Boolean);
+    if (!names.length || names.length > 20) {
+      return NextResponse.json({ detail: "Add between 1 and 20 items" }, { status: 422 });
+    }
+    return NextResponse.json(checkInteractions(names));
   } catch {
-    return NextResponse.json({ detail: "Interaction service is unavailable" }, { status: 503 });
+    return NextResponse.json({ detail: "Invalid interaction request" }, { status: 400 });
   }
 }
