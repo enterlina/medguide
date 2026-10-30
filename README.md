@@ -6,7 +6,7 @@ It is a research prototype, not a prescribing tool or a substitute for a clinici
 
 ## Project links
 
-- **Live demo:** https://medguide-orcin.vercel.app/evidence-lens
+- **Live demo:** https://medguidenxt.com/interactions
 - **Devpost hackathon project:** https://devpost.com/software/medguide-ai-medication-supplement-intelligence
 - **Demo video:** https://youtu.be/zyctKYUrL9U?si=583ddMtDRrbLeXQB
 - **GitHub repository:** https://github.com/enterlina/medguide
