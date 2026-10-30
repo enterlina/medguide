@@ -14,7 +14,7 @@
 | Real Nebius/Nemotron runtime | done_requires_review | sanitized runtime trace; three failures retained |
 | Frozen-set manual correctness review | not_done | only fixture retrieval metrics exist |
 | GPU benchmark | not_done | no hardware execution |
-| Deployment/free judge URL | done | https://medguide-orcin.vercel.app/evidence-lens; anonymous HTTP 200 and production source-update API smoke test passed; current deployment `dpl_HEhrwn8A6vzmbPmVH5XSnHfarurP` |
+| Deployment/free judge URL | done | https://medguidenxt.com/interactions; anonymous HTTP 200 and production source-update API smoke test passed; current deployment `dpl_HEhrwn8A6vzmbPmVH5XSnHfarurP` |
 | Public licensed repository | not_done | no Git repository or publication authorization |
 | Public under-three-minute video | not_done | storyboard only |
 | Actual platform feedback | partial | authenticated runs completed and provider-specific response-field behavior documented; submission feedback text remains to write |
