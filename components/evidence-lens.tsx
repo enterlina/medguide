@@ -21,7 +21,6 @@ import {
   X,
 } from "lucide-react";
 import { FormEvent, Fragment, useEffect, useState } from "react";
-import { ProjectLinks } from "@/components/project-links";
 import {
   medicationEvidence,
   type EvidenceRecord,
@@ -627,7 +626,6 @@ export function EvidenceLens() {
                 ].map(({ icon: Icon, title, tone }) => <span key={title} className="inline-flex items-center gap-2 rounded-pill bg-white px-4 py-2.5 text-[12px] font-bold text-brand-navy shadow-sm"><Icon size={16} className={tone} />{title}</span>)}
               </div>
               <div className="mx-auto mt-7">{renderStudySearch()}</div>
-              <ProjectLinks className="mt-6" />
             </div>
           </section>
         )}
