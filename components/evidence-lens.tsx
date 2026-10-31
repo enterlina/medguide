@@ -513,7 +513,7 @@ export function EvidenceLens() {
   }
 
   function renderStudySearch(compact = false) {
-    return <form onSubmit={submit} className={compact ? "w-full" : "mx-auto w-full max-w-3xl"}>
+    return <form onSubmit={submit} className={compact ? "w-full" : "mx-auto w-full max-w-[900px]"}>
       <div className="relative">
         <label className="relative block rounded-[32px] border border-slate-200 bg-white px-6 py-3 shadow-[0_8px_28px_rgba(15,23,42,0.08)] transition focus-within:border-slate-300 focus-within:shadow-[0_10px_32px_rgba(15,23,42,0.12)]"><Search size={21} className="absolute left-6 top-1/2 -translate-y-1/2 text-slate-500" /><input value={query} onChange={(event) => { setQuery(event.target.value); if (event.target.value.trim().length < 1) setSuggestions([]); }} placeholder="Type a medication, vitamin, or supplement" maxLength={300} autoComplete="off" role="combobox" aria-autocomplete="list" aria-controls="evidence-search-suggestions" aria-expanded={suggestions.length > 0} className="h-11 w-full bg-transparent pl-9 pr-3 text-[16px] font-medium text-text-primary outline-none placeholder:font-normal placeholder:text-slate-400" /></label>
         {suggestions.length > 0 && <div id="evidence-search-suggestions" role="listbox" className="absolute left-0 right-0 z-20 mt-2 overflow-hidden rounded-[18px] border border-border bg-white p-2 text-left shadow-xl">{suggestions.map((suggestion) => <button key={suggestion} type="button" role="option" aria-selected="false" onClick={() => { setSuggestions([]); void runStudySearch(suggestion); }} className="flex w-full touch-manipulation items-center gap-3 rounded-[12px] px-4 py-3 text-left text-[13px] font-bold text-text-primary hover:bg-surface-muted"><Search size={15} className="text-text-tertiary" />{suggestion}</button>)}</div>}
@@ -613,10 +613,10 @@ export function EvidenceLens() {
         {searchingCorpus && <section className="mt-6 rounded-card bg-white p-6 text-center text-sm font-semibold text-text-secondary shadow-card"><RefreshCw size={18} className="mx-auto mb-2 animate-spin text-brand-coral" />Searching 220 PubMed publications…</section>}
 
         {!searchingCorpus && !activeQuery && !visibleCards.length && !displayedStudyGroups.length && (
-          <section className="grid min-h-[calc(100vh-170px)] place-items-center p-6 text-center">
-            <div className="w-full max-w-[900px]">
+          <section className="grid min-h-[calc(100vh-170px)] place-items-center px-4 py-10 text-center">
+            <div className="w-full max-w-[900px] -translate-y-6 sm:-translate-y-8">
               <FlaskConical size={36} className="mx-auto text-slate-300" />
-              <h2 className="mt-3 text-[22px] font-extrabold text-slate-900">Find what studies say about your medication</h2>
+              <h2 className="mt-3 text-[24px] font-extrabold text-brand-navy">Find what studies say about your medication</h2>
               <div className="mx-auto mt-5 flex max-w-[760px] flex-wrap justify-center gap-2">
                 {[
                   { icon: Search, title: "Relevant studies", tone: "text-brand-coral" },
